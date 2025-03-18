@@ -3922,6 +3922,7 @@ vieworder.cfm
 viewprofile.php
 warranty.php
 watermark.php
+waybackverify.txt
 webmaster.html
 widerrufsrecht.html
 wizard.asp
@@ -23970,7 +23971,7 @@ directjob.html
 directlink.jsp
 directories.css
 directories1.html
-directory		e.g.
+directory
 directory-rss.xml
 directory2.dbm
 directory3.dbm
@@ -24001,7 +24002,7 @@ discuss.cgi
 discuss.htm
 discussion.php
 diseno-web.html
-diseñoweb.swf
+diseoweb.swf
 disk.php
 disk_add.asp
 diskuse.php
@@ -25769,11 +25770,11 @@ goto_top.php
 gotoad.html
 gotoforum.php
 gotoframe.php
-gotoitem.php£¿
+gotoitem.php
 gotojob.html
 gotolink.asp
 gotoprofile.htm
-gotoshop.php£¿
+gotoshop.php
 gotostore.php
 gotourl.aspx
 gottingen.html

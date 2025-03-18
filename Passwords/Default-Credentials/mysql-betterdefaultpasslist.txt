@@ -10,7 +10,6 @@ root:cloudera
 root:moves
 moves:moves
 root:testpw
-root:mysql
 root:p@ck3tf3nc3
 mcUser:medocheck123
 root:mktt
@@ -19,3 +18,6 @@ dbuser:123
 asteriskuser:amp109
 asteriskuser:eLaStIx.asteriskuser.2oo7
 root:raspberry
+root:openauditrootuserpassword
+root:vagrant
+root:123qweASD#

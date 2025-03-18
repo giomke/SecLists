@@ -46,7 +46,6 @@ wp-content/plugins/7hide/
 wp-content/plugins/7uploads/
 wp-content/plugins/893-the-current-realtime-playlist/
 wp-content/plugins/9mp-url-shortener-with-hash-tag/
-wp-content/plugins/Steef/
 wp-content/plugins/a-colored-tag-cloud/
 wp-content/plugins/a-qr-code-gcapi/
 wp-content/plugins/a-qr-code/
@@ -1480,6 +1479,7 @@ wp-content/plugins/bridaluxe-storefront/
 wp-content/plugins/brinkin-banner-exchange/
 wp-content/plugins/broadcast-mu/
 wp-content/plugins/broken-link-checker/
+wp-content/plugins/broken-link-manager/
 wp-content/plugins/broken-links-plugin/
 wp-content/plugins/broken-links-remover/
 wp-content/plugins/brolly-wordpress-plugin-template/
@@ -4046,6 +4046,7 @@ wp-content/plugins/g2image/
 wp-content/plugins/g3-avatar/
 wp-content/plugins/g4b-photo-gallery/
 wp-content/plugins/g6/
+wp-content/plugins/ga-google-analytics/
 wp-content/plugins/gaboinked-chipin-sidebar-widget/
 wp-content/plugins/gadu-gadu-widget-plugin/
 wp-content/plugins/gaf-text-link/
@@ -5971,6 +5972,7 @@ wp-content/plugins/mail-chimp-archives/
 wp-content/plugins/mail-debug/
 wp-content/plugins/mail-from/
 wp-content/plugins/mail-manager/
+wp-content/plugins/mail-masta/
 wp-content/plugins/mail-me/
 wp-content/plugins/mail-on-update/
 wp-content/plugins/mail2list/
@@ -9241,6 +9243,7 @@ wp-content/plugins/siphs-email-this-plugin/
 wp-content/plugins/siphsmail/
 wp-content/plugins/sipwebphone/
 wp-content/plugins/site-buzz/
+wp-content/plugins/site-editor/
 wp-content/plugins/site-keywords/
 wp-content/plugins/site-map-generator/
 wp-content/plugins/site-statistics/
@@ -9655,6 +9658,7 @@ wp-content/plugins/stealth-publish/
 wp-content/plugins/stealth-update/
 wp-content/plugins/steam-community-gamestats-widget/
 wp-content/plugins/steam-community-widget/
+wp-content/plugins/Steef/
 wp-content/plugins/sticky-front-page-categories-and-tags/
 wp-content/plugins/sticky-manager/
 wp-content/plugins/sticky-menu/

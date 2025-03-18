@@ -1184,6 +1184,7 @@
 .seo
 .serv
 .server.php
+.server.js
 .servlet
 .settings
 .sf
@@ -1903,7 +1904,7 @@
 .gb
 .get
 .get-meta-tags
-.gif         
+.gif
 .gif.count
 .girlvandiesuburbs.co.za
 .gitihost.com
@@ -1939,7 +1940,6 @@
 .htm7
 .htm8
 .htm_
-
 .html,,
 .html-0
 .html-1
@@ -2142,7 +2142,7 @@
 .phphp
 .phppar
 .phpvreor.php
-.php��
+.php
 .pht
 .pl.html
 .planetcom.ca
