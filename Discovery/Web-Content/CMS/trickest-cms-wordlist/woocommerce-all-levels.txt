@@ -63100,6 +63100,10 @@ plugins/woocommerce/changelog/56233-update-extensions-sort-order
 woocommerce/changelog/56233-update-extensions-sort-order
 changelog/56233-update-extensions-sort-order
 56233-update-extensions-sort-order
+plugins/woocommerce/changelog/tweak-product-lookup-comp-index
+woocommerce/changelog/tweak-product-lookup-comp-index
+changelog/tweak-product-lookup-comp-index
+tweak-product-lookup-comp-index
 plugins/woocommerce/changelog/56338-update-product-gallery-sale-badge-example
 woocommerce/changelog/56338-update-product-gallery-sale-badge-example
 changelog/56338-update-product-gallery-sale-badge-example
