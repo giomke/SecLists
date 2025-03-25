@@ -2548,6 +2548,14 @@ SalesChannel/Review/Event/ReviewFormEventTest.php
 Review/Event/ReviewFormEventTest.php
 Event/ReviewFormEventTest.php
 ReviewFormEventTest.php
+tests/unit/Core/Content/Product/SalesChannel/Review/ProductReviewRouteTest.php
+unit/Core/Content/Product/SalesChannel/Review/ProductReviewRouteTest.php
+Core/Content/Product/SalesChannel/Review/ProductReviewRouteTest.php
+Content/Product/SalesChannel/Review/ProductReviewRouteTest.php
+Product/SalesChannel/Review/ProductReviewRouteTest.php
+SalesChannel/Review/ProductReviewRouteTest.php
+Review/ProductReviewRouteTest.php
+ProductReviewRouteTest.php
 tests/unit/Core/Content/Product/SalesChannel/Review/MatrixElementTest.php
 unit/Core/Content/Product/SalesChannel/Review/MatrixElementTest.php
 Core/Content/Product/SalesChannel/Review/MatrixElementTest.php
@@ -130732,6 +130740,9 @@ _unreleased/2024-12-12-ability-to-add-modal-root.md
 changelog/_unreleased/2024-05-22-navbar-for-main-navigation.md
 _unreleased/2024-05-22-navbar-for-main-navigation.md
 2024-05-22-navbar-for-main-navigation.md
+changelog/_unreleased/2025-03-20-move-review-active-check-into-store-api-routes.md
+_unreleased/2025-03-20-move-review-active-check-into-store-api-routes.md
+2025-03-20-move-review-active-check-into-store-api-routes.md
 changelog/_unreleased/2025-01-14-disabled-autoplay-to-legal-advice-on-accessibility.md
 _unreleased/2025-01-14-disabled-autoplay-to-legal-advice-on-accessibility.md
 2025-01-14-disabled-autoplay-to-legal-advice-on-accessibility.md
