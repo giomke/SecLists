@@ -3228,6 +3228,7 @@ php.ini
 UPGRADE-2.1.md
 .gitattributes
 .dockerignore
+CONFLICTS.md
 src/Sylius/Component/Taxation/phpspec.yml.dist
 Sylius/Component/Taxation/phpspec.yml.dist
 Component/Taxation/phpspec.yml.dist
@@ -68408,6 +68409,11 @@ Sylius/Behat/Page/ErrorPage.php
 Behat/Page/ErrorPage.php
 Page/ErrorPage.php
 ErrorPage.php
+src/Sylius/Behat/Page/SymfonyPageInterface.php
+Sylius/Behat/Page/SymfonyPageInterface.php
+Behat/Page/SymfonyPageInterface.php
+Page/SymfonyPageInterface.php
+SymfonyPageInterface.php
 src/Sylius/Behat/Page/Admin/ProductVariant/UpdatePageInterface.php
 Sylius/Behat/Page/Admin/ProductVariant/UpdatePageInterface.php
 Behat/Page/Admin/ProductVariant/UpdatePageInterface.php
@@ -69813,6 +69819,11 @@ Behat/Page/Shop/Page.php
 Page/Shop/Page.php
 Shop/Page.php
 Page.php
+src/Sylius/Behat/Page/SymfonyPage.php
+Sylius/Behat/Page/SymfonyPage.php
+Behat/Page/SymfonyPage.php
+Page/SymfonyPage.php
+SymfonyPage.php
 src/Sylius/Behat/Service/RememberMeAwareSecurityServiceInterface.php
 Sylius/Behat/Service/RememberMeAwareSecurityServiceInterface.php
 Behat/Service/RememberMeAwareSecurityServiceInterface.php
