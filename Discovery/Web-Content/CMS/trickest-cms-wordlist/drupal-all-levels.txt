@@ -82877,6 +82877,13 @@ tests/modules/jsonapi_test_data_type/jsonapi_test_data_type.services.yml
 modules/jsonapi_test_data_type/jsonapi_test_data_type.services.yml
 jsonapi_test_data_type/jsonapi_test_data_type.services.yml
 jsonapi_test_data_type.services.yml
+core/modules/jsonapi/tests/src/FunctionalJavascript/JsonApiPerformanceTest.php
+modules/jsonapi/tests/src/FunctionalJavascript/JsonApiPerformanceTest.php
+jsonapi/tests/src/FunctionalJavascript/JsonApiPerformanceTest.php
+tests/src/FunctionalJavascript/JsonApiPerformanceTest.php
+src/FunctionalJavascript/JsonApiPerformanceTest.php
+FunctionalJavascript/JsonApiPerformanceTest.php
+JsonApiPerformanceTest.php
 core/modules/jsonapi/tests/src/Traits/CommonCollectionFilterAccessTestPatternsTrait.php
 modules/jsonapi/tests/src/Traits/CommonCollectionFilterAccessTestPatternsTrait.php
 jsonapi/tests/src/Traits/CommonCollectionFilterAccessTestPatternsTrait.php

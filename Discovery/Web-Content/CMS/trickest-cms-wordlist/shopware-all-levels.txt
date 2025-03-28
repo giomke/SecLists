@@ -12707,6 +12707,13 @@ Checkout/Cart/Tax/TaxCalculatorTest.php
 Cart/Tax/TaxCalculatorTest.php
 Tax/TaxCalculatorTest.php
 TaxCalculatorTest.php
+tests/unit/Core/Checkout/Cart/Tax/CalculatedTaxTest.php
+unit/Core/Checkout/Cart/Tax/CalculatedTaxTest.php
+Core/Checkout/Cart/Tax/CalculatedTaxTest.php
+Checkout/Cart/Tax/CalculatedTaxTest.php
+Cart/Tax/CalculatedTaxTest.php
+Tax/CalculatedTaxTest.php
+CalculatedTaxTest.php
 tests/unit/Core/Checkout/Cart/Tax/TaxRuleCollectionTest.php
 unit/Core/Checkout/Cart/Tax/TaxRuleCollectionTest.php
 Core/Checkout/Cart/Tax/TaxRuleCollectionTest.php
@@ -130690,6 +130697,9 @@ _unreleased/2024-11-03-fix-release-date-schema-issue.md
 changelog/_unreleased/2025-02-19-marked-entity-attributes-classes-final.md
 _unreleased/2025-02-19-marked-entity-attributes-classes-final.md
 2025-02-19-marked-entity-attributes-classes-final.md
+changelog/_unreleased/2025-03-26-raise-version-in-composer-stub.md
+_unreleased/2025-03-26-raise-version-in-composer-stub.md
+2025-03-26-raise-version-in-composer-stub.md
 changelog/_unreleased/2024-11-28-improved-checkout-for-a11y.md
 _unreleased/2024-11-28-improved-checkout-for-a11y.md
 2024-11-28-improved-checkout-for-a11y.md
@@ -131002,6 +131012,9 @@ _unreleased/2024-12-19-immedietly-invalidate-critical-caches.md
 changelog/_unreleased/2025-02-28-fix-google-recaptcha-with-guest-orders.md
 _unreleased/2025-02-28-fix-google-recaptcha-with-guest-orders.md
 2025-02-28-fix-google-recaptcha-with-guest-orders.md
+changelog/_unreleased/2025-03-26-cookie-constent-keyboard-nav.md
+_unreleased/2025-03-26-cookie-constent-keyboard-nav.md
+2025-03-26-cookie-constent-keyboard-nav.md
 changelog/_unreleased/2025-02-26-fix-essential-characteristics-settings-cannot-save.md
 _unreleased/2025-02-26-fix-essential-characteristics-settings-cannot-save.md
 2025-02-26-fix-essential-characteristics-settings-cannot-save.md
@@ -131056,6 +131069,9 @@ _unreleased/2024-10-22-replace-marketing-vuex-store-with-pinia-store.md
 changelog/_unreleased/2024-12-11-remove-unneeded-uppercasing-of-php-methods.md
 _unreleased/2024-12-11-remove-unneeded-uppercasing-of-php-methods.md
 2024-12-11-remove-unneeded-uppercasing-of-php-methods.md
+changelog/_unreleased/2025-03-26-fix-correctly-reset-promotion-duplication-fields.md
+_unreleased/2025-03-26-fix-correctly-reset-promotion-duplication-fields.md
+2025-03-26-fix-correctly-reset-promotion-duplication-fields.md
 changelog/_unreleased/2024-07-04-enforce-timezone-utc-for-database-connections.md
 _unreleased/2024-07-04-enforce-timezone-utc-for-database-connections.md
 2024-07-04-enforce-timezone-utc-for-database-connections.md
@@ -131431,6 +131447,9 @@ _unreleased/2025-02-24-remove-spaceless-twig-filter.md
 changelog/_unreleased/2024-12-05-don-t-consider-user-given-limits-in-storefront.md
 _unreleased/2024-12-05-don-t-consider-user-given-limits-in-storefront.md
 2024-12-05-don-t-consider-user-given-limits-in-storefront.md
+changelog/_unreleased/2025-03-26-remove-non-existing-imports-from-admin-module-stub.md
+_unreleased/2025-03-26-remove-non-existing-imports-from-admin-module-stub.md
+2025-03-26-remove-non-existing-imports-from-admin-module-stub.md
 changelog/_unreleased/2025-02-11-restore-customer-address-from-order-for-context.md
 _unreleased/2025-02-11-restore-customer-address-from-order-for-context.md
 2025-02-11-restore-customer-address-from-order-for-context.md

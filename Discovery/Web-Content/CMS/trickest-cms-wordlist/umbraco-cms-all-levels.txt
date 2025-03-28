@@ -4738,6 +4738,11 @@ tests/Umbraco.Tests.UnitTests/Umbraco.Core/ReflectionUtilitiesTests.cs
 Umbraco.Tests.UnitTests/Umbraco.Core/ReflectionUtilitiesTests.cs
 Umbraco.Core/ReflectionUtilitiesTests.cs
 ReflectionUtilitiesTests.cs
+tests/Umbraco.Tests.UnitTests/Umbraco.Core/Scoping/LockingMechanismTests.cs
+Umbraco.Tests.UnitTests/Umbraco.Core/Scoping/LockingMechanismTests.cs
+Umbraco.Core/Scoping/LockingMechanismTests.cs
+Scoping/LockingMechanismTests.cs
+LockingMechanismTests.cs
 tests/Umbraco.Tests.UnitTests/Umbraco.Core/Scoping/EventNameExtractorTests.cs
 Umbraco.Tests.UnitTests/Umbraco.Core/Scoping/EventNameExtractorTests.cs
 Umbraco.Core/Scoping/EventNameExtractorTests.cs
@@ -5170,6 +5175,12 @@ Umbraco.Tests.UnitTests/Umbraco.Core/EmbeddedResources/LanguageXmlTests.cs
 Umbraco.Core/EmbeddedResources/LanguageXmlTests.cs
 EmbeddedResources/LanguageXmlTests.cs
 LanguageXmlTests.cs
+tests/Umbraco.Tests.UnitTests/Umbraco.Core/Persistence/Repositories/RepositoryCacheKeysTests.cs
+Umbraco.Tests.UnitTests/Umbraco.Core/Persistence/Repositories/RepositoryCacheKeysTests.cs
+Umbraco.Core/Persistence/Repositories/RepositoryCacheKeysTests.cs
+Persistence/Repositories/RepositoryCacheKeysTests.cs
+Repositories/RepositoryCacheKeysTests.cs
+RepositoryCacheKeysTests.cs
 tests/Umbraco.Tests.UnitTests/Umbraco.Core/Events/EventAggregatorTests.cs
 Umbraco.Tests.UnitTests/Umbraco.Core/Events/EventAggregatorTests.cs
 Umbraco.Core/Events/EventAggregatorTests.cs
