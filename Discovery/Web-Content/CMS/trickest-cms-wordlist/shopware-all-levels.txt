@@ -130946,6 +130946,9 @@ _unreleased/2024-11-22-a11y-date-picker-must-have-label.md
 changelog/_unreleased/2025-01-30-allow-empty-theme-config-fields.md
 _unreleased/2025-01-30-allow-empty-theme-config-fields.md
 2025-01-30-allow-empty-theme-config-fields.md
+changelog/_unreleased/2025-03-25-pin-promotions-for-admin-orders.md
+_unreleased/2025-03-25-pin-promotions-for-admin-orders.md
+2025-03-25-pin-promotions-for-admin-orders.md
 changelog/_unreleased/2025-01-22-make-product-variation-accessible-in-seo-url-templates.md
 _unreleased/2025-01-22-make-product-variation-accessible-in-seo-url-templates.md
 2025-01-22-make-product-variation-accessible-in-seo-url-templates.md
@@ -131588,6 +131591,9 @@ _unreleased/2024-11-28-a11y-display-remove-from-wishlist-on-hover.md
 changelog/_unreleased/2025-03-05-support-for-empty-filter-values-for-equals-and-equalsany-filters.md
 _unreleased/2025-03-05-support-for-empty-filter-values-for-equals-and-equalsany-filters.md
 2025-03-05-support-for-empty-filter-values-for-equals-and-equalsany-filters.md
+changelog/_unreleased/2025-03-27-add-title-to-filter-remove-button.md
+_unreleased/2025-03-27-add-title-to-filter-remove-button.md
+2025-03-27-add-title-to-filter-remove-button.md
 changelog/_unreleased/2025-02-17-api-client-confidential-flag.md
 _unreleased/2025-02-17-api-client-confidential-flag.md
 2025-02-17-api-client-confidential-flag.md
