@@ -99362,7 +99362,7 @@ index.php/search
 index.php/search-results
 index.php/search-seeds
 index.php/search/
-index.php/search/
+index.php/search/
 index.php/search?
 index.php/site-search
 index.php/site_search
@@ -136565,7 +136565,7 @@ search.py
 search.ref
 search.rl
 search/
-search/
+search/
 search/"
 search/$
 search/*
