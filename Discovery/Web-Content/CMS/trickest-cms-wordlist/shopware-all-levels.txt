@@ -130973,6 +130973,9 @@ _unreleased/2025-02-13-removed-sql_set_default_session_variables-and-enforce-mys
 changelog/_unreleased/2025-02-07-improve-reset-interface-usage-with-array-data.md
 _unreleased/2025-02-07-improve-reset-interface-usage-with-array-data.md
 2025-02-07-improve-reset-interface-usage-with-array-data.md
+changelog/_unreleased/2025-04-04-offcanvassingleton-does-not-remove-hard-coded-offcanvas-from-dom.md
+_unreleased/2025-04-04-offcanvassingleton-does-not-remove-hard-coded-offcanvas-from-dom.md
+2025-04-04-offcanvassingleton-does-not-remove-hard-coded-offcanvas-from-dom.md
 changelog/_unreleased/2025-03-05-order-internal-comment.md
 _unreleased/2025-03-05-order-internal-comment.md
 2025-03-05-order-internal-comment.md
@@ -144410,6 +144413,8 @@ delivery-process/issues-and-labels.md
 issues-and-labels.md
 delivery-process/code-review-guidelines.md
 code-review-guidelines.md
+delivery-process/documenting-a-release.md
+documenting-a-release.md
 devenv.yaml
 sonar-project.properties
 SECURITY.md
