@@ -8116,6 +8116,13 @@ Framework/App/Command/CreateAppCommandTest.php
 App/Command/CreateAppCommandTest.php
 Command/CreateAppCommandTest.php
 CreateAppCommandTest.php
+tests/unit/Core/Framework/App/Command/AppListCommandTest.php
+unit/Core/Framework/App/Command/AppListCommandTest.php
+Core/Framework/App/Command/AppListCommandTest.php
+Framework/App/Command/AppListCommandTest.php
+App/Command/AppListCommandTest.php
+Command/AppListCommandTest.php
+AppListCommandTest.php
 tests/unit/Core/Framework/App/ActiveAppsLoaderTest.php
 unit/Core/Framework/App/ActiveAppsLoaderTest.php
 Core/Framework/App/ActiveAppsLoaderTest.php
@@ -46109,6 +46116,12 @@ Framework/App/Command/ActivateAppCommand.php
 App/Command/ActivateAppCommand.php
 Command/ActivateAppCommand.php
 ActivateAppCommand.php
+src/Core/Framework/App/Command/AppListCommand.php
+Core/Framework/App/Command/AppListCommand.php
+Framework/App/Command/AppListCommand.php
+App/Command/AppListCommand.php
+Command/AppListCommand.php
+AppListCommand.php
 src/Core/Framework/App/Command/DeactivateAppCommand.php
 Core/Framework/App/Command/DeactivateAppCommand.php
 Framework/App/Command/DeactivateAppCommand.php
@@ -131030,6 +131043,9 @@ _unreleased/2024-12-04-add-technical-name-to-allow-list.md
 changelog/_unreleased/2024-11-25-changed-login-and-register-h1-into-h2.md
 _unreleased/2024-11-25-changed-login-and-register-h1-into-h2.md
 2024-11-25-changed-login-and-register-h1-into-h2.md
+changelog/_unreleased/2025-04-04-implement-app-list-command.md
+_unreleased/2025-04-04-implement-app-list-command.md
+2025-04-04-implement-app-list-command.md
 changelog/_unreleased/2025-03-17-close-search-suggests-when-focus-of-input-is-lost.md
 _unreleased/2025-03-17-close-search-suggests-when-focus-of-input-is-lost.md
 2025-03-17-close-search-suggests-when-focus-of-input-is-lost.md
@@ -131357,6 +131373,9 @@ _unreleased/2025-01-29-mark-import-export-internal.md
 changelog/_unreleased/2024-12-03-fixed-elasticsearch-filter-parsing-of-translated-fields-in-product-related-entities.md
 _unreleased/2024-12-03-fixed-elasticsearch-filter-parsing-of-translated-fields-in-product-related-entities.md
 2024-12-03-fixed-elasticsearch-filter-parsing-of-translated-fields-in-product-related-entities.md
+changelog/_unreleased/2025-02-15-prevent-imitating-when-not-possible.md
+_unreleased/2025-02-15-prevent-imitating-when-not-possible.md
+2025-02-15-prevent-imitating-when-not-possible.md
 changelog/_unreleased/2025-02-04-adjust-vat-tos-and-tax-links-to-show-modal-depending-on-the-context.md
 _unreleased/2025-02-04-adjust-vat-tos-and-tax-links-to-show-modal-depending-on-the-context.md
 2025-02-04-adjust-vat-tos-and-tax-links-to-show-modal-depending-on-the-context.md
@@ -131657,6 +131676,9 @@ _unreleased/2025-03-14-make-sw_icons-aria-hidden-by-default.md
 changelog/_unreleased/2025-01-23-get-rid-the-files-card-on-the-product-creation-page.md
 _unreleased/2025-01-23-get-rid-the-files-card-on-the-product-creation-page.md
 2025-01-23-get-rid-the-files-card-on-the-product-creation-page.md
+changelog/_unreleased/2025-04-02-fix-admin-order-shipping-cost-input-behaviour.md
+_unreleased/2025-04-02-fix-admin-order-shipping-cost-input-behaviour.md
+2025-04-02-fix-admin-order-shipping-cost-input-behaviour.md
 changelog/_unreleased/2024-08-19-add-context-to-orderstatechangecriteriaevent.md
 _unreleased/2024-08-19-add-context-to-orderstatechangecriteriaevent.md
 2024-08-19-add-context-to-orderstatechangecriteriaevent.md
