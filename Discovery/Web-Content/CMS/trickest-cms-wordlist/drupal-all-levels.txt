@@ -51357,6 +51357,13 @@ tests/src/Kernel/NodeMigrationTypePluginAlterTest.php
 src/Kernel/NodeMigrationTypePluginAlterTest.php
 Kernel/NodeMigrationTypePluginAlterTest.php
 NodeMigrationTypePluginAlterTest.php
+core/modules/migrate_drupal/tests/src/Kernel/MigrateDrupalUninstallTest.php
+modules/migrate_drupal/tests/src/Kernel/MigrateDrupalUninstallTest.php
+migrate_drupal/tests/src/Kernel/MigrateDrupalUninstallTest.php
+tests/src/Kernel/MigrateDrupalUninstallTest.php
+src/Kernel/MigrateDrupalUninstallTest.php
+Kernel/MigrateDrupalUninstallTest.php
+MigrateDrupalUninstallTest.php
 core/modules/migrate_drupal/tests/src/Unit/MigrateFieldPluginManagerTest.php
 modules/migrate_drupal/tests/src/Unit/MigrateFieldPluginManagerTest.php
 migrate_drupal/tests/src/Unit/MigrateFieldPluginManagerTest.php
