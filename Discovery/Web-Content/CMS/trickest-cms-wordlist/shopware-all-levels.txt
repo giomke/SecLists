@@ -130947,6 +130947,9 @@ _unreleased/2024-11-13-migrate-rule-conditions-config-store-to-pinia.md
 changelog/_unreleased/2025-02-20-move-progress-bar-to-meteor-component.md
 _unreleased/2025-02-20-move-progress-bar-to-meteor-component.md
 2025-02-20-move-progress-bar-to-meteor-component.md
+changelog/_unreleased/2025-04-08-sw-icon-variable-icon-name.md
+_unreleased/2025-04-08-sw-icon-variable-icon-name.md
+2025-04-08-sw-icon-variable-icon-name.md
 changelog/_unreleased/2025-02-06-upgrade-storefront-deps-and-jest.md
 _unreleased/2025-02-06-upgrade-storefront-deps-and-jest.md
 2025-02-06-upgrade-storefront-deps-and-jest.md
