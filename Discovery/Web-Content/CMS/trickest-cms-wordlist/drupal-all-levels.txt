@@ -60816,6 +60816,13 @@ tests/src/FunctionalJavascript/RegistrationWithUserFieldsTest.php
 src/FunctionalJavascript/RegistrationWithUserFieldsTest.php
 FunctionalJavascript/RegistrationWithUserFieldsTest.php
 RegistrationWithUserFieldsTest.php
+core/modules/user/tests/src/FunctionalJavascript/UserRegisterFormTest.php
+modules/user/tests/src/FunctionalJavascript/UserRegisterFormTest.php
+user/tests/src/FunctionalJavascript/UserRegisterFormTest.php
+tests/src/FunctionalJavascript/UserRegisterFormTest.php
+src/FunctionalJavascript/UserRegisterFormTest.php
+FunctionalJavascript/UserRegisterFormTest.php
+UserRegisterFormTest.php
 core/modules/user/tests/src/FunctionalJavascript/UserPasswordResetTest.php
 modules/user/tests/src/FunctionalJavascript/UserPasswordResetTest.php
 user/tests/src/FunctionalJavascript/UserPasswordResetTest.php

@@ -895,6 +895,11 @@ tests/migration/Core/BasicDataUntouchedTest.php
 migration/Core/BasicDataUntouchedTest.php
 Core/BasicDataUntouchedTest.php
 BasicDataUntouchedTest.php
+tests/migration/Core/V6_8/Migration1743256470RemoveDebitPaymentTest.php
+migration/Core/V6_8/Migration1743256470RemoveDebitPaymentTest.php
+Core/V6_8/Migration1743256470RemoveDebitPaymentTest.php
+V6_8/Migration1743256470RemoveDebitPaymentTest.php
+Migration1743256470RemoveDebitPaymentTest.php
 tests/migration/Core/IndexerQueuerTest.php
 migration/Core/IndexerQueuerTest.php
 Core/IndexerQueuerTest.php
@@ -51231,6 +51236,11 @@ TestBootstrapper.php
 src/Core/Defaults.php
 Core/Defaults.php
 Defaults.php
+src/Core/Migration/V6_8/Migration1743256470RemoveDebitPayment.php
+Core/Migration/V6_8/Migration1743256470RemoveDebitPayment.php
+Migration/V6_8/Migration1743256470RemoveDebitPayment.php
+V6_8/Migration1743256470RemoveDebitPayment.php
+Migration1743256470RemoveDebitPayment.php
 src/Core/Migration/Fixtures/MailTemplateContent.php
 Core/Migration/Fixtures/MailTemplateContent.php
 Migration/Fixtures/MailTemplateContent.php
@@ -131880,6 +131890,9 @@ _unreleased/2024-11-25-a11y-changed-link-styling-in-checkout.md
 changelog/_unreleased/2025-02-14-fix-product-stream-updater-performance-issues.md
 _unreleased/2025-02-14-fix-product-stream-updater-performance-issues.md
 2025-02-14-fix-product-stream-updater-performance-issues.md
+changelog/_unreleased/2025-03-29-remove-debit-payment-method.md
+_unreleased/2025-03-29-remove-debit-payment-method.md
+2025-03-29-remove-debit-payment-method.md
 changelog/_unreleased/2024-11-28-a11y-display-remove-from-wishlist-on-hover.md
 _unreleased/2024-11-28-a11y-display-remove-from-wishlist-on-hover.md
 2024-11-28-a11y-display-remove-from-wishlist-on-hover.md
