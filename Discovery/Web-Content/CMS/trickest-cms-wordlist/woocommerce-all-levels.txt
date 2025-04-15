@@ -64191,6 +64191,10 @@ plugins/woocommerce/changelog/56627-dev-remove-is-experimental-flag
 woocommerce/changelog/56627-dev-remove-is-experimental-flag
 changelog/56627-dev-remove-is-experimental-flag
 56627-dev-remove-is-experimental-flag
+plugins/woocommerce/changelog/57138-wooplug-3751-fatal-php-fatal-error-uncaught-error-call-to-a-member
+woocommerce/changelog/57138-wooplug-3751-fatal-php-fatal-error-uncaught-error-call-to-a-member
+changelog/57138-wooplug-3751-fatal-php-fatal-error-uncaught-error-call-to-a-member
+57138-wooplug-3751-fatal-php-fatal-error-uncaught-error-call-to-a-member
 plugins/woocommerce/changelog/add-56385
 woocommerce/changelog/add-56385
 changelog/add-56385
@@ -64219,6 +64223,10 @@ plugins/woocommerce/changelog/56613-fix-subscriptions-refresh-error-propagation
 woocommerce/changelog/56613-fix-subscriptions-refresh-error-propagation
 changelog/56613-fix-subscriptions-refresh-error-propagation
 56613-fix-subscriptions-refresh-error-propagation
+plugins/woocommerce/changelog/wooplug-3879-deprecated-function-wcadminhelperis_store_page-still-used-in
+woocommerce/changelog/wooplug-3879-deprecated-function-wcadminhelperis_store_page-still-used-in
+changelog/wooplug-3879-deprecated-function-wcadminhelperis_store_page-still-used-in
+wooplug-3879-deprecated-function-wcadminhelperis_store_page-still-used-in
 plugins/woocommerce/changelog/dev-ci-randomize-wpenv-ports
 woocommerce/changelog/dev-ci-randomize-wpenv-ports
 changelog/dev-ci-randomize-wpenv-ports
@@ -64539,6 +64547,10 @@ plugins/woocommerce/changelog/merge-blocks-library-into-woocommerce-plugin
 woocommerce/changelog/merge-blocks-library-into-woocommerce-plugin
 changelog/merge-blocks-library-into-woocommerce-plugin
 merge-blocks-library-into-woocommerce-plugin
+plugins/woocommerce/changelog/57212-wooplug-3887-deprecated
+woocommerce/changelog/57212-wooplug-3887-deprecated
+changelog/57212-wooplug-3887-deprecated
+57212-wooplug-3887-deprecated
 plugins/woocommerce/changelog/56612-update-blueprint-minor-tweaks2
 woocommerce/changelog/56612-update-blueprint-minor-tweaks2
 changelog/56612-update-blueprint-minor-tweaks2
