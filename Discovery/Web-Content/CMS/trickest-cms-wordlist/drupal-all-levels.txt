@@ -8,6 +8,9 @@ server-setup.sh
 .gitlab-ci/scripts/test-only.sh
 scripts/test-only.sh
 test-only.sh
+.gitlab-ci/scripts/.empty-phpstan-baseline.php
+scripts/.empty-phpstan-baseline.php
+.empty-phpstan-baseline.php
 index.php
 .gitlab-ci.yml
 themes/README.txt
@@ -37582,6 +37585,13 @@ KernelTests/Core/Block/MultipleBlockFormTest.php
 Core/Block/MultipleBlockFormTest.php
 Block/MultipleBlockFormTest.php
 MultipleBlockFormTest.php
+core/tests/Drupal/KernelTests/Core/Block/BlockBaseTest.php
+tests/Drupal/KernelTests/Core/Block/BlockBaseTest.php
+Drupal/KernelTests/Core/Block/BlockBaseTest.php
+KernelTests/Core/Block/BlockBaseTest.php
+Core/Block/BlockBaseTest.php
+Block/BlockBaseTest.php
+BlockBaseTest.php
 core/tests/Drupal/KernelTests/Core/PreWarm/PreWarmerTest.php
 tests/Drupal/KernelTests/Core/PreWarm/PreWarmerTest.php
 Drupal/KernelTests/Core/PreWarm/PreWarmerTest.php
