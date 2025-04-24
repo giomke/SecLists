@@ -38983,6 +38983,12 @@ Bundle/ApiBundle/Controller/RemoveCustomerShopUserAction.php
 ApiBundle/Controller/RemoveCustomerShopUserAction.php
 Controller/RemoveCustomerShopUserAction.php
 RemoveCustomerShopUserAction.php
+src/Sylius/Bundle/ApiBundle/Controller/GetTaxonBySlugAction.php
+Sylius/Bundle/ApiBundle/Controller/GetTaxonBySlugAction.php
+Bundle/ApiBundle/Controller/GetTaxonBySlugAction.php
+ApiBundle/Controller/GetTaxonBySlugAction.php
+Controller/GetTaxonBySlugAction.php
+GetTaxonBySlugAction.php
 src/Sylius/Bundle/ApiBundle/Controller/RemoveCatalogPromotionAction.php
 Sylius/Bundle/ApiBundle/Controller/RemoveCatalogPromotionAction.php
 Bundle/ApiBundle/Controller/RemoveCatalogPromotionAction.php
@@ -73516,6 +73522,12 @@ Behat/Context/Hook/TestThemeContext.php
 Context/Hook/TestThemeContext.php
 Hook/TestThemeContext.php
 TestThemeContext.php
+src/Sylius/Behat/Context/Hook/BadGatewayContext.php
+Sylius/Behat/Context/Hook/BadGatewayContext.php
+Behat/Context/Hook/BadGatewayContext.php
+Context/Hook/BadGatewayContext.php
+Hook/BadGatewayContext.php
+BadGatewayContext.php
 src/Sylius/Behat/Context/Hook/CacheContext.php
 Sylius/Behat/Context/Hook/CacheContext.php
 Behat/Context/Hook/CacheContext.php
