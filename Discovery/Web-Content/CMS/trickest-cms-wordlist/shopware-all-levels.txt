@@ -131069,6 +131069,9 @@ _unreleased/2025-01-07-unify-constraint-option-structure-and-checks.md
 changelog/_unreleased/2025-01-31-move-flow-execution-after-business-process.md
 _unreleased/2025-01-31-move-flow-execution-after-business-process.md
 2025-01-31-move-flow-execution-after-business-process.md
+changelog/_unreleased/2025-03-17-add-twig-block-around-filter-columns.md
+_unreleased/2025-03-17-add-twig-block-around-filter-columns.md
+2025-03-17-add-twig-block-around-filter-columns.md
 changelog/_unreleased/2025-04-08-fix-mobile-form-field-layouts.md
 _unreleased/2025-04-08-fix-mobile-form-field-layouts.md
 2025-04-08-fix-mobile-form-field-layouts.md
