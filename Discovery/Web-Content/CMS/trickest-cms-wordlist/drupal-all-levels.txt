@@ -85565,6 +85565,13 @@ config_test/src/Entity/ConfigQueryTest.php
 src/Entity/ConfigQueryTest.php
 Entity/ConfigQueryTest.php
 ConfigQueryTest.php
+core/modules/config/tests/config_test/src/ConfigTestPermissions.php
+modules/config/tests/config_test/src/ConfigTestPermissions.php
+config/tests/config_test/src/ConfigTestPermissions.php
+tests/config_test/src/ConfigTestPermissions.php
+config_test/src/ConfigTestPermissions.php
+src/ConfigTestPermissions.php
+ConfigTestPermissions.php
 core/modules/config/tests/config_test/src/ConfigValidation.php
 modules/config/tests/config_test/src/ConfigValidation.php
 config/tests/config_test/src/ConfigValidation.php
@@ -85680,6 +85687,12 @@ config/tests/config_test/config_test.links.task.yml
 tests/config_test/config_test.links.task.yml
 config_test/config_test.links.task.yml
 config_test.links.task.yml
+core/modules/config/tests/config_test/config_test.permissions.yml
+modules/config/tests/config_test/config_test.permissions.yml
+config/tests/config_test/config_test.permissions.yml
+tests/config_test/config_test.permissions.yml
+config_test/config_test.permissions.yml
+config_test.permissions.yml
 core/modules/config/tests/config_entity_static_cache_test/src/Hook/ConfigEntityStaticCacheTestHooks.php
 modules/config/tests/config_entity_static_cache_test/src/Hook/ConfigEntityStaticCacheTestHooks.php
 config/tests/config_entity_static_cache_test/src/Hook/ConfigEntityStaticCacheTestHooks.php

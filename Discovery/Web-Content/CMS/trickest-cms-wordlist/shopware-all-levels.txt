@@ -131096,6 +131096,9 @@ _unreleased/2025-01-07-fix-gallery-thumbnail-slider.md
 changelog/_unreleased/2025-04-17-fix-dal-inherited-to-many.md
 _unreleased/2025-04-17-fix-dal-inherited-to-many.md
 2025-04-17-fix-dal-inherited-to-many.md
+changelog/_unreleased/2025-04-03-add-missing-js-class-to-header-search.md
+_unreleased/2025-04-03-add-missing-js-class-to-header-search.md
+2025-04-03-add-missing-js-class-to-header-search.md
 changelog/_unreleased/2024-12-19-rename-transaction-transition-action-pay-and-pay-partially.md
 _unreleased/2024-12-19-rename-transaction-transition-action-pay-and-pay-partially.md
 2024-12-19-rename-transaction-transition-action-pay-and-pay-partially.md
