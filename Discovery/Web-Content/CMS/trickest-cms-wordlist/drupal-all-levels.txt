@@ -14,6 +14,9 @@ test-only.sh
 .gitlab-ci/scripts/.empty-phpstan-baseline.php
 scripts/.empty-phpstan-baseline.php
 .empty-phpstan-baseline.php
+.gitlab-ci/scripts/component-coverage-metrics.php
+scripts/component-coverage-metrics.php
+component-coverage-metrics.php
 index.php
 .gitlab-ci.yml
 themes/README.txt
@@ -37115,6 +37118,14 @@ Core/File/MimeType/LegacyMimeTypeTest.php
 File/MimeType/LegacyMimeTypeTest.php
 MimeType/LegacyMimeTypeTest.php
 LegacyMimeTypeTest.php
+core/tests/Drupal/KernelTests/Core/File/MimeType/ExtensionMimeTypeGuesserLegacyTest.php
+tests/Drupal/KernelTests/Core/File/MimeType/ExtensionMimeTypeGuesserLegacyTest.php
+Drupal/KernelTests/Core/File/MimeType/ExtensionMimeTypeGuesserLegacyTest.php
+KernelTests/Core/File/MimeType/ExtensionMimeTypeGuesserLegacyTest.php
+Core/File/MimeType/ExtensionMimeTypeGuesserLegacyTest.php
+File/MimeType/ExtensionMimeTypeGuesserLegacyTest.php
+MimeType/ExtensionMimeTypeGuesserLegacyTest.php
+ExtensionMimeTypeGuesserLegacyTest.php
 core/tests/Drupal/KernelTests/Core/File/FileSystemRequirementsTest.php
 tests/Drupal/KernelTests/Core/File/FileSystemRequirementsTest.php
 Drupal/KernelTests/Core/File/FileSystemRequirementsTest.php
@@ -46513,6 +46524,12 @@ Tests/Component/Graph/GraphTest.php
 Component/Graph/GraphTest.php
 Graph/GraphTest.php
 GraphTest.php
+core/tests/Drupal/Tests/Component/phpunit.xml.dist
+tests/Drupal/Tests/Component/phpunit.xml.dist
+Drupal/Tests/Component/phpunit.xml.dist
+Tests/Component/phpunit.xml.dist
+Component/phpunit.xml.dist
+phpunit.xml.dist
 core/tests/Drupal/Tests/Component/FileSystem/RegexDirectoryIteratorTest.php
 tests/Drupal/Tests/Component/FileSystem/RegexDirectoryIteratorTest.php
 Drupal/Tests/Component/FileSystem/RegexDirectoryIteratorTest.php

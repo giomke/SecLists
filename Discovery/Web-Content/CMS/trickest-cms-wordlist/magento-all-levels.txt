@@ -5239,6 +5239,14 @@ Filter/Test/Unit/RemoveAccentsTest.php
 Test/Unit/RemoveAccentsTest.php
 Unit/RemoveAccentsTest.php
 RemoveAccentsTest.php
+lib/internal/Magento/Framework/Filter/Test/Unit/LocalizedToNormalizedTest.php
+internal/Magento/Framework/Filter/Test/Unit/LocalizedToNormalizedTest.php
+Magento/Framework/Filter/Test/Unit/LocalizedToNormalizedTest.php
+Framework/Filter/Test/Unit/LocalizedToNormalizedTest.php
+Filter/Test/Unit/LocalizedToNormalizedTest.php
+Test/Unit/LocalizedToNormalizedTest.php
+Unit/LocalizedToNormalizedTest.php
+LocalizedToNormalizedTest.php
 lib/internal/Magento/Framework/Filter/Test/Unit/RemoveTagsTest.php
 internal/Magento/Framework/Filter/Test/Unit/RemoveTagsTest.php
 Magento/Framework/Filter/Test/Unit/RemoveTagsTest.php
