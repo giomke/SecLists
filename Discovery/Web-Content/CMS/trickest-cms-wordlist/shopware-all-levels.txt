@@ -131057,6 +131057,9 @@ _unreleased/2025-04-08-fix-seo-urls-for-landing-pages-in-footer-navigation.md
 changelog/_unreleased/2025-04-04-show-navigation-arrows-of-product-cross-selling-sliders-again.md
 _unreleased/2025-04-04-show-navigation-arrows-of-product-cross-selling-sliders-again.md
 2025-04-04-show-navigation-arrows-of-product-cross-selling-sliders-again.md
+changelog/_unreleased/2025-04-25-changed-themeconfigfield-type-property-type.md
+_unreleased/2025-04-25-changed-themeconfigfield-type-property-type.md
+2025-04-25-changed-themeconfigfield-type-property-type.md
 changelog/_unreleased/2025-04-10-add-support-for-extended-definition-of-attribute-entity.md
 _unreleased/2025-04-10-add-support-for-extended-definition-of-attribute-entity.md
 2025-04-10-add-support-for-extended-definition-of-attribute-entity.md
