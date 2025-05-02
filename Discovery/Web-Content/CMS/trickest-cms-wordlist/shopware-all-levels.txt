@@ -131083,6 +131083,9 @@ _unreleased/2025-01-31-move-flow-execution-after-business-process.md
 changelog/_unreleased/2025-03-17-add-twig-block-around-filter-columns.md
 _unreleased/2025-03-17-add-twig-block-around-filter-columns.md
 2025-03-17-add-twig-block-around-filter-columns.md
+changelog/_unreleased/2025-04-30-add-deprecated-prop-to-facilitate-the-migration-to-meteor-components.md
+_unreleased/2025-04-30-add-deprecated-prop-to-facilitate-the-migration-to-meteor-components.md
+2025-04-30-add-deprecated-prop-to-facilitate-the-migration-to-meteor-components.md
 changelog/_unreleased/2025-04-08-fix-mobile-form-field-layouts.md
 _unreleased/2025-04-08-fix-mobile-form-field-layouts.md
 2025-04-08-fix-mobile-form-field-layouts.md
@@ -131155,6 +131158,9 @@ _unreleased/2025-04-16-remove-deletethemefilesmessage.md
 changelog/_unreleased/2025-04-11-fix-calls-to-update-store.md
 _unreleased/2025-04-11-fix-calls-to-update-store.md
 2025-04-11-fix-calls-to-update-store.md
+changelog/_unreleased/2025-04-24-allow-small-size-of-sw-simple-search-field.md
+_unreleased/2025-04-24-allow-small-size-of-sw-simple-search-field.md
+2025-04-24-allow-small-size-of-sw-simple-search-field.md
 changelog/_unreleased/2025-04-07-fix-nested-line-items.md
 _unreleased/2025-04-07-fix-nested-line-items.md
 2025-04-07-fix-nested-line-items.md
