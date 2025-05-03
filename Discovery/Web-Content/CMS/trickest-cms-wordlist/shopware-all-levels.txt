@@ -131188,9 +131188,15 @@ _unreleased/2024-09-27-add-an-option-for-generating-documents-via-bulk-edit.md
 changelog/_unreleased/2024-01-31-improve-cart-page-performance.md
 _unreleased/2024-01-31-improve-cart-page-performance.md
 2024-01-31-improve-cart-page-performance.md
+changelog/_unreleased/2025-04-29-deprecated-carts-alerts.md
+_unreleased/2025-04-29-deprecated-carts-alerts.md
+2025-04-29-deprecated-carts-alerts.md
 changelog/_unreleased/2022-04-05-keep-track-of-changes-on-rule-builder-detail-page.md
 _unreleased/2022-04-05-keep-track-of-changes-on-rule-builder-detail-page.md
 2022-04-05-keep-track-of-changes-on-rule-builder-detail-page.md
+changelog/_unreleased/2025-04-30-allowfullscreen-video-element.md
+_unreleased/2025-04-30-allowfullscreen-video-element.md
+2025-04-30-allowfullscreen-video-element.md
 changelog/_unreleased/2025-03-25-fix-show-product-name-for-variants-in-admin-category-products.md
 _unreleased/2025-03-25-fix-show-product-name-for-variants-in-admin-category-products.md
 2025-03-25-fix-show-product-name-for-variants-in-admin-category-products.md
