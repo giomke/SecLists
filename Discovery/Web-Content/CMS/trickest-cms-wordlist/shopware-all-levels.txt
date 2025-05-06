@@ -131038,6 +131038,9 @@ release-6-5-5-0/2023-07-24-communication-from-storefront-to-app-server.md
 changelog/release-6-5-7-3/2023-11-30-correct-address_format-column-type.md
 release-6-5-7-3/2023-11-30-correct-address_format-column-type.md
 2023-11-30-correct-address_format-column-type.md
+changelog/_unreleased/2025-04-30-allow-small-size-of-sw-select-rule-create.md
+_unreleased/2025-04-30-allow-small-size-of-sw-select-rule-create.md
+2025-04-30-allow-small-size-of-sw-select-rule-create.md
 changelog/_unreleased/2025-04-08-sw-icon-variable-icon-name.md
 _unreleased/2025-04-08-sw-icon-variable-icon-name.md
 2025-04-08-sw-icon-variable-icon-name.md
