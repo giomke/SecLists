@@ -131059,6 +131059,9 @@ _unreleased/2024-05-22-navbar-for-main-navigation.md
 changelog/_unreleased/2025-03-20-move-review-active-check-into-store-api-routes.md
 _unreleased/2025-03-20-move-review-active-check-into-store-api-routes.md
 2025-03-20-move-review-active-check-into-store-api-routes.md
+changelog/_unreleased/2025-05-05-fix-admin-assets-with-underscores.md
+_unreleased/2025-05-05-fix-admin-assets-with-underscores.md
+2025-05-05-fix-admin-assets-with-underscores.md
 changelog/_unreleased/2025-04-08-fix-seo-urls-for-landing-pages-in-footer-navigation.md
 _unreleased/2025-04-08-fix-seo-urls-for-landing-pages-in-footer-navigation.md
 2025-04-08-fix-seo-urls-for-landing-pages-in-footer-navigation.md
@@ -131083,6 +131086,9 @@ _unreleased/2025-01-07-unify-constraint-option-structure-and-checks.md
 changelog/_unreleased/2025-01-31-move-flow-execution-after-business-process.md
 _unreleased/2025-01-31-move-flow-execution-after-business-process.md
 2025-01-31-move-flow-execution-after-business-process.md
+changelog/_unreleased/2025-04-15-deprecate-account-order-detail-page.md
+_unreleased/2025-04-15-deprecate-account-order-detail-page.md
+2025-04-15-deprecate-account-order-detail-page.md
 changelog/_unreleased/2025-03-17-add-twig-block-around-filter-columns.md
 _unreleased/2025-03-17-add-twig-block-around-filter-columns.md
 2025-03-17-add-twig-block-around-filter-columns.md
@@ -131092,6 +131098,9 @@ _unreleased/2025-04-30-add-deprecated-prop-to-facilitate-the-migration-to-meteor
 changelog/_unreleased/2025-04-08-fix-mobile-form-field-layouts.md
 _unreleased/2025-04-08-fix-mobile-form-field-layouts.md
 2025-04-08-fix-mobile-form-field-layouts.md
+changelog/_unreleased/2025-05-05-fixed-promotion-deletion-cart-error.md
+_unreleased/2025-05-05-fixed-promotion-deletion-cart-error.md
+2025-05-05-fixed-promotion-deletion-cart-error.md
 changelog/_unreleased/2025-04-11-new-event-for-fetched-category-ids.md
 _unreleased/2025-04-11-new-event-for-fetched-category-ids.md
 2025-04-11-new-event-for-fetched-category-ids.md
@@ -131101,6 +131110,9 @@ _unreleased/2025-04-04-implement-app-list-command.md
 changelog/_unreleased/2025-04-28-fix-unprepared-statements-breaking-profiler.md
 _unreleased/2025-04-28-fix-unprepared-statements-breaking-profiler.md
 2025-04-28-fix-unprepared-statements-breaking-profiler.md
+changelog/_unreleased/2025-04-28-case-insensitive-guest-order-check.md
+_unreleased/2025-04-28-case-insensitive-guest-order-check.md
+2025-04-28-case-insensitive-guest-order-check.md
 changelog/_unreleased/2022-10-13-use-rule-areas-in-entity-cache-key-generation.md
 _unreleased/2022-10-13-use-rule-areas-in-entity-cache-key-generation.md
 2022-10-13-use-rule-areas-in-entity-cache-key-generation.md
@@ -131131,6 +131143,9 @@ _unreleased/2025-03-19-add-nl2br-filter-to-review-content.md
 changelog/_unreleased/2025-04-24-fix-local-mode-of-sw-one-to-many-grid.md
 _unreleased/2025-04-24-fix-local-mode-of-sw-one-to-many-grid.md
 2025-04-24-fix-local-mode-of-sw-one-to-many-grid.md
+changelog/_unreleased/2025-04-30-fix-no-new-line-for-placeholder.md
+_unreleased/2025-04-30-fix-no-new-line-for-placeholder.md
+2025-04-30-fix-no-new-line-for-placeholder.md
 changelog/_unreleased/2025-02-14-postpone-telemetry_metrics-stable-version-to-6-8.md
 _unreleased/2025-02-14-postpone-telemetry_metrics-stable-version-to-6-8.md
 2025-02-14-postpone-telemetry_metrics-stable-version-to-6-8.md
@@ -131152,6 +131167,9 @@ _unreleased/2025-04-07-fix-currency-sleection-in-offcanvas.md
 changelog/_unreleased/2024-07-04-enforce-timezone-utc-for-database-connections.md
 _unreleased/2024-07-04-enforce-timezone-utc-for-database-connections.md
 2024-07-04-enforce-timezone-utc-for-database-connections.md
+changelog/_unreleased/2025-05-02-remove-specific-color-on-icon-wishlist.md
+_unreleased/2025-05-02-remove-specific-color-on-icon-wishlist.md
+2025-05-02-remove-specific-color-on-icon-wishlist.md
 changelog/_unreleased/2025-04-08-fix-invoice-empty-pages.md
 _unreleased/2025-04-08-fix-invoice-empty-pages.md
 2025-04-08-fix-invoice-empty-pages.md
@@ -131176,6 +131194,9 @@ _unreleased/2025-04-29-changed-form-validation-to-check-for-custom-error-message
 changelog/_unreleased/.keep
 _unreleased/.keep
 .keep
+changelog/_unreleased/2025-04-28-improve-basic-captcha-compatibility.md
+_unreleased/2025-04-28-improve-basic-captcha-compatibility.md
+2025-04-28-improve-basic-captcha-compatibility.md
 changelog/_unreleased/2025-04-01-ar-viewer-bug.md
 _unreleased/2025-04-01-ar-viewer-bug.md
 2025-04-01-ar-viewer-bug.md
@@ -131209,6 +131230,9 @@ _unreleased/2022-05-18-abstract-and-reduce-rule-condition-components.md
 changelog/_unreleased/2025-03-24-fix-cmsdataresolver-same-criteria-different-entities.md
 _unreleased/2025-03-24-fix-cmsdataresolver-same-criteria-different-entities.md
 2025-03-24-fix-cmsdataresolver-same-criteria-different-entities.md
+changelog/_unreleased/2025-03-27-meta-information-in-landing-pages-is-not-inherited.md
+_unreleased/2025-03-27-meta-information-in-landing-pages-is-not-inherited.md
+2025-03-27-meta-information-in-landing-pages-is-not-inherited.md
 changelog/_unreleased/2025-04-07-fix-override-paging-listing-page-parameter.md
 _unreleased/2025-04-07-fix-override-paging-listing-page-parameter.md
 2025-04-07-fix-override-paging-listing-page-parameter.md
@@ -134647,6 +134671,8 @@ release-6-4-8-0/2021-10-26-add-the-config-inheritance.md
 changelog/release-6-4-8-0/2021-09-13-implement-empty-csv-file-creation-for-profile.md
 release-6-4-8-0/2021-09-13-implement-empty-csv-file-creation-for-profile.md
 2021-09-13-implement-empty-csv-file-creation-for-profile.md
+changelog/2025-04-15-country-state-controller-get-support.md
+2025-04-15-country-state-controller-get-support.md
 changelog/release-6-6-10-0/2025-01-13-updated-child-order-line-item-quantity-on-parent-quantity-change.md
 release-6-6-10-0/2025-01-13-updated-child-order-line-item-quantity-on-parent-quantity-change.md
 2025-01-13-updated-child-order-line-item-quantity-on-parent-quantity-change.md
