@@ -64684,6 +64684,10 @@ plugins/woocommerce/changelog/dev-update-core-ci-jobs-config-paths-spec
 woocommerce/changelog/dev-update-core-ci-jobs-config-paths-spec
 changelog/dev-update-core-ci-jobs-config-paths-spec
 dev-update-core-ci-jobs-config-paths-spec
+plugins/woocommerce/changelog/57759-fix-guard-patterns-category
+woocommerce/changelog/57759-fix-guard-patterns-category
+changelog/57759-fix-guard-patterns-category
+57759-fix-guard-patterns-category
 plugins/woocommerce/changelog/update-remove-payments-menu-item-for-woopayments-complete-accounts
 woocommerce/changelog/update-remove-payments-menu-item-for-woopayments-complete-accounts
 changelog/update-remove-payments-menu-item-for-woopayments-complete-accounts
@@ -64748,6 +64752,10 @@ plugins/woocommerce/changelog/56283-55678-fix-log-fatal-error
 woocommerce/changelog/56283-55678-fix-log-fatal-error
 changelog/56283-55678-fix-log-fatal-error
 56283-55678-fix-log-fatal-error
+plugins/woocommerce/changelog/57771-fix-WCCOM-1234-in-app-banner-link-target
+woocommerce/changelog/57771-fix-WCCOM-1234-in-app-banner-link-target
+changelog/57771-fix-WCCOM-1234-in-app-banner-link-target
+57771-fix-WCCOM-1234-in-app-banner-link-target
 plugins/woocommerce/changelog/57059-update-variation-selector-pills-style
 woocommerce/changelog/57059-update-variation-selector-pills-style
 changelog/57059-update-variation-selector-pills-style
@@ -65012,6 +65020,10 @@ plugins/woocommerce/changelog/fix-WOOPLUG-3736-airwallex-gateway-titles
 woocommerce/changelog/fix-WOOPLUG-3736-airwallex-gateway-titles
 changelog/fix-WOOPLUG-3736-airwallex-gateway-titles
 fix-WOOPLUG-3736-airwallex-gateway-titles
+plugins/woocommerce/changelog/fix-57592
+woocommerce/changelog/fix-57592
+changelog/fix-57592
+fix-57592
 plugins/woocommerce/changelog/56739-fix-blueprint-settings-save
 woocommerce/changelog/56739-fix-blueprint-settings-save
 changelog/56739-fix-blueprint-settings-save
@@ -65376,6 +65388,10 @@ plugins/woocommerce/changelog/57164-fix-product-description-block-undefined-erro
 woocommerce/changelog/57164-fix-product-description-block-undefined-error
 changelog/57164-fix-product-description-block-undefined-error
 57164-fix-product-description-block-undefined-error
+plugins/woocommerce/changelog/57705-fix-WOOPLUG-4124-order-statuses-array-check
+woocommerce/changelog/57705-fix-WOOPLUG-4124-order-statuses-array-check
+changelog/57705-fix-WOOPLUG-4124-order-statuses-array-check
+57705-fix-WOOPLUG-4124-order-statuses-array-check
 plugins/woocommerce/changelog/57333-wooplug-2826-block-patterns-cache-transient-may-contain-incorrect-paths
 woocommerce/changelog/57333-wooplug-2826-block-patterns-cache-transient-may-contain-incorrect-paths
 changelog/57333-wooplug-2826-block-patterns-cache-transient-may-contain-incorrect-paths
@@ -65432,6 +65448,10 @@ plugins/woocommerce/changelog/wooplug-4048-enhancement-add-filter-on-customer-co
 woocommerce/changelog/wooplug-4048-enhancement-add-filter-on-customer-completed-order-email
 changelog/wooplug-4048-enhancement-add-filter-on-customer-completed-order-email
 wooplug-4048-enhancement-add-filter-on-customer-completed-order-email
+plugins/woocommerce/changelog/57672-add-woomkt-101-use-compact-product-cards-in-discover-screen
+woocommerce/changelog/57672-add-woomkt-101-use-compact-product-cards-in-discover-screen
+changelog/57672-add-woomkt-101-use-compact-product-cards-in-discover-screen
+57672-add-woomkt-101-use-compact-product-cards-in-discover-screen
 plugins/woocommerce/changelog/fix-57535-variation-selector-dynamic-options
 woocommerce/changelog/fix-57535-variation-selector-dynamic-options
 changelog/fix-57535-variation-selector-dynamic-options
@@ -65648,6 +65668,10 @@ plugins/woocommerce/changelog/fix-55952
 woocommerce/changelog/fix-55952
 changelog/fix-55952
 fix-55952
+plugins/woocommerce/changelog/57737-wooplug-4116-bannerpattern-text-is-invisible-in-tt5-and-tt4
+woocommerce/changelog/57737-wooplug-4116-bannerpattern-text-is-invisible-in-tt5-and-tt4
+changelog/57737-wooplug-4116-bannerpattern-text-is-invisible-in-tt5-and-tt4
+57737-wooplug-4116-bannerpattern-text-is-invisible-in-tt5-and-tt4
 plugins/woocommerce/changelog/dev-babel-transforms-cleanup
 woocommerce/changelog/dev-babel-transforms-cleanup
 changelog/dev-babel-transforms-cleanup
@@ -66184,6 +66208,10 @@ plugins/woocommerce/changelog/fix-56490-product-stock-indicator-single-product-t
 woocommerce/changelog/fix-56490-product-stock-indicator-single-product-template
 changelog/fix-56490-product-stock-indicator-single-product-template
 fix-56490-product-stock-indicator-single-product-template
+plugins/woocommerce/changelog/fix-WOO6-5
+woocommerce/changelog/fix-WOO6-5
+changelog/fix-WOO6-5
+fix-WOO6-5
 plugins/woocommerce/changelog/fix-isDescendentOfSingleProductBlock-upgrade-flow
 woocommerce/changelog/fix-isDescendentOfSingleProductBlock-upgrade-flow
 changelog/fix-isDescendentOfSingleProductBlock-upgrade-flow
@@ -66268,6 +66296,10 @@ plugins/woocommerce/changelog/fix-55901
 woocommerce/changelog/fix-55901
 changelog/fix-55901
 fix-55901
+plugins/woocommerce/changelog/57752-fix-broken-offline-pms-manage
+woocommerce/changelog/57752-fix-broken-offline-pms-manage
+changelog/57752-fix-broken-offline-pms-manage
+57752-fix-broken-offline-pms-manage
 plugins/woocommerce/changelog/56439-56413-fix-fatal-product
 woocommerce/changelog/56439-56413-fix-fatal-product
 changelog/56439-56413-fix-fatal-product
