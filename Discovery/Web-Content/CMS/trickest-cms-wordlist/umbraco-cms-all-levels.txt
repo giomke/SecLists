@@ -3018,6 +3018,12 @@ tests/DefaultConfig/Content/ContentInfoTab.spec.ts
 DefaultConfig/Content/ContentInfoTab.spec.ts
 Content/ContentInfoTab.spec.ts
 ContentInfoTab.spec.ts
+tests/Umbraco.Tests.AcceptanceTest/tests/DefaultConfig/Content/PublishWithDescendants.spec.ts
+Umbraco.Tests.AcceptanceTest/tests/DefaultConfig/Content/PublishWithDescendants.spec.ts
+tests/DefaultConfig/Content/PublishWithDescendants.spec.ts
+DefaultConfig/Content/PublishWithDescendants.spec.ts
+Content/PublishWithDescendants.spec.ts
+PublishWithDescendants.spec.ts
 tests/Umbraco.Tests.AcceptanceTest/tests/DefaultConfig/Content/ContentWithUploadVideo.spec.ts
 Umbraco.Tests.AcceptanceTest/tests/DefaultConfig/Content/ContentWithUploadVideo.spec.ts
 tests/DefaultConfig/Content/ContentWithUploadVideo.spec.ts
