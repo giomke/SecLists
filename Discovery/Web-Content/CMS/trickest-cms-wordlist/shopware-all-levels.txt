@@ -131316,6 +131316,9 @@ _unreleased/2022-04-05-keep-track-of-changes-on-rule-builder-detail-page.md
 changelog/_unreleased/2025-04-30-allowfullscreen-video-element.md
 _unreleased/2025-04-30-allowfullscreen-video-element.md
 2025-04-30-allowfullscreen-video-element.md
+changelog/_unreleased/2025-05-09-change-property-group-option-combinable-visibility.md
+_unreleased/2025-05-09-change-property-group-option-combinable-visibility.md
+2025-05-09-change-property-group-option-combinable-visibility.md
 changelog/_unreleased/2025-04-30-improve-extensibility-of-header-and-footer-esi-templates.md
 _unreleased/2025-04-30-improve-extensibility-of-header-and-footer-esi-templates.md
 2025-04-30-improve-extensibility-of-header-and-footer-esi-templates.md
@@ -131343,6 +131346,9 @@ _unreleased/2025-03-27-meta-information-in-landing-pages-is-not-inherited.md
 changelog/_unreleased/2025-04-07-fix-override-paging-listing-page-parameter.md
 _unreleased/2025-04-07-fix-override-paging-listing-page-parameter.md
 2025-04-07-fix-override-paging-listing-page-parameter.md
+changelog/_unreleased/2025-05-09-remove-first-level-app-snippet-restriction.md
+_unreleased/2025-05-09-remove-first-level-app-snippet-restriction.md
+2025-05-09-remove-first-level-app-snippet-restriction.md
 changelog/_unreleased/2025-03-26-remove-non-existing-imports-from-admin-module-stub.md
 _unreleased/2025-03-26-remove-non-existing-imports-from-admin-module-stub.md
 2025-03-26-remove-non-existing-imports-from-admin-module-stub.md

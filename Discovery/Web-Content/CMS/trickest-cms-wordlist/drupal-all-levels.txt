@@ -37107,6 +37107,12 @@ Drupal/KernelTests/Components/ComponentInvalidReplacementTest.php
 KernelTests/Components/ComponentInvalidReplacementTest.php
 Components/ComponentInvalidReplacementTest.php
 ComponentInvalidReplacementTest.php
+core/tests/Drupal/KernelTests/Components/ComponentInFormTest.php
+tests/Drupal/KernelTests/Components/ComponentInFormTest.php
+Drupal/KernelTests/Components/ComponentInFormTest.php
+KernelTests/Components/ComponentInFormTest.php
+Components/ComponentInFormTest.php
+ComponentInFormTest.php
 core/tests/Drupal/KernelTests/Core/StringTranslation/TranslationStringTest.php
 tests/Drupal/KernelTests/Core/StringTranslation/TranslationStringTest.php
 Drupal/KernelTests/Core/StringTranslation/TranslationStringTest.php
@@ -120342,6 +120348,13 @@ src/Functional/Rest/WorkspaceJsonBasicAuthTest.php
 Functional/Rest/WorkspaceJsonBasicAuthTest.php
 Rest/WorkspaceJsonBasicAuthTest.php
 WorkspaceJsonBasicAuthTest.php
+core/modules/workspaces/tests/src/Functional/WorkspaceFormValidationTest.php
+modules/workspaces/tests/src/Functional/WorkspaceFormValidationTest.php
+workspaces/tests/src/Functional/WorkspaceFormValidationTest.php
+tests/src/Functional/WorkspaceFormValidationTest.php
+src/Functional/WorkspaceFormValidationTest.php
+Functional/WorkspaceFormValidationTest.php
+WorkspaceFormValidationTest.php
 core/modules/workspaces/tests/src/Functional/WorkspaceViewsBulkFormTest.php
 modules/workspaces/tests/src/Functional/WorkspaceViewsBulkFormTest.php
 workspaces/tests/src/Functional/WorkspaceViewsBulkFormTest.php
