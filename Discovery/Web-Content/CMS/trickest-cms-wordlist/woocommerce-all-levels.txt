@@ -66303,10 +66303,6 @@ plugins/woocommerce/changelog/57284-wooplug-3925-wc_geolocationget_ip_address-re
 woocommerce/changelog/57284-wooplug-3925-wc_geolocationget_ip_address-returns-multiple-addresses
 changelog/57284-wooplug-3925-wc_geolocationget_ip_address-returns-multiple-addresses
 57284-wooplug-3925-wc_geolocationget_ip_address-returns-multiple-addresses
-plugins/woocommerce/changelog/57717-fix-wooplug-2976-product-collection-cross-sells-product-selection-error-when
-woocommerce/changelog/57717-fix-wooplug-2976-product-collection-cross-sells-product-selection-error-when
-changelog/57717-fix-wooplug-2976-product-collection-cross-sells-product-selection-error-when
-57717-fix-wooplug-2976-product-collection-cross-sells-product-selection-error-when
 plugins/woocommerce/changelog/dev-update-release-checks-workflows
 woocommerce/changelog/dev-update-release-checks-workflows
 changelog/dev-update-release-checks-workflows
