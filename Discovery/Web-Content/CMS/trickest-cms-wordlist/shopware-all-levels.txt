@@ -15174,6 +15174,11 @@ unit/Storefront/Controller/CartLineItemControllerTest.php
 Storefront/Controller/CartLineItemControllerTest.php
 Controller/CartLineItemControllerTest.php
 CartLineItemControllerTest.php
+tests/unit/Storefront/Controller/AccountProfileControllerTest.php
+unit/Storefront/Controller/AccountProfileControllerTest.php
+Storefront/Controller/AccountProfileControllerTest.php
+Controller/AccountProfileControllerTest.php
+AccountProfileControllerTest.php
 tests/unit/Storefront/Controller/AuthControllerTest.php
 unit/Storefront/Controller/AuthControllerTest.php
 Storefront/Controller/AuthControllerTest.php
@@ -131322,6 +131327,9 @@ _unreleased/2025-05-09-change-property-group-option-combinable-visibility.md
 changelog/_unreleased/2025-04-30-improve-extensibility-of-header-and-footer-esi-templates.md
 _unreleased/2025-04-30-improve-extensibility-of-header-and-footer-esi-templates.md
 2025-04-30-improve-extensibility-of-header-and-footer-esi-templates.md
+changelog/_unreleased/2025-05-06-deprecate-active-language-and-currency-from-header-pagelet.md
+_unreleased/2025-05-06-deprecate-active-language-and-currency-from-header-pagelet.md
+2025-05-06-deprecate-active-language-and-currency-from-header-pagelet.md
 changelog/_unreleased/2025-03-25-fix-show-product-name-for-variants-in-admin-category-products.md
 _unreleased/2025-03-25-fix-show-product-name-for-variants-in-admin-category-products.md
 2025-03-25-fix-show-product-name-for-variants-in-admin-category-products.md
@@ -131346,6 +131354,9 @@ _unreleased/2025-03-27-meta-information-in-landing-pages-is-not-inherited.md
 changelog/_unreleased/2025-04-07-fix-override-paging-listing-page-parameter.md
 _unreleased/2025-04-07-fix-override-paging-listing-page-parameter.md
 2025-04-07-fix-override-paging-listing-page-parameter.md
+changelog/_unreleased/2024-12-04-improve-sw-page-back-button-linking.md
+_unreleased/2024-12-04-improve-sw-page-back-button-linking.md
+2024-12-04-improve-sw-page-back-button-linking.md
 changelog/_unreleased/2025-05-09-remove-first-level-app-snippet-restriction.md
 _unreleased/2025-05-09-remove-first-level-app-snippet-restriction.md
 2025-05-09-remove-first-level-app-snippet-restriction.md
@@ -131373,6 +131384,9 @@ _unreleased/2024-08-19-add-context-to-orderstatechangecriteriaevent.md
 changelog/_unreleased/2024-09-20-simplify-emitting-metrics.md
 _unreleased/2024-09-20-simplify-emitting-metrics.md
 2024-09-20-simplify-emitting-metrics.md
+changelog/_unreleased/2025-05-06-fix-remove-extra-closing-curly-brace.md
+_unreleased/2025-05-06-fix-remove-extra-closing-curly-brace.md
+2025-05-06-fix-remove-extra-closing-curly-brace.md
 changelog/_unreleased/2025-03-28-replaced-sw-checkbox-field-component-by-mt-checkbox-in-theme-assignment.md
 _unreleased/2025-03-28-replaced-sw-checkbox-field-component-by-mt-checkbox-in-theme-assignment.md
 2025-03-28-replaced-sw-checkbox-field-component-by-mt-checkbox-in-theme-assignment.md
