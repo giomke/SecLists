@@ -13482,15 +13482,6 @@ Promotion/Aggregate/PromotionSetGroup/PromotionSetGroupEntityTest.php
 Aggregate/PromotionSetGroup/PromotionSetGroupEntityTest.php
 PromotionSetGroup/PromotionSetGroupEntityTest.php
 PromotionSetGroupEntityTest.php
-tests/unit/Core/Checkout/Cart/Promotion/Aggregate/PromotionDiscount/PromotionDiscountEntityTest.php
-unit/Core/Checkout/Cart/Promotion/Aggregate/PromotionDiscount/PromotionDiscountEntityTest.php
-Core/Checkout/Cart/Promotion/Aggregate/PromotionDiscount/PromotionDiscountEntityTest.php
-Checkout/Cart/Promotion/Aggregate/PromotionDiscount/PromotionDiscountEntityTest.php
-Cart/Promotion/Aggregate/PromotionDiscount/PromotionDiscountEntityTest.php
-Promotion/Aggregate/PromotionDiscount/PromotionDiscountEntityTest.php
-Aggregate/PromotionDiscount/PromotionDiscountEntityTest.php
-PromotionDiscount/PromotionDiscountEntityTest.php
-PromotionDiscountEntityTest.php
 tests/unit/Core/Checkout/Cart/Promotion/Validator/PromotionValidatorTest.php
 unit/Core/Checkout/Cart/Promotion/Validator/PromotionValidatorTest.php
 Core/Checkout/Cart/Promotion/Validator/PromotionValidatorTest.php
@@ -131274,6 +131265,9 @@ _unreleased/2022-10-13-use-rule-areas-in-entity-cache-key-generation.md
 changelog/_unreleased/2025-03-13-preserve-administration-sidebar-state.md
 _unreleased/2025-03-13-preserve-administration-sidebar-state.md
 2025-03-13-preserve-administration-sidebar-state.md
+changelog/_unreleased/2025-05-12-fixed-accessibility-issue-of-collapse-button-of-orders.md
+_unreleased/2025-05-12-fixed-accessibility-issue-of-collapse-button-of-orders.md
+2025-05-12-fixed-accessibility-issue-of-collapse-button-of-orders.md
 changelog/_unreleased/2025-03-28-save-file-hash-if-it-is-available.md
 _unreleased/2025-03-28-save-file-hash-if-it-is-available.md
 2025-03-28-save-file-hash-if-it-is-available.md
@@ -131361,6 +131355,9 @@ _unreleased/2025-04-08-fix-struct-encoder-custom-field-visibility.md
 changelog/_unreleased/2025-05-05-remove-obsolete-requiredmessage-variable-declarations.md
 _unreleased/2025-05-05-remove-obsolete-requiredmessage-variable-declarations.md
 2025-05-05-remove-obsolete-requiredmessage-variable-declarations.md
+changelog/_unreleased/2025-05-13-fix-search-result-order.md
+_unreleased/2025-05-13-fix-search-result-order.md
+2025-05-13-fix-search-result-order.md
 changelog/_unreleased/2025-04-11-fix-calls-to-update-store.md
 _unreleased/2025-04-11-fix-calls-to-update-store.md
 2025-04-11-fix-calls-to-update-store.md
@@ -131478,6 +131475,9 @@ _unreleased/2025-05-09-fix-retryabletransaction-missing-savepoint-error.md
 changelog/_unreleased/2024-09-20-simplify-emitting-metrics.md
 _unreleased/2024-09-20-simplify-emitting-metrics.md
 2024-09-20-simplify-emitting-metrics.md
+changelog/_unreleased/2025-05-12-cleanup-cancel-order-modal.md
+_unreleased/2025-05-12-cleanup-cancel-order-modal.md
+2025-05-12-cleanup-cancel-order-modal.md
 changelog/_unreleased/2025-05-06-fix-remove-extra-closing-curly-brace.md
 _unreleased/2025-05-06-fix-remove-extra-closing-curly-brace.md
 2025-05-06-fix-remove-extra-closing-curly-brace.md
@@ -131487,6 +131487,9 @@ _unreleased/2025-03-28-replaced-sw-checkbox-field-component-by-mt-checkbox-in-th
 changelog/_unreleased/2025-05-02-fix-height-of-search-field-in-sw-card-filter-component.md
 _unreleased/2025-05-02-fix-height-of-search-field-in-sw-card-filter-component.md
 2025-05-02-fix-height-of-search-field-in-sw-card-filter-component.md
+changelog/_unreleased/2025-05-13-add-active-styling-class-to-main-navigation.md
+_unreleased/2025-05-13-add-active-styling-class-to-main-navigation.md
+2025-05-13-add-active-styling-class-to-main-navigation.md
 changelog/_unreleased/2025-03-29-remove-debit-payment-method.md
 _unreleased/2025-03-29-remove-debit-payment-method.md
 2025-03-29-remove-debit-payment-method.md
