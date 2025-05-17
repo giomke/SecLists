@@ -51106,6 +51106,15 @@ media/components/input-upload-field/utils.ts
 components/input-upload-field/utils.ts
 input-upload-field/utils.ts
 utils.ts
+src/Umbraco.Web.UI.Client/src/packages/media/media/components/input-upload-field/file-upload-preview.element.ts
+Umbraco.Web.UI.Client/src/packages/media/media/components/input-upload-field/file-upload-preview.element.ts
+src/packages/media/media/components/input-upload-field/file-upload-preview.element.ts
+packages/media/media/components/input-upload-field/file-upload-preview.element.ts
+media/media/components/input-upload-field/file-upload-preview.element.ts
+media/components/input-upload-field/file-upload-preview.element.ts
+components/input-upload-field/file-upload-preview.element.ts
+input-upload-field/file-upload-preview.element.ts
+file-upload-preview.element.ts
 src/Umbraco.Web.UI.Client/src/packages/media/media/components/input-upload-field/preview/input-upload-field-image.element.ts
 Umbraco.Web.UI.Client/src/packages/media/media/components/input-upload-field/preview/input-upload-field-image.element.ts
 src/packages/media/media/components/input-upload-field/preview/input-upload-field-image.element.ts
