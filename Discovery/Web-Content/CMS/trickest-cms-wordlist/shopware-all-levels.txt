@@ -2893,6 +2893,13 @@ Product/DataAbstractionLayer/StockUpdate/StockUpdateFilterProviderTest.php
 DataAbstractionLayer/StockUpdate/StockUpdateFilterProviderTest.php
 StockUpdate/StockUpdateFilterProviderTest.php
 StockUpdateFilterProviderTest.php
+tests/unit/Core/Content/Product/DataAbstractionLayer/ProductIndexerTest.php
+unit/Core/Content/Product/DataAbstractionLayer/ProductIndexerTest.php
+Core/Content/Product/DataAbstractionLayer/ProductIndexerTest.php
+Content/Product/DataAbstractionLayer/ProductIndexerTest.php
+Product/DataAbstractionLayer/ProductIndexerTest.php
+DataAbstractionLayer/ProductIndexerTest.php
+ProductIndexerTest.php
 tests/unit/Core/Content/Product/DataAbstractionLayer/VariantListingConfigTest.php
 unit/Core/Content/Product/DataAbstractionLayer/VariantListingConfigTest.php
 Core/Content/Product/DataAbstractionLayer/VariantListingConfigTest.php
@@ -131026,6 +131033,9 @@ _unreleased/2024-09-16-exchange-recursive-categories-macro-with-tpl.md
 changelog/_unreleased/2024-11-29-make-product-slider-defaults-accessible.md
 _unreleased/2024-11-29-make-product-slider-defaults-accessible.md
 2024-11-29-make-product-slider-defaults-accessible.md
+changelog/_unreleased/2025-03-12-variant-indicator-missing-in-product-listing.md
+_unreleased/2025-03-12-variant-indicator-missing-in-product-listing.md
+2025-03-12-variant-indicator-missing-in-product-listing.md
 changelog/_unreleased/2025-05-09-export-createtexteditordatamappingbutton-through-global-shopware-component-helper.md
 _unreleased/2025-05-09-export-createtexteditordatamappingbutton-through-global-shopware-component-helper.md
 2025-05-09-export-createtexteditordatamappingbutton-through-global-shopware-component-helper.md

@@ -59872,6 +59872,13 @@ src/Nightwatch/Tests/toolbarTest.js
 Nightwatch/Tests/toolbarTest.js
 Tests/toolbarTest.js
 toolbarTest.js
+core/modules/toolbar/tests/src/Nightwatch/ToolbarTestSetup.php
+modules/toolbar/tests/src/Nightwatch/ToolbarTestSetup.php
+toolbar/tests/src/Nightwatch/ToolbarTestSetup.php
+tests/src/Nightwatch/ToolbarTestSetup.php
+src/Nightwatch/ToolbarTestSetup.php
+Nightwatch/ToolbarTestSetup.php
+ToolbarTestSetup.php
 core/modules/toolbar/tests/src/Unit/PageCache/AllowToolbarPathTest.php
 modules/toolbar/tests/src/Unit/PageCache/AllowToolbarPathTest.php
 toolbar/tests/src/Unit/PageCache/AllowToolbarPathTest.php
