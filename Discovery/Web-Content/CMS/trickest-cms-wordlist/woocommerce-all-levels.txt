@@ -11514,6 +11514,14 @@ src/Internal/EmailEditor/BlockEmailRendererTest.php
 Internal/EmailEditor/BlockEmailRendererTest.php
 EmailEditor/BlockEmailRendererTest.php
 BlockEmailRendererTest.php
+plugins/woocommerce/tests/php/src/Internal/EmailEditor/EmailApiControllerTest.php
+woocommerce/tests/php/src/Internal/EmailEditor/EmailApiControllerTest.php
+tests/php/src/Internal/EmailEditor/EmailApiControllerTest.php
+php/src/Internal/EmailEditor/EmailApiControllerTest.php
+src/Internal/EmailEditor/EmailApiControllerTest.php
+Internal/EmailEditor/EmailApiControllerTest.php
+EmailEditor/EmailApiControllerTest.php
+EmailApiControllerTest.php
 plugins/woocommerce/tests/php/src/Internal/EmailEditor/EmailTemplates/TemplateApiControllerTest.php
 woocommerce/tests/php/src/Internal/EmailEditor/EmailTemplates/TemplateApiControllerTest.php
 tests/php/src/Internal/EmailEditor/EmailTemplates/TemplateApiControllerTest.php
@@ -65136,6 +65144,10 @@ plugins/woocommerce/changelog/fix-store-api-send-cors-headers
 woocommerce/changelog/fix-store-api-send-cors-headers
 changelog/fix-store-api-send-cors-headers
 fix-store-api-send-cors-headers
+plugins/woocommerce/changelog/add-recipient-fields-to-email-editor-sidebar
+woocommerce/changelog/add-recipient-fields-to-email-editor-sidebar
+changelog/add-recipient-fields-to-email-editor-sidebar
+add-recipient-fields-to-email-editor-sidebar
 plugins/woocommerce/changelog/57948-wooplug-2367-flaky-test-theme-template-has-priority-over-woocommerces-and
 woocommerce/changelog/57948-wooplug-2367-flaky-test-theme-template-has-priority-over-woocommerces-and
 changelog/57948-wooplug-2367-flaky-test-theme-template-has-priority-over-woocommerces-and
@@ -65160,6 +65172,10 @@ plugins/woocommerce/changelog/fix-add-to-cart-with-options-string-updates
 woocommerce/changelog/fix-add-to-cart-with-options-string-updates
 changelog/fix-add-to-cart-with-options-string-updates
 fix-add-to-cart-with-options-string-updates
+plugins/woocommerce/changelog/58101-dev-disable-forked-iapi-runtime-by-default
+woocommerce/changelog/58101-dev-disable-forked-iapi-runtime-by-default
+changelog/58101-dev-disable-forked-iapi-runtime-by-default
+58101-dev-disable-forked-iapi-runtime-by-default
 plugins/woocommerce/changelog/fix-wc-admin-page-controller-hooking-feature-dependency
 woocommerce/changelog/fix-wc-admin-page-controller-hooking-feature-dependency
 changelog/fix-wc-admin-page-controller-hooking-feature-dependency
