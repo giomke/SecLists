@@ -74764,6 +74764,13 @@ Plugin/views/filter/Status.php
 views/filter/Status.php
 filter/Status.php
 Status.php
+core/modules/node/src/Plugin/views/UidRevisionTrait.php
+modules/node/src/Plugin/views/UidRevisionTrait.php
+node/src/Plugin/views/UidRevisionTrait.php
+src/Plugin/views/UidRevisionTrait.php
+Plugin/views/UidRevisionTrait.php
+views/UidRevisionTrait.php
+UidRevisionTrait.php
 core/modules/node/src/Plugin/views/field/Node.php
 modules/node/src/Plugin/views/field/Node.php
 node/src/Plugin/views/field/Node.php
