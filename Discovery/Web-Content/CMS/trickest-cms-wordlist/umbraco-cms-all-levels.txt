@@ -1902,6 +1902,11 @@ Umbraco.Core/DeliveryApi/Request/ApiContentRouteBuilderTestBase.cs
 DeliveryApi/Request/ApiContentRouteBuilderTestBase.cs
 Request/ApiContentRouteBuilderTestBase.cs
 ApiContentRouteBuilderTestBase.cs
+tests/Umbraco.Tests.Integration/Umbraco.Core/DeliveryApi/RequestRoutingServiceTests.cs
+Umbraco.Tests.Integration/Umbraco.Core/DeliveryApi/RequestRoutingServiceTests.cs
+Umbraco.Core/DeliveryApi/RequestRoutingServiceTests.cs
+DeliveryApi/RequestRoutingServiceTests.cs
+RequestRoutingServiceTests.cs
 tests/Umbraco.Tests.Integration/Umbraco.Core/IO/ShadowFileSystemTests.cs
 Umbraco.Tests.Integration/Umbraco.Core/IO/ShadowFileSystemTests.cs
 Umbraco.Core/IO/ShadowFileSystemTests.cs
