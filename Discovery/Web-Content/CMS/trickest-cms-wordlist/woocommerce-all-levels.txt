@@ -64510,6 +64510,10 @@ plugins/woocommerce/changelog/57892-product-collection-alphabetical-fallback
 woocommerce/changelog/57892-product-collection-alphabetical-fallback
 changelog/57892-product-collection-alphabetical-fallback
 57892-product-collection-alphabetical-fallback
+plugins/woocommerce/changelog/add-product-gallery-thumbnail-ar
+woocommerce/changelog/add-product-gallery-thumbnail-ar
+changelog/add-product-gallery-thumbnail-ar
+add-product-gallery-thumbnail-ar
 plugins/woocommerce/changelog/fix-WOOPLUG-4337-improve-get-available-variations-blocks
 woocommerce/changelog/fix-WOOPLUG-4337-improve-get-available-variations-blocks
 changelog/fix-WOOPLUG-4337-improve-get-available-variations-blocks
@@ -64554,6 +64558,10 @@ plugins/woocommerce/changelog/57469-wooplug-3473-migrate-woocommercesettings-to-
 woocommerce/changelog/57469-wooplug-3473-migrate-woocommercesettings-to-interactivity-api
 changelog/57469-wooplug-3473-migrate-woocommercesettings-to-interactivity-api
 57469-wooplug-3473-migrate-woocommercesettings-to-interactivity-api
+plugins/woocommerce/changelog/fix-WOOPLUG-4391-broken-header-styles
+woocommerce/changelog/fix-WOOPLUG-4391-broken-header-styles
+changelog/fix-WOOPLUG-4391-broken-header-styles
+fix-WOOPLUG-4391-broken-header-styles
 plugins/woocommerce/changelog/57942-fix-issue-28669
 woocommerce/changelog/57942-fix-issue-28669
 changelog/57942-fix-issue-28669
@@ -64602,6 +64610,10 @@ plugins/woocommerce/changelog/fix-sale-badge-no-visible-inserter-single-product-
 woocommerce/changelog/fix-sale-badge-no-visible-inserter-single-product-template
 changelog/fix-sale-badge-no-visible-inserter-single-product-template
 fix-sale-badge-no-visible-inserter-single-product-template
+plugins/woocommerce/changelog/58111-fix-max-word-count-description-and-step
+woocommerce/changelog/58111-fix-max-word-count-description-and-step
+changelog/58111-fix-max-word-count-description-and-step
+58111-fix-max-word-count-description-and-step
 plugins/woocommerce/changelog/add-pos-settings-for-pos-refunded-html-plaintext-templates
 woocommerce/changelog/add-pos-settings-for-pos-refunded-html-plaintext-templates
 changelog/add-pos-settings-for-pos-refunded-html-plaintext-templates
@@ -64638,6 +64650,14 @@ plugins/woocommerce/changelog/57991-fix-wooplug-2694
 woocommerce/changelog/57991-fix-wooplug-2694
 changelog/57991-fix-wooplug-2694
 57991-fix-wooplug-2694
+plugins/woocommerce/changelog/58255-add-recipient-filter-email-block-editor
+woocommerce/changelog/58255-add-recipient-filter-email-block-editor
+changelog/58255-add-recipient-filter-email-block-editor
+58255-add-recipient-filter-email-block-editor
+plugins/woocommerce/changelog/wooplug-4382-display-email-type-description-in-the-sidebar
+woocommerce/changelog/wooplug-4382-display-email-type-description-in-the-sidebar
+changelog/wooplug-4382-display-email-type-description-in-the-sidebar
+wooplug-4382-display-email-type-description-in-the-sidebar
 plugins/woocommerce/changelog/fix-login-form-on-checkout
 woocommerce/changelog/fix-login-form-on-checkout
 changelog/fix-login-form-on-checkout
