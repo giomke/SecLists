@@ -168910,6 +168910,13 @@ code/Magento/Catalog/LICENSE_AFL.txt
 Magento/Catalog/LICENSE_AFL.txt
 Catalog/LICENSE_AFL.txt
 LICENSE_AFL.txt
+app/code/Magento/Catalog/ViewModel/Attribute/ProductAttributeHelper.php
+code/Magento/Catalog/ViewModel/Attribute/ProductAttributeHelper.php
+Magento/Catalog/ViewModel/Attribute/ProductAttributeHelper.php
+Catalog/ViewModel/Attribute/ProductAttributeHelper.php
+ViewModel/Attribute/ProductAttributeHelper.php
+Attribute/ProductAttributeHelper.php
+ProductAttributeHelper.php
 app/code/Magento/Catalog/ViewModel/Product/Breadcrumbs.php
 code/Magento/Catalog/ViewModel/Product/Breadcrumbs.php
 Magento/Catalog/ViewModel/Product/Breadcrumbs.php
