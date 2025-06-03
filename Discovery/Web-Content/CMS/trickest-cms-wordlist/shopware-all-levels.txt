@@ -137021,6 +137021,9 @@ _unreleased/2025-04-04-offcanvassingleton-does-not-remove-hard-coded-offcanvas-f
 changelog/_unreleased/2025-03-27-added-new-configs-for-changing-cart-columns.md
 _unreleased/2025-03-27-added-new-configs-for-changing-cart-columns.md
 2025-03-27-added-new-configs-for-changing-cart-columns.md
+changelog/_unreleased/2025-05-27-elasticsearch-custom-fields-dynamic-product-groups-not-working.md
+_unreleased/2025-05-27-elasticsearch-custom-fields-dynamic-product-groups-not-working.md
+2025-05-27-elasticsearch-custom-fields-dynamic-product-groups-not-working.md
 changelog/_unreleased/2025-05-06-added-dive-as-a-3d-viewer-for-storefront.md
 _unreleased/2025-05-06-added-dive-as-a-3d-viewer-for-storefront.md
 2025-05-06-added-dive-as-a-3d-viewer-for-storefront.md
