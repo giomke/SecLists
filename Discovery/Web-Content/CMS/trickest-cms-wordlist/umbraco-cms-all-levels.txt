@@ -60615,6 +60615,11 @@ Cache/Refreshers/Implement/DataTypeCacheRefresher.cs
 Refreshers/Implement/DataTypeCacheRefresher.cs
 Implement/DataTypeCacheRefresher.cs
 DataTypeCacheRefresher.cs
+src/Umbraco.Core/Cache/PartialViewCacheInvalidators/IMemberPartialViewCacheInvalidator.cs
+Umbraco.Core/Cache/PartialViewCacheInvalidators/IMemberPartialViewCacheInvalidator.cs
+Cache/PartialViewCacheInvalidators/IMemberPartialViewCacheInvalidator.cs
+PartialViewCacheInvalidators/IMemberPartialViewCacheInvalidator.cs
+IMemberPartialViewCacheInvalidator.cs
 src/Umbraco.Core/Cache/AppPolicedCacheDictionary.cs
 Umbraco.Core/Cache/AppPolicedCacheDictionary.cs
 Cache/AppPolicedCacheDictionary.cs
@@ -82784,6 +82789,11 @@ src/Umbraco.Web.Website/ActionResults/UmbracoPageResult.cs
 Umbraco.Web.Website/ActionResults/UmbracoPageResult.cs
 ActionResults/UmbracoPageResult.cs
 UmbracoPageResult.cs
+src/Umbraco.Web.Website/Cache/PartialViewCacheInvalidators/MemberPartialViewCacheInvalidator.cs
+Umbraco.Web.Website/Cache/PartialViewCacheInvalidators/MemberPartialViewCacheInvalidator.cs
+Cache/PartialViewCacheInvalidators/MemberPartialViewCacheInvalidator.cs
+PartialViewCacheInvalidators/MemberPartialViewCacheInvalidator.cs
+MemberPartialViewCacheInvalidator.cs
 src/Umbraco.Web.Website/Controllers/UmbracoRenderingDefaultsOptions.cs
 Umbraco.Web.Website/Controllers/UmbracoRenderingDefaultsOptions.cs
 Controllers/UmbracoRenderingDefaultsOptions.cs
@@ -87718,6 +87728,10 @@ Umbraco.Tests.UnitTests/Umbraco.Infrastructure/PropertyEditors/BlockEditorVarian
 Umbraco.Infrastructure/PropertyEditors/BlockEditorVarianceHandlerTests.cs
 PropertyEditors/BlockEditorVarianceHandlerTests.cs
 BlockEditorVarianceHandlerTests.cs
+tests/Umbraco.Tests.UnitTests/Umbraco.Templates/DockerFileTests.cs
+Umbraco.Tests.UnitTests/Umbraco.Templates/DockerFileTests.cs
+Umbraco.Templates/DockerFileTests.cs
+DockerFileTests.cs
 tests/Umbraco.Tests.UnitTests/AssemblyAttributes.cs
 Umbraco.Tests.UnitTests/AssemblyAttributes.cs
 AssemblyAttributes.cs
@@ -88062,6 +88076,12 @@ tests/Umbraco.Tests.UnitTests/Umbraco.Web.Website/AspNetCoreHostingEnvironmentTe
 Umbraco.Tests.UnitTests/Umbraco.Web.Website/AspNetCoreHostingEnvironmentTests.cs
 Umbraco.Web.Website/AspNetCoreHostingEnvironmentTests.cs
 AspNetCoreHostingEnvironmentTests.cs
+tests/Umbraco.Tests.UnitTests/Umbraco.Web.Website/Cache/PartialViewCacheInvalidators/MemberPartialViewCacheInvalidatorTests.cs
+Umbraco.Tests.UnitTests/Umbraco.Web.Website/Cache/PartialViewCacheInvalidators/MemberPartialViewCacheInvalidatorTests.cs
+Umbraco.Web.Website/Cache/PartialViewCacheInvalidators/MemberPartialViewCacheInvalidatorTests.cs
+Cache/PartialViewCacheInvalidators/MemberPartialViewCacheInvalidatorTests.cs
+PartialViewCacheInvalidators/MemberPartialViewCacheInvalidatorTests.cs
+MemberPartialViewCacheInvalidatorTests.cs
 tests/Umbraco.Tests.UnitTests/Umbraco.Web.Website/Controllers/RenderNoContentControllerTests.cs
 Umbraco.Tests.UnitTests/Umbraco.Web.Website/Controllers/RenderNoContentControllerTests.cs
 Umbraco.Web.Website/Controllers/RenderNoContentControllerTests.cs

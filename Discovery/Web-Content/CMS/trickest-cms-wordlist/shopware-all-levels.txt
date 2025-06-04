@@ -136982,6 +136982,9 @@ _unreleased/2024-07-16-remove-manual-override-for-state-machine.md
 changelog/_unreleased/2025-04-21-implement-media-component-with-admin-sdk.md
 _unreleased/2025-04-21-implement-media-component-with-admin-sdk.md
 2025-04-21-implement-media-component-with-admin-sdk.md
+changelog/_unreleased/2025-05-28-update-meteor-to-4-12-1.md
+_unreleased/2025-05-28-update-meteor-to-4-12-1.md
+2025-05-28-update-meteor-to-4-12-1.md
 changelog/_unreleased/2025-05-23-add-new-increment-api-to-delete-unused-keys-or-cluster.md
 _unreleased/2025-05-23-add-new-increment-api-to-delete-unused-keys-or-cluster.md
 2025-05-23-add-new-increment-api-to-delete-unused-keys-or-cluster.md
@@ -137267,6 +137270,9 @@ _unreleased/2025-03-13-preserve-administration-sidebar-state.md
 changelog/_unreleased/2025-04-15-make-search-parameter-optional-in-search-api.md
 _unreleased/2025-04-15-make-search-parameter-optional-in-search-api.md
 2025-04-15-make-search-parameter-optional-in-search-api.md
+changelog/_unreleased/2025-05-30-silence-and-log-exceptions-of-in-app-purchases.md
+_unreleased/2025-05-30-silence-and-log-exceptions-of-in-app-purchases.md
+2025-05-30-silence-and-log-exceptions-of-in-app-purchases.md
 changelog/_unreleased/2025-02-14-postpone-telemetry_metrics-stable-version-to-6-8.md
 _unreleased/2025-02-14-postpone-telemetry_metrics-stable-version-to-6-8.md
 2025-02-14-postpone-telemetry_metrics-stable-version-to-6-8.md
