@@ -77804,6 +77804,13 @@ tests/src/Functional/NavigationSafeBlockDefinitionTest.php
 src/Functional/NavigationSafeBlockDefinitionTest.php
 Functional/NavigationSafeBlockDefinitionTest.php
 NavigationSafeBlockDefinitionTest.php
+core/modules/navigation/tests/src/Functional/NavigationWorkspacesUiTest.php
+modules/navigation/tests/src/Functional/NavigationWorkspacesUiTest.php
+navigation/tests/src/Functional/NavigationWorkspacesUiTest.php
+tests/src/Functional/NavigationWorkspacesUiTest.php
+src/Functional/NavigationWorkspacesUiTest.php
+Functional/NavigationWorkspacesUiTest.php
+NavigationWorkspacesUiTest.php
 core/modules/navigation/tests/src/Functional/NavigationTopBarContentModerationTest.php
 modules/navigation/tests/src/Functional/NavigationTopBarContentModerationTest.php
 navigation/tests/src/Functional/NavigationTopBarContentModerationTest.php
@@ -101021,6 +101028,12 @@ Drupal/KernelTests/Components/ComponentNegotiatorTest.php
 KernelTests/Components/ComponentNegotiatorTest.php
 Components/ComponentNegotiatorTest.php
 ComponentNegotiatorTest.php
+core/tests/Drupal/KernelTests/Components/ComponentTranslationTest.php
+tests/Drupal/KernelTests/Components/ComponentTranslationTest.php
+Drupal/KernelTests/Components/ComponentTranslationTest.php
+KernelTests/Components/ComponentTranslationTest.php
+Components/ComponentTranslationTest.php
+ComponentTranslationTest.php
 core/tests/Drupal/KernelTests/Components/ComponentPluginManagerCachedDiscoveryTest.php
 tests/Drupal/KernelTests/Components/ComponentPluginManagerCachedDiscoveryTest.php
 Drupal/KernelTests/Components/ComponentPluginManagerCachedDiscoveryTest.php
