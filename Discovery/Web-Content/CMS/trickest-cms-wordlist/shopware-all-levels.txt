@@ -137458,6 +137458,9 @@ _unreleased/2025-03-20-move-review-active-check-into-store-api-routes.md
 changelog/_unreleased/2025-05-09-remove-first-level-app-snippet-restriction.md
 _unreleased/2025-05-09-remove-first-level-app-snippet-restriction.md
 2025-05-09-remove-first-level-app-snippet-restriction.md
+changelog/_unreleased/2025-06-06-improve-listing-of-customergroup-registration-form-seo-urls.md
+_unreleased/2025-06-06-improve-listing-of-customergroup-registration-form-seo-urls.md
+2025-06-06-improve-listing-of-customergroup-registration-form-seo-urls.md
 changelog/_unreleased/2025-01-07-fix-gallery-thumbnail-slider.md
 _unreleased/2025-01-07-fix-gallery-thumbnail-slider.md
 2025-01-07-fix-gallery-thumbnail-slider.md
