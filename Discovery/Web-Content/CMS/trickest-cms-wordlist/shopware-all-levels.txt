@@ -78952,6 +78952,17 @@ sw-settings-seo/page/sw-settings-seo/index.js
 page/sw-settings-seo/index.js
 sw-settings-seo/index.js
 index.js
+src/Administration/Resources/app/administration/src/module/sw-settings-seo/component/sw-seo-url/sw-seo-url.scss
+Administration/Resources/app/administration/src/module/sw-settings-seo/component/sw-seo-url/sw-seo-url.scss
+Resources/app/administration/src/module/sw-settings-seo/component/sw-seo-url/sw-seo-url.scss
+app/administration/src/module/sw-settings-seo/component/sw-seo-url/sw-seo-url.scss
+administration/src/module/sw-settings-seo/component/sw-seo-url/sw-seo-url.scss
+src/module/sw-settings-seo/component/sw-seo-url/sw-seo-url.scss
+module/sw-settings-seo/component/sw-seo-url/sw-seo-url.scss
+sw-settings-seo/component/sw-seo-url/sw-seo-url.scss
+component/sw-seo-url/sw-seo-url.scss
+sw-seo-url/sw-seo-url.scss
+sw-seo-url.scss
 src/Administration/Resources/app/administration/src/module/sw-settings-seo/component/sw-seo-url/store.ts
 Administration/Resources/app/administration/src/module/sw-settings-seo/component/sw-seo-url/store.ts
 Resources/app/administration/src/module/sw-settings-seo/component/sw-seo-url/store.ts
@@ -137497,6 +137508,9 @@ _unreleased/2025-05-20-account-design-adjustments.md
 changelog/_unreleased/2025-05-27-replace-old-data-protection-info-the-our-current-standard.md
 _unreleased/2025-05-27-replace-old-data-protection-info-the-our-current-standard.md
 2025-05-27-replace-old-data-protection-info-the-our-current-standard.md
+changelog/_unreleased/2025-06-05-product-variants-empty-state-list-position-doesn-t-correct.md
+_unreleased/2025-06-05-product-variants-empty-state-list-position-doesn-t-correct.md
+2025-06-05-product-variants-empty-state-list-position-doesn-t-correct.md
 changelog/_unreleased/2025-05-15-fix-search-result-order-in-preview-search-in-mysql.md
 _unreleased/2025-05-15-fix-search-result-order-in-preview-search-in-mysql.md
 2025-05-15-fix-search-result-order-in-preview-search-in-mysql.md
