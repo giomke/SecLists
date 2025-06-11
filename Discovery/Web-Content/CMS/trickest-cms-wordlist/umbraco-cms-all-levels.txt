@@ -86175,6 +86175,11 @@ Umbraco.Core/Services/PublishStatus/PublishedContentStatusFilteringServiceTests.
 Services/PublishStatus/PublishedContentStatusFilteringServiceTests.cs
 PublishStatus/PublishedContentStatusFilteringServiceTests.cs
 PublishedContentStatusFilteringServiceTests.cs
+tests/Umbraco.Tests.UnitTests/Umbraco.Core/Services/DocumentUrlServiceTests.cs
+Umbraco.Tests.UnitTests/Umbraco.Core/Services/DocumentUrlServiceTests.cs
+Umbraco.Core/Services/DocumentUrlServiceTests.cs
+Services/DocumentUrlServiceTests.cs
+DocumentUrlServiceTests.cs
 tests/Umbraco.Tests.UnitTests/Umbraco.Core/Services/ContentNavigationServiceTest.cs
 Umbraco.Tests.UnitTests/Umbraco.Core/Services/ContentNavigationServiceTest.cs
 Umbraco.Core/Services/ContentNavigationServiceTest.cs

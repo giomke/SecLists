@@ -35625,6 +35625,11 @@ Core/Migration/V6_6/Migration1716196653AddTechnicalNameToImportExportProfile.php
 Migration/V6_6/Migration1716196653AddTechnicalNameToImportExportProfile.php
 V6_6/Migration1716196653AddTechnicalNameToImportExportProfile.php
 Migration1716196653AddTechnicalNameToImportExportProfile.php
+src/Core/Migration/V6_6/Migration1747746986OrderTaxCalculationType.php
+Core/Migration/V6_6/Migration1747746986OrderTaxCalculationType.php
+Migration/V6_6/Migration1747746986OrderTaxCalculationType.php
+V6_6/Migration1747746986OrderTaxCalculationType.php
+Migration1747746986OrderTaxCalculationType.php
 src/Core/Migration/V6_6/Migration1731576063UpdateProductComparisonTemplate.php
 Core/Migration/V6_6/Migration1731576063UpdateProductComparisonTemplate.php
 Migration/V6_6/Migration1731576063UpdateProductComparisonTemplate.php
@@ -113502,6 +113507,11 @@ migration/Core/V6_6/Migration1702479623RemoveEsMultilingualFlagTest.php
 Core/V6_6/Migration1702479623RemoveEsMultilingualFlagTest.php
 V6_6/Migration1702479623RemoveEsMultilingualFlagTest.php
 Migration1702479623RemoveEsMultilingualFlagTest.php
+tests/migration/Core/V6_6/Migration1747746986OrderTaxCalculationTypeTest.php
+migration/Core/V6_6/Migration1747746986OrderTaxCalculationTypeTest.php
+Core/V6_6/Migration1747746986OrderTaxCalculationTypeTest.php
+V6_6/Migration1747746986OrderTaxCalculationTypeTest.php
+Migration1747746986OrderTaxCalculationTypeTest.php
 tests/migration/Core/V6_6/Migration1736824370MigrationMailTemplateForDocumentTest.php
 migration/Core/V6_6/Migration1736824370MigrationMailTemplateForDocumentTest.php
 Core/V6_6/Migration1736824370MigrationMailTemplateForDocumentTest.php
@@ -117909,6 +117919,13 @@ Checkout/Document/Zugferd/ZugferdDocumentTest.php
 Document/Zugferd/ZugferdDocumentTest.php
 Zugferd/ZugferdDocumentTest.php
 ZugferdDocumentTest.php
+tests/unit/Core/Checkout/Document/Zugferd/ZugferdDocumentMock.php
+unit/Core/Checkout/Document/Zugferd/ZugferdDocumentMock.php
+Core/Checkout/Document/Zugferd/ZugferdDocumentMock.php
+Checkout/Document/Zugferd/ZugferdDocumentMock.php
+Document/Zugferd/ZugferdDocumentMock.php
+Zugferd/ZugferdDocumentMock.php
+ZugferdDocumentMock.php
 tests/unit/Core/Checkout/Document/Zugferd/ZugferdBuilderTest.php
 unit/Core/Checkout/Document/Zugferd/ZugferdBuilderTest.php
 Core/Checkout/Document/Zugferd/ZugferdBuilderTest.php
@@ -137307,6 +137324,9 @@ _unreleased/2022-04-05-keep-track-of-changes-on-rule-builder-detail-page.md
 changelog/_unreleased/2025-04-17-fix-webhook-dispatching-for-not-versioned-events.md
 _unreleased/2025-04-17-fix-webhook-dispatching-for-not-versioned-events.md
 2025-04-17-fix-webhook-dispatching-for-not-versioned-events.md
+changelog/_unreleased/2025-06-06-deprecate-i18n-tc-function.md
+_unreleased/2025-06-06-deprecate-i18n-tc-function.md
+2025-06-06-deprecate-i18n-tc-function.md
 changelog/_unreleased/2025-05-22-fix-search-term-custom-find-weird-icons.md
 _unreleased/2025-05-22-fix-search-term-custom-find-weird-icons.md
 2025-05-22-fix-search-term-custom-find-weird-icons.md
@@ -137472,6 +137492,9 @@ _unreleased/2025-05-09-remove-first-level-app-snippet-restriction.md
 changelog/_unreleased/2025-06-06-improve-listing-of-customergroup-registration-form-seo-urls.md
 _unreleased/2025-06-06-improve-listing-of-customergroup-registration-form-seo-urls.md
 2025-06-06-improve-listing-of-customergroup-registration-form-seo-urls.md
+changelog/_unreleased/2025-05-22-e-invoice-vertical-tax-calculation.md
+_unreleased/2025-05-22-e-invoice-vertical-tax-calculation.md
+2025-05-22-e-invoice-vertical-tax-calculation.md
 changelog/_unreleased/2025-01-07-fix-gallery-thumbnail-slider.md
 _unreleased/2025-01-07-fix-gallery-thumbnail-slider.md
 2025-01-07-fix-gallery-thumbnail-slider.md
@@ -137565,6 +137588,9 @@ _unreleased/2025-04-17-fix-broken-snippets-in-rule-builder-conditions.md
 changelog/_unreleased/2025-03-26-remove-non-existing-imports-from-admin-module-stub.md
 _unreleased/2025-03-26-remove-non-existing-imports-from-admin-module-stub.md
 2025-03-26-remove-non-existing-imports-from-admin-module-stub.md
+changelog/_unreleased/2025-06-09-fix-essential-characteristics-create-template-with-more-than-2-values-does-not-work.md
+_unreleased/2025-06-09-fix-essential-characteristics-create-template-with-more-than-2-values-does-not-work.md
+2025-06-09-fix-essential-characteristics-create-template-with-more-than-2-values-does-not-work.md
 changelog/_unreleased/2025-06-03-fix-inconsistency-between-login-and-register.md
 _unreleased/2025-06-03-fix-inconsistency-between-login-and-register.md
 2025-06-03-fix-inconsistency-between-login-and-register.md
@@ -137595,6 +137621,9 @@ _unreleased/2025-05-02-fix-height-of-search-field-in-sw-card-filter-component.md
 changelog/_unreleased/2025-04-14-do-not-include-empty-subcategory-navigation-list.md
 _unreleased/2025-04-14-do-not-include-empty-subcategory-navigation-list.md
 2025-04-14-do-not-include-empty-subcategory-navigation-list.md
+changelog/_unreleased/2025-05-26-fix-alignment-logo-manufacture-media-field.md
+_unreleased/2025-05-26-fix-alignment-logo-manufacture-media-field.md
+2025-05-26-fix-alignment-logo-manufacture-media-field.md
 changelog/_unreleased/2025-01-29-change-redirect-path-for-wishlist-after-login.md
 _unreleased/2025-01-29-change-redirect-path-for-wishlist-after-login.md
 2025-01-29-change-redirect-path-for-wishlist-after-login.md
