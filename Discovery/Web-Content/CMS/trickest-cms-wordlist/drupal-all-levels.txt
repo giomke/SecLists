@@ -102286,12 +102286,6 @@ Drupal/KernelTests/Components/ComponentNegotiatorTest.php
 KernelTests/Components/ComponentNegotiatorTest.php
 Components/ComponentNegotiatorTest.php
 ComponentNegotiatorTest.php
-core/tests/Drupal/KernelTests/Components/ComponentTranslationTest.php
-tests/Drupal/KernelTests/Components/ComponentTranslationTest.php
-Drupal/KernelTests/Components/ComponentTranslationTest.php
-KernelTests/Components/ComponentTranslationTest.php
-Components/ComponentTranslationTest.php
-ComponentTranslationTest.php
 core/tests/Drupal/KernelTests/Components/ComponentPluginManagerCachedDiscoveryTest.php
 tests/Drupal/KernelTests/Components/ComponentPluginManagerCachedDiscoveryTest.php
 Drupal/KernelTests/Components/ComponentPluginManagerCachedDiscoveryTest.php
