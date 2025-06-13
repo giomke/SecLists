@@ -74652,6 +74652,10 @@ src/Umbraco.Infrastructure/PropertyEditors/BlockEditorPropertyValueEditor.cs
 Umbraco.Infrastructure/PropertyEditors/BlockEditorPropertyValueEditor.cs
 PropertyEditors/BlockEditorPropertyValueEditor.cs
 BlockEditorPropertyValueEditor.cs
+src/Umbraco.Infrastructure/PropertyEditors/RichTextPropertyNotificationHandler.cs
+Umbraco.Infrastructure/PropertyEditors/RichTextPropertyNotificationHandler.cs
+PropertyEditors/RichTextPropertyNotificationHandler.cs
+RichTextPropertyNotificationHandler.cs
 src/Umbraco.Infrastructure/PropertyEditors/RichTextPropertyIndexValueFactory.cs
 Umbraco.Infrastructure/PropertyEditors/RichTextPropertyIndexValueFactory.cs
 PropertyEditors/RichTextPropertyIndexValueFactory.cs
@@ -84270,9 +84274,6 @@ Directory.Packages.props
 tests/Umbraco.Tests.Integration/ComponentRuntimeTests.cs
 Umbraco.Tests.Integration/ComponentRuntimeTests.cs
 ComponentRuntimeTests.cs
-tests/Umbraco.Tests.Integration/CompatibilitySuppressions.xml
-Umbraco.Tests.Integration/CompatibilitySuppressions.xml
-CompatibilitySuppressions.xml
 tests/Umbraco.Tests.Integration/Umbraco.Tests.Integration.csproj
 Umbraco.Tests.Integration/Umbraco.Tests.Integration.csproj
 Umbraco.Tests.Integration.csproj
