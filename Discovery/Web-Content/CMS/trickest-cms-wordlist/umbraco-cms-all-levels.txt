@@ -83954,6 +83954,14 @@ Users/Permissions/UserGroup/Sections.spec.ts
 Permissions/UserGroup/Sections.spec.ts
 UserGroup/Sections.spec.ts
 Sections.spec.ts
+tests/Umbraco.Tests.AcceptanceTest/tests/DefaultConfig/Users/Permissions/UserGroup/DocumentPropertyValueGranularPermission.spec.ts
+Umbraco.Tests.AcceptanceTest/tests/DefaultConfig/Users/Permissions/UserGroup/DocumentPropertyValueGranularPermission.spec.ts
+tests/DefaultConfig/Users/Permissions/UserGroup/DocumentPropertyValueGranularPermission.spec.ts
+DefaultConfig/Users/Permissions/UserGroup/DocumentPropertyValueGranularPermission.spec.ts
+Users/Permissions/UserGroup/DocumentPropertyValueGranularPermission.spec.ts
+Permissions/UserGroup/DocumentPropertyValueGranularPermission.spec.ts
+UserGroup/DocumentPropertyValueGranularPermission.spec.ts
+DocumentPropertyValueGranularPermission.spec.ts
 tests/Umbraco.Tests.AcceptanceTest/tests/DefaultConfig/Users/UserGroups.spec.ts
 Umbraco.Tests.AcceptanceTest/tests/DefaultConfig/Users/UserGroups.spec.ts
 tests/DefaultConfig/Users/UserGroups.spec.ts

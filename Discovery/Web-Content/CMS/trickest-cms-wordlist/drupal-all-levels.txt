@@ -78645,6 +78645,12 @@ modules/navigation/src/EntityRouteHelper.php
 navigation/src/EntityRouteHelper.php
 src/EntityRouteHelper.php
 EntityRouteHelper.php
+core/modules/navigation/src/Menu/NavigationMenuLinkTreeManipulators.php
+modules/navigation/src/Menu/NavigationMenuLinkTreeManipulators.php
+navigation/src/Menu/NavigationMenuLinkTreeManipulators.php
+src/Menu/NavigationMenuLinkTreeManipulators.php
+Menu/NavigationMenuLinkTreeManipulators.php
+NavigationMenuLinkTreeManipulators.php
 core/modules/navigation/src/Menu/NavigationMenuLinkTree.php
 modules/navigation/src/Menu/NavigationMenuLinkTree.php
 navigation/src/Menu/NavigationMenuLinkTree.php
@@ -79083,6 +79089,13 @@ tests/src/Functional/NavigationIconTest.php
 src/Functional/NavigationIconTest.php
 Functional/NavigationIconTest.php
 NavigationIconTest.php
+core/modules/navigation/tests/src/Unit/NavigationMenuLinkTreeManipulatorsTest.php
+modules/navigation/tests/src/Unit/NavigationMenuLinkTreeManipulatorsTest.php
+navigation/tests/src/Unit/NavigationMenuLinkTreeManipulatorsTest.php
+tests/src/Unit/NavigationMenuLinkTreeManipulatorsTest.php
+src/Unit/NavigationMenuLinkTreeManipulatorsTest.php
+Unit/NavigationMenuLinkTreeManipulatorsTest.php
+NavigationMenuLinkTreeManipulatorsTest.php
 core/modules/navigation/tests/src/Unit/TopBarItemBaseTest.php
 modules/navigation/tests/src/Unit/TopBarItemBaseTest.php
 navigation/tests/src/Unit/TopBarItemBaseTest.php
