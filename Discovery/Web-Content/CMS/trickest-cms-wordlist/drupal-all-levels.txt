@@ -124152,6 +124152,12 @@ Drupal/Core/Test/EnvironmentCleaner.php
 Core/Test/EnvironmentCleaner.php
 Test/EnvironmentCleaner.php
 EnvironmentCleaner.php
+core/lib/Drupal/Core/Test/PhpUnitTestDiscoveryTracer.php
+lib/Drupal/Core/Test/PhpUnitTestDiscoveryTracer.php
+Drupal/Core/Test/PhpUnitTestDiscoveryTracer.php
+Core/Test/PhpUnitTestDiscoveryTracer.php
+Test/PhpUnitTestDiscoveryTracer.php
+PhpUnitTestDiscoveryTracer.php
 core/lib/Drupal/Core/Test/JUnitConverter.php
 lib/Drupal/Core/Test/JUnitConverter.php
 Drupal/Core/Test/JUnitConverter.php

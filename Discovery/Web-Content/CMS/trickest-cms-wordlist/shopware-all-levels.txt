@@ -128215,12 +128215,6 @@ Storefront/Framework/Routing/SalesChannelMappingExceptionTest.php
 Framework/Routing/SalesChannelMappingExceptionTest.php
 Routing/SalesChannelMappingExceptionTest.php
 SalesChannelMappingExceptionTest.php
-tests/unit/Storefront/Framework/Routing/RouterTest.php
-unit/Storefront/Framework/Routing/RouterTest.php
-Storefront/Framework/Routing/RouterTest.php
-Framework/Routing/RouterTest.php
-Routing/RouterTest.php
-RouterTest.php
 tests/unit/Storefront/Framework/Routing/Exception/ErrorRedirectRequestEventTest.php
 unit/Storefront/Framework/Routing/Exception/ErrorRedirectRequestEventTest.php
 Storefront/Framework/Routing/Exception/ErrorRedirectRequestEventTest.php
@@ -137212,6 +137206,9 @@ _unreleased/2025-04-04-improve-variants-can-t-be-assigned-to-a-category.md
 changelog/_unreleased/2025-05-20-fix-deeplinkcode-overwrite.md
 _unreleased/2025-05-20-fix-deeplinkcode-overwrite.md
 2025-05-20-fix-deeplinkcode-overwrite.md
+changelog/_unreleased/2025-06-11-filter-cart-success-error-messages.md
+_unreleased/2025-06-11-filter-cart-success-error-messages.md
+2025-06-11-filter-cart-success-error-messages.md
 changelog/_unreleased/2025-05-12-cleanup-cancel-order-modal.md
 _unreleased/2025-05-12-cleanup-cancel-order-modal.md
 2025-05-12-cleanup-cancel-order-modal.md
@@ -137644,9 +137641,6 @@ _unreleased/2025-05-09-fixed-misalignment-of-add-tags-placeholder-in-order-edit-
 changelog/_unreleased/2025-04-17-fix-broken-snippets-in-rule-builder-conditions.md
 _unreleased/2025-04-17-fix-broken-snippets-in-rule-builder-conditions.md
 2025-04-17-fix-broken-snippets-in-rule-builder-conditions.md
-changelog/_unreleased/2025-06-12-allow-storefront-routes-to-have-different-prefixes.md
-_unreleased/2025-06-12-allow-storefront-routes-to-have-different-prefixes.md
-2025-06-12-allow-storefront-routes-to-have-different-prefixes.md
 changelog/_unreleased/2025-03-26-remove-non-existing-imports-from-admin-module-stub.md
 _unreleased/2025-03-26-remove-non-existing-imports-from-admin-module-stub.md
 2025-03-26-remove-non-existing-imports-from-admin-module-stub.md
@@ -137665,6 +137659,9 @@ _unreleased/2025-05-12-fixed-accessibility-issue-of-collapse-button-of-orders.md
 changelog/_unreleased/2025-05-05-add-blocks-for-inputs-for-address-and-register-form.md
 _unreleased/2025-05-05-add-blocks-for-inputs-for-address-and-register-form.md
 2025-05-05-add-blocks-for-inputs-for-address-and-register-form.md
+changelog/_unreleased/2025-06-12-spatial-asset-caching.md
+_unreleased/2025-06-12-spatial-asset-caching.md
+2025-06-12-spatial-asset-caching.md
 changelog/_unreleased/2025-02-21-fix-multi-select-filter-for-translated-entities.md
 _unreleased/2025-02-21-fix-multi-select-filter-for-translated-entities.md
 2025-02-21-fix-multi-select-filter-for-translated-entities.md
