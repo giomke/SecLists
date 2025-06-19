@@ -93955,6 +93955,13 @@ tests/src/Traits/ComposerInstallersTrait.php
 src/Traits/ComposerInstallersTrait.php
 Traits/ComposerInstallersTrait.php
 ComposerInstallersTrait.php
+core/modules/package_manager/tests/src/Build/PackageInstallDirectWriteTest.php
+modules/package_manager/tests/src/Build/PackageInstallDirectWriteTest.php
+package_manager/tests/src/Build/PackageInstallDirectWriteTest.php
+tests/src/Build/PackageInstallDirectWriteTest.php
+src/Build/PackageInstallDirectWriteTest.php
+Build/PackageInstallDirectWriteTest.php
+PackageInstallDirectWriteTest.php
 core/modules/package_manager/tests/src/Build/PackageInstallTest.php
 modules/package_manager/tests/src/Build/PackageInstallTest.php
 package_manager/tests/src/Build/PackageInstallTest.php
