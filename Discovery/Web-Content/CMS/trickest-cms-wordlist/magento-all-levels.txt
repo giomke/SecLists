@@ -298523,6 +298523,13 @@ Framework/Cache/Backend/Database.php
 Cache/Backend/Database.php
 Backend/Database.php
 Database.php
+lib/internal/Magento/Framework/Cache/Backend/Valkey.php
+internal/Magento/Framework/Cache/Backend/Valkey.php
+Magento/Framework/Cache/Backend/Valkey.php
+Framework/Cache/Backend/Valkey.php
+Cache/Backend/Valkey.php
+Backend/Valkey.php
+Valkey.php
 lib/internal/Magento/Framework/Code/Generator/CodeGeneratorInterface.php
 internal/Magento/Framework/Code/Generator/CodeGeneratorInterface.php
 Magento/Framework/Code/Generator/CodeGeneratorInterface.php

@@ -137560,6 +137560,9 @@ _unreleased/2022-05-18-abstract-and-reduce-rule-condition-components.md
 changelog/_unreleased/2025-05-10-load-saleschannelcategoryentity-when-loading-the-breadcrumb.md
 _unreleased/2025-05-10-load-saleschannelcategoryentity-when-loading-the-breadcrumb.md
 2025-05-10-load-saleschannelcategoryentity-when-loading-the-breadcrumb.md
+changelog/_unreleased/2025-06-18-live-search-page-broken-if-the-data-is-empty.md
+_unreleased/2025-06-18-live-search-page-broken-if-the-data-is-empty.md
+2025-06-18-live-search-page-broken-if-the-data-is-empty.md
 changelog/_unreleased/2025-06-02-added-namespaces-parameter-for-dal-validate.md
 _unreleased/2025-06-02-added-namespaces-parameter-for-dal-validate.md
 2025-06-02-added-namespaces-parameter-for-dal-validate.md
