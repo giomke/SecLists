@@ -108873,6 +108873,15 @@ Test/Unit/Model/QuoteExceptionTest.php
 Unit/Model/QuoteExceptionTest.php
 Model/QuoteExceptionTest.php
 QuoteExceptionTest.php
+app/code/Magento/QuoteGraphQl/Test/Unit/Model/Cart/GetCartForCheckoutTest.php
+code/Magento/QuoteGraphQl/Test/Unit/Model/Cart/GetCartForCheckoutTest.php
+Magento/QuoteGraphQl/Test/Unit/Model/Cart/GetCartForCheckoutTest.php
+QuoteGraphQl/Test/Unit/Model/Cart/GetCartForCheckoutTest.php
+Test/Unit/Model/Cart/GetCartForCheckoutTest.php
+Unit/Model/Cart/GetCartForCheckoutTest.php
+Model/Cart/GetCartForCheckoutTest.php
+Cart/GetCartForCheckoutTest.php
+GetCartForCheckoutTest.php
 app/code/Magento/QuoteGraphQl/Test/Unit/Model/Cart/SetPaymentMethodOnCartTest.php
 code/Magento/QuoteGraphQl/Test/Unit/Model/Cart/SetPaymentMethodOnCartTest.php
 Magento/QuoteGraphQl/Test/Unit/Model/Cart/SetPaymentMethodOnCartTest.php
