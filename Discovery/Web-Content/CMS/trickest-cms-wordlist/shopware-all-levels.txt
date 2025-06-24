@@ -137574,6 +137574,9 @@ _unreleased/2025-05-10-load-saleschannelcategoryentity-when-loading-the-breadcru
 changelog/_unreleased/2025-06-18-live-search-page-broken-if-the-data-is-empty.md
 _unreleased/2025-06-18-live-search-page-broken-if-the-data-is-empty.md
 2025-06-18-live-search-page-broken-if-the-data-is-empty.md
+changelog/_unreleased/2025-06-13-remove-unused-url-specification-from-app-metadata.md
+_unreleased/2025-06-13-remove-unused-url-specification-from-app-metadata.md
+2025-06-13-remove-unused-url-specification-from-app-metadata.md
 changelog/_unreleased/2025-06-02-added-namespaces-parameter-for-dal-validate.md
 _unreleased/2025-06-02-added-namespaces-parameter-for-dal-validate.md
 2025-06-02-added-namespaces-parameter-for-dal-validate.md
