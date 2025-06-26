@@ -80533,13 +80533,6 @@ tests/src/Functional/LocaleUpdateTest.php
 src/Functional/LocaleUpdateTest.php
 Functional/LocaleUpdateTest.php
 LocaleUpdateTest.php
-core/modules/locale/tests/src/Functional/LocaleInstallTest.php
-modules/locale/tests/src/Functional/LocaleInstallTest.php
-locale/tests/src/Functional/LocaleInstallTest.php
-tests/src/Functional/LocaleInstallTest.php
-src/Functional/LocaleInstallTest.php
-Functional/LocaleInstallTest.php
-LocaleInstallTest.php
 core/modules/locale/tests/src/Functional/LocaleTranslationChangeProjectVersionTest.php
 modules/locale/tests/src/Functional/LocaleTranslationChangeProjectVersionTest.php
 locale/tests/src/Functional/LocaleTranslationChangeProjectVersionTest.php

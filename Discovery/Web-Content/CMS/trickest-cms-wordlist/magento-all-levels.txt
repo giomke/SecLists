@@ -203019,6 +203019,14 @@ Test/Mftf/Test/AdminSalesOrdersNavigateMenuTest.xml
 Mftf/Test/AdminSalesOrdersNavigateMenuTest.xml
 Test/AdminSalesOrdersNavigateMenuTest.xml
 AdminSalesOrdersNavigateMenuTest.xml
+app/code/Magento/Sales/Test/Mftf/Test/StorefrontVerifyOrderDashboardTest.xml
+code/Magento/Sales/Test/Mftf/Test/StorefrontVerifyOrderDashboardTest.xml
+Magento/Sales/Test/Mftf/Test/StorefrontVerifyOrderDashboardTest.xml
+Sales/Test/Mftf/Test/StorefrontVerifyOrderDashboardTest.xml
+Test/Mftf/Test/StorefrontVerifyOrderDashboardTest.xml
+Mftf/Test/StorefrontVerifyOrderDashboardTest.xml
+Test/StorefrontVerifyOrderDashboardTest.xml
+StorefrontVerifyOrderDashboardTest.xml
 app/code/Magento/Sales/Test/Mftf/Test/MoveRecentlyViewedBundleFixedProductOnOrderPageTest.xml
 code/Magento/Sales/Test/Mftf/Test/MoveRecentlyViewedBundleFixedProductOnOrderPageTest.xml
 Magento/Sales/Test/Mftf/Test/MoveRecentlyViewedBundleFixedProductOnOrderPageTest.xml
