@@ -102722,6 +102722,13 @@ Tests/Component/Gettext/PoStreamWriterTest.php
 Component/Gettext/PoStreamWriterTest.php
 Gettext/PoStreamWriterTest.php
 PoStreamWriterTest.php
+core/tests/Drupal/Tests/Component/Gettext/PoItemTest.php
+tests/Drupal/Tests/Component/Gettext/PoItemTest.php
+Drupal/Tests/Component/Gettext/PoItemTest.php
+Tests/Component/Gettext/PoItemTest.php
+Component/Gettext/PoItemTest.php
+Gettext/PoItemTest.php
+PoItemTest.php
 core/tests/Drupal/Tests/Component/Gettext/PoHeaderTest.php
 tests/Drupal/Tests/Component/Gettext/PoHeaderTest.php
 Drupal/Tests/Component/Gettext/PoHeaderTest.php
