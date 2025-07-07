@@ -44903,10 +44903,6 @@ core/modules/mysqli/mysqli.services.yml
 modules/mysqli/mysqli.services.yml
 mysqli/mysqli.services.yml
 mysqli.services.yml
-core/modules/mysqli/mysqli.install
-modules/mysqli/mysqli.install
-mysqli/mysqli.install
-mysqli.install
 core/modules/mysqli/tests/src/Kernel/mysqli/SyntaxTest.php
 modules/mysqli/tests/src/Kernel/mysqli/SyntaxTest.php
 mysqli/tests/src/Kernel/mysqli/SyntaxTest.php
