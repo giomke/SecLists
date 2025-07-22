@@ -139895,6 +139895,9 @@ _unreleased/2025-04-09-optimizing-theme-config-loading.md
 changelog/_unreleased/2025-07-11-refresh-measurement-units.md
 _unreleased/2025-07-11-refresh-measurement-units.md
 2025-07-11-refresh-measurement-units.md
+changelog/_unreleased/2025-06-23-add-search-sorting-for-live-search.md
+_unreleased/2025-06-23-add-search-sorting-for-live-search.md
+2025-06-23-add-search-sorting-for-live-search.md
 changelog/_unreleased/2025-06-27-skip-in-app-purchases-update-task-on-missing-authentication.md
 _unreleased/2025-06-27-skip-in-app-purchases-update-task-on-missing-authentication.md
 2025-06-27-skip-in-app-purchases-update-task-on-missing-authentication.md

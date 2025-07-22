@@ -84065,6 +84065,12 @@ DefaultConfig/Content/BlockList/VariantBlockList.spec.ts
 Content/BlockList/VariantBlockList.spec.ts
 BlockList/VariantBlockList.spec.ts
 VariantBlockList.spec.ts
+tests/Umbraco.Tests.AcceptanceTest/tests/DefaultConfig/Content/CreateContentFromDocumentBlueprint.spec.ts
+Umbraco.Tests.AcceptanceTest/tests/DefaultConfig/Content/CreateContentFromDocumentBlueprint.spec.ts
+tests/DefaultConfig/Content/CreateContentFromDocumentBlueprint.spec.ts
+DefaultConfig/Content/CreateContentFromDocumentBlueprint.spec.ts
+Content/CreateContentFromDocumentBlueprint.spec.ts
+CreateContentFromDocumentBlueprint.spec.ts
 tests/Umbraco.Tests.AcceptanceTest/tests/DefaultConfig/Content/ContentWithTags.spec.ts
 Umbraco.Tests.AcceptanceTest/tests/DefaultConfig/Content/ContentWithTags.spec.ts
 tests/DefaultConfig/Content/ContentWithTags.spec.ts
@@ -87685,6 +87691,11 @@ Umbraco.Tests.UnitTests/Umbraco.Core/Models/RelationTests.cs
 Umbraco.Core/Models/RelationTests.cs
 Models/RelationTests.cs
 RelationTests.cs
+tests/Umbraco.Tests.UnitTests/Umbraco.Core/Models/DataTypeTests.cs
+Umbraco.Tests.UnitTests/Umbraco.Core/Models/DataTypeTests.cs
+Umbraco.Core/Models/DataTypeTests.cs
+Models/DataTypeTests.cs
+DataTypeTests.cs
 tests/Umbraco.Tests.UnitTests/Umbraco.Core/Models/UserGroupTests.cs
 Umbraco.Tests.UnitTests/Umbraco.Core/Models/UserGroupTests.cs
 Umbraco.Core/Models/UserGroupTests.cs
