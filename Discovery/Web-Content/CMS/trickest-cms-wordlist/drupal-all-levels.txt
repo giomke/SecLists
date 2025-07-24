@@ -111655,6 +111655,11 @@ misc/icons/55565b/formatted_text.svg
 icons/55565b/formatted_text.svg
 55565b/formatted_text.svg
 formatted_text.svg
+core/misc/icons/55565b/puzzle_piece_placeholder.svg
+misc/icons/55565b/puzzle_piece_placeholder.svg
+icons/55565b/puzzle_piece_placeholder.svg
+55565b/puzzle_piece_placeholder.svg
+puzzle_piece_placeholder.svg
 core/misc/icons/55565b/plain_text.svg
 misc/icons/55565b/plain_text.svg
 icons/55565b/plain_text.svg
@@ -111875,11 +111880,6 @@ misc/icons/424242/loupe.svg
 icons/424242/loupe.svg
 424242/loupe.svg
 loupe.svg
-core/misc/icons/cacbd2/puzzle_piece_placeholder.svg
-misc/icons/cacbd2/puzzle_piece_placeholder.svg
-icons/cacbd2/puzzle_piece_placeholder.svg
-cacbd2/puzzle_piece_placeholder.svg
-puzzle_piece_placeholder.svg
 core/misc/icons/e32700/error.svg
 misc/icons/e32700/error.svg
 icons/e32700/error.svg
