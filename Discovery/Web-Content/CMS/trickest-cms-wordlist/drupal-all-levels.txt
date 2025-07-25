@@ -22515,8 +22515,6 @@ core/INSTALL.sqlite.txt
 INSTALL.sqlite.txt
 core/MAINTAINERS.txt
 MAINTAINERS.txt
-core/.phpunit-next.xml
-.phpunit-next.xml
 core/.eslintrc.legacy.json
 .eslintrc.legacy.json
 core/config/install/core.menu.static_menu_link_overrides.yml
@@ -91370,6 +91368,11 @@ Driver/Database/mysql/Insert.php
 Database/mysql/Insert.php
 mysql/Insert.php
 Insert.php
+core/modules/mysql/src/RequirementsTrait.php
+modules/mysql/src/RequirementsTrait.php
+mysql/src/RequirementsTrait.php
+src/RequirementsTrait.php
+RequirementsTrait.php
 core/modules/mysql/mysql.info.yml
 modules/mysql/mysql.info.yml
 mysql/mysql.info.yml
@@ -97747,6 +97750,8 @@ core/core.field_type_categories.yml
 core.field_type_categories.yml
 core/.eslintrc.json
 .eslintrc.json
+core/.phpunit-10.xml
+.phpunit-10.xml
 core/tests/bootstrap.php
 tests/bootstrap.php
 bootstrap.php

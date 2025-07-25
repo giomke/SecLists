@@ -528,6 +528,10 @@ src/Elasticsearch/Product/ElasticsearchProductException.php
 Elasticsearch/Product/ElasticsearchProductException.php
 Product/ElasticsearchProductException.php
 ElasticsearchProductException.php
+src/Elasticsearch/Product/CachedSearchConfigLoader.php
+Elasticsearch/Product/CachedSearchConfigLoader.php
+Product/CachedSearchConfigLoader.php
+CachedSearchConfigLoader.php
 src/Elasticsearch/Product/SearchConfigLoader.php
 Elasticsearch/Product/SearchConfigLoader.php
 Product/SearchConfigLoader.php
@@ -140156,6 +140160,9 @@ _unreleased/2025-06-26-changed-file_exists-to-suitable-is_dir-is_file.md
 changelog/_unreleased/2025-05-19-adjust-bulk-editing-products-with-new-product-measurements.md
 _unreleased/2025-05-19-adjust-bulk-editing-products-with-new-product-measurements.md
 2025-05-19-adjust-bulk-editing-products-with-new-product-measurements.md
+changelog/_unreleased/2025-07-07-use-minimal-search-term-length-in-config-tables.md
+_unreleased/2025-07-07-use-minimal-search-term-length-in-config-tables.md
+2025-07-07-use-minimal-search-term-length-in-config-tables.md
 changelog/_unreleased/2025-04-25-add-measurement-settings-into-sales-channel-configuration.md
 _unreleased/2025-04-25-add-measurement-settings-into-sales-channel-configuration.md
 2025-04-25-add-measurement-settings-into-sales-channel-configuration.md
@@ -140246,6 +140253,9 @@ _unreleased/2025-07-04-delete-correct-expired-store-session.md
 changelog/_unreleased/2025-07-07-change-api-aware-visibility-external-user-product-review.md
 _unreleased/2025-07-07-change-api-aware-visibility-external-user-product-review.md
 2025-07-07-change-api-aware-visibility-external-user-product-review.md
+changelog/_unreleased/2025-07-24-allow-for-lineitemfactoryhandler-decoration.md
+_unreleased/2025-07-24-allow-for-lineitemfactoryhandler-decoration.md
+2025-07-24-allow-for-lineitemfactoryhandler-decoration.md
 changelog/_unreleased/2025-06-28-use-display-index-to-get-active-slide-element.md
 _unreleased/2025-06-28-use-display-index-to-get-active-slide-element.md
 2025-06-28-use-display-index-to-get-active-slide-element.md
@@ -140405,6 +140415,9 @@ _unreleased/2025-07-10-add-env-variables-for-opensearch-min_ngram-and-max_ngram.
 changelog/_unreleased/2025-06-26-remove-usage-of-file_exists-in-admin.md
 _unreleased/2025-06-26-remove-usage-of-file_exists-in-admin.md
 2025-06-26-remove-usage-of-file_exists-in-admin.md
+changelog/_unreleased/2025-07-22-add-missing-cms-block-and-section-id-api-aware.md
+_unreleased/2025-07-22-add-missing-cms-block-and-section-id-api-aware.md
+2025-07-22-add-missing-cms-block-and-section-id-api-aware.md
 changelog/_unreleased/2025-06-10-fix-wrong-variant-of-mt-banner-on-sales-channel-detail-page.md
 _unreleased/2025-06-10-fix-wrong-variant-of-mt-banner-on-sales-channel-detail-page.md
 2025-06-10-fix-wrong-variant-of-mt-banner-on-sales-channel-detail-page.md
