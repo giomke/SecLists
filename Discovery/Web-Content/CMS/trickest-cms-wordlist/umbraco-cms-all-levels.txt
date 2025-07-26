@@ -86506,6 +86506,11 @@ Umbraco.Tests.Integration/Umbraco.Infrastructure/Scoping/ScopeFileSystemsTests.c
 Umbraco.Infrastructure/Scoping/ScopeFileSystemsTests.cs
 Scoping/ScopeFileSystemsTests.cs
 ScopeFileSystemsTests.cs
+tests/Umbraco.Tests.Integration/Umbraco.Infrastructure/Scoping/NestedScopeTests.cs
+Umbraco.Tests.Integration/Umbraco.Infrastructure/Scoping/NestedScopeTests.cs
+Umbraco.Infrastructure/Scoping/NestedScopeTests.cs
+Scoping/NestedScopeTests.cs
+NestedScopeTests.cs
 tests/Umbraco.Tests.Integration/Umbraco.Infrastructure/Scoping/ScopeTests.cs
 Umbraco.Tests.Integration/Umbraco.Infrastructure/Scoping/ScopeTests.cs
 Umbraco.Infrastructure/Scoping/ScopeTests.cs

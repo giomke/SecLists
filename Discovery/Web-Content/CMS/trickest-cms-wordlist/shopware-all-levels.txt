@@ -39162,6 +39162,14 @@ storefront/layout/cookie/cookie-configuration-parent.html.twig
 layout/cookie/cookie-configuration-parent.html.twig
 cookie/cookie-configuration-parent.html.twig
 cookie-configuration-parent.html.twig
+src/Storefront/Resources/views/storefront/layout/cookie/cookie-consent-offcanvas.html.twig
+Storefront/Resources/views/storefront/layout/cookie/cookie-consent-offcanvas.html.twig
+Resources/views/storefront/layout/cookie/cookie-consent-offcanvas.html.twig
+views/storefront/layout/cookie/cookie-consent-offcanvas.html.twig
+storefront/layout/cookie/cookie-consent-offcanvas.html.twig
+layout/cookie/cookie-consent-offcanvas.html.twig
+cookie/cookie-consent-offcanvas.html.twig
+cookie-consent-offcanvas.html.twig
 src/Storefront/Resources/views/storefront/layout/cookie/cookie-configuration-child.html.twig
 Storefront/Resources/views/storefront/layout/cookie/cookie-configuration-child.html.twig
 Resources/views/storefront/layout/cookie/cookie-configuration-child.html.twig
@@ -140133,6 +140141,9 @@ _unreleased/2025-07-03-use-single-shared-interval-for-sw-time-ago.md
 changelog/_unreleased/2025-05-05-remove-obsolete-requiredmessage-variable-declarations.md
 _unreleased/2025-05-05-remove-obsolete-requiredmessage-variable-declarations.md
 2025-05-05-remove-obsolete-requiredmessage-variable-declarations.md
+changelog/_unreleased/2025-07-23-don-t-check-for-canonical-seo-urls-when-no-path-info-given.md
+_unreleased/2025-07-23-don-t-check-for-canonical-seo-urls-when-no-path-info-given.md
+2025-07-23-don-t-check-for-canonical-seo-urls-when-no-path-info-given.md
 changelog/_unreleased/2025-06-17-es-should-work-correctly-with-scorequery.md
 _unreleased/2025-06-17-es-should-work-correctly-with-scorequery.md
 2025-06-17-es-should-work-correctly-with-scorequery.md
