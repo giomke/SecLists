@@ -107193,14 +107193,6 @@ Tests/Core/Form/SubformStateTest.php
 Core/Form/SubformStateTest.php
 Form/SubformStateTest.php
 SubformStateTest.php
-core/tests/Drupal/Tests/Core/Form/fixtures/form_base_test.inc
-tests/Drupal/Tests/Core/Form/fixtures/form_base_test.inc
-Drupal/Tests/Core/Form/fixtures/form_base_test.inc
-Tests/Core/Form/fixtures/form_base_test.inc
-Core/Form/fixtures/form_base_test.inc
-Form/fixtures/form_base_test.inc
-fixtures/form_base_test.inc
-form_base_test.inc
 core/tests/Drupal/Tests/Core/Form/FormSubmitterTest.php
 tests/Drupal/Tests/Core/Form/FormSubmitterTest.php
 Drupal/Tests/Core/Form/FormSubmitterTest.php
