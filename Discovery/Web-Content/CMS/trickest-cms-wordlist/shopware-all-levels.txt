@@ -35996,6 +35996,11 @@ Core/Migration/V6_7/Migration1742484083TransitionToAddressInputFieldArrangement.
 Migration/V6_7/Migration1742484083TransitionToAddressInputFieldArrangement.php
 V6_7/Migration1742484083TransitionToAddressInputFieldArrangement.php
 Migration1742484083TransitionToAddressInputFieldArrangement.php
+src/Core/Migration/V6_7/Migration1753799632FixStateMachineHistoryIntegrationConstraint.php
+Core/Migration/V6_7/Migration1753799632FixStateMachineHistoryIntegrationConstraint.php
+Migration/V6_7/Migration1753799632FixStateMachineHistoryIntegrationConstraint.php
+V6_7/Migration1753799632FixStateMachineHistoryIntegrationConstraint.php
+Migration1753799632FixStateMachineHistoryIntegrationConstraint.php
 src/Core/Migration/V6_7/Migration1742199550MeasurementDisplayUnitTable.php
 Core/Migration/V6_7/Migration1742199550MeasurementDisplayUnitTable.php
 Migration/V6_7/Migration1742199550MeasurementDisplayUnitTable.php
@@ -114977,6 +114982,11 @@ migration/Core/V6_7/Migration1720603803RemoveDefaultPaymentMethodRuleTest.php
 Core/V6_7/Migration1720603803RemoveDefaultPaymentMethodRuleTest.php
 V6_7/Migration1720603803RemoveDefaultPaymentMethodRuleTest.php
 Migration1720603803RemoveDefaultPaymentMethodRuleTest.php
+tests/migration/Core/V6_7/Migration1753799632FixStateMachineHistoryIntegrationConstraintTest.php
+migration/Core/V6_7/Migration1753799632FixStateMachineHistoryIntegrationConstraintTest.php
+Core/V6_7/Migration1753799632FixStateMachineHistoryIntegrationConstraintTest.php
+V6_7/Migration1753799632FixStateMachineHistoryIntegrationConstraintTest.php
+Migration1753799632FixStateMachineHistoryIntegrationConstraintTest.php
 tests/migration/Core/V6_7/Migration1749644517AddListingVariantNameSystemConfigOptionTest.php
 migration/Core/V6_7/Migration1749644517AddListingVariantNameSystemConfigOptionTest.php
 Core/V6_7/Migration1749644517AddListingVariantNameSystemConfigOptionTest.php
@@ -139940,6 +139950,9 @@ _unreleased/2025-06-27-fix-document-number-customization.md
 changelog/_unreleased/2024-07-26-fix-variant-listing-config-when-cloning-products-or-deleting-variants.md
 _unreleased/2024-07-26-fix-variant-listing-config-when-cloning-products-or-deleting-variants.md
 2024-07-26-fix-variant-listing-config-when-cloning-products-or-deleting-variants.md
+changelog/_unreleased/2025-07-30-change-createdcomponent-back-to-being-sync.md
+_unreleased/2025-07-30-change-createdcomponent-back-to-being-sync.md
+2025-07-30-change-createdcomponent-back-to-being-sync.md
 changelog/_unreleased/2025-06-23-media-upload-api-v2.md
 _unreleased/2025-06-23-media-upload-api-v2.md
 2025-06-23-media-upload-api-v2.md
@@ -140162,6 +140175,9 @@ _unreleased/2025-05-28-add-deprecations-to-the-theme-configuration-apis.md
 changelog/_unreleased/2025-06-06-skip-media-indexing-when-remote-thumbnails-are-enabled.md
 _unreleased/2025-06-06-skip-media-indexing-when-remote-thumbnails-are-enabled.md
 2025-06-06-skip-media-indexing-when-remote-thumbnails-are-enabled.md
+changelog/_unreleased/2025-07-30-add-custom-field-entities-to-apps.md
+_unreleased/2025-07-30-add-custom-field-entities-to-apps.md
+2025-07-30-add-custom-field-entities-to-apps.md
 changelog/_unreleased/2025-04-09-optimizing-theme-config-loading.md
 _unreleased/2025-04-09-optimizing-theme-config-loading.md
 2025-04-09-optimizing-theme-config-loading.md
@@ -140402,6 +140418,9 @@ _unreleased/2025-06-25-fix-after-sort-with-multiple-null-values.md
 changelog/_unreleased/2025-04-02-create-migration-and-dal-for-scale-unit.md
 _unreleased/2025-04-02-create-migration-and-dal-for-scale-unit.md
 2025-04-02-create-migration-and-dal-for-scale-unit.md
+changelog/_unreleased/2025-07-29-fix-state-machine-history-fk-constraint.md
+_unreleased/2025-07-29-fix-state-machine-history-fk-constraint.md
+2025-07-29-fix-state-machine-history-fk-constraint.md
 changelog/_unreleased/2025-07-03-add-missing-date-time-format-prop-for-sw-time-ago.md
 _unreleased/2025-07-03-add-missing-date-time-format-prop-for-sw-time-ago.md
 2025-07-03-add-missing-date-time-format-prop-for-sw-time-ago.md
