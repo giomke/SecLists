@@ -22417,14 +22417,6 @@ Magento/Checkout/ViewModel/CartTest.php
 Checkout/ViewModel/CartTest.php
 ViewModel/CartTest.php
 CartTest.php
-dev/tests/integration/testsuite/Magento/Checkout/Helper/DataTest.php
-tests/integration/testsuite/Magento/Checkout/Helper/DataTest.php
-integration/testsuite/Magento/Checkout/Helper/DataTest.php
-testsuite/Magento/Checkout/Helper/DataTest.php
-Magento/Checkout/Helper/DataTest.php
-Checkout/Helper/DataTest.php
-Helper/DataTest.php
-DataTest.php
 dev/tests/integration/testsuite/Magento/TestFixture/Controller/Adminhtml/Noroute.php
 tests/integration/testsuite/Magento/TestFixture/Controller/Adminhtml/Noroute.php
 integration/testsuite/Magento/TestFixture/Controller/Adminhtml/Noroute.php

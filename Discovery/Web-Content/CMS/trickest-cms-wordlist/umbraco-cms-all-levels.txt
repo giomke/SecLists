@@ -58696,6 +58696,11 @@ Umbraco.Web.UI.Client/examples/workspace-context-counter/reset-counter-menu-item
 examples/workspace-context-counter/reset-counter-menu-item.action.ts
 workspace-context-counter/reset-counter-menu-item.action.ts
 reset-counter-menu-item.action.ts
+src/Umbraco.Web.UI.Client/examples/workspace-context-counter/counter-workspace-context.test.ts
+Umbraco.Web.UI.Client/examples/workspace-context-counter/counter-workspace-context.test.ts
+examples/workspace-context-counter/counter-workspace-context.test.ts
+workspace-context-counter/counter-workspace-context.test.ts
+counter-workspace-context.test.ts
 src/Umbraco.Web.UI.Client/examples/dashboard-with-property-dataset/dataset-dashboard.ts
 Umbraco.Web.UI.Client/examples/dashboard-with-property-dataset/dataset-dashboard.ts
 examples/dashboard-with-property-dataset/dataset-dashboard.ts
