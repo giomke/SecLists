@@ -84593,6 +84593,14 @@ tests/src/Functional/ContentModerationWorkflowTypeTest.php
 src/Functional/ContentModerationWorkflowTypeTest.php
 Functional/ContentModerationWorkflowTypeTest.php
 ContentModerationWorkflowTypeTest.php
+core/modules/content_moderation/tests/src/Functional/Update/ContentModerationStateIndexUpdatePathTest.php
+modules/content_moderation/tests/src/Functional/Update/ContentModerationStateIndexUpdatePathTest.php
+content_moderation/tests/src/Functional/Update/ContentModerationStateIndexUpdatePathTest.php
+tests/src/Functional/Update/ContentModerationStateIndexUpdatePathTest.php
+src/Functional/Update/ContentModerationStateIndexUpdatePathTest.php
+Functional/Update/ContentModerationStateIndexUpdatePathTest.php
+Update/ContentModerationStateIndexUpdatePathTest.php
+ContentModerationStateIndexUpdatePathTest.php
 core/modules/content_moderation/tests/src/Functional/DefaultModerationStateTest.php
 modules/content_moderation/tests/src/Functional/DefaultModerationStateTest.php
 content_moderation/tests/src/Functional/DefaultModerationStateTest.php
@@ -84656,6 +84664,12 @@ tests/src/Unit/LatestRevisionCheckTest.php
 src/Unit/LatestRevisionCheckTest.php
 Unit/LatestRevisionCheckTest.php
 LatestRevisionCheckTest.php
+core/modules/content_moderation/tests/fixtures/content-moderation.php
+modules/content_moderation/tests/fixtures/content-moderation.php
+content_moderation/tests/fixtures/content-moderation.php
+tests/fixtures/content-moderation.php
+fixtures/content-moderation.php
+content-moderation.php
 core/modules/content_moderation/tests/modules/content_moderation_test_resave/src/Hook/ContentModerationTestResaveHooks.php
 modules/content_moderation/tests/modules/content_moderation_test_resave/src/Hook/ContentModerationTestResaveHooks.php
 content_moderation/tests/modules/content_moderation_test_resave/src/Hook/ContentModerationTestResaveHooks.php

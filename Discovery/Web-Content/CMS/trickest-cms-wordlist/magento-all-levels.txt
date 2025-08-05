@@ -109190,6 +109190,15 @@ Model/Resolver/ShippingAddress/SelectedShippingMethodTest.php
 Resolver/ShippingAddress/SelectedShippingMethodTest.php
 ShippingAddress/SelectedShippingMethodTest.php
 SelectedShippingMethodTest.php
+app/code/Magento/QuoteGraphQl/Test/Unit/Model/Resolver/CustomizableOptionsTest.php
+code/Magento/QuoteGraphQl/Test/Unit/Model/Resolver/CustomizableOptionsTest.php
+Magento/QuoteGraphQl/Test/Unit/Model/Resolver/CustomizableOptionsTest.php
+QuoteGraphQl/Test/Unit/Model/Resolver/CustomizableOptionsTest.php
+Test/Unit/Model/Resolver/CustomizableOptionsTest.php
+Unit/Model/Resolver/CustomizableOptionsTest.php
+Model/Resolver/CustomizableOptionsTest.php
+Resolver/CustomizableOptionsTest.php
+CustomizableOptionsTest.php
 app/code/Magento/QuoteGraphQl/Test/Unit/Model/Resolver/CartPricesTest.php
 code/Magento/QuoteGraphQl/Test/Unit/Model/Resolver/CartPricesTest.php
 Magento/QuoteGraphQl/Test/Unit/Model/Resolver/CartPricesTest.php

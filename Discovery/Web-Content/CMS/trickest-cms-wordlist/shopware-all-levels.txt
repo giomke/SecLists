@@ -125432,6 +125432,13 @@ Framework/Adapter/Kernel/HttpKernelTest.php
 Adapter/Kernel/HttpKernelTest.php
 Kernel/HttpKernelTest.php
 HttpKernelTest.php
+tests/unit/Core/Framework/Adapter/Kernel/EsiDecorationTest.php
+unit/Core/Framework/Adapter/Kernel/EsiDecorationTest.php
+Core/Framework/Adapter/Kernel/EsiDecorationTest.php
+Framework/Adapter/Kernel/EsiDecorationTest.php
+Adapter/Kernel/EsiDecorationTest.php
+Kernel/EsiDecorationTest.php
+EsiDecorationTest.php
 tests/unit/Core/Framework/Adapter/Kernel/KernelFactoryTest.php
 unit/Core/Framework/Adapter/Kernel/KernelFactoryTest.php
 Core/Framework/Adapter/Kernel/KernelFactoryTest.php
@@ -138830,6 +138837,9 @@ _unreleased/2025-06-19-use-global-vue-prop-type.md
 changelog/_unreleased/2025-03-27-added-new-configs-for-changing-cart-columns.md
 _unreleased/2025-03-27-added-new-configs-for-changing-cart-columns.md
 2025-03-27-added-new-configs-for-changing-cart-columns.md
+changelog/_unreleased/2025-08-01-document-styling.md
+_unreleased/2025-08-01-document-styling.md
+2025-08-01-document-styling.md
 changelog/_unreleased/2025-06-11-improve-fetching-of-language-information-for-saleschannelcontext.md
 _unreleased/2025-06-11-improve-fetching-of-language-information-for-saleschannelcontext.md
 2025-06-11-improve-fetching-of-language-information-for-saleschannelcontext.md
@@ -138863,6 +138873,9 @@ _unreleased/2025-06-24-unify-margins-of-admin-dashboard.md
 changelog/_unreleased/2025-02-24-deferred-cart-errors.md
 _unreleased/2025-02-24-deferred-cart-errors.md
 2025-02-24-deferred-cart-errors.md
+changelog/_unreleased/2025-07-29-add-design-tokens-to-the-smart-bar.md
+_unreleased/2025-07-29-add-design-tokens-to-the-smart-bar.md
+2025-07-29-add-design-tokens-to-the-smart-bar.md
 changelog/_unreleased/2025-03-28-save-file-hash-if-it-is-available.md
 _unreleased/2025-03-28-save-file-hash-if-it-is-available.md
 2025-03-28-save-file-hash-if-it-is-available.md
@@ -139040,6 +139053,9 @@ _unreleased/2025-06-17-add-acl.md
 changelog/_unreleased/2025-07-28-remove-fk-delete-exception-handler.md
 _unreleased/2025-07-28-remove-fk-delete-exception-handler.md
 2025-07-28-remove-fk-delete-exception-handler.md
+changelog/_unreleased/2025-07-28-fix-systemconfigservice-deleteextensionconfiguration-removes-only-global-configuration.md
+_unreleased/2025-07-28-fix-systemconfigservice-deleteextensionconfiguration-removes-only-global-configuration.md
+2025-07-28-fix-systemconfigservice-deleteextensionconfiguration-removes-only-global-configuration.md
 changelog/_unreleased/2025-07-10-ar-placement.md
 _unreleased/2025-07-10-ar-placement.md
 2025-07-10-ar-placement.md
