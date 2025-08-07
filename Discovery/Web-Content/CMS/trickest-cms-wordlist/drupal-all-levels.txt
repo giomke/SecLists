@@ -39935,6 +39935,12 @@ file/src/Hook/FileDownloadHook.php
 src/Hook/FileDownloadHook.php
 Hook/FileDownloadHook.php
 FileDownloadHook.php
+core/modules/file/src/Hook/FileFormHooks.php
+modules/file/src/Hook/FileFormHooks.php
+file/src/Hook/FileFormHooks.php
+src/Hook/FileFormHooks.php
+Hook/FileFormHooks.php
+FileFormHooks.php
 core/modules/file/src/Hook/FileRequirements.php
 modules/file/src/Hook/FileRequirements.php
 file/src/Hook/FileRequirements.php
