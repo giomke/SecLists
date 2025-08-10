@@ -139485,6 +139485,9 @@ _unreleased/2025-06-23-fix-issue-seo-url-not-generating-anymore.md
 changelog/_unreleased/2025-07-03-use-sw-time-ago-for-past-date-times.md
 _unreleased/2025-07-03-use-sw-time-ago-for-past-date-times.md
 2025-07-03-use-sw-time-ago-for-past-date-times.md
+changelog/_unreleased/2025-08-08-fix-recursive-cart-lock-usage.md
+_unreleased/2025-08-08-fix-recursive-cart-lock-usage.md
+2025-08-08-fix-recursive-cart-lock-usage.md
 changelog/_unreleased/2025-03-13-preserve-administration-sidebar-state.md
 _unreleased/2025-03-13-preserve-administration-sidebar-state.md
 2025-03-13-preserve-administration-sidebar-state.md
@@ -139788,6 +139791,9 @@ _unreleased/2025-07-22-add-missing-cms-block-and-section-id-api-aware.md
 changelog/_unreleased/2025-07-24-fix-theme-lifecycle-service-refresh-themes-without-plugins.md
 _unreleased/2025-07-24-fix-theme-lifecycle-service-refresh-themes-without-plugins.md
 2025-07-24-fix-theme-lifecycle-service-refresh-themes-without-plugins.md
+changelog/_unreleased/2025-08-07-fix-duplicate-address-display-in-order-detail.md
+_unreleased/2025-08-07-fix-duplicate-address-display-in-order-detail.md
+2025-08-07-fix-duplicate-address-display-in-order-detail.md
 changelog/_unreleased/2025-07-28-increased-minimum-required-version-of-mysql-database.md
 _unreleased/2025-07-28-increased-minimum-required-version-of-mysql-database.md
 2025-07-28-increased-minimum-required-version-of-mysql-database.md

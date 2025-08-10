@@ -364,6 +364,12 @@ src/Engine/Logger/class-default-email-editor-logger.php
 Engine/Logger/class-default-email-editor-logger.php
 Logger/class-default-email-editor-logger.php
 class-default-email-editor-logger.php
+packages/php/email-editor/src/Engine/class-assets-manager.php
+php/email-editor/src/Engine/class-assets-manager.php
+email-editor/src/Engine/class-assets-manager.php
+src/Engine/class-assets-manager.php
+Engine/class-assets-manager.php
+class-assets-manager.php
 packages/php/email-editor/src/Engine/class-user-theme.php
 php/email-editor/src/Engine/class-user-theme.php
 email-editor/src/Engine/class-user-theme.php
@@ -1155,11 +1161,6 @@ php/email-editor/changelog/.gitkeep
 email-editor/changelog/.gitkeep
 changelog/.gitkeep
 .gitkeep
-packages/php/email-editor/changelog/60137-fix-email-editor-convert-warnings
-php/email-editor/changelog/60137-fix-email-editor-convert-warnings
-email-editor/changelog/60137-fix-email-editor-convert-warnings
-changelog/60137-fix-email-editor-convert-warnings
-60137-fix-email-editor-convert-warnings
 packages/php/email-editor/SECURITY.md
 php/email-editor/SECURITY.md
 email-editor/SECURITY.md
@@ -90219,6 +90220,10 @@ plugins/woocommerce/changelog/59353-update-wooplug-4287-selecting-all-countries-
 woocommerce/changelog/59353-update-wooplug-4287-selecting-all-countries-in-shipping-zone-settings-doesnt
 changelog/59353-update-wooplug-4287-selecting-all-countries-in-shipping-zone-settings-doesnt
 59353-update-wooplug-4287-selecting-all-countries-in-shipping-zone-settings-doesnt
+plugins/woocommerce/changelog/60253-wooplug-4876-accessibility-key-notices-not-being-read-by-screen-readers
+woocommerce/changelog/60253-wooplug-4876-accessibility-key-notices-not-being-read-by-screen-readers
+changelog/60253-wooplug-4876-accessibility-key-notices-not-being-read-by-screen-readers
+60253-wooplug-4876-accessibility-key-notices-not-being-read-by-screen-readers
 plugins/woocommerce/changelog/wooplug-4770-remove-feature-gate-for-taxonomy-filter-block
 woocommerce/changelog/wooplug-4770-remove-feature-gate-for-taxonomy-filter-block
 changelog/wooplug-4770-remove-feature-gate-for-taxonomy-filter-block
