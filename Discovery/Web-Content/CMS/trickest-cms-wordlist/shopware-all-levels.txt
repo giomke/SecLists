@@ -7853,6 +7853,12 @@ Core/Profiling/DependencyInjection/services.xml
 Profiling/DependencyInjection/services.xml
 DependencyInjection/services.xml
 services.xml
+src/Core/Profiling/DependencyInjection/CompilerPass/CartServiceCompilerPass.php
+Core/Profiling/DependencyInjection/CompilerPass/CartServiceCompilerPass.php
+Profiling/DependencyInjection/CompilerPass/CartServiceCompilerPass.php
+DependencyInjection/CompilerPass/CartServiceCompilerPass.php
+CompilerPass/CartServiceCompilerPass.php
+CartServiceCompilerPass.php
 src/Core/Profiling/Doctrine/ConnectionProfiler.php
 Core/Profiling/Doctrine/ConnectionProfiler.php
 Profiling/Doctrine/ConnectionProfiler.php
@@ -139476,6 +139482,9 @@ _unreleased/2025-05-19-adjust-bulk-editing-products-with-new-product-measurement
 changelog/_unreleased/2025-07-07-use-minimal-search-term-length-in-config-tables.md
 _unreleased/2025-07-07-use-minimal-search-term-length-in-config-tables.md
 2025-07-07-use-minimal-search-term-length-in-config-tables.md
+changelog/_unreleased/2025-08-08-improve-property-group-loading-performance.md
+_unreleased/2025-08-08-improve-property-group-loading-performance.md
+2025-08-08-improve-property-group-loading-performance.md
 changelog/_unreleased/2025-04-25-add-measurement-settings-into-sales-channel-configuration.md
 _unreleased/2025-04-25-add-measurement-settings-into-sales-channel-configuration.md
 2025-04-25-add-measurement-settings-into-sales-channel-configuration.md
