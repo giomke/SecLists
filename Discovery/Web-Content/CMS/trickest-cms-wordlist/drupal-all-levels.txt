@@ -68875,6 +68875,11 @@ modules/comment/src/CommentLazyBuilders.php
 comment/src/CommentLazyBuilders.php
 src/CommentLazyBuilders.php
 CommentLazyBuilders.php
+core/modules/comment/src/CommentPreviewMode.php
+modules/comment/src/CommentPreviewMode.php
+comment/src/CommentPreviewMode.php
+src/CommentPreviewMode.php
+CommentPreviewMode.php
 core/modules/comment/src/Tests/CommentTestTrait.php
 modules/comment/src/Tests/CommentTestTrait.php
 comment/src/Tests/CommentTestTrait.php

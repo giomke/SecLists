@@ -85148,6 +85148,15 @@ rest-api/Controllers/Version3/class-wc-rest-coupons-controller-tests.php
 Controllers/Version3/class-wc-rest-coupons-controller-tests.php
 Version3/class-wc-rest-coupons-controller-tests.php
 class-wc-rest-coupons-controller-tests.php
+plugins/woocommerce/tests/php/includes/rest-api/Controllers/Version3/class-wc-rest-product-categories-controller-test.php
+woocommerce/tests/php/includes/rest-api/Controllers/Version3/class-wc-rest-product-categories-controller-test.php
+tests/php/includes/rest-api/Controllers/Version3/class-wc-rest-product-categories-controller-test.php
+php/includes/rest-api/Controllers/Version3/class-wc-rest-product-categories-controller-test.php
+includes/rest-api/Controllers/Version3/class-wc-rest-product-categories-controller-test.php
+rest-api/Controllers/Version3/class-wc-rest-product-categories-controller-test.php
+Controllers/Version3/class-wc-rest-product-categories-controller-test.php
+Version3/class-wc-rest-product-categories-controller-test.php
+class-wc-rest-product-categories-controller-test.php
 plugins/woocommerce/tests/php/includes/rest-api/Controllers/Version3/class-wc-rest-create-product-with-tags-controller-test.php
 woocommerce/tests/php/includes/rest-api/Controllers/Version3/class-wc-rest-create-product-with-tags-controller-test.php
 tests/php/includes/rest-api/Controllers/Version3/class-wc-rest-create-product-with-tags-controller-test.php
@@ -89968,6 +89977,10 @@ plugins/woocommerce/changelog/wooplug-5090-custom-email-templates-in-theme-not-b
 woocommerce/changelog/wooplug-5090-custom-email-templates-in-theme-not-being-pulled-in
 changelog/wooplug-5090-custom-email-templates-in-theme-not-being-pulled-in
 wooplug-5090-custom-email-templates-in-theme-not-being-pulled-in
+plugins/woocommerce/changelog/60158-fix-wooplug-5231-incorrect-count-for-brands-through-the-wp
+woocommerce/changelog/60158-fix-wooplug-5231-incorrect-count-for-brands-through-the-wp
+changelog/60158-fix-wooplug-5231-incorrect-count-for-brands-through-the-wp
+60158-fix-wooplug-5231-incorrect-count-for-brands-through-the-wp
 plugins/woocommerce/changelog/60051-add-wccom-1647-get-installation-status-endpoint
 woocommerce/changelog/60051-add-wccom-1647-get-installation-status-endpoint
 changelog/60051-add-wccom-1647-get-installation-status-endpoint
@@ -90012,6 +90025,10 @@ plugins/woocommerce/changelog/add-spacing-support-minicart
 woocommerce/changelog/add-spacing-support-minicart
 changelog/add-spacing-support-minicart
 add-spacing-support-minicart
+plugins/woocommerce/changelog/fix-email-e2e-test
+woocommerce/changelog/fix-email-e2e-test
+changelog/fix-email-e2e-test
+fix-email-e2e-test
 plugins/woocommerce/changelog/add-mobile-screens-lys
 woocommerce/changelog/add-mobile-screens-lys
 changelog/add-mobile-screens-lys

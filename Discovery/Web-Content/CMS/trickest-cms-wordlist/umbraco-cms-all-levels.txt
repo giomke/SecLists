@@ -70076,6 +70076,10 @@ src/Umbraco.PublishedCache.HybridCache/DependencyInjection/UmbracoBuilderExtensi
 Umbraco.PublishedCache.HybridCache/DependencyInjection/UmbracoBuilderExtensions.cs
 DependencyInjection/UmbracoBuilderExtensions.cs
 UmbracoBuilderExtensions.cs
+src/Umbraco.PublishedCache.HybridCache/Extensions/HybridCacheExtensions.cs
+Umbraco.PublishedCache.HybridCache/Extensions/HybridCacheExtensions.cs
+Extensions/HybridCacheExtensions.cs
+HybridCacheExtensions.cs
 src/Umbraco.PublishedCache.HybridCache/DomainCache.cs
 Umbraco.PublishedCache.HybridCache/DomainCache.cs
 DomainCache.cs
@@ -88105,6 +88109,11 @@ tests/Umbraco.Tests.UnitTests/Umbraco.PublishedCache.HybridCache/DocumentBreadth
 Umbraco.Tests.UnitTests/Umbraco.PublishedCache.HybridCache/DocumentBreadthFirstKeyProviderTests.cs
 Umbraco.PublishedCache.HybridCache/DocumentBreadthFirstKeyProviderTests.cs
 DocumentBreadthFirstKeyProviderTests.cs
+tests/Umbraco.Tests.UnitTests/Umbraco.PublishedCache.HybridCache/Extensions/HybridCacheExtensionsTests.cs
+Umbraco.Tests.UnitTests/Umbraco.PublishedCache.HybridCache/Extensions/HybridCacheExtensionsTests.cs
+Umbraco.PublishedCache.HybridCache/Extensions/HybridCacheExtensionsTests.cs
+Extensions/HybridCacheExtensionsTests.cs
+HybridCacheExtensionsTests.cs
 tests/Umbraco.Tests.UnitTests/Umbraco.PublishedCache.HybridCache/MediaBreadthFirstKeyProviderTests.cs
 Umbraco.Tests.UnitTests/Umbraco.PublishedCache.HybridCache/MediaBreadthFirstKeyProviderTests.cs
 Umbraco.PublishedCache.HybridCache/MediaBreadthFirstKeyProviderTests.cs
