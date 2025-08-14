@@ -480,6 +480,13 @@ libs/observable-api/utils/json-string-comparison.function.ts
 observable-api/utils/json-string-comparison.function.ts
 utils/json-string-comparison.function.ts
 json-string-comparison.function.ts
+src/Umbraco.Web.UI.Client/src/libs/observable-api/utils/observation-as-promise.function.ts
+Umbraco.Web.UI.Client/src/libs/observable-api/utils/observation-as-promise.function.ts
+src/libs/observable-api/utils/observation-as-promise.function.ts
+libs/observable-api/utils/observation-as-promise.function.ts
+observable-api/utils/observation-as-promise.function.ts
+utils/observation-as-promise.function.ts
+observation-as-promise.function.ts
 src/Umbraco.Web.UI.Client/src/libs/observable-api/utils/deep-freeze.function.ts
 Umbraco.Web.UI.Client/src/libs/observable-api/utils/deep-freeze.function.ts
 src/libs/observable-api/utils/deep-freeze.function.ts
@@ -87783,6 +87790,11 @@ Umbraco.Tests.UnitTests/Umbraco.Core/Routing/DomainsAndCulturesTests.cs
 Umbraco.Core/Routing/DomainsAndCulturesTests.cs
 Routing/DomainsAndCulturesTests.cs
 DomainsAndCulturesTests.cs
+tests/Umbraco.Tests.UnitTests/Umbraco.Core/Routing/ContentFinderByUrlNewTests.cs
+Umbraco.Tests.UnitTests/Umbraco.Core/Routing/ContentFinderByUrlNewTests.cs
+Umbraco.Core/Routing/ContentFinderByUrlNewTests.cs
+Routing/ContentFinderByUrlNewTests.cs
+ContentFinderByUrlNewTests.cs
 tests/Umbraco.Tests.UnitTests/Umbraco.Core/Routing/ContentFinderByUrlTests.cs
 Umbraco.Tests.UnitTests/Umbraco.Core/Routing/ContentFinderByUrlTests.cs
 Umbraco.Core/Routing/ContentFinderByUrlTests.cs
