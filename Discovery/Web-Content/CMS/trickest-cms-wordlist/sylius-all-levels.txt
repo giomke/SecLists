@@ -75926,6 +75926,12 @@ how-to-add-a-custom-shipping-calculator.md
 docs/shipping/how-to-add-a-custom-shipping-method-rule.md
 shipping/how-to-add-a-custom-shipping-method-rule.md
 how-to-add-a-custom-shipping-method-rule.md
+docs/b2b/README.md
+b2b/README.md
+README.md
+docs/b2b/how-to-use-b2b-suite-without-elasticsearch.md
+b2b/how-to-use-b2b-suite-without-elasticsearch.md
+how-to-use-b2b-suite-without-elasticsearch.md
 docs/emails/how-to-disable-the-order-confirmation-email.md
 emails/how-to-disable-the-order-confirmation-email.md
 how-to-disable-the-order-confirmation-email.md
@@ -75944,6 +75950,9 @@ how-to-customize-email-templates-per-channel.md
 docs/getting-started-with-sylius/installing-plugins.md
 getting-started-with-sylius/installing-plugins.md
 installing-plugins.md
+docs/getting-started-with-sylius/before-you-begin.md
+getting-started-with-sylius/before-you-begin.md
+before-you-begin.md
 docs/getting-started-with-sylius/choosing-sylius-when-and-why.md
 getting-started-with-sylius/choosing-sylius-when-and-why.md
 choosing-sylius-when-and-why.md
@@ -75956,9 +75965,6 @@ summary.md
 docs/getting-started-with-sylius/using-api.md
 getting-started-with-sylius/using-api.md
 using-api.md
-docs/getting-started-with-sylius/system-requirements.md
-getting-started-with-sylius/system-requirements.md
-system-requirements.md
 docs/getting-started-with-sylius/customizing-business-logic.md
 getting-started-with-sylius/customizing-business-logic.md
 customizing-business-logic.md

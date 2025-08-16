@@ -85018,6 +85018,9 @@ tests/Umbraco.Tests.AcceptanceTest/tests/auth.setup.ts
 Umbraco.Tests.AcceptanceTest/tests/auth.setup.ts
 tests/auth.setup.ts
 auth.setup.ts
+tests/Umbraco.Tests.AcceptanceTest/console-errors.json
+Umbraco.Tests.AcceptanceTest/console-errors.json
+console-errors.json
 tests/Umbraco.Tests.AcceptanceTest/postinstall.js
 Umbraco.Tests.AcceptanceTest/postinstall.js
 postinstall.js
@@ -86529,12 +86532,6 @@ Umbraco.Infrastructure/Persistence/Repositories/AuditRepositoryTest.cs
 Persistence/Repositories/AuditRepositoryTest.cs
 Repositories/AuditRepositoryTest.cs
 AuditRepositoryTest.cs
-tests/Umbraco.Tests.Integration/Umbraco.Infrastructure/Persistence/Repositories/SimilarNodeNameTests.cs
-Umbraco.Tests.Integration/Umbraco.Infrastructure/Persistence/Repositories/SimilarNodeNameTests.cs
-Umbraco.Infrastructure/Persistence/Repositories/SimilarNodeNameTests.cs
-Persistence/Repositories/SimilarNodeNameTests.cs
-Repositories/SimilarNodeNameTests.cs
-SimilarNodeNameTests.cs
 tests/Umbraco.Tests.Integration/Umbraco.Infrastructure/Persistence/Repositories/MemberTypeRepositoryTest.cs
 Umbraco.Tests.Integration/Umbraco.Infrastructure/Persistence/Repositories/MemberTypeRepositoryTest.cs
 Umbraco.Infrastructure/Persistence/Repositories/MemberTypeRepositoryTest.cs
@@ -88356,6 +88353,12 @@ Umbraco.Infrastructure/Persistence/Querying/MediaRepositorySqlClausesTest.cs
 Persistence/Querying/MediaRepositorySqlClausesTest.cs
 Querying/MediaRepositorySqlClausesTest.cs
 MediaRepositorySqlClausesTest.cs
+tests/Umbraco.Tests.UnitTests/Umbraco.Infrastructure/Persistence/Repositories/SimilarNodeNameTests.cs
+Umbraco.Tests.UnitTests/Umbraco.Infrastructure/Persistence/Repositories/SimilarNodeNameTests.cs
+Umbraco.Infrastructure/Persistence/Repositories/SimilarNodeNameTests.cs
+Persistence/Repositories/SimilarNodeNameTests.cs
+Repositories/SimilarNodeNameTests.cs
+SimilarNodeNameTests.cs
 tests/Umbraco.Tests.UnitTests/Umbraco.Infrastructure/Persistence/BulkDataReaderTests.cs
 Umbraco.Tests.UnitTests/Umbraco.Infrastructure/Persistence/BulkDataReaderTests.cs
 Umbraco.Infrastructure/Persistence/BulkDataReaderTests.cs
