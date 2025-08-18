@@ -139781,6 +139781,9 @@ _unreleased/2024-08-05-metrics-abstraction.md
 changelog/_unreleased/2024-05-22-navbar-for-main-navigation.md
 _unreleased/2024-05-22-navbar-for-main-navigation.md
 2024-05-22-navbar-for-main-navigation.md
+changelog/_unreleased/2025-07-31-config-endpoints-cached-indefinitely.md
+_unreleased/2025-07-31-config-endpoints-cached-indefinitely.md
+2025-07-31-config-endpoints-cached-indefinitely.md
 changelog/_unreleased/2024-09-20-simplify-emitting-metrics.md
 _unreleased/2024-09-20-simplify-emitting-metrics.md
 2024-09-20-simplify-emitting-metrics.md

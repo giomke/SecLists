@@ -3288,6 +3288,11 @@ packages/js/email-editor/.prettierrc.js
 js/email-editor/.prettierrc.js
 email-editor/.prettierrc.js
 .prettierrc.js
+packages/js/email-editor/changelog/wooplug-5204-email-editor-site-logo-align-right-value-not-working-with
+js/email-editor/changelog/wooplug-5204-email-editor-site-logo-align-right-value-not-working-with
+email-editor/changelog/wooplug-5204-email-editor-site-logo-align-right-value-not-working-with
+changelog/wooplug-5204-email-editor-site-logo-align-right-value-not-working-with
+wooplug-5204-email-editor-site-logo-align-right-value-not-working-with
 packages/js/email-editor/changelog/.gitkeep
 js/email-editor/changelog/.gitkeep
 email-editor/changelog/.gitkeep
@@ -90110,6 +90115,10 @@ plugins/woocommerce/changelog/feat-init-wc-migrator
 woocommerce/changelog/feat-init-wc-migrator
 changelog/feat-init-wc-migrator
 feat-init-wc-migrator
+plugins/woocommerce/changelog/update-WOOPLUG-5298-better-handle-sandbox-accounts-when-activating-payments
+woocommerce/changelog/update-WOOPLUG-5298-better-handle-sandbox-accounts-when-activating-payments
+changelog/update-WOOPLUG-5298-better-handle-sandbox-accounts-when-activating-payments
+update-WOOPLUG-5298-better-handle-sandbox-accounts-when-activating-payments
 plugins/woocommerce/changelog/fix-59442-details-sku-variation-data
 woocommerce/changelog/fix-59442-details-sku-variation-data
 changelog/fix-59442-details-sku-variation-data
@@ -90190,6 +90199,10 @@ plugins/woocommerce/changelog/wooplug-5235-double-encoded-html-entities-in-wooco
 woocommerce/changelog/wooplug-5235-double-encoded-html-entities-in-woocommerce-blocks-shipping
 changelog/wooplug-5235-double-encoded-html-entities-in-woocommerce-blocks-shipping
 wooplug-5235-double-encoded-html-entities-in-woocommerce-blocks-shipping
+plugins/woocommerce/changelog/2025-08-12-18-31-11-054449
+woocommerce/changelog/2025-08-12-18-31-11-054449
+changelog/2025-08-12-18-31-11-054449
+2025-08-12-18-31-11-054449
 plugins/woocommerce/changelog/60213-feat-product-form-rating-selector-iapi
 woocommerce/changelog/60213-feat-product-form-rating-selector-iapi
 changelog/60213-feat-product-form-rating-selector-iapi
@@ -90262,6 +90275,10 @@ plugins/woocommerce/changelog/59686-wooplug-5028-product-details-make-the-block-
 woocommerce/changelog/59686-wooplug-5028-product-details-make-the-block-available-in-the-single
 changelog/59686-wooplug-5028-product-details-make-the-block-available-in-the-single
 59686-wooplug-5028-product-details-make-the-block-available-in-the-single
+plugins/woocommerce/changelog/tests-quantity-admin-changes
+woocommerce/changelog/tests-quantity-admin-changes
+changelog/tests-quantity-admin-changes
+tests-quantity-admin-changes
 plugins/woocommerce/changelog/migrator-shopify-woo-mapper
 woocommerce/changelog/migrator-shopify-woo-mapper
 changelog/migrator-shopify-woo-mapper
