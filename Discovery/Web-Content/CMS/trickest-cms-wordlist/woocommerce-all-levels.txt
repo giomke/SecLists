@@ -36659,6 +36659,18 @@ payment-methods/express-payment/test/checkout-express-payment.tsx
 express-payment/test/checkout-express-payment.tsx
 test/checkout-express-payment.tsx
 checkout-express-payment.tsx
+plugins/woocommerce/client/blocks/assets/js/blocks/cart-checkout-shared/payment-methods/express-payment/test/cart-express-payment.tsx
+woocommerce/client/blocks/assets/js/blocks/cart-checkout-shared/payment-methods/express-payment/test/cart-express-payment.tsx
+client/blocks/assets/js/blocks/cart-checkout-shared/payment-methods/express-payment/test/cart-express-payment.tsx
+blocks/assets/js/blocks/cart-checkout-shared/payment-methods/express-payment/test/cart-express-payment.tsx
+assets/js/blocks/cart-checkout-shared/payment-methods/express-payment/test/cart-express-payment.tsx
+js/blocks/cart-checkout-shared/payment-methods/express-payment/test/cart-express-payment.tsx
+blocks/cart-checkout-shared/payment-methods/express-payment/test/cart-express-payment.tsx
+cart-checkout-shared/payment-methods/express-payment/test/cart-express-payment.tsx
+payment-methods/express-payment/test/cart-express-payment.tsx
+express-payment/test/cart-express-payment.tsx
+test/cart-express-payment.tsx
+cart-express-payment.tsx
 plugins/woocommerce/client/blocks/assets/js/blocks/cart-checkout-shared/payment-methods/index.js
 woocommerce/client/blocks/assets/js/blocks/cart-checkout-shared/payment-methods/index.js
 client/blocks/assets/js/blocks/cart-checkout-shared/payment-methods/index.js
@@ -41296,6 +41308,18 @@ cart/inner-blocks/cart-cross-sells-block/block.json
 inner-blocks/cart-cross-sells-block/block.json
 cart-cross-sells-block/block.json
 block.json
+plugins/woocommerce/client/blocks/assets/js/blocks/cart/inner-blocks/cart-cross-sells-block/test/block.ts
+woocommerce/client/blocks/assets/js/blocks/cart/inner-blocks/cart-cross-sells-block/test/block.ts
+client/blocks/assets/js/blocks/cart/inner-blocks/cart-cross-sells-block/test/block.ts
+blocks/assets/js/blocks/cart/inner-blocks/cart-cross-sells-block/test/block.ts
+assets/js/blocks/cart/inner-blocks/cart-cross-sells-block/test/block.ts
+js/blocks/cart/inner-blocks/cart-cross-sells-block/test/block.ts
+blocks/cart/inner-blocks/cart-cross-sells-block/test/block.ts
+cart/inner-blocks/cart-cross-sells-block/test/block.ts
+inner-blocks/cart-cross-sells-block/test/block.ts
+cart-cross-sells-block/test/block.ts
+test/block.ts
+block.ts
 plugins/woocommerce/client/blocks/assets/js/blocks/cart/inner-blocks/cart-order-summary-heading/editor.scss
 woocommerce/client/blocks/assets/js/blocks/cart/inner-blocks/cart-order-summary-heading/editor.scss
 client/blocks/assets/js/blocks/cart/inner-blocks/cart-order-summary-heading/editor.scss
@@ -87367,6 +87391,13 @@ paypal/assets/js/paypal-admin.js
 assets/js/paypal-admin.js
 js/paypal-admin.js
 paypal-admin.js
+plugins/woocommerce/includes/gateways/paypal/includes/class-wc-gateway-paypal-helper.php
+woocommerce/includes/gateways/paypal/includes/class-wc-gateway-paypal-helper.php
+includes/gateways/paypal/includes/class-wc-gateway-paypal-helper.php
+gateways/paypal/includes/class-wc-gateway-paypal-helper.php
+paypal/includes/class-wc-gateway-paypal-helper.php
+includes/class-wc-gateway-paypal-helper.php
+class-wc-gateway-paypal-helper.php
 plugins/woocommerce/includes/gateways/paypal/includes/class-wc-gateway-paypal-request.php
 woocommerce/includes/gateways/paypal/includes/class-wc-gateway-paypal-request.php
 includes/gateways/paypal/includes/class-wc-gateway-paypal-request.php
@@ -87381,6 +87412,13 @@ gateways/paypal/includes/class-wc-gateway-paypal-api-handler.php
 paypal/includes/class-wc-gateway-paypal-api-handler.php
 includes/class-wc-gateway-paypal-api-handler.php
 class-wc-gateway-paypal-api-handler.php
+plugins/woocommerce/includes/gateways/paypal/includes/class-wc-gateway-paypal-notices.php
+woocommerce/includes/gateways/paypal/includes/class-wc-gateway-paypal-notices.php
+includes/gateways/paypal/includes/class-wc-gateway-paypal-notices.php
+gateways/paypal/includes/class-wc-gateway-paypal-notices.php
+paypal/includes/class-wc-gateway-paypal-notices.php
+includes/class-wc-gateway-paypal-notices.php
+class-wc-gateway-paypal-notices.php
 plugins/woocommerce/includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php
 woocommerce/includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php
 includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php
@@ -90754,6 +90792,10 @@ plugins/woocommerce/changelog/59729-theme-37-woocommerce-store-notice-doesnt-sho
 woocommerce/changelog/59729-theme-37-woocommerce-store-notice-doesnt-show-up
 changelog/59729-theme-37-woocommerce-store-notice-doesnt-show-up
 59729-theme-37-woocommerce-store-notice-doesnt-show-up
+plugins/woocommerce/changelog/fix-express-button-reload-in-cart-block
+woocommerce/changelog/fix-express-button-reload-in-cart-block
+changelog/fix-express-button-reload-in-cart-block
+fix-express-button-reload-in-cart-block
 plugins/woocommerce/changelog/59803-feedback-59741
 woocommerce/changelog/59803-feedback-59741
 changelog/59803-feedback-59741
@@ -90762,6 +90804,10 @@ plugins/woocommerce/changelog/60283-fix-wccom-1584
 woocommerce/changelog/60283-fix-wccom-1584
 changelog/60283-fix-wccom-1584
 60283-fix-wccom-1584
+plugins/woocommerce/changelog/lstr-fix-no-padding-for-checkout-actions-block
+woocommerce/changelog/lstr-fix-no-padding-for-checkout-actions-block
+changelog/lstr-fix-no-padding-for-checkout-actions-block
+lstr-fix-no-padding-for-checkout-actions-block
 plugins/woocommerce/changelog/wooplug-5289-phpunit-test-failure
 woocommerce/changelog/wooplug-5289-phpunit-test-failure
 changelog/wooplug-5289-phpunit-test-failure
@@ -90770,6 +90816,10 @@ plugins/woocommerce/changelog/fix-add-to-cart-with-options-multiple-fixes
 woocommerce/changelog/fix-add-to-cart-with-options-multiple-fixes
 changelog/fix-add-to-cart-with-options-multiple-fixes
 fix-add-to-cart-with-options-multiple-fixes
+plugins/woocommerce/changelog/53019-fix-32837-48761-48775-48954-incorrect-net-sales-in-analytics-product-reports-for-partial-and-full-refunds
+woocommerce/changelog/53019-fix-32837-48761-48775-48954-incorrect-net-sales-in-analytics-product-reports-for-partial-and-full-refunds
+changelog/53019-fix-32837-48761-48775-48954-incorrect-net-sales-in-analytics-product-reports-for-partial-and-full-refunds
+53019-fix-32837-48761-48775-48954-incorrect-net-sales-in-analytics-product-reports-for-partial-and-full-refunds
 plugins/woocommerce/changelog/wooplug-4916-register-url-param
 woocommerce/changelog/wooplug-4916-register-url-param
 changelog/wooplug-4916-register-url-param
@@ -90858,6 +90908,10 @@ plugins/woocommerce/changelog/fix-update-tests-theme-template-slug
 woocommerce/changelog/fix-update-tests-theme-template-slug
 changelog/fix-update-tests-theme-template-slug
 fix-update-tests-theme-template-slug
+plugins/woocommerce/changelog/60540-wooplug-5378-interactivity-api-powered-mini-cart-support-including-tax
+woocommerce/changelog/60540-wooplug-5378-interactivity-api-powered-mini-cart-support-including-tax
+changelog/60540-wooplug-5378-interactivity-api-powered-mini-cart-support-including-tax
+60540-wooplug-5378-interactivity-api-powered-mini-cart-support-including-tax
 plugins/woocommerce/changelog/60127-add-entity-product-rating
 woocommerce/changelog/60127-add-entity-product-rating
 changelog/60127-add-entity-product-rating
@@ -91162,6 +91216,14 @@ plugins/woocommerce/changelog/fix-59419-add-to-cart-button-animation
 woocommerce/changelog/fix-59419-add-to-cart-button-animation
 changelog/fix-59419-add-to-cart-button-animation
 fix-59419-add-to-cart-button-animation
+plugins/woocommerce/changelog/60476-wooplug-5373-revert-the-variant-assignment-configuration-for-mailpoet-and
+woocommerce/changelog/60476-wooplug-5373-revert-the-variant-assignment-configuration-for-mailpoet-and
+changelog/60476-wooplug-5373-revert-the-variant-assignment-configuration-for-mailpoet-and
+60476-wooplug-5373-revert-the-variant-assignment-configuration-for-mailpoet-and
+plugins/woocommerce/changelog/wooplug-4532-enhancement-cross-sells-should-be-using-the-product
+woocommerce/changelog/wooplug-4532-enhancement-cross-sells-should-be-using-the-product
+changelog/wooplug-4532-enhancement-cross-sells-should-be-using-the-product
+wooplug-4532-enhancement-cross-sells-should-be-using-the-product
 plugins/woocommerce/changelog/59775-feat-list-command
 woocommerce/changelog/59775-feat-list-command
 changelog/59775-feat-list-command
@@ -91190,6 +91252,10 @@ plugins/woocommerce/changelog/Make add to cart with options block validation ext
 woocommerce/changelog/Make add to cart with options block validation extensible
 changelog/Make add to cart with options block validation extensible
 Make add to cart with options block validation extensible
+plugins/woocommerce/changelog/60563-add-paypal-migration-notice
+woocommerce/changelog/60563-add-paypal-migration-notice
+changelog/60563-add-paypal-migration-notice
+60563-add-paypal-migration-notice
 plugins/woocommerce/changelog/60277-fix-add-type-check-for-product-to-prevent-fatals
 woocommerce/changelog/60277-fix-add-type-check-for-product-to-prevent-fatals
 changelog/60277-fix-add-type-check-for-product-to-prevent-fatals
