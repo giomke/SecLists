@@ -90980,6 +90980,10 @@ plugins/woocommerce/changelog/fix-59902-mini-cart-badge-transparent-in-some-them
 woocommerce/changelog/fix-59902-mini-cart-badge-transparent-in-some-themes
 changelog/fix-59902-mini-cart-badge-transparent-in-some-themes
 fix-59902-mini-cart-badge-transparent-in-some-themes
+plugins/woocommerce/changelog/fix-product-price-interactivity
+woocommerce/changelog/fix-product-price-interactivity
+changelog/fix-product-price-interactivity
+fix-product-price-interactivity
 plugins/woocommerce/changelog/wooplug-5216-block-checkout-old-customer-data-getting-loaded-back-into
 woocommerce/changelog/wooplug-5216-block-checkout-old-customer-data-getting-loaded-back-into
 changelog/wooplug-5216-block-checkout-old-customer-data-getting-loaded-back-into
@@ -91004,6 +91008,10 @@ plugins/woocommerce/changelog/wooplug-5336-is_cart-returns-false-after-cart-is-u
 woocommerce/changelog/wooplug-5336-is_cart-returns-false-after-cart-is-updated
 changelog/wooplug-5336-is_cart-returns-false-after-cart-is-updated
 wooplug-5336-is_cart-returns-false-after-cart-is-updated
+plugins/woocommerce/changelog/fix-add-to-cart-with-options-grouped-products-0
+woocommerce/changelog/fix-add-to-cart-with-options-grouped-products-0
+changelog/fix-add-to-cart-with-options-grouped-products-0
+fix-add-to-cart-with-options-grouped-products-0
 plugins/woocommerce/changelog/add-product-image-improvements
 woocommerce/changelog/add-product-image-improvements
 changelog/add-product-image-improvements
@@ -91104,6 +91112,10 @@ plugins/woocommerce/changelog/60076-wooplug-59960-hierarchical-term-ordering
 woocommerce/changelog/60076-wooplug-59960-hierarchical-term-ordering
 changelog/60076-wooplug-59960-hierarchical-term-ordering
 60076-wooplug-59960-hierarchical-term-ordering
+plugins/woocommerce/changelog/dev-run-all-blocks-e2e-on-tests-updates
+woocommerce/changelog/dev-run-all-blocks-e2e-on-tests-updates
+changelog/dev-run-all-blocks-e2e-on-tests-updates
+dev-run-all-blocks-e2e-on-tests-updates
 plugins/woocommerce/changelog/fix-product-gallery-inner-blocks-registration
 woocommerce/changelog/fix-product-gallery-inner-blocks-registration
 changelog/fix-product-gallery-inner-blocks-registration
@@ -91224,6 +91236,10 @@ plugins/woocommerce/changelog/wooplug-4532-enhancement-cross-sells-should-be-usi
 woocommerce/changelog/wooplug-4532-enhancement-cross-sells-should-be-using-the-product
 changelog/wooplug-4532-enhancement-cross-sells-should-be-using-the-product
 wooplug-4532-enhancement-cross-sells-should-be-using-the-product
+plugins/woocommerce/changelog/fix-single-product-compatibility-layer-in-all-results
+woocommerce/changelog/fix-single-product-compatibility-layer-in-all-results
+changelog/fix-single-product-compatibility-layer-in-all-results
+fix-single-product-compatibility-layer-in-all-results
 plugins/woocommerce/changelog/59775-feat-list-command
 woocommerce/changelog/59775-feat-list-command
 changelog/59775-feat-list-command
@@ -91252,6 +91268,10 @@ plugins/woocommerce/changelog/Make add to cart with options block validation ext
 woocommerce/changelog/Make add to cart with options block validation extensible
 changelog/Make add to cart with options block validation extensible
 Make add to cart with options block validation extensible
+plugins/woocommerce/changelog/e2e-fix-classic-template-strict-mode-reset-button
+woocommerce/changelog/e2e-fix-classic-template-strict-mode-reset-button
+changelog/e2e-fix-classic-template-strict-mode-reset-button
+e2e-fix-classic-template-strict-mode-reset-button
 plugins/woocommerce/changelog/60563-add-paypal-migration-notice
 woocommerce/changelog/60563-add-paypal-migration-notice
 changelog/60563-add-paypal-migration-notice

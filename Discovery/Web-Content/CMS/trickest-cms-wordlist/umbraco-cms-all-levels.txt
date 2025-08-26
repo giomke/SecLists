@@ -3608,6 +3608,14 @@ block/block/workspace/block-element-manager.ts
 block/workspace/block-element-manager.ts
 workspace/block-element-manager.ts
 block-element-manager.ts
+src/Umbraco.Web.UI.Client/src/packages/block/block/workspace/constants.ts
+Umbraco.Web.UI.Client/src/packages/block/block/workspace/constants.ts
+src/packages/block/block/workspace/constants.ts
+packages/block/block/workspace/constants.ts
+block/block/workspace/constants.ts
+block/workspace/constants.ts
+workspace/constants.ts
+constants.ts
 src/Umbraco.Web.UI.Client/src/packages/block/block/workspace/block-workspace.context.ts
 Umbraco.Web.UI.Client/src/packages/block/block/workspace/block-workspace.context.ts
 src/packages/block/block/workspace/block-workspace.context.ts
