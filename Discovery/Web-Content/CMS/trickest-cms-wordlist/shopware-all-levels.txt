@@ -115109,9 +115109,6 @@ Administration/.gitkeep
 tests/migration/MigrationTestTrait.php
 migration/MigrationTestTrait.php
 MigrationTestTrait.php
-tests/migration/phpunit.xml
-migration/phpunit.xml
-phpunit.xml
 tests/unit/Elasticsearch/Sort/CountSortTest.php
 unit/Elasticsearch/Sort/CountSortTest.php
 Elasticsearch/Sort/CountSortTest.php
@@ -139978,6 +139975,9 @@ _unreleased/2025-08-06-event-interfaces-for-extension-events.md
 changelog/_unreleased/2025-06-27-fix-document-number-customization.md
 _unreleased/2025-06-27-fix-document-number-customization.md
 2025-06-27-fix-document-number-customization.md
+changelog/_unreleased/2025-08-25-compatbile-with-symfony-validator-7-3.md
+_unreleased/2025-08-25-compatbile-with-symfony-validator-7-3.md
+2025-08-25-compatbile-with-symfony-validator-7-3.md
 changelog/_unreleased/2025-06-14-remove-superfluous-vat-id-block-from-address-form-html-twig.md
 _unreleased/2025-06-14-remove-superfluous-vat-id-block-from-address-form-html-twig.md
 2025-06-14-remove-superfluous-vat-id-block-from-address-form-html-twig.md
