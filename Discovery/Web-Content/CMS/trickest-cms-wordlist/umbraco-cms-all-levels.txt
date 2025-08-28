@@ -53720,6 +53720,15 @@ tiptap/property-editors/tiptap/property-editor-ui-tiptap.stories.ts
 property-editors/tiptap/property-editor-ui-tiptap.stories.ts
 tiptap/property-editor-ui-tiptap.stories.ts
 property-editor-ui-tiptap.stories.ts
+src/Umbraco.Web.UI.Client/src/packages/tiptap/property-editors/tiptap/components/tiptap-toolbar-group-configuration.element.ts
+Umbraco.Web.UI.Client/src/packages/tiptap/property-editors/tiptap/components/tiptap-toolbar-group-configuration.element.ts
+src/packages/tiptap/property-editors/tiptap/components/tiptap-toolbar-group-configuration.element.ts
+packages/tiptap/property-editors/tiptap/components/tiptap-toolbar-group-configuration.element.ts
+tiptap/property-editors/tiptap/components/tiptap-toolbar-group-configuration.element.ts
+property-editors/tiptap/components/tiptap-toolbar-group-configuration.element.ts
+tiptap/components/tiptap-toolbar-group-configuration.element.ts
+components/tiptap-toolbar-group-configuration.element.ts
+tiptap-toolbar-group-configuration.element.ts
 src/Umbraco.Web.UI.Client/src/packages/tiptap/property-editors/tiptap/components/property-editor-ui-tiptap-statusbar-configuration.element.ts
 Umbraco.Web.UI.Client/src/packages/tiptap/property-editors/tiptap/components/property-editor-ui-tiptap-statusbar-configuration.element.ts
 src/packages/tiptap/property-editors/tiptap/components/property-editor-ui-tiptap-statusbar-configuration.element.ts
@@ -86897,6 +86906,11 @@ tests/Umbraco.Tests.Integration/Umbraco.PublishedCache.HybridCache/DocumentHybri
 Umbraco.Tests.Integration/Umbraco.PublishedCache.HybridCache/DocumentHybridCacheDocumentTypeTests.cs
 Umbraco.PublishedCache.HybridCache/DocumentHybridCacheDocumentTypeTests.cs
 DocumentHybridCacheDocumentTypeTests.cs
+tests/Umbraco.Tests.Integration/Umbraco.PublishedCache.HybridCache/Factories/PublishedContentFactoryTests.cs
+Umbraco.Tests.Integration/Umbraco.PublishedCache.HybridCache/Factories/PublishedContentFactoryTests.cs
+Umbraco.PublishedCache.HybridCache/Factories/PublishedContentFactoryTests.cs
+Factories/PublishedContentFactoryTests.cs
+PublishedContentFactoryTests.cs
 tests/Umbraco.Tests.Integration/Umbraco.PublishedCache.HybridCache/DocumentHybridCachePropertyTest.cs
 Umbraco.Tests.Integration/Umbraco.PublishedCache.HybridCache/DocumentHybridCachePropertyTest.cs
 Umbraco.PublishedCache.HybridCache/DocumentHybridCachePropertyTest.cs
