@@ -80188,6 +80188,11 @@ link/src/EventSubscriber/DefaultContentSubscriber.php
 src/EventSubscriber/DefaultContentSubscriber.php
 EventSubscriber/DefaultContentSubscriber.php
 DefaultContentSubscriber.php
+core/modules/link/src/LinkTitleVisibility.php
+modules/link/src/LinkTitleVisibility.php
+link/src/LinkTitleVisibility.php
+src/LinkTitleVisibility.php
+LinkTitleVisibility.php
 core/modules/link/migrations/state/link.migrate_drupal.yml
 modules/link/migrations/state/link.migrate_drupal.yml
 link/migrations/state/link.migrate_drupal.yml
@@ -96466,6 +96471,14 @@ tests/src/Functional/UpdateTestTrait.php
 src/Functional/UpdateTestTrait.php
 Functional/UpdateTestTrait.php
 UpdateTestTrait.php
+core/modules/update/tests/src/Functional/Update/UpdateEmptyEmailsUpdatePathTest.php
+modules/update/tests/src/Functional/Update/UpdateEmptyEmailsUpdatePathTest.php
+update/tests/src/Functional/Update/UpdateEmptyEmailsUpdatePathTest.php
+tests/src/Functional/Update/UpdateEmptyEmailsUpdatePathTest.php
+src/Functional/Update/UpdateEmptyEmailsUpdatePathTest.php
+Functional/Update/UpdateEmptyEmailsUpdatePathTest.php
+Update/UpdateEmptyEmailsUpdatePathTest.php
+UpdateEmptyEmailsUpdatePathTest.php
 core/modules/update/tests/src/Functional/UpdateSemverCoreTestBase.php
 modules/update/tests/src/Functional/UpdateSemverCoreTestBase.php
 update/tests/src/Functional/UpdateSemverCoreTestBase.php
