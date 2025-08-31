@@ -91001,6 +91001,10 @@ plugins/woocommerce/changelog/enhance-WOOPLUG-5415-take-offline-payments-backgro
 woocommerce/changelog/enhance-WOOPLUG-5415-take-offline-payments-background-on-reorder
 changelog/enhance-WOOPLUG-5415-take-offline-payments-background-on-reorder
 enhance-WOOPLUG-5415-take-offline-payments-background-on-reorder
+plugins/woocommerce/changelog/fix-60660-update-product-gallery-based-on-variations
+woocommerce/changelog/fix-60660-update-product-gallery-based-on-variations
+changelog/fix-60660-update-product-gallery-based-on-variations
+fix-60660-update-product-gallery-based-on-variations
 plugins/woocommerce/changelog/fix-large-image-404
 woocommerce/changelog/fix-large-image-404
 changelog/fix-large-image-404
@@ -91037,6 +91041,10 @@ plugins/woocommerce/changelog/fix-improve-editor-in-taxonomies-flaky-test
 woocommerce/changelog/fix-improve-editor-in-taxonomies-flaky-test
 changelog/fix-improve-editor-in-taxonomies-flaky-test
 fix-improve-editor-in-taxonomies-flaky-test
+plugins/woocommerce/changelog/fix-cross-sells-queryid-attribute
+woocommerce/changelog/fix-cross-sells-queryid-attribute
+changelog/fix-cross-sells-queryid-attribute
+fix-cross-sells-queryid-attribute
 plugins/woocommerce/changelog/tests-quantity-admin-changes
 woocommerce/changelog/tests-quantity-admin-changes
 changelog/tests-quantity-admin-changes
@@ -91353,6 +91361,10 @@ plugins/woocommerce/changelog/59775-feat-list-command
 woocommerce/changelog/59775-feat-list-command
 changelog/59775-feat-list-command
 59775-feat-list-command
+plugins/woocommerce/changelog/wooprd-800-add-api-for-notification-listing
+woocommerce/changelog/wooprd-800-add-api-for-notification-listing
+changelog/wooprd-800-add-api-for-notification-listing
+wooprd-800-add-api-for-notification-listing
 plugins/woocommerce/changelog/cleanup-WOOPLUG-5194-remove-legacy-payment-selection-screen
 woocommerce/changelog/cleanup-WOOPLUG-5194-remove-legacy-payment-selection-screen
 changelog/cleanup-WOOPLUG-5194-remove-legacy-payment-selection-screen
