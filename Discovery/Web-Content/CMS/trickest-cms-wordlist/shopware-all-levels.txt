@@ -140410,6 +140410,9 @@ _unreleased/2025-07-18-implemented-a-command-to-download-and-install-translation
 changelog/_unreleased/2025-05-05-message-queues-statistics.md
 _unreleased/2025-05-05-message-queues-statistics.md
 2025-05-05-message-queues-statistics.md
+changelog/_unreleased/2025-08-28-allow-docx-extension.md
+_unreleased/2025-08-28-allow-docx-extension.md
+2025-08-28-allow-docx-extension.md
 changelog/_unreleased/2025-08-26-add-natural-sorting-for-property-option-list.md
 _unreleased/2025-08-26-add-natural-sorting-for-property-option-list.md
 2025-08-26-add-natural-sorting-for-property-option-list.md
