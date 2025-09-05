@@ -25492,6 +25492,12 @@ Framework/MessageQueue/ScheduledTask/ScheduledTaskCollection.php
 MessageQueue/ScheduledTask/ScheduledTaskCollection.php
 ScheduledTask/ScheduledTaskCollection.php
 ScheduledTaskCollection.php
+src/Core/Framework/MessageQueue/ScheduledTask/ScheduledTaskMessageInterface.php
+Core/Framework/MessageQueue/ScheduledTask/ScheduledTaskMessageInterface.php
+Framework/MessageQueue/ScheduledTask/ScheduledTaskMessageInterface.php
+MessageQueue/ScheduledTask/ScheduledTaskMessageInterface.php
+ScheduledTask/ScheduledTaskMessageInterface.php
+ScheduledTaskMessageInterface.php
 src/Core/Framework/MessageQueue/Command/RunSingleScheduledTaskCommand.php
 Core/Framework/MessageQueue/Command/RunSingleScheduledTaskCommand.php
 Framework/MessageQueue/Command/RunSingleScheduledTaskCommand.php
@@ -101470,6 +101476,12 @@ tests/Visual/Administration/OrderDetail.spec.ts
 Visual/Administration/OrderDetail.spec.ts
 Administration/OrderDetail.spec.ts
 OrderDetail.spec.ts
+tests/acceptance/tests/Visual/Administration/YourProfile.spec.ts
+acceptance/tests/Visual/Administration/YourProfile.spec.ts
+tests/Visual/Administration/YourProfile.spec.ts
+Visual/Administration/YourProfile.spec.ts
+Administration/YourProfile.spec.ts
+YourProfile.spec.ts
 tests/acceptance/tests/Product/ProductWithAdvancedPricingPerQuantity.spec.ts
 acceptance/tests/Product/ProductWithAdvancedPricingPerQuantity.spec.ts
 tests/Product/ProductWithAdvancedPricingPerQuantity.spec.ts
@@ -140628,6 +140640,9 @@ _unreleased/2022-10-13-use-rule-areas-in-entity-cache-key-generation.md
 changelog/_unreleased/2025-02-24-deferred-cart-errors.md
 _unreleased/2025-02-24-deferred-cart-errors.md
 2025-02-24-deferred-cart-errors.md
+changelog/_unreleased/2025-06-14-simplify-personal-company-fields.md
+_unreleased/2025-06-14-simplify-personal-company-fields.md
+2025-06-14-simplify-personal-company-fields.md
 changelog/_unreleased/2022-05-18-abstract-and-reduce-rule-condition-components.md
 _unreleased/2022-05-18-abstract-and-reduce-rule-condition-components.md
 2022-05-18-abstract-and-reduce-rule-condition-components.md
@@ -140643,6 +140658,9 @@ _unreleased/2025-08-26-apply-search-score-as-fallback-sort-criteria-on-searching
 changelog/_unreleased/2025-09-02-fix-media-thumbnail-generation-check-with-null-size.md
 _unreleased/2025-09-02-fix-media-thumbnail-generation-check-with-null-size.md
 2025-09-02-fix-media-thumbnail-generation-check-with-null-size.md
+changelog/_unreleased/2025-09-04-add-scheduled-task-message-interface.md
+_unreleased/2025-09-04-add-scheduled-task-message-interface.md
+2025-09-04-add-scheduled-task-message-interface.md
 changelog/_unreleased/2025-08-29-add-skip-query-parameter-to-product-detail-route.md
 _unreleased/2025-08-29-add-skip-query-parameter-to-product-detail-route.md
 2025-08-29-add-skip-query-parameter-to-product-detail-route.md
@@ -140673,6 +140691,9 @@ _unreleased/2024-09-27-add-an-option-for-generating-documents-via-bulk-edit.md
 changelog/_unreleased/2024-08-19-add-context-to-orderstatechangecriteriaevent.md
 _unreleased/2024-08-19-add-context-to-orderstatechangecriteriaevent.md
 2024-08-19-add-context-to-orderstatechangecriteriaevent.md
+changelog/_unreleased/2025-09-03-fix-intra-community-electronic-invoice.md
+_unreleased/2025-09-03-fix-intra-community-electronic-invoice.md
+2025-09-03-fix-intra-community-electronic-invoice.md
 changelog/_unreleased/2024-08-05-metrics-abstraction.md
 _unreleased/2024-08-05-metrics-abstraction.md
 2024-08-05-metrics-abstraction.md
@@ -140715,6 +140736,9 @@ _unreleased/2024-09-16-exchange-recursive-categories-macro-with-tpl.md
 changelog/_unreleased/2025-07-28-fix-cart-error-message-translation-in-store-api.md
 _unreleased/2025-07-28-fix-cart-error-message-translation-in-store-api.md
 2025-07-28-fix-cart-error-message-translation-in-store-api.md
+changelog/_unreleased/2025-09-02-interpret-checkbox-custom-field-values-as-bool.md
+_unreleased/2025-09-02-interpret-checkbox-custom-field-values-as-bool.md
+2025-09-02-interpret-checkbox-custom-field-values-as-bool.md
 changelog/_unreleased/2024-01-31-improve-cart-page-performance.md
 _unreleased/2024-01-31-improve-cart-page-performance.md
 2024-01-31-improve-cart-page-performance.md
