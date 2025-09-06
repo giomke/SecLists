@@ -90576,6 +90576,11 @@ Umbraco.Tests.UnitTests/Umbraco.Infrastructure/Serialization/SystemTextJsonSeria
 Umbraco.Infrastructure/Serialization/SystemTextJsonSerializerTests.cs
 Serialization/SystemTextJsonSerializerTests.cs
 SystemTextJsonSerializerTests.cs
+tests/Umbraco.Tests.UnitTests/Umbraco.Infrastructure/Serialization/JsonUdiConverterTests.cs
+Umbraco.Tests.UnitTests/Umbraco.Infrastructure/Serialization/JsonUdiConverterTests.cs
+Umbraco.Infrastructure/Serialization/JsonUdiConverterTests.cs
+Serialization/JsonUdiConverterTests.cs
+JsonUdiConverterTests.cs
 tests/Umbraco.Tests.UnitTests/Umbraco.Infrastructure/Scoping/ScopeUnitTests.cs
 Umbraco.Tests.UnitTests/Umbraco.Infrastructure/Scoping/ScopeUnitTests.cs
 Umbraco.Infrastructure/Scoping/ScopeUnitTests.cs
