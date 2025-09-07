@@ -84144,6 +84144,14 @@ src/Internal/WCCom/ConnectionHelperTest.php
 Internal/WCCom/ConnectionHelperTest.php
 WCCom/ConnectionHelperTest.php
 ConnectionHelperTest.php
+plugins/woocommerce/tests/php/src/Internal/AbilitiesApi/AbilitiesApiIntegrationTest.php
+woocommerce/tests/php/src/Internal/AbilitiesApi/AbilitiesApiIntegrationTest.php
+tests/php/src/Internal/AbilitiesApi/AbilitiesApiIntegrationTest.php
+php/src/Internal/AbilitiesApi/AbilitiesApiIntegrationTest.php
+src/Internal/AbilitiesApi/AbilitiesApiIntegrationTest.php
+Internal/AbilitiesApi/AbilitiesApiIntegrationTest.php
+AbilitiesApi/AbilitiesApiIntegrationTest.php
+AbilitiesApiIntegrationTest.php
 plugins/woocommerce/tests/php/src/Internal/DataStores/Orders/OrdersTableDataStoreRestOrdersControllerTests.php
 woocommerce/tests/php/src/Internal/DataStores/Orders/OrdersTableDataStoreRestOrdersControllerTests.php
 tests/php/src/Internal/DataStores/Orders/OrdersTableDataStoreRestOrdersControllerTests.php
@@ -91012,6 +91020,10 @@ plugins/woocommerce/changelog/60614-fix-37326
 woocommerce/changelog/60614-fix-37326
 changelog/60614-fix-37326
 60614-fix-37326
+plugins/woocommerce/changelog/fix-60367
+woocommerce/changelog/fix-60367
+changelog/fix-60367
+fix-60367
 plugins/woocommerce/changelog/60758-wooplug-5478-add_theme_supportwoocommerce-breaks-product-image-gallery-in
 woocommerce/changelog/60758-wooplug-5478-add_theme_supportwoocommerce-breaks-product-image-gallery-in
 changelog/60758-wooplug-5478-add_theme_supportwoocommerce-breaks-product-image-gallery-in
@@ -91172,6 +91184,10 @@ plugins/woocommerce/changelog/wooprd-800-add-api-for-notification-listing
 woocommerce/changelog/wooprd-800-add-api-for-notification-listing
 changelog/wooprd-800-add-api-for-notification-listing
 wooprd-800-add-api-for-notification-listing
+plugins/woocommerce/changelog/add-wordpress-abilities-api
+woocommerce/changelog/add-wordpress-abilities-api
+changelog/add-wordpress-abilities-api
+add-wordpress-abilities-api
 plugins/woocommerce/changelog/60701-wooplug-5296-images-on-related-products-not-lazy-loaded
 woocommerce/changelog/60701-wooplug-5296-images-on-related-products-not-lazy-loaded
 changelog/60701-wooplug-5296-images-on-related-products-not-lazy-loaded

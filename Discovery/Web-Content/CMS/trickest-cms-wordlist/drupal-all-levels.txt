@@ -105077,6 +105077,14 @@ Core/Theme/Icon/IconExtractorTest.php
 Theme/Icon/IconExtractorTest.php
 Icon/IconExtractorTest.php
 IconExtractorTest.php
+core/tests/Drupal/Tests/Core/Theme/Icon/IconPackManagerTest.php
+tests/Drupal/Tests/Core/Theme/Icon/IconPackManagerTest.php
+Drupal/Tests/Core/Theme/Icon/IconPackManagerTest.php
+Tests/Core/Theme/Icon/IconPackManagerTest.php
+Core/Theme/Icon/IconPackManagerTest.php
+Theme/Icon/IconPackManagerTest.php
+Icon/IconPackManagerTest.php
+IconPackManagerTest.php
 core/tests/Drupal/Tests/Core/Theme/Icon/IconDefinitionTest.php
 tests/Drupal/Tests/Core/Theme/Icon/IconDefinitionTest.php
 Drupal/Tests/Core/Theme/Icon/IconDefinitionTest.php
