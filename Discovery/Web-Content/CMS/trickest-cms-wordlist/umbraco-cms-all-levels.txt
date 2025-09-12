@@ -143,6 +143,12 @@ src/assets/lang/pl.ts
 assets/lang/pl.ts
 lang/pl.ts
 pl.ts
+src/Umbraco.Web.UI.Client/src/assets/lang/vi.ts
+Umbraco.Web.UI.Client/src/assets/lang/vi.ts
+src/assets/lang/vi.ts
+assets/lang/vi.ts
+lang/vi.ts
+vi.ts
 src/Umbraco.Web.UI.Client/src/assets/lang/ru.ts
 Umbraco.Web.UI.Client/src/assets/lang/ru.ts
 src/assets/lang/ru.ts
