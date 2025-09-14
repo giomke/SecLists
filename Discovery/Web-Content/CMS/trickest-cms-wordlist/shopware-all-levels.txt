@@ -16650,6 +16650,14 @@ Resources/config/packages/installer.yaml
 config/packages/installer.yaml
 packages/installer.yaml
 installer.yaml
+src/Core/Framework/Resources/config/packages/phpstan_dev/framework.yaml
+Core/Framework/Resources/config/packages/phpstan_dev/framework.yaml
+Framework/Resources/config/packages/phpstan_dev/framework.yaml
+Resources/config/packages/phpstan_dev/framework.yaml
+config/packages/phpstan_dev/framework.yaml
+packages/phpstan_dev/framework.yaml
+phpstan_dev/framework.yaml
+framework.yaml
 src/Core/Framework/Resources/config/packages/framework.yaml
 Core/Framework/Resources/config/packages/framework.yaml
 Framework/Resources/config/packages/framework.yaml
