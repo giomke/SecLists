@@ -91310,6 +91310,10 @@ plugins/woocommerce/changelog/fix-59439-variation-description
 woocommerce/changelog/fix-59439-variation-description
 changelog/fix-59439-variation-description
 fix-59439-variation-description
+plugins/woocommerce/changelog/fix-52960-limit-excessive-product-requests
+woocommerce/changelog/fix-52960-limit-excessive-product-requests
+changelog/fix-52960-limit-excessive-product-requests
+fix-52960-limit-excessive-product-requests
 plugins/woocommerce/changelog/update-59804
 woocommerce/changelog/update-59804
 changelog/update-59804
@@ -91434,6 +91438,10 @@ plugins/woocommerce/changelog/fix-60573
 woocommerce/changelog/fix-60573
 changelog/fix-60573
 fix-60573
+plugins/woocommerce/changelog/fix-individually-sold-products-grouped-products
+woocommerce/changelog/fix-individually-sold-products-grouped-products
+changelog/fix-individually-sold-products-grouped-products
+fix-individually-sold-products-grouped-products
 plugins/woocommerce/changelog/fix-60773-add-to-cart-with-options-action-current-page
 woocommerce/changelog/fix-60773-add-to-cart-with-options-action-current-page
 changelog/fix-60773-add-to-cart-with-options-action-current-page

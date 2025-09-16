@@ -77629,6 +77629,11 @@ Umbraco.Infrastructure/PropertyEditors/Validators/IRichTextRequiredValidator.cs
 PropertyEditors/Validators/IRichTextRequiredValidator.cs
 Validators/IRichTextRequiredValidator.cs
 IRichTextRequiredValidator.cs
+src/Umbraco.Infrastructure/PropertyEditors/Validators/FileUploadValueRequiredValidator.cs
+Umbraco.Infrastructure/PropertyEditors/Validators/FileUploadValueRequiredValidator.cs
+PropertyEditors/Validators/FileUploadValueRequiredValidator.cs
+Validators/FileUploadValueRequiredValidator.cs
+FileUploadValueRequiredValidator.cs
 src/Umbraco.Infrastructure/PropertyEditors/Validators/RichTextRegexValidator.cs
 Umbraco.Infrastructure/PropertyEditors/Validators/RichTextRegexValidator.cs
 PropertyEditors/Validators/RichTextRegexValidator.cs
@@ -90333,6 +90338,12 @@ Umbraco.Tests.UnitTests/Umbraco.Core/PropertyEditors/ConvertersTests.cs
 Umbraco.Core/PropertyEditors/ConvertersTests.cs
 PropertyEditors/ConvertersTests.cs
 ConvertersTests.cs
+tests/Umbraco.Tests.UnitTests/Umbraco.Core/PropertyEditors/Validators/FileUploadValueRequiredValidatorTests.cs
+Umbraco.Tests.UnitTests/Umbraco.Core/PropertyEditors/Validators/FileUploadValueRequiredValidatorTests.cs
+Umbraco.Core/PropertyEditors/Validators/FileUploadValueRequiredValidatorTests.cs
+PropertyEditors/Validators/FileUploadValueRequiredValidatorTests.cs
+Validators/FileUploadValueRequiredValidatorTests.cs
+FileUploadValueRequiredValidatorTests.cs
 tests/Umbraco.Tests.UnitTests/Umbraco.Core/PropertyEditors/Validators/TrueFalseValueRequiredValidatorTests.cs
 Umbraco.Tests.UnitTests/Umbraco.Core/PropertyEditors/Validators/TrueFalseValueRequiredValidatorTests.cs
 Umbraco.Core/PropertyEditors/Validators/TrueFalseValueRequiredValidatorTests.cs
