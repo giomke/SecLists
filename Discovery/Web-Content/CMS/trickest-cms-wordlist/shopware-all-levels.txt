@@ -141017,6 +141017,9 @@ _unreleased/2025-09-04-add-scheduled-task-message-interface.md
 changelog/_unreleased/2025-08-29-add-skip-query-parameter-to-product-detail-route.md
 _unreleased/2025-08-29-add-skip-query-parameter-to-product-detail-route.md
 2025-08-29-add-skip-query-parameter-to-product-detail-route.md
+changelog/_unreleased/2025-09-11-fix-es-index-language-inheritance-issue.md
+_unreleased/2025-09-11-fix-es-index-language-inheritance-issue.md
+2025-09-11-fix-es-index-language-inheritance-issue.md
 changelog/_unreleased/2025-01-31-move-flow-execution-after-business-process.md
 _unreleased/2025-01-31-move-flow-execution-after-business-process.md
 2025-01-31-move-flow-execution-after-business-process.md
