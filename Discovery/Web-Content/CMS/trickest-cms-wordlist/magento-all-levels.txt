@@ -204471,6 +204471,14 @@ Test/Mftf/Test/StorefrontPrintOrderGuestTest.xml
 Mftf/Test/StorefrontPrintOrderGuestTest.xml
 Test/StorefrontPrintOrderGuestTest.xml
 StorefrontPrintOrderGuestTest.xml
+app/code/Magento/Sales/Test/Mftf/Test/AdminOrderPlacementWithPaymentMethodConstraintsTest.xml
+code/Magento/Sales/Test/Mftf/Test/AdminOrderPlacementWithPaymentMethodConstraintsTest.xml
+Magento/Sales/Test/Mftf/Test/AdminOrderPlacementWithPaymentMethodConstraintsTest.xml
+Sales/Test/Mftf/Test/AdminOrderPlacementWithPaymentMethodConstraintsTest.xml
+Test/Mftf/Test/AdminOrderPlacementWithPaymentMethodConstraintsTest.xml
+Mftf/Test/AdminOrderPlacementWithPaymentMethodConstraintsTest.xml
+Test/AdminOrderPlacementWithPaymentMethodConstraintsTest.xml
+AdminOrderPlacementWithPaymentMethodConstraintsTest.xml
 app/code/Magento/Sales/Test/Mftf/Test/AdminSalesOrdersNavigateMenuTest.xml
 code/Magento/Sales/Test/Mftf/Test/AdminSalesOrdersNavigateMenuTest.xml
 Magento/Sales/Test/Mftf/Test/AdminSalesOrdersNavigateMenuTest.xml
