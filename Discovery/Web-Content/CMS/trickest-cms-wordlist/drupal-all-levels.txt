@@ -76357,6 +76357,14 @@ src/Functional/Update/BlockItemsPerPageUpdateTest.php
 Functional/Update/BlockItemsPerPageUpdateTest.php
 Update/BlockItemsPerPageUpdateTest.php
 BlockItemsPerPageUpdateTest.php
+core/modules/views/tests/src/Functional/Update/ConfigUpdateTest.php
+modules/views/tests/src/Functional/Update/ConfigUpdateTest.php
+views/tests/src/Functional/Update/ConfigUpdateTest.php
+tests/src/Functional/Update/ConfigUpdateTest.php
+src/Functional/Update/ConfigUpdateTest.php
+Functional/Update/ConfigUpdateTest.php
+Update/ConfigUpdateTest.php
+ConfigUpdateTest.php
 core/modules/views/tests/src/Functional/Update/UserRememberRolesFilterSettingTest.php
 modules/views/tests/src/Functional/Update/UserRememberRolesFilterSettingTest.php
 views/tests/src/Functional/Update/UserRememberRolesFilterSettingTest.php
