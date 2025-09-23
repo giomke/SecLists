@@ -52226,6 +52226,17 @@ sw-category/component/sw-category-link-settings/index.js
 component/sw-category-link-settings/index.js
 sw-category-link-settings/index.js
 index.js
+src/Administration/Resources/app/administration/src/module/sw-category/component/sw-category-link-settings/sw-category-link-settings.scss
+Administration/Resources/app/administration/src/module/sw-category/component/sw-category-link-settings/sw-category-link-settings.scss
+Resources/app/administration/src/module/sw-category/component/sw-category-link-settings/sw-category-link-settings.scss
+app/administration/src/module/sw-category/component/sw-category-link-settings/sw-category-link-settings.scss
+administration/src/module/sw-category/component/sw-category-link-settings/sw-category-link-settings.scss
+src/module/sw-category/component/sw-category-link-settings/sw-category-link-settings.scss
+module/sw-category/component/sw-category-link-settings/sw-category-link-settings.scss
+sw-category/component/sw-category-link-settings/sw-category-link-settings.scss
+component/sw-category-link-settings/sw-category-link-settings.scss
+sw-category-link-settings/sw-category-link-settings.scss
+sw-category-link-settings.scss
 src/Administration/Resources/app/administration/src/module/sw-category/component/sw-category-detail-menu/sw-category-detail-menu.spec.js
 Administration/Resources/app/administration/src/module/sw-category/component/sw-category-detail-menu/sw-category-detail-menu.spec.js
 Resources/app/administration/src/module/sw-category/component/sw-category-detail-menu/sw-category-detail-menu.spec.js
@@ -141422,6 +141433,9 @@ _unreleased/2025-09-18-add-cookie-hash-to-cookie-groups-response.md
 changelog/_unreleased/2024-09-20-simplify-emitting-metrics.md
 _unreleased/2024-09-20-simplify-emitting-metrics.md
 2024-09-20-simplify-emitting-metrics.md
+changelog/_unreleased/2025-09-19-improve-integration-docs.md
+_unreleased/2025-09-19-improve-integration-docs.md
+2025-09-19-improve-integration-docs.md
 changelog/_unreleased/2025-09-17-fix-install-lock-creation-on-failure.md
 _unreleased/2025-09-17-fix-install-lock-creation-on-failure.md
 2025-09-17-fix-install-lock-creation-on-failure.md
