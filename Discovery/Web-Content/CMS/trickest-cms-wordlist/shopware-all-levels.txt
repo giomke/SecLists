@@ -78527,17 +78527,6 @@ sw-first-run-wizard/view/sw-first-run-wizard-welcome/sw-first-run-wizard-welcome
 view/sw-first-run-wizard-welcome/sw-first-run-wizard-welcome.html.twig
 sw-first-run-wizard-welcome/sw-first-run-wizard-welcome.html.twig
 sw-first-run-wizard-welcome.html.twig
-src/Administration/Resources/app/administration/src/module/sw-first-run-wizard/view/sw-first-run-wizard-welcome/sw-first-run-wizard-welcome.spec.js
-Administration/Resources/app/administration/src/module/sw-first-run-wizard/view/sw-first-run-wizard-welcome/sw-first-run-wizard-welcome.spec.js
-Resources/app/administration/src/module/sw-first-run-wizard/view/sw-first-run-wizard-welcome/sw-first-run-wizard-welcome.spec.js
-app/administration/src/module/sw-first-run-wizard/view/sw-first-run-wizard-welcome/sw-first-run-wizard-welcome.spec.js
-administration/src/module/sw-first-run-wizard/view/sw-first-run-wizard-welcome/sw-first-run-wizard-welcome.spec.js
-src/module/sw-first-run-wizard/view/sw-first-run-wizard-welcome/sw-first-run-wizard-welcome.spec.js
-module/sw-first-run-wizard/view/sw-first-run-wizard-welcome/sw-first-run-wizard-welcome.spec.js
-sw-first-run-wizard/view/sw-first-run-wizard-welcome/sw-first-run-wizard-welcome.spec.js
-view/sw-first-run-wizard-welcome/sw-first-run-wizard-welcome.spec.js
-sw-first-run-wizard-welcome/sw-first-run-wizard-welcome.spec.js
-sw-first-run-wizard-welcome.spec.js
 src/Administration/Resources/app/administration/src/module/sw-first-run-wizard/view/sw-first-run-wizard-welcome/index.js
 Administration/Resources/app/administration/src/module/sw-first-run-wizard/view/sw-first-run-wizard-welcome/index.js
 Resources/app/administration/src/module/sw-first-run-wizard/view/sw-first-run-wizard-welcome/index.js
@@ -141298,6 +141287,9 @@ _unreleased/2025-09-05-add-guest-login-functionality-to-orderroute.md
 changelog/_unreleased/2025-08-19-fix-alignment-of-review-stars.md
 _unreleased/2025-08-19-fix-alignment-of-review-stars.md
 2025-08-19-fix-alignment-of-review-stars.md
+changelog/_unreleased/2025-05-07-remove-global-controller-name-and-controller-action-from-template.md
+_unreleased/2025-05-07-remove-global-controller-name-and-controller-action-from-template.md
+2025-05-07-remove-global-controller-name-and-controller-action-from-template.md
 changelog/_unreleased/2024-11-29-make-product-slider-defaults-accessible.md
 _unreleased/2024-11-29-make-product-slider-defaults-accessible.md
 2024-11-29-make-product-slider-defaults-accessible.md
@@ -141382,6 +141374,9 @@ _unreleased/2025-08-07-cache-default-category-levels.md
 changelog/_unreleased/2025-09-09-fix-customer-profile-account-type-with-company-signup.md
 _unreleased/2025-09-09-fix-customer-profile-account-type-with-company-signup.md
 2025-09-09-fix-customer-profile-account-type-with-company-signup.md
+changelog/_unreleased/2025-09-12-add-shopware-skip-webinstaller-environment-variable.md
+_unreleased/2025-09-12-add-shopware-skip-webinstaller-environment-variable.md
+2025-09-12-add-shopware-skip-webinstaller-environment-variable.md
 changelog/_unreleased/2025-08-28-remove-media-data-when-sync-product.md
 _unreleased/2025-08-28-remove-media-data-when-sync-product.md
 2025-08-28-remove-media-data-when-sync-product.md
@@ -141412,6 +141407,9 @@ _unreleased/2024-09-27-add-an-option-for-generating-documents-via-bulk-edit.md
 changelog/_unreleased/2025-09-15-remove-unnecessary-default-rules.md
 _unreleased/2025-09-15-remove-unnecessary-default-rules.md
 2025-09-15-remove-unnecessary-default-rules.md
+changelog/_unreleased/2025-09-22-add-request-to-cookie-event.md
+_unreleased/2025-09-22-add-request-to-cookie-event.md
+2025-09-22-add-request-to-cookie-event.md
 changelog/_unreleased/2024-08-19-add-context-to-orderstatechangecriteriaevent.md
 _unreleased/2024-08-19-add-context-to-orderstatechangecriteriaevent.md
 2024-08-19-add-context-to-orderstatechangecriteriaevent.md
