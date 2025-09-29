@@ -106978,6 +106978,13 @@ Checkout/Promotion/Cart/PromotionCalculatorTest.php
 Promotion/Cart/PromotionCalculatorTest.php
 Cart/PromotionCalculatorTest.php
 PromotionCalculatorTest.php
+tests/integration/Core/Checkout/Promotion/Cart/PromotionProcessorTest.php
+integration/Core/Checkout/Promotion/Cart/PromotionProcessorTest.php
+Core/Checkout/Promotion/Cart/PromotionProcessorTest.php
+Checkout/Promotion/Cart/PromotionProcessorTest.php
+Promotion/Cart/PromotionProcessorTest.php
+Cart/PromotionProcessorTest.php
+PromotionProcessorTest.php
 tests/integration/Core/Checkout/Payment/Controller/PaymentControllerTest.php
 integration/Core/Checkout/Payment/Controller/PaymentControllerTest.php
 Core/Checkout/Payment/Controller/PaymentControllerTest.php
@@ -141645,6 +141652,9 @@ _unreleased/2025-09-03-recover-stuck-scheduled-tasks.md
 changelog/_unreleased/2024-07-04-enforce-timezone-utc-for-database-connections.md
 _unreleased/2024-07-04-enforce-timezone-utc-for-database-connections.md
 2024-07-04-enforce-timezone-utc-for-database-connections.md
+changelog/_unreleased/2025-09-15-fix-promotion-discount-entity-property-initialization-error.md
+_unreleased/2025-09-15-fix-promotion-discount-entity-property-initialization-error.md
+2025-09-15-fix-promotion-discount-entity-property-initialization-error.md
 changelog/_unreleased/2025-06-03-only-consider-product-rule-ids-in-http-cache-key-generation.md
 _unreleased/2025-06-03-only-consider-product-rule-ids-in-http-cache-key-generation.md
 2025-06-03-only-consider-product-rule-ids-in-http-cache-key-generation.md
