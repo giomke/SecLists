@@ -2507,7 +2507,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 .pdb$
 .pdf
 .pdf
-.pdf
+.pdf
 .pdf$
 .pdf$
 .pdf$http://dentx.com.tr/robots.txt
@@ -7532,7 +7532,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /feed*
 /feed.rss
 /feed/
-/feed/
+/feed/
 /feed/$
 /feed/*
 /feed/*/articles.xml
@@ -45769,9 +45769,9 @@ au*/people/*/favorites
 au*/shop/*/favoriters
 au*/shop/*/sold
 au-fr
-au-job/JobBoard/SalAjxGetIbarData
-au-job/apply
-au-job/searchresults
+au-job/JobBoard/SalAjxGetIbarData
+au-job/apply
+au-job/searchresults
 au-quotidien/*idOffre=
 au.html
 au/
@@ -46492,7 +46492,7 @@ b/order
 b/unsubscribe
 b2b
 b2b-gift-card-shop
-b2b-resource/blogdownloadform
+b2b-resource/blogdownloadform
 b2b/ydirect
 b2bauth
 b2c-tools
@@ -55105,16 +55105,16 @@ business/salaire/patron/recherche
 business/salaire/recherche
 business/sales/blog
 business/search
-business/search/BusinessSearch/SalAjaxGetPhoneSupportTime
-business/search/BusinessSearch/SalAjaxGetServerTime
-business/search/BusinessSearch/SalAjxAddPollQuestionDisplayTracking
-business/search/BusinessSearch/SalAjxFloatingButtonPopupEntry
-business/search/BusinessSearch/SalAjxGetBlogAIHtmlOnBLogContent
-business/search/BusinessSearch/SalAjxGetGlobalBannerNewsHtml
-business/search/BusinessSearch/SalAjxGetPopupFloatingBarDemoFormHtml
-business/search/BusinessSearch/SalAjxPainPointsDemoForProductPagePopupEntry
-business/search/BusinessSearch/SalAjxPopupEntry
-business/search/BusinessSearch/SalGetProductDescByPage
+business/search/BusinessSearch/SalAjaxGetPhoneSupportTime
+business/search/BusinessSearch/SalAjaxGetServerTime
+business/search/BusinessSearch/SalAjxAddPollQuestionDisplayTracking
+business/search/BusinessSearch/SalAjxFloatingButtonPopupEntry
+business/search/BusinessSearch/SalAjxGetBlogAIHtmlOnBLogContent
+business/search/BusinessSearch/SalAjxGetGlobalBannerNewsHtml
+business/search/BusinessSearch/SalAjxGetPopupFloatingBarDemoFormHtml
+business/search/BusinessSearch/SalAjxPainPointsDemoForProductPagePopupEntry
+business/search/BusinessSearch/SalAjxPopupEntry
+business/search/BusinessSearch/SalGetProductDescByPage
 business/signup
 business/site
 business/small-business-essentials
@@ -55606,10 +55606,10 @@ ca-fr/trip-companion
 ca-fr/trips
 ca-fr/user
 ca-fr/your
-ca-job/JobBoard/SalAjxGetCANLocationsByKeyword
-ca-job/JobBoard/SalAjxGetIbarData
-ca-job/apply
-ca-job/searchresults
+ca-job/JobBoard/SalAjxGetCANLocationsByKeyword
+ca-job/JobBoard/SalAjxGetIbarData
+ca-job/apply
+ca-job/searchresults
 ca-privacy-notice
 ca-zh
 ca/
@@ -86144,7 +86144,7 @@ feed.mhtml
 feed.php?
 feed.php?mode=list&ns=
 feed/
-feed/
+feed/
 feed/$
 feed/3
 feed/activity
@@ -102193,9 +102193,9 @@ in-en/your
 in-hi/tutorials/*_ga
 in-hi/tutorials/?s=
 in-hi/tutorials/search
-in-job/JobBoard/SalAjxGetIbarData
-in-job/apply
-in-job/searchresults
+in-job/JobBoard/SalAjxGetIbarData
+in-job/apply
+in-job/searchresults
 in-notes/authors
 in-notes/rerendered
 in-product
@@ -102568,7 +102568,7 @@ index.php/saml_login?
 index.php/search
 index.php/search-seeds
 index.php/search/
-index.php/search/
+index.php/search/
 index.php/search/global
 index.php/search/global?
 index.php/search?
@@ -106265,8 +106265,8 @@ job-offer/edit
 job-offer/post
 job-oriented-programs/
 job/*
-job/JobBoard/SalAjxGetIbarData
-job/JobBoard/SalAjxGetLocationsByKeyword
+job/JobBoard/SalAjxGetIbarData
+job/JobBoard/SalAjxGetLocationsByKeyword
 job/banned.html
 job/bidders
 job/editResume
@@ -106279,7 +106279,7 @@ job/redirect
 job/rules.html
 job/searchResume
 job/searchVacance
-job/searchresults
+job/searchresults
 job/sitemap.xml
 job/track-apply-click
 job/track-pageview
@@ -117120,9 +117120,9 @@ mx*/people/*/circle
 mx*/people/*/favorites
 mx*/shop/*/favoriters
 mx*/shop/*/sold
-mx-job/JobBoard/SalAjxGetIbarData
-mx-job/apply
-mx-job/searchresults
+mx-job/JobBoard/SalAjxGetIbarData
+mx-job/apply
+mx-job/searchresults
 mx-mx/
 mx/
 mx/*?*lang=es-MX
@@ -125545,7 +125545,7 @@ pasaj/siparis-sorgulama
 pascal-negre-extends-contract-for-nine-years
 pasha2
 pass
-passages/
+passages/
 passengerFirstName=
 passengerLastName=
 passport
@@ -135521,7 +135521,7 @@ research/community-driven-research/global-inclusion-and-social-development/
 research/configure
 research/configure/preview.jsp
 research/content/article-printable-popup.jsp
-research/cost-of-living/CostOfLiving/SalAjxGetLocationsByKeyword
+research/cost-of-living/CostOfLiving/SalAjxGetLocationsByKeyword
 research/economists/RSG_SeminarsCalendar.pdf
 research/economists/RSG_VisitorsCalendar.pdf
 research/enqueue_tracking
@@ -135546,11 +135546,11 @@ research/request-broadcast-email/thank-you/
 research/research-sponsored-programs/
 research/research-sponsored-programs/grant-lifecycle/
 research/research/SearchResults.jsp
-research/salary/JobSalary/SalAjaxGetEducationLeavelsSvg
-research/salary/JobSalary/SalAjaxGetExperienceLeavelsSvg
-research/salary/JobSalary/SalAjxGetIbarData
-research/salary/JobSalary/SalAjxGetLocationsByKeyword
-research/salary/JobSalary/SalAjxGetMapSalry
+research/salary/JobSalary/SalAjaxGetEducationLeavelsSvg
+research/salary/JobSalary/SalAjaxGetExperienceLeavelsSvg
+research/salary/JobSalary/SalAjxGetIbarData
+research/salary/JobSalary/SalAjxGetLocationsByKeyword
+research/salary/JobSalary/SalAjxGetMapSalry
 research/search
 research/shared/article.jsp
 research/sup-content
@@ -135930,9 +135930,9 @@ resources/ftptransfer
 resources/global/player/embed
 resources/gocodersdk/54f8721827aeb3bebffcca5e3b1a0d43/
 resources/gocodersdk/docs/1.0/54f8721827aeb3bebffcca5e3b1a0d43/
-resources/how-to/HowTo/SalAjxGetAssetDownloadForm
-resources/how-to/HowTo/SalAjxGetRandomHighConversionArticleContent
-resources/how-to/HowTo/SalAjxGetRandomHighTrafficArticleContent
+resources/how-to/HowTo/SalAjxGetAssetDownloadForm
+resources/how-to/HowTo/SalAjxGetRandomHighConversionArticleContent
+resources/how-to/HowTo/SalAjxGetRandomHighTrafficArticleContent
 resources/html/error/404.html
 resources/html/infographics/2018/ceo-activism-desktop/index.html
 resources/html5
@@ -138865,7 +138865,7 @@ search.py
 search.ref
 search.rl
 search/
-search/
+search/
 search/"
 search/$
 search/*
@@ -146937,7 +146937,7 @@ switcher=
 swp_analytics
 swr
 swsbm
-swz-request-demo/
+swz-request-demo/
 sx
 sxi/servlet/sxibrowse
 sxi/servlet/sximovie
@@ -150547,7 +150547,7 @@ tools/android-sdk
 tools/apache
 tools/api/agents/agentMarket
 tools/backdoor-factory
-tools/benefits-calculator/
+tools/benefits-calculator/
 tools/blogs
 tools/bluez-firmware
 tools/browseresults*?*threshold=
@@ -150562,7 +150562,7 @@ tools/desktop-video-editor-activity
 tools/dream-big-savings-calculator.html
 tools/email.asp
 tools/en/styleguide/
-tools/executive-compensation-calculator/
+tools/executive-compensation-calculator/
 tools/fake-hwclock
 tools/faraday-client
 tools/find-a-doctor/list/export
@@ -150570,7 +150570,7 @@ tools/firmware-sof
 tools/footer-navigation
 tools/forms
 tools/freerdp2
-tools/global-salary-calculator/
+tools/global-salary-calculator/
 tools/ical.cfm
 tools/index.html?
 tools/initramfs-tools
@@ -150615,7 +150615,7 @@ tools/reports-and-studies/h-2b-employer-data-hub
 tools/reports-and-studies/h-2b-employer-data-hub/export
 tools/reports-and-studies/h-2b-employer-data-hub/export-csv
 tools/rtlsdr-scanner
-tools/salary-calculator/
+tools/salary-calculator/
 tools/search
 tools/searchresults*?*threshold=
 tools/smali
@@ -152572,9 +152572,9 @@ uk-corporate
 uk-corporate/blackfriday
 uk-en
 uk-en/
-uk-job/JobBoard/SalAjxGetIbarData
-uk-job/apply
-uk-job/searchresults
+uk-job/JobBoard/SalAjxGetIbarData
+uk-job/apply
+uk-job/searchresults
 uk-join
 uk-ua
 uk-ua/
@@ -181988,7 +181988,7 @@ wp-admin
 wp-admin
 wp-admin.php
 wp-admin/
-wp-admin/
+wp-admin/
 wp-admin/$
 wp-admin/*
 wp-admin/about.php
