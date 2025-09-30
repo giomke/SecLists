@@ -73592,17 +73592,6 @@ sw-settings-shipping/page/sw-settings-shipping-detail/sw-settings-shipping-detai
 page/sw-settings-shipping-detail/sw-settings-shipping-detail.spec.js
 sw-settings-shipping-detail/sw-settings-shipping-detail.spec.js
 sw-settings-shipping-detail.spec.js
-src/Administration/Resources/app/administration/src/module/sw-settings-shipping/page/sw-settings-shipping-detail/sw-settings-shipping-detail.scss
-Administration/Resources/app/administration/src/module/sw-settings-shipping/page/sw-settings-shipping-detail/sw-settings-shipping-detail.scss
-Resources/app/administration/src/module/sw-settings-shipping/page/sw-settings-shipping-detail/sw-settings-shipping-detail.scss
-app/administration/src/module/sw-settings-shipping/page/sw-settings-shipping-detail/sw-settings-shipping-detail.scss
-administration/src/module/sw-settings-shipping/page/sw-settings-shipping-detail/sw-settings-shipping-detail.scss
-src/module/sw-settings-shipping/page/sw-settings-shipping-detail/sw-settings-shipping-detail.scss
-module/sw-settings-shipping/page/sw-settings-shipping-detail/sw-settings-shipping-detail.scss
-sw-settings-shipping/page/sw-settings-shipping-detail/sw-settings-shipping-detail.scss
-page/sw-settings-shipping-detail/sw-settings-shipping-detail.scss
-sw-settings-shipping-detail/sw-settings-shipping-detail.scss
-sw-settings-shipping-detail.scss
 src/Administration/Resources/app/administration/src/module/sw-settings-shipping/page/sw-settings-shipping-detail/store.ts
 Administration/Resources/app/administration/src/module/sw-settings-shipping/page/sw-settings-shipping-detail/store.ts
 Resources/app/administration/src/module/sw-settings-shipping/page/sw-settings-shipping-detail/store.ts
@@ -141511,6 +141500,9 @@ _unreleased/2025-06-14-simplify-personal-company-fields.md
 changelog/_unreleased/2022-05-18-abstract-and-reduce-rule-condition-components.md
 _unreleased/2022-05-18-abstract-and-reduce-rule-condition-components.md
 2022-05-18-abstract-and-reduce-rule-condition-components.md
+changelog/_unreleased/2025-08-08-deleting-properties-fails-without-error-popup-when-property-values-are-still-in-use.md
+_unreleased/2025-08-08-deleting-properties-fails-without-error-popup-when-property-values-are-still-in-use.md
+2025-08-08-deleting-properties-fails-without-error-popup-when-property-values-are-still-in-use.md
 changelog/_unreleased/2022-04-05-keep-track-of-changes-on-rule-builder-detail-page.md
 _unreleased/2022-04-05-keep-track-of-changes-on-rule-builder-detail-page.md
 2022-04-05-keep-track-of-changes-on-rule-builder-detail-page.md
@@ -141574,6 +141566,9 @@ _unreleased/2025-09-10-fix-inherited-switch-value.md
 changelog/_unreleased/2025-09-19-fix-promotion-exclusion-for-fixed-delivery-discounts.md
 _unreleased/2025-09-19-fix-promotion-exclusion-for-fixed-delivery-discounts.md
 2025-09-19-fix-promotion-exclusion-for-fixed-delivery-discounts.md
+changelog/_unreleased/2025-09-27-remove-not-needed-shipping-detail-admin-scss.md
+_unreleased/2025-09-27-remove-not-needed-shipping-detail-admin-scss.md
+2025-09-27-remove-not-needed-shipping-detail-admin-scss.md
 changelog/_unreleased/2025-09-23-optimized-performance-on-3d-viewer-canvases.md
 _unreleased/2025-09-23-optimized-performance-on-3d-viewer-canvases.md
 2025-09-23-optimized-performance-on-3d-viewer-canvases.md
