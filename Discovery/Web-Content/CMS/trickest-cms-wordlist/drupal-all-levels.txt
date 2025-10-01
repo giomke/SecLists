@@ -43230,6 +43230,12 @@ image/src/Hook/ImageHooks.php
 src/Hook/ImageHooks.php
 Hook/ImageHooks.php
 ImageHooks.php
+core/modules/image/src/Hook/ImageThemeHooks.php
+modules/image/src/Hook/ImageThemeHooks.php
+image/src/Hook/ImageThemeHooks.php
+src/Hook/ImageThemeHooks.php
+Hook/ImageThemeHooks.php
+ImageThemeHooks.php
 core/modules/image/src/Hook/ImageRequirements.php
 modules/image/src/Hook/ImageRequirements.php
 image/src/Hook/ImageRequirements.php

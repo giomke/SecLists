@@ -5404,6 +5404,14 @@ Magento/GraphQl/Catalog/ProductSearchAggregationsTest.php
 GraphQl/Catalog/ProductSearchAggregationsTest.php
 Catalog/ProductSearchAggregationsTest.php
 ProductSearchAggregationsTest.php
+dev/tests/api-functional/testsuite/Magento/GraphQl/Catalog/ProductVisibilitySearchTest.php
+tests/api-functional/testsuite/Magento/GraphQl/Catalog/ProductVisibilitySearchTest.php
+api-functional/testsuite/Magento/GraphQl/Catalog/ProductVisibilitySearchTest.php
+testsuite/Magento/GraphQl/Catalog/ProductVisibilitySearchTest.php
+Magento/GraphQl/Catalog/ProductVisibilitySearchTest.php
+GraphQl/Catalog/ProductVisibilitySearchTest.php
+Catalog/ProductVisibilitySearchTest.php
+ProductVisibilitySearchTest.php
 dev/tests/api-functional/testsuite/Magento/GraphQl/Catalog/Options/CustomizableOptionsTest.php
 tests/api-functional/testsuite/Magento/GraphQl/Catalog/Options/CustomizableOptionsTest.php
 api-functional/testsuite/Magento/GraphQl/Catalog/Options/CustomizableOptionsTest.php
