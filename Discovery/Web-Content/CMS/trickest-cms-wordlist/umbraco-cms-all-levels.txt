@@ -73754,6 +73754,12 @@ Migrations/Upgrade/V_13_5_0/ChangeRedirectUrlToNvarcharMax.cs
 Upgrade/V_13_5_0/ChangeRedirectUrlToNvarcharMax.cs
 V_13_5_0/ChangeRedirectUrlToNvarcharMax.cs
 ChangeRedirectUrlToNvarcharMax.cs
+src/Umbraco.Infrastructure/Migrations/Upgrade/V_16_4_0/CreateMissingTabs.cs
+Umbraco.Infrastructure/Migrations/Upgrade/V_16_4_0/CreateMissingTabs.cs
+Migrations/Upgrade/V_16_4_0/CreateMissingTabs.cs
+Upgrade/V_16_4_0/CreateMissingTabs.cs
+V_16_4_0/CreateMissingTabs.cs
+CreateMissingTabs.cs
 src/Umbraco.Infrastructure/Migrations/Upgrade/V_14_0_0/UpdateToOpenIddictV5.cs
 Umbraco.Infrastructure/Migrations/Upgrade/V_14_0_0/UpdateToOpenIddictV5.cs
 Migrations/Upgrade/V_14_0_0/UpdateToOpenIddictV5.cs
@@ -89212,6 +89218,13 @@ Umbraco.Tests.Integration/Umbraco.Infrastructure/Migrations/AdvancedMigrationTes
 Umbraco.Infrastructure/Migrations/AdvancedMigrationTests.cs
 Migrations/AdvancedMigrationTests.cs
 AdvancedMigrationTests.cs
+tests/Umbraco.Tests.Integration/Umbraco.Infrastructure/Migrations/Upgrade/V_16_4_0/CreateMissingTabsTest.cs
+Umbraco.Tests.Integration/Umbraco.Infrastructure/Migrations/Upgrade/V_16_4_0/CreateMissingTabsTest.cs
+Umbraco.Infrastructure/Migrations/Upgrade/V_16_4_0/CreateMissingTabsTest.cs
+Migrations/Upgrade/V_16_4_0/CreateMissingTabsTest.cs
+Upgrade/V_16_4_0/CreateMissingTabsTest.cs
+V_16_4_0/CreateMissingTabsTest.cs
+CreateMissingTabsTest.cs
 tests/Umbraco.Tests.Integration/Umbraco.Infrastructure/Migrations/Expressions/Create/Expressions/CreateTableExpressionTests.cs
 Umbraco.Tests.Integration/Umbraco.Infrastructure/Migrations/Expressions/Create/Expressions/CreateTableExpressionTests.cs
 Umbraco.Infrastructure/Migrations/Expressions/Create/Expressions/CreateTableExpressionTests.cs
