@@ -65826,6 +65826,10 @@ src/Umbraco.Core/Extensions/HtmlEncodedStringExtensions.cs
 Umbraco.Core/Extensions/HtmlEncodedStringExtensions.cs
 Extensions/HtmlEncodedStringExtensions.cs
 HtmlEncodedStringExtensions.cs
+src/Umbraco.Core/Extensions/LanguageServiceExtensions.cs
+Umbraco.Core/Extensions/LanguageServiceExtensions.cs
+Extensions/LanguageServiceExtensions.cs
+LanguageServiceExtensions.cs
 src/Umbraco.Core/Extensions/HostEnvironmentExtensions.cs
 Umbraco.Core/Extensions/HostEnvironmentExtensions.cs
 Extensions/HostEnvironmentExtensions.cs
