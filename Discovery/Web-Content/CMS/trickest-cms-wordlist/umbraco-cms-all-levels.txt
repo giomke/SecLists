@@ -19945,6 +19945,10 @@ src/Umbraco.Cms.Api.Common/Extensions/MethodInfoApiCommonExtensions.cs
 Umbraco.Cms.Api.Common/Extensions/MethodInfoApiCommonExtensions.cs
 Extensions/MethodInfoApiCommonExtensions.cs
 MethodInfoApiCommonExtensions.cs
+src/Umbraco.Cms.Api.Common/Extensions/ActionDescriptorApiCommonExtensions.cs
+Umbraco.Cms.Api.Common/Extensions/ActionDescriptorApiCommonExtensions.cs
+Extensions/ActionDescriptorApiCommonExtensions.cs
+ActionDescriptorApiCommonExtensions.cs
 src/Umbraco.Cms.Api.Common/OpenApi/SchemaIdSelector.cs
 Umbraco.Cms.Api.Common/OpenApi/SchemaIdSelector.cs
 OpenApi/SchemaIdSelector.cs
