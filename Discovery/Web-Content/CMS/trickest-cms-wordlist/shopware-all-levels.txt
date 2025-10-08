@@ -25356,6 +25356,12 @@ Framework/RateLimiter/Policy/SystemConfigLimiterTest.php
 RateLimiter/Policy/SystemConfigLimiterTest.php
 Policy/SystemConfigLimiterTest.php
 SystemConfigLimiterTest.php
+tests/unit/Core/Framework/RateLimiter/RateLimiterTest.php
+unit/Core/Framework/RateLimiter/RateLimiterTest.php
+Core/Framework/RateLimiter/RateLimiterTest.php
+Framework/RateLimiter/RateLimiterTest.php
+RateLimiter/RateLimiterTest.php
+RateLimiterTest.php
 tests/unit/Core/Framework/MessageQueue/MessageQueueExceptionTest.php
 unit/Core/Framework/MessageQueue/MessageQueueExceptionTest.php
 Core/Framework/MessageQueue/MessageQueueExceptionTest.php
@@ -41559,6 +41565,9 @@ _unreleased/2025-09-24-improve-error-output-of-app-loader.md
 changelog/_unreleased/2024-07-16-remove-manual-override-for-state-machine.md
 _unreleased/2024-07-16-remove-manual-override-for-state-machine.md
 2024-07-16-remove-manual-override-for-state-machine.md
+changelog/_unreleased/2025-10-04-replace-latest-sw-switch-field-component-with-bool-input.md
+_unreleased/2025-10-04-replace-latest-sw-switch-field-component-with-bool-input.md
+2025-10-04-replace-latest-sw-switch-field-component-with-bool-input.md
 changelog/_unreleased/2025-09-27-remove-not-needed-shipping-detail-admin-scss.md
 _unreleased/2025-09-27-remove-not-needed-shipping-detail-admin-scss.md
 2025-09-27-remove-not-needed-shipping-detail-admin-scss.md
@@ -41610,6 +41619,9 @@ _unreleased/2024-05-22-navbar-for-main-navigation.md
 changelog/_unreleased/2024-08-19-add-context-to-orderstatechangecriteriaevent.md
 _unreleased/2024-08-19-add-context-to-orderstatechangecriteriaevent.md
 2024-08-19-add-context-to-orderstatechangecriteriaevent.md
+changelog/_unreleased/2025-10-05-add-blocks-to-reduce-code-you-need-to-copy.md
+_unreleased/2025-10-05-add-blocks-to-reduce-code-you-need-to-copy.md
+2025-10-05-add-blocks-to-reduce-code-you-need-to-copy.md
 changelog/_template.md
 _template.md
 changelog/release-6-4-4-0/2021-08-03-fix-special-characters-in-mail-subject-not-display-correctly.md
@@ -128473,6 +128485,11 @@ Framework/RateLimiter/Policy/TimeBackoff.php
 RateLimiter/Policy/TimeBackoff.php
 Policy/TimeBackoff.php
 TimeBackoff.php
+src/Core/Framework/RateLimiter/RateLimiterException.php
+Core/Framework/RateLimiter/RateLimiterException.php
+Framework/RateLimiter/RateLimiterException.php
+RateLimiter/RateLimiterException.php
+RateLimiterException.php
 src/Core/Framework/RateLimiter/RateLimiter.php
 Core/Framework/RateLimiter/RateLimiter.php
 Framework/RateLimiter/RateLimiter.php
