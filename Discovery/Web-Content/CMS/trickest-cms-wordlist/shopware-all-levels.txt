@@ -1159,6 +1159,13 @@ Core/Checkout/Customer/CustomerValueResolverTest.php
 Checkout/Customer/CustomerValueResolverTest.php
 Customer/CustomerValueResolverTest.php
 CustomerValueResolverTest.php
+tests/integration/Core/Checkout/Customer/Api/CustomerGroupRegistrationActionControllerTest.php
+integration/Core/Checkout/Customer/Api/CustomerGroupRegistrationActionControllerTest.php
+Core/Checkout/Customer/Api/CustomerGroupRegistrationActionControllerTest.php
+Checkout/Customer/Api/CustomerGroupRegistrationActionControllerTest.php
+Customer/Api/CustomerGroupRegistrationActionControllerTest.php
+Api/CustomerGroupRegistrationActionControllerTest.php
+CustomerGroupRegistrationActionControllerTest.php
 tests/integration/Core/Checkout/Customer/Service/ProductReviewCountServiceTest.php
 integration/Core/Checkout/Customer/Service/ProductReviewCountServiceTest.php
 Core/Checkout/Customer/Service/ProductReviewCountServiceTest.php
@@ -30987,6 +30994,10 @@ vendor-bin/roave-backward-compatibility-check/patches/skip-experimental.patch
 roave-backward-compatibility-check/patches/skip-experimental.patch
 patches/skip-experimental.patch
 skip-experimental.patch
+vendor-bin/roave-backward-compatibility-check/patches/skip-optional-construct-parameters.patch
+roave-backward-compatibility-check/patches/skip-optional-construct-parameters.patch
+patches/skip-optional-construct-parameters.patch
+skip-optional-construct-parameters.patch
 vendor-bin/roave-backward-compatibility-check/bin/verify-version.php
 roave-backward-compatibility-check/bin/verify-version.php
 bin/verify-version.php
@@ -41553,6 +41564,9 @@ _unreleased/2024-09-16-exchange-recursive-categories-macro-with-tpl.md
 changelog/_unreleased/2025-10-06-fix-log-event-listing.md
 _unreleased/2025-10-06-fix-log-event-listing.md
 2025-10-06-fix-log-event-listing.md
+changelog/_unreleased/2025-10-01-search-result-should-include-products-when-parent-product-number-matches.md
+_unreleased/2025-10-01-search-result-should-include-products-when-parent-product-number-matches.md
+2025-10-01-search-result-should-include-products-when-parent-product-number-matches.md
 changelog/_unreleased/2025-04-15-improve-promotion-calculation.md
 _unreleased/2025-04-15-improve-promotion-calculation.md
 2025-04-15-improve-promotion-calculation.md
@@ -41562,6 +41576,9 @@ _unreleased/2025-08-20-fix-media-search-navigation.md
 changelog/_unreleased/2022-10-13-use-rule-areas-in-entity-cache-key-generation.md
 _unreleased/2022-10-13-use-rule-areas-in-entity-cache-key-generation.md
 2022-10-13-use-rule-areas-in-entity-cache-key-generation.md
+changelog/_unreleased/2025-10-06-add-aria-label-to-cms-image-link.md
+_unreleased/2025-10-06-add-aria-label-to-cms-image-link.md
+2025-10-06-add-aria-label-to-cms-image-link.md
 changelog/_unreleased/2024-09-27-add-an-option-for-generating-documents-via-bulk-edit.md
 _unreleased/2024-09-27-add-an-option-for-generating-documents-via-bulk-edit.md
 2024-09-27-add-an-option-for-generating-documents-via-bulk-edit.md
