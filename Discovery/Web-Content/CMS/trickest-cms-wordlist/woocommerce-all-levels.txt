@@ -77903,6 +77903,10 @@ plugins/woocommerce/changelog/fix-order-total-empty-string
 woocommerce/changelog/fix-order-total-empty-string
 changelog/fix-order-total-empty-string
 fix-order-total-empty-string
+plugins/woocommerce/changelog/add-v4-update-shipping-zone-endpoint
+woocommerce/changelog/add-v4-update-shipping-zone-endpoint
+changelog/add-v4-update-shipping-zone-endpoint
+add-v4-update-shipping-zone-endpoint
 plugins/woocommerce/changelog/fix-entity-registration
 woocommerce/changelog/fix-entity-registration
 changelog/fix-entity-registration
@@ -77923,6 +77927,10 @@ plugins/woocommerce/changelog/add-v4-settings-payments-offline
 woocommerce/changelog/add-v4-settings-payments-offline
 changelog/add-v4-settings-payments-offline
 add-v4-settings-payments-offline
+plugins/woocommerce/changelog/61361-wooplug-5432-fcb-add-duotone-filter
+woocommerce/changelog/61361-wooplug-5432-fcb-add-duotone-filter
+changelog/61361-wooplug-5432-fcb-add-duotone-filter
+61361-wooplug-5432-fcb-add-duotone-filter
 plugins/woocommerce/changelog/61271-add-complete-agentic-commerce
 woocommerce/changelog/61271-add-complete-agentic-commerce
 changelog/61271-add-complete-agentic-commerce
@@ -77995,6 +78003,10 @@ plugins/woocommerce/changelog/fix-isdiscount-check
 woocommerce/changelog/fix-isdiscount-check
 changelog/fix-isdiscount-check
 fix-isdiscount-check
+plugins/woocommerce/changelog/61362-fix-WOOPLUG-5667-fix-php-notice-for-indirect-modification-of-overloaded-property-in-wc-tracks
+woocommerce/changelog/61362-fix-WOOPLUG-5667-fix-php-notice-for-indirect-modification-of-overloaded-property-in-wc-tracks
+changelog/61362-fix-WOOPLUG-5667-fix-php-notice-for-indirect-modification-of-overloaded-property-in-wc-tracks
+61362-fix-WOOPLUG-5667-fix-php-notice-for-indirect-modification-of-overloaded-property-in-wc-tracks
 plugins/woocommerce/changelog/.gitkeep
 woocommerce/changelog/.gitkeep
 changelog/.gitkeep
