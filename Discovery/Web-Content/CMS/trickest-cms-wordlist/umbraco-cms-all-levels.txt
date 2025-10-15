@@ -6037,6 +6037,12 @@ Umbraco.Infrastructure/Persistence/NPocoTests/NPocoBulkInsertTests.cs
 Persistence/NPocoTests/NPocoBulkInsertTests.cs
 NPocoTests/NPocoBulkInsertTests.cs
 NPocoBulkInsertTests.cs
+tests/Umbraco.Tests.Integration/Umbraco.Infrastructure/Persistence/NPocoTests/NPocoUpdateBatchTests.cs
+Umbraco.Tests.Integration/Umbraco.Infrastructure/Persistence/NPocoTests/NPocoUpdateBatchTests.cs
+Umbraco.Infrastructure/Persistence/NPocoTests/NPocoUpdateBatchTests.cs
+Persistence/NPocoTests/NPocoUpdateBatchTests.cs
+NPocoTests/NPocoUpdateBatchTests.cs
+NPocoUpdateBatchTests.cs
 tests/Umbraco.Tests.Integration/Umbraco.Infrastructure/Persistence/LocksTests.cs
 Umbraco.Tests.Integration/Umbraco.Infrastructure/Persistence/LocksTests.cs
 Umbraco.Infrastructure/Persistence/LocksTests.cs
