@@ -80963,13 +80963,6 @@ Bundle/UserBundle/Exception/UserNotFoundException.php
 UserBundle/Exception/UserNotFoundException.php
 Exception/UserNotFoundException.php
 UserNotFoundException.php
-src/Sylius/Bundle/UserBundle/Tests/Authentication/AuthenticationFailureHandlerTest.php
-Sylius/Bundle/UserBundle/Tests/Authentication/AuthenticationFailureHandlerTest.php
-Bundle/UserBundle/Tests/Authentication/AuthenticationFailureHandlerTest.php
-UserBundle/Tests/Authentication/AuthenticationFailureHandlerTest.php
-Tests/Authentication/AuthenticationFailureHandlerTest.php
-Authentication/AuthenticationFailureHandlerTest.php
-AuthenticationFailureHandlerTest.php
 src/Sylius/Bundle/UserBundle/DependencyInjection/Configuration.php
 Sylius/Bundle/UserBundle/DependencyInjection/Configuration.php
 Bundle/UserBundle/DependencyInjection/Configuration.php
