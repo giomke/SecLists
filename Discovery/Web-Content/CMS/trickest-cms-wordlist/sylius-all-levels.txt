@@ -32377,6 +32377,14 @@ templates/shared/helper/avatar.html.twig
 shared/helper/avatar.html.twig
 helper/avatar.html.twig
 avatar.html.twig
+src/Sylius/Bundle/AdminBundle/templates/shared/helper/loader.html.twig
+Sylius/Bundle/AdminBundle/templates/shared/helper/loader.html.twig
+Bundle/AdminBundle/templates/shared/helper/loader.html.twig
+AdminBundle/templates/shared/helper/loader.html.twig
+templates/shared/helper/loader.html.twig
+shared/helper/loader.html.twig
+helper/loader.html.twig
+loader.html.twig
 src/Sylius/Bundle/AdminBundle/templates/shared/helper/money.html.twig
 Sylius/Bundle/AdminBundle/templates/shared/helper/money.html.twig
 Bundle/AdminBundle/templates/shared/helper/money.html.twig
@@ -74330,6 +74338,14 @@ templates/shared/macro/rating.html.twig
 shared/macro/rating.html.twig
 macro/rating.html.twig
 rating.html.twig
+src/Sylius/Bundle/ShopBundle/templates/shared/macro/loader.html.twig
+Sylius/Bundle/ShopBundle/templates/shared/macro/loader.html.twig
+Bundle/ShopBundle/templates/shared/macro/loader.html.twig
+ShopBundle/templates/shared/macro/loader.html.twig
+templates/shared/macro/loader.html.twig
+shared/macro/loader.html.twig
+macro/loader.html.twig
+loader.html.twig
 src/Sylius/Bundle/ShopBundle/templates/shared/macro/money.html.twig
 Sylius/Bundle/ShopBundle/templates/shared/macro/money.html.twig
 Bundle/ShopBundle/templates/shared/macro/money.html.twig
@@ -83154,4 +83170,5 @@ UPGRADE-2.0.md
 .gitattributes
 docker-compose.test.yml
 phpstan.neon.dist
+UPGRADE-2.2.md
 phpunit.xml.dist

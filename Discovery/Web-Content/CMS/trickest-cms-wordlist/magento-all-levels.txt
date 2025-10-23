@@ -33293,6 +33293,15 @@ Tab/Options/Type/SelectTest.php
 Options/Type/SelectTest.php
 Type/SelectTest.php
 SelectTest.php
+dev/tests/integration/testsuite/Magento/Catalog/Block/Product/ImageTemplateEscapingTest.php
+tests/integration/testsuite/Magento/Catalog/Block/Product/ImageTemplateEscapingTest.php
+integration/testsuite/Magento/Catalog/Block/Product/ImageTemplateEscapingTest.php
+testsuite/Magento/Catalog/Block/Product/ImageTemplateEscapingTest.php
+Magento/Catalog/Block/Product/ImageTemplateEscapingTest.php
+Catalog/Block/Product/ImageTemplateEscapingTest.php
+Block/Product/ImageTemplateEscapingTest.php
+Product/ImageTemplateEscapingTest.php
+ImageTemplateEscapingTest.php
 dev/tests/integration/testsuite/Magento/Catalog/Block/Product/ListTest.php
 tests/integration/testsuite/Magento/Catalog/Block/Product/ListTest.php
 integration/testsuite/Magento/Catalog/Block/Product/ListTest.php
