@@ -29042,6 +29042,12 @@ tests/Visual/Storefront/Account.spec.ts
 Visual/Storefront/Account.spec.ts
 Storefront/Account.spec.ts
 Account.spec.ts
+tests/acceptance/tests/Visual/Storefront/ShoppingCart.spec.ts
+acceptance/tests/Visual/Storefront/ShoppingCart.spec.ts
+tests/Visual/Storefront/ShoppingCart.spec.ts
+Visual/Storefront/ShoppingCart.spec.ts
+Storefront/ShoppingCart.spec.ts
+ShoppingCart.spec.ts
 tests/acceptance/tests/Product/ProductAvailabilityWithClearanceSale.spec.ts
 acceptance/tests/Product/ProductAvailabilityWithClearanceSale.spec.ts
 tests/Product/ProductAvailabilityWithClearanceSale.spec.ts
@@ -41663,6 +41669,9 @@ _unreleased/2024-09-16-exchange-recursive-categories-macro-with-tpl.md
 changelog/_unreleased/2025-10-06-fix-log-event-listing.md
 _unreleased/2025-10-06-fix-log-event-listing.md
 2025-10-06-fix-log-event-listing.md
+changelog/_unreleased/2025-10-23-fix-google-consent-mode-v2-default-update.md
+_unreleased/2025-10-23-fix-google-consent-mode-v2-default-update.md
+2025-10-23-fix-google-consent-mode-v2-default-update.md
 changelog/_unreleased/2025-10-01-search-result-should-include-products-when-parent-product-number-matches.md
 _unreleased/2025-10-01-search-result-should-include-products-when-parent-product-number-matches.md
 2025-10-01-search-result-should-include-products-when-parent-product-number-matches.md
@@ -41816,6 +41825,9 @@ _unreleased/2024-08-19-add-context-to-orderstatechangecriteriaevent.md
 changelog/_unreleased/2025-10-14-add-message-queue-message-size-limit-config-option.md
 _unreleased/2025-10-14-add-message-queue-message-size-limit-config-option.md
 2025-10-14-add-message-queue-message-size-limit-config-option.md
+changelog/_unreleased/2025-10-21-separate-vimeo-youtube-cookies.md
+_unreleased/2025-10-21-separate-vimeo-youtube-cookies.md
+2025-10-21-separate-vimeo-youtube-cookies.md
 changelog/_unreleased/2025-10-05-add-blocks-to-reduce-code-you-need-to-copy.md
 _unreleased/2025-10-05-add-blocks-to-reduce-code-you-need-to-copy.md
 2025-10-05-add-blocks-to-reduce-code-you-need-to-copy.md

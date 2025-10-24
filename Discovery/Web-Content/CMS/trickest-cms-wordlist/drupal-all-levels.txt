@@ -16848,6 +16848,13 @@ Tests/Core/PreWarm/CachePreWarmerTest.php
 Core/PreWarm/CachePreWarmerTest.php
 PreWarm/CachePreWarmerTest.php
 CachePreWarmerTest.php
+core/tests/Drupal/Tests/Core/Command/BootableCommandTraitTest.php
+tests/Drupal/Tests/Core/Command/BootableCommandTraitTest.php
+Drupal/Tests/Core/Command/BootableCommandTraitTest.php
+Tests/Core/Command/BootableCommandTraitTest.php
+Core/Command/BootableCommandTraitTest.php
+Command/BootableCommandTraitTest.php
+BootableCommandTraitTest.php
 core/tests/Drupal/Tests/Core/Cron/CronSuspendQueueDelayTest.php
 tests/Drupal/Tests/Core/Cron/CronSuspendQueueDelayTest.php
 Drupal/Tests/Core/Cron/CronSuspendQueueDelayTest.php
@@ -39292,6 +39299,12 @@ contextual/src/Element/ContextualLinks.php
 src/Element/ContextualLinks.php
 Element/ContextualLinks.php
 ContextualLinks.php
+core/modules/contextual/src/Theme/ContextualLinksNegotiator.php
+modules/contextual/src/Theme/ContextualLinksNegotiator.php
+contextual/src/Theme/ContextualLinksNegotiator.php
+src/Theme/ContextualLinksNegotiator.php
+Theme/ContextualLinksNegotiator.php
+ContextualLinksNegotiator.php
 core/modules/contextual/src/ContextualController.php
 modules/contextual/src/ContextualController.php
 contextual/src/ContextualController.php
