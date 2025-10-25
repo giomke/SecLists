@@ -23378,6 +23378,10 @@ woocommerce/.eslintrc.js
 plugins/woocommerce/license.txt
 woocommerce/license.txt
 license.txt
+plugins/woocommerce/.claude/CLAUDE.md
+woocommerce/.claude/CLAUDE.md
+.claude/CLAUDE.md
+CLAUDE.md
 plugins/woocommerce/composer.json
 woocommerce/composer.json
 composer.json
@@ -23390,9 +23394,6 @@ plugins/woocommerce/packages/README.md
 woocommerce/packages/README.md
 packages/README.md
 README.md
-plugins/woocommerce/CLAUDE.md
-woocommerce/CLAUDE.md
-CLAUDE.md
 plugins/woocommerce/templates/content-single-product.php
 woocommerce/templates/content-single-product.php
 templates/content-single-product.php
@@ -77665,6 +77666,10 @@ plugins/woocommerce/changelog/update-60950-3
 woocommerce/changelog/update-60950-3
 changelog/update-60950-3
 update-60950-3
+plugins/woocommerce/changelog/27512-deprecate-wc_print_js_part_1
+woocommerce/changelog/27512-deprecate-wc_print_js_part_1
+changelog/27512-deprecate-wc_print_js_part_1
+27512-deprecate-wc_print_js_part_1
 plugins/woocommerce/changelog/fix-50085
 woocommerce/changelog/fix-50085
 changelog/fix-50085
@@ -77733,6 +77738,10 @@ plugins/woocommerce/changelog/fix-wooplug-4629-shipping-cost-locale-format
 woocommerce/changelog/fix-wooplug-4629-shipping-cost-locale-format
 changelog/fix-wooplug-4629-shipping-cost-locale-format
 fix-wooplug-4629-shipping-cost-locale-format
+plugins/woocommerce/changelog/61554-wooplug-5672-featured-product-and-featured-category-in-tt4-title-should
+woocommerce/changelog/61554-wooplug-5672-featured-product-and-featured-category-in-tt4-title-should
+changelog/61554-wooplug-5672-featured-product-and-featured-category-in-tt4-title-should
+61554-wooplug-5672-featured-product-and-featured-category-in-tt4-title-should
 plugins/woocommerce/changelog/dev-lint-fixes
 woocommerce/changelog/dev-lint-fixes
 changelog/dev-lint-fixes
@@ -77761,6 +77770,10 @@ plugins/woocommerce/changelog/WOOPLUG-3100-optimize-analytics-performance-indica
 woocommerce/changelog/WOOPLUG-3100-optimize-analytics-performance-indicator-endpoints
 changelog/WOOPLUG-3100-optimize-analytics-performance-indicator-endpoints
 WOOPLUG-3100-optimize-analytics-performance-indicator-endpoints
+plugins/woocommerce/changelog/improve-instructions-for-claude
+woocommerce/changelog/improve-instructions-for-claude
+changelog/improve-instructions-for-claude
+improve-instructions-for-claude
 plugins/woocommerce/changelog/update-template-and-add-to-cart-with-options-old-comments
 woocommerce/changelog/update-template-and-add-to-cart-with-options-old-comments
 changelog/update-template-and-add-to-cart-with-options-old-comments
@@ -77821,6 +77834,10 @@ plugins/woocommerce/changelog/fix-abilities-api-wp69-hooks
 woocommerce/changelog/fix-abilities-api-wp69-hooks
 changelog/fix-abilities-api-wp69-hooks
 fix-abilities-api-wp69-hooks
+plugins/woocommerce/changelog/dev-make-all-wp-pre-release-jobs-optional
+woocommerce/changelog/dev-make-all-wp-pre-release-jobs-optional
+changelog/dev-make-all-wp-pre-release-jobs-optional
+dev-make-all-wp-pre-release-jobs-optional
 plugins/woocommerce/changelog/fix-56609
 woocommerce/changelog/fix-56609
 changelog/fix-56609
@@ -77905,6 +77922,10 @@ plugins/woocommerce/changelog/pr-61121
 woocommerce/changelog/pr-61121
 changelog/pr-61121
 pr-61121
+plugins/woocommerce/changelog/e2e-update-screenshot-mode-blocks-e2e
+woocommerce/changelog/e2e-update-screenshot-mode-blocks-e2e
+changelog/e2e-update-screenshot-mode-blocks-e2e
+e2e-update-screenshot-mode-blocks-e2e
 plugins/woocommerce/changelog/dev-update-blocks-e2e-wp-prerelease-changes-config
 woocommerce/changelog/dev-update-blocks-e2e-wp-prerelease-changes-config
 changelog/dev-update-blocks-e2e-wp-prerelease-changes-config
@@ -77925,6 +77946,10 @@ plugins/woocommerce/changelog/fix-48328
 woocommerce/changelog/fix-48328
 changelog/fix-48328
 fix-48328
+plugins/woocommerce/changelog/fix-61584
+woocommerce/changelog/fix-61584
+changelog/fix-61584
+fix-61584
 plugins/woocommerce/changelog/fix-53449-flaky-test-ii
 woocommerce/changelog/fix-53449-flaky-test-ii
 changelog/fix-53449-flaky-test-ii
