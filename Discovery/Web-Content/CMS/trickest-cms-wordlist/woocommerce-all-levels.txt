@@ -51,6 +51,11 @@ js/email-editor/changelog/wooprd-993-list-of-personalization-tags-is-empty
 email-editor/changelog/wooprd-993-list-of-personalization-tags-is-empty
 changelog/wooprd-993-list-of-personalization-tags-is-empty
 wooprd-993-list-of-personalization-tags-is-empty
+packages/js/email-editor/changelog/wooprd-742-back-button-in-the-email-editor
+js/email-editor/changelog/wooprd-742-back-button-in-the-email-editor
+email-editor/changelog/wooprd-742-back-button-in-the-email-editor
+changelog/wooprd-742-back-button-in-the-email-editor
+wooprd-742-back-button-in-the-email-editor
 packages/js/email-editor/composer.lock
 js/email-editor/composer.lock
 email-editor/composer.lock
@@ -783,6 +788,14 @@ src/components/header/trash-email-post.tsx
 components/header/trash-email-post.tsx
 header/trash-email-post.tsx
 trash-email-post.tsx
+packages/js/email-editor/src/components/header/test/back-button-content.spec.tsx
+js/email-editor/src/components/header/test/back-button-content.spec.tsx
+email-editor/src/components/header/test/back-button-content.spec.tsx
+src/components/header/test/back-button-content.spec.tsx
+components/header/test/back-button-content.spec.tsx
+header/test/back-button-content.spec.tsx
+test/back-button-content.spec.tsx
+back-button-content.spec.tsx
 packages/js/email-editor/src/components/header/test/send-button.spec.tsx
 js/email-editor/src/components/header/test/send-button.spec.tsx
 email-editor/src/components/header/test/send-button.spec.tsx
@@ -77946,10 +77959,6 @@ plugins/woocommerce/changelog/fix-48328
 woocommerce/changelog/fix-48328
 changelog/fix-48328
 fix-48328
-plugins/woocommerce/changelog/fix-61584
-woocommerce/changelog/fix-61584
-changelog/fix-61584
-fix-61584
 plugins/woocommerce/changelog/fix-53449-flaky-test-ii
 woocommerce/changelog/fix-53449-flaky-test-ii
 changelog/fix-53449-flaky-test-ii

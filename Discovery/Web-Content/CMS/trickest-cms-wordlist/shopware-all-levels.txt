@@ -41727,6 +41727,12 @@ _unreleased/2025-09-03-add-custom-action-in-media-sidebar.md
 changelog/_unreleased/2025-10-08-fix-plugin-config-default-values.md
 _unreleased/2025-10-08-fix-plugin-config-default-values.md
 2025-10-08-fix-plugin-config-default-values.md
+changelog/_unreleased/2025-10-23-respect-the-composer_plugin_loader-environment-variable-in-the-bin-shopware-cli-command.md
+_unreleased/2025-10-23-respect-the-composer_plugin_loader-environment-variable-in-the-bin-shopware-cli-command.md
+2025-10-23-respect-the-composer_plugin_loader-environment-variable-in-the-bin-shopware-cli-command.md
+changelog/_unreleased/2025-01-31-fix-flaky-storefront-test-active-route-parameters.md
+_unreleased/2025-01-31-fix-flaky-storefront-test-active-route-parameters.md
+2025-01-31-fix-flaky-storefront-test-active-route-parameters.md
 changelog/_unreleased/2025-10-09-fix-issue-with-loading-seo-url-preview.md
 _unreleased/2025-10-09-fix-issue-with-loading-seo-url-preview.md
 2025-10-09-fix-issue-with-loading-seo-url-preview.md
@@ -41832,6 +41838,9 @@ _unreleased/2025-10-14-do-not-use-the-symfony-validator-to-validate-the-honeypot
 changelog/_unreleased/2024-05-22-navbar-for-main-navigation.md
 _unreleased/2024-05-22-navbar-for-main-navigation.md
 2024-05-22-navbar-for-main-navigation.md
+changelog/_unreleased/2025-10-23-fix-cookie-offcanvas-link-from-navigation.md
+_unreleased/2025-10-23-fix-cookie-offcanvas-link-from-navigation.md
+2025-10-23-fix-cookie-offcanvas-link-from-navigation.md
 changelog/_unreleased/2024-08-19-add-context-to-orderstatechangecriteriaevent.md
 _unreleased/2024-08-19-add-context-to-orderstatechangecriteriaevent.md
 2024-08-19-add-context-to-orderstatechangecriteriaevent.md
