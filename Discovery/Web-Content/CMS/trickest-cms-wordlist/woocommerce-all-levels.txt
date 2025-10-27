@@ -77847,6 +77847,10 @@ plugins/woocommerce/changelog/fix-abilities-api-wp69-hooks
 woocommerce/changelog/fix-abilities-api-wp69-hooks
 changelog/fix-abilities-api-wp69-hooks
 fix-abilities-api-wp69-hooks
+plugins/woocommerce/changelog/update-agentic-checkout-auth
+woocommerce/changelog/update-agentic-checkout-auth
+changelog/update-agentic-checkout-auth
+update-agentic-checkout-auth
 plugins/woocommerce/changelog/dev-make-all-wp-pre-release-jobs-optional
 woocommerce/changelog/dev-make-all-wp-pre-release-jobs-optional
 changelog/dev-make-all-wp-pre-release-jobs-optional
