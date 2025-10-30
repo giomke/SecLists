@@ -41783,6 +41783,9 @@ _unreleased/2025-09-25-interactive-offcanvas-cookies.md
 changelog/_unreleased/2025-10-24-only-display-last-search-index-date.md
 _unreleased/2025-10-24-only-display-last-search-index-date.md
 2025-10-24-only-display-last-search-index-date.md
+changelog/_unreleased/2025-10-28-fix-document-generation-error-messages.md
+_unreleased/2025-10-28-fix-document-generation-error-messages.md
+2025-10-28-fix-document-generation-error-messages.md
 changelog/_unreleased/2025-10-22-fixed-3d-light-intensity.md
 _unreleased/2025-10-22-fixed-3d-light-intensity.md
 2025-10-22-fixed-3d-light-intensity.md
@@ -41792,6 +41795,9 @@ _unreleased/2024-08-05-metrics-abstraction.md
 changelog/_unreleased/2024-04-25-implement-mt-banner-code-mod.md
 _unreleased/2024-04-25-implement-mt-banner-code-mod.md
 2024-04-25-implement-mt-banner-code-mod.md
+changelog/_unreleased/2025-10-29-fix-invalid-wording-in-sw-order-general-info.md
+_unreleased/2025-10-29-fix-invalid-wording-in-sw-order-general-info.md
+2025-10-29-fix-invalid-wording-in-sw-order-general-info.md
 changelog/_unreleased/2024-01-31-improve-cart-page-performance.md
 _unreleased/2024-01-31-improve-cart-page-performance.md
 2024-01-31-improve-cart-page-performance.md
