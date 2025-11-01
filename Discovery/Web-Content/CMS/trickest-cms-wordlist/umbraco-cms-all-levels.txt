@@ -7602,6 +7602,12 @@ Directory.Packages.props
 build/templates/backoffice-install.yml
 templates/backoffice-install.yml
 backoffice-install.yml
+build/templates/e2e-install.yml
+templates/e2e-install.yml
+e2e-install.yml
+build/templates/dependency-track.yml
+templates/dependency-track.yml
+dependency-track.yml
 build/nightly-build-trigger.yml
 nightly-build-trigger.yml
 build/nightly-E2E-setup-template.yml
@@ -16727,6 +16733,10 @@ src/Umbraco.Core/PropertyEditors/ListViewConfiguration.cs
 Umbraco.Core/PropertyEditors/ListViewConfiguration.cs
 PropertyEditors/ListViewConfiguration.cs
 ListViewConfiguration.cs
+src/Umbraco.Core/PropertyEditors/ICacheReferencedEntities.cs
+Umbraco.Core/PropertyEditors/ICacheReferencedEntities.cs
+PropertyEditors/ICacheReferencedEntities.cs
+ICacheReferencedEntities.cs
 src/Umbraco.Core/PropertyEditors/PropertyValueLevel.cs
 Umbraco.Core/PropertyEditors/PropertyValueLevel.cs
 PropertyEditors/PropertyValueLevel.cs

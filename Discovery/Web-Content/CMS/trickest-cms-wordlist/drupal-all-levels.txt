@@ -31047,6 +31047,12 @@ Drupal/Core/EventSubscriber/ClientErrorResponseSubscriber.php
 Core/EventSubscriber/ClientErrorResponseSubscriber.php
 EventSubscriber/ClientErrorResponseSubscriber.php
 ClientErrorResponseSubscriber.php
+core/lib/Drupal/Core/EventSubscriber/HtmxContentViewSubscriber.php
+lib/Drupal/Core/EventSubscriber/HtmxContentViewSubscriber.php
+Drupal/Core/EventSubscriber/HtmxContentViewSubscriber.php
+Core/EventSubscriber/HtmxContentViewSubscriber.php
+EventSubscriber/HtmxContentViewSubscriber.php
+HtmxContentViewSubscriber.php
 core/lib/Drupal/Core/EventSubscriber/ExceptionLoggingSubscriber.php
 lib/Drupal/Core/EventSubscriber/ExceptionLoggingSubscriber.php
 Drupal/Core/EventSubscriber/ExceptionLoggingSubscriber.php
