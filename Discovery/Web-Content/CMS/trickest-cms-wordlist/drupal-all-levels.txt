@@ -33871,6 +33871,12 @@ Drupal/Core/Config/StorageException.php
 Core/Config/StorageException.php
 Config/StorageException.php
 StorageException.php
+core/lib/Drupal/Core/Config/ConfigImporterFactory.php
+lib/Drupal/Core/Config/ConfigImporterFactory.php
+Drupal/Core/Config/ConfigImporterFactory.php
+Core/Config/ConfigImporterFactory.php
+Config/ConfigImporterFactory.php
+ConfigImporterFactory.php
 core/lib/Drupal/Core/Config/InstallStorage.php
 lib/Drupal/Core/Config/InstallStorage.php
 Drupal/Core/Config/InstallStorage.php
