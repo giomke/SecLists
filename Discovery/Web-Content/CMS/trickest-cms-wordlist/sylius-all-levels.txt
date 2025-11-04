@@ -19406,11 +19406,6 @@ Sylius/Behat/Service/SecurityService.php
 Behat/Service/SecurityService.php
 Service/SecurityService.php
 SecurityService.php
-src/Sylius/Behat/Service/SlugGenerationHelper.php
-Sylius/Behat/Service/SlugGenerationHelper.php
-Behat/Service/SlugGenerationHelper.php
-Service/SlugGenerationHelper.php
-SlugGenerationHelper.php
 src/Sylius/Behat/Service/DriverHelper.php
 Sylius/Behat/Service/DriverHelper.php
 Behat/Service/DriverHelper.php
