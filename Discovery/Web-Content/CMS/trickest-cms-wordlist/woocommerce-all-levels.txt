@@ -32491,6 +32491,14 @@ src/Blocks/BlockTypes/Checkout.php
 Blocks/BlockTypes/Checkout.php
 BlockTypes/Checkout.php
 Checkout.php
+plugins/woocommerce/tests/php/src/Blocks/BlockTypes/MiniCartFooterBlock.php
+woocommerce/tests/php/src/Blocks/BlockTypes/MiniCartFooterBlock.php
+tests/php/src/Blocks/BlockTypes/MiniCartFooterBlock.php
+php/src/Blocks/BlockTypes/MiniCartFooterBlock.php
+src/Blocks/BlockTypes/MiniCartFooterBlock.php
+Blocks/BlockTypes/MiniCartFooterBlock.php
+BlockTypes/MiniCartFooterBlock.php
+MiniCartFooterBlock.php
 plugins/woocommerce/tests/php/src/Blocks/BlockTypes/ProductGallery.php
 woocommerce/tests/php/src/Blocks/BlockTypes/ProductGallery.php
 tests/php/src/Blocks/BlockTypes/ProductGallery.php
@@ -35933,6 +35941,10 @@ plugins/woocommerce/changelog/WOOPLUG-2074-load-wc-admin-api-on-demand
 woocommerce/changelog/WOOPLUG-2074-load-wc-admin-api-on-demand
 changelog/WOOPLUG-2074-load-wc-admin-api-on-demand
 WOOPLUG-2074-load-wc-admin-api-on-demand
+plugins/woocommerce/changelog/61861-fix-wooplug-1937-mini-cart-tells-the-customer-shipping-will-be-calculated-at
+woocommerce/changelog/61861-fix-wooplug-1937-mini-cart-tells-the-customer-shipping-will-be-calculated-at
+changelog/61861-fix-wooplug-1937-mini-cart-tells-the-customer-shipping-will-be-calculated-at
+61861-fix-wooplug-1937-mini-cart-tells-the-customer-shipping-will-be-calculated-at
 plugins/woocommerce/changelog/fix-isdiscount-check
 woocommerce/changelog/fix-isdiscount-check
 changelog/fix-isdiscount-check
