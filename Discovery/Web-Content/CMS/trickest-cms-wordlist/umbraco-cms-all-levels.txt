@@ -20345,6 +20345,14 @@ src/Umbraco.Cms.Persistence.Sqlite/Mappers/SqlitePocoGuidMapper.cs
 Umbraco.Cms.Persistence.Sqlite/Mappers/SqlitePocoGuidMapper.cs
 Mappers/SqlitePocoGuidMapper.cs
 SqlitePocoGuidMapper.cs
+src/Umbraco.Cms.Persistence.Sqlite/Mappers/SqlitePocoDecimalMapper.cs
+Umbraco.Cms.Persistence.Sqlite/Mappers/SqlitePocoDecimalMapper.cs
+Mappers/SqlitePocoDecimalMapper.cs
+SqlitePocoDecimalMapper.cs
+src/Umbraco.Cms.Persistence.Sqlite/Mappers/SqlitePocoDateAndTimeOnlyMapper.cs
+Umbraco.Cms.Persistence.Sqlite/Mappers/SqlitePocoDateAndTimeOnlyMapper.cs
+Mappers/SqlitePocoDateAndTimeOnlyMapper.cs
+SqlitePocoDateAndTimeOnlyMapper.cs
 src/Umbraco.Cms.Persistence.Sqlite/Umbraco.Cms.Persistence.Sqlite.csproj
 Umbraco.Cms.Persistence.Sqlite/Umbraco.Cms.Persistence.Sqlite.csproj
 Umbraco.Cms.Persistence.Sqlite.csproj
