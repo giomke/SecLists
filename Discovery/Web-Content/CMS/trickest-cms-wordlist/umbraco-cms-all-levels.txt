@@ -11266,6 +11266,11 @@ Umbraco.Core/Configuration/Models/LuceneDirectoryFactory.cs
 Configuration/Models/LuceneDirectoryFactory.cs
 Models/LuceneDirectoryFactory.cs
 LuceneDirectoryFactory.cs
+src/Umbraco.Core/Configuration/Models/BackOfficeTokenCookieSettings.cs
+Umbraco.Core/Configuration/Models/BackOfficeTokenCookieSettings.cs
+Configuration/Models/BackOfficeTokenCookieSettings.cs
+Models/BackOfficeTokenCookieSettings.cs
+BackOfficeTokenCookieSettings.cs
 src/Umbraco.Core/Configuration/Models/ContentNotificationSettings.cs
 Umbraco.Core/Configuration/Models/ContentNotificationSettings.cs
 Configuration/Models/ContentNotificationSettings.cs
@@ -20924,6 +20929,10 @@ src/Umbraco.Cms.Api.Common/Builders/ProblemDetailsBuilder.cs
 Umbraco.Cms.Api.Common/Builders/ProblemDetailsBuilder.cs
 Builders/ProblemDetailsBuilder.cs
 ProblemDetailsBuilder.cs
+src/Umbraco.Cms.Api.Common/DependencyInjection/HideBackOfficeTokensHandler.cs
+Umbraco.Cms.Api.Common/DependencyInjection/HideBackOfficeTokensHandler.cs
+DependencyInjection/HideBackOfficeTokensHandler.cs
+HideBackOfficeTokensHandler.cs
 src/Umbraco.Cms.Api.Common/DependencyInjection/MvcBuilderExtensions.cs
 Umbraco.Cms.Api.Common/DependencyInjection/MvcBuilderExtensions.cs
 DependencyInjection/MvcBuilderExtensions.cs
