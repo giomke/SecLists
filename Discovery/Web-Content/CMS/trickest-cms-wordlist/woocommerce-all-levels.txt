@@ -1533,6 +1533,11 @@ packages/js/components/package.json
 js/components/package.json
 components/package.json
 package.json
+packages/js/components/changelog/wooplug-5859-wp-69-month-must-be-a-valid-moment-object-error
+js/components/changelog/wooplug-5859-wp-69-month-must-be-a-valid-moment-object-error
+components/changelog/wooplug-5859-wp-69-month-must-be-a-valid-moment-object-error
+changelog/wooplug-5859-wp-69-month-must-be-a-valid-moment-object-error
+wooplug-5859-wp-69-month-must-be-a-valid-moment-object-error
 packages/js/components/changelog/.gitkeep
 js/components/changelog/.gitkeep
 components/changelog/.gitkeep
@@ -36020,6 +36025,10 @@ plugins/woocommerce/changelog/qao-127-output-junit-style-report
 woocommerce/changelog/qao-127-output-junit-style-report
 changelog/qao-127-output-junit-style-report
 qao-127-output-junit-style-report
+plugins/woocommerce/changelog/fix-block-attributes-undefined
+woocommerce/changelog/fix-block-attributes-undefined
+changelog/fix-block-attributes-undefined
+fix-block-attributes-undefined
 plugins/woocommerce/changelog/update-agentic-checkout-auth
 woocommerce/changelog/update-agentic-checkout-auth
 changelog/update-agentic-checkout-auth
@@ -36100,6 +36109,10 @@ plugins/woocommerce/changelog/pr-61635
 woocommerce/changelog/pr-61635
 changelog/pr-61635
 pr-61635
+plugins/woocommerce/changelog/wooplug-5859-wp-69-month-must-be-a-valid-moment-object-error
+woocommerce/changelog/wooplug-5859-wp-69-month-must-be-a-valid-moment-object-error
+changelog/wooplug-5859-wp-69-month-must-be-a-valid-moment-object-error
+wooplug-5859-wp-69-month-must-be-a-valid-moment-object-error
 plugins/woocommerce/changelog/fix-grouped-product-inner-blocks-no-products
 woocommerce/changelog/fix-grouped-product-inner-blocks-no-products
 changelog/fix-grouped-product-inner-blocks-no-products
@@ -36216,6 +36229,10 @@ plugins/woocommerce/changelog/dev-fix-jetpack-autoloader-in-build
 woocommerce/changelog/dev-fix-jetpack-autoloader-in-build
 changelog/dev-fix-jetpack-autoloader-in-build
 dev-fix-jetpack-autoloader-in-build
+plugins/woocommerce/changelog/update-61864-mcp-adapter-0-3-0
+woocommerce/changelog/update-61864-mcp-adapter-0-3-0
+changelog/update-61864-mcp-adapter-0-3-0
+update-61864-mcp-adapter-0-3-0
 plugins/woocommerce/changelog/wooplug-5618-total-amount-overflowing-order-summary-in-checkout
 woocommerce/changelog/wooplug-5618-total-amount-overflowing-order-summary-in-checkout
 changelog/wooplug-5618-total-amount-overflowing-order-summary-in-checkout

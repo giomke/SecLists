@@ -11725,6 +11725,13 @@ Core/Field/FieldType/PasswordItemTest.php
 Field/FieldType/PasswordItemTest.php
 FieldType/PasswordItemTest.php
 PasswordItemTest.php
+core/tests/Drupal/KernelTests/Core/Field/FieldStorageGetPropertyDefinitionTest.php
+tests/Drupal/KernelTests/Core/Field/FieldStorageGetPropertyDefinitionTest.php
+Drupal/KernelTests/Core/Field/FieldStorageGetPropertyDefinitionTest.php
+KernelTests/Core/Field/FieldStorageGetPropertyDefinitionTest.php
+Core/Field/FieldStorageGetPropertyDefinitionTest.php
+Field/FieldStorageGetPropertyDefinitionTest.php
+FieldStorageGetPropertyDefinitionTest.php
 core/tests/Drupal/KernelTests/Core/Field/FieldAccessTest.php
 tests/Drupal/KernelTests/Core/Field/FieldAccessTest.php
 Drupal/KernelTests/Core/Field/FieldAccessTest.php
