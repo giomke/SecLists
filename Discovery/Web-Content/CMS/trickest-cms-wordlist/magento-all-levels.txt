@@ -24946,6 +24946,14 @@ TestFramework/Unit/Helper/SelectRendererTrait.php
 Unit/Helper/SelectRendererTrait.php
 Helper/SelectRendererTrait.php
 SelectRendererTrait.php
+lib/internal/Magento/Framework/TestFramework/Unit/Helper/MockCreationTrait.php
+internal/Magento/Framework/TestFramework/Unit/Helper/MockCreationTrait.php
+Magento/Framework/TestFramework/Unit/Helper/MockCreationTrait.php
+Framework/TestFramework/Unit/Helper/MockCreationTrait.php
+TestFramework/Unit/Helper/MockCreationTrait.php
+Unit/Helper/MockCreationTrait.php
+Helper/MockCreationTrait.php
+MockCreationTrait.php
 lib/internal/Magento/Framework/TestFramework/Unit/Helper/ProxyClassGenerator.php
 internal/Magento/Framework/TestFramework/Unit/Helper/ProxyClassGenerator.php
 Magento/Framework/TestFramework/Unit/Helper/ProxyClassGenerator.php
