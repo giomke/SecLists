@@ -35956,6 +35956,10 @@ plugins/woocommerce/changelog/update-WOOPRD-929-offline-methods-api-route
 woocommerce/changelog/update-WOOPRD-929-offline-methods-api-route
 changelog/update-WOOPRD-929-offline-methods-api-route
 update-WOOPRD-929-offline-methods-api-route
+plugins/woocommerce/changelog/fix-62028
+woocommerce/changelog/fix-62028
+changelog/fix-62028
+fix-62028
 plugins/woocommerce/changelog/update-agentic-commerce-protocol-settings
 woocommerce/changelog/update-agentic-commerce-protocol-settings
 changelog/update-agentic-commerce-protocol-settings
@@ -36064,6 +36068,10 @@ plugins/woocommerce/changelog/wooplug-5762
 woocommerce/changelog/wooplug-5762
 changelog/wooplug-5762
 wooplug-5762
+plugins/woocommerce/changelog/pr-61931
+woocommerce/changelog/pr-61931
+changelog/pr-61931
+pr-61931
 plugins/woocommerce/changelog/dev-make-all-wp-pre-release-jobs-optional
 woocommerce/changelog/dev-make-all-wp-pre-release-jobs-optional
 changelog/dev-make-all-wp-pre-release-jobs-optional
@@ -36140,6 +36148,10 @@ plugins/woocommerce/changelog/fix-abilities-api-wp69-tests
 woocommerce/changelog/fix-abilities-api-wp69-tests
 changelog/fix-abilities-api-wp69-tests
 fix-abilities-api-wp69-tests
+plugins/woocommerce/changelog/update-abilities-api-to-0.4.0
+woocommerce/changelog/update-abilities-api-to-0.4.0
+changelog/update-abilities-api-to-0.4.0
+update-abilities-api-to-0.4.0
 plugins/woocommerce/changelog/61431-update-remove-double-connect-account-text
 woocommerce/changelog/61431-update-remove-double-connect-account-text
 changelog/61431-update-remove-double-connect-account-text
@@ -36236,6 +36248,10 @@ plugins/woocommerce/changelog/61361-wooplug-5432-fcb-add-duotone-filter
 woocommerce/changelog/61361-wooplug-5432-fcb-add-duotone-filter
 changelog/61361-wooplug-5432-fcb-add-duotone-filter
 61361-wooplug-5432-fcb-add-duotone-filter
+plugins/woocommerce/changelog/pr-61878
+woocommerce/changelog/pr-61878
+changelog/pr-61878
+pr-61878
 plugins/woocommerce/changelog/disable-cys-tests-with-gb-nightly
 woocommerce/changelog/disable-cys-tests-with-gb-nightly
 changelog/disable-cys-tests-with-gb-nightly
@@ -36408,6 +36424,10 @@ plugins/woocommerce/changelog/fix-WOOPLUG-5598-nox-wc-core-gateways-deactivation
 woocommerce/changelog/fix-WOOPLUG-5598-nox-wc-core-gateways-deactivation
 changelog/fix-WOOPLUG-5598-nox-wc-core-gateways-deactivation
 fix-WOOPLUG-5598-nox-wc-core-gateways-deactivation
+plugins/woocommerce/changelog/61788-wooplug-5756-occasional-blank-shop-archive-page
+woocommerce/changelog/61788-wooplug-5756-occasional-blank-shop-archive-page
+changelog/61788-wooplug-5756-occasional-blank-shop-archive-page
+61788-wooplug-5756-occasional-blank-shop-archive-page
 plugins/woocommerce/changelog/add-refund-api-v4
 woocommerce/changelog/add-refund-api-v4
 changelog/add-refund-api-v4

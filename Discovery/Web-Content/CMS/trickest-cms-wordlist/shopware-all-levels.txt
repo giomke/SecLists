@@ -3588,6 +3588,13 @@ Test/Stub/App/StaticSourceResolverTest.php
 Stub/App/StaticSourceResolverTest.php
 App/StaticSourceResolverTest.php
 StaticSourceResolverTest.php
+tests/unit/Core/Test/Stub/EventDispatcher/CollectingEventDispatcherTest.php
+unit/Core/Test/Stub/EventDispatcher/CollectingEventDispatcherTest.php
+Core/Test/Stub/EventDispatcher/CollectingEventDispatcherTest.php
+Test/Stub/EventDispatcher/CollectingEventDispatcherTest.php
+Stub/EventDispatcher/CollectingEventDispatcherTest.php
+EventDispatcher/CollectingEventDispatcherTest.php
+CollectingEventDispatcherTest.php
 tests/unit/Core/Test/Stub/Framework/Util/StaticFilesystemTest.php
 unit/Core/Test/Stub/Framework/Util/StaticFilesystemTest.php
 Core/Test/Stub/Framework/Util/StaticFilesystemTest.php
