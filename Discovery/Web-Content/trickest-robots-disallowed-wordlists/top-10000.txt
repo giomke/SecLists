@@ -100553,7 +100553,7 @@ index.php/saml_login?
 index.php/search
 index.php/search-seeds
 index.php/search/
-index.php/search/
+index.php/search/
 index.php/search/global
 index.php/search/global?
 index.php/search?
@@ -138098,7 +138098,7 @@ search.py
 search.ref
 search.rl
 search/
-search/
+search/
 search/"
 search/$
 search/*
