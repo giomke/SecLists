@@ -120075,6 +120075,13 @@ migrate/source/d7/BlockCustom.php
 source/d7/BlockCustom.php
 d7/BlockCustom.php
 BlockCustom.php
+core/modules/block_content/src/Plugin/EntityReferenceSelection/BlockContentSelection.php
+modules/block_content/src/Plugin/EntityReferenceSelection/BlockContentSelection.php
+block_content/src/Plugin/EntityReferenceSelection/BlockContentSelection.php
+src/Plugin/EntityReferenceSelection/BlockContentSelection.php
+Plugin/EntityReferenceSelection/BlockContentSelection.php
+EntityReferenceSelection/BlockContentSelection.php
+BlockContentSelection.php
 core/modules/block_content/src/Plugin/Derivative/BlockContent.php
 modules/block_content/src/Plugin/Derivative/BlockContent.php
 block_content/src/Plugin/Derivative/BlockContent.php
