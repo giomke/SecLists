@@ -61165,6 +61165,14 @@ Driver/Database/sqlite/Upsert.php
 Database/sqlite/Upsert.php
 sqlite/Upsert.php
 Upsert.php
+core/modules/sqlite/src/Driver/Database/sqlite/SqliteConnection.php
+modules/sqlite/src/Driver/Database/sqlite/SqliteConnection.php
+sqlite/src/Driver/Database/sqlite/SqliteConnection.php
+src/Driver/Database/sqlite/SqliteConnection.php
+Driver/Database/sqlite/SqliteConnection.php
+Database/sqlite/SqliteConnection.php
+sqlite/SqliteConnection.php
+SqliteConnection.php
 core/modules/sqlite/src/Hook/SqliteHooks.php
 modules/sqlite/src/Hook/SqliteHooks.php
 sqlite/src/Hook/SqliteHooks.php
