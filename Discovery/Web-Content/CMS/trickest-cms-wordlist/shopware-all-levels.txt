@@ -48666,13 +48666,6 @@ app/administration/patches/vue-eslint-parser+9.4.3.patch
 administration/patches/vue-eslint-parser+9.4.3.patch
 patches/vue-eslint-parser+9.4.3.patch
 vue-eslint-parser+9.4.3.patch
-src/Administration/Resources/app/administration/patches/inter-ui+3.19.3.patch
-Administration/Resources/app/administration/patches/inter-ui+3.19.3.patch
-Resources/app/administration/patches/inter-ui+3.19.3.patch
-app/administration/patches/inter-ui+3.19.3.patch
-administration/patches/inter-ui+3.19.3.patch
-patches/inter-ui+3.19.3.patch
-inter-ui+3.19.3.patch
 src/Administration/Resources/app/administration/patches/jest-expect-message+1.1.3.patch
 Administration/Resources/app/administration/patches/jest-expect-message+1.1.3.patch
 Resources/app/administration/patches/jest-expect-message+1.1.3.patch

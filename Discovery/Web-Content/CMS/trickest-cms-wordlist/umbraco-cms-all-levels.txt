@@ -7937,6 +7937,9 @@ src/Umbraco.Cms.Persistence.EFCore/Extensions/UmbracoEFCoreServiceCollectionExte
 Umbraco.Cms.Persistence.EFCore/Extensions/UmbracoEFCoreServiceCollectionExtensions.cs
 Extensions/UmbracoEFCoreServiceCollectionExtensions.cs
 UmbracoEFCoreServiceCollectionExtensions.cs
+src/Umbraco.Cms.Persistence.EFCore/CLAUDE.md
+Umbraco.Cms.Persistence.EFCore/CLAUDE.md
+CLAUDE.md
 src/Umbraco.Cms.Persistence.EFCore/Migrations/IMigrationProvider.cs
 Umbraco.Cms.Persistence.EFCore/Migrations/IMigrationProvider.cs
 Migrations/IMigrationProvider.cs
@@ -8085,6 +8088,9 @@ src/Umbraco.Cms.Persistence.SqlServer/Services/PocoDataDataReader.cs
 Umbraco.Cms.Persistence.SqlServer/Services/PocoDataDataReader.cs
 Services/PocoDataDataReader.cs
 PocoDataDataReader.cs
+src/Umbraco.Cms.Persistence.SqlServer/CLAUDE.md
+Umbraco.Cms.Persistence.SqlServer/CLAUDE.md
+CLAUDE.md
 src/Umbraco.Cms.Persistence.SqlServer/Interceptors/SqlServerAddMiniProfilerInterceptor.cs
 Umbraco.Cms.Persistence.SqlServer/Interceptors/SqlServerAddMiniProfilerInterceptor.cs
 Interceptors/SqlServerAddMiniProfilerInterceptor.cs
@@ -8118,6 +8124,9 @@ ConfigureImageSharpMiddlewareOptions.cs
 src/Umbraco.Cms.Imaging.ImageSharp2/Umbraco.Cms.Imaging.ImageSharp2.csproj
 Umbraco.Cms.Imaging.ImageSharp2/Umbraco.Cms.Imaging.ImageSharp2.csproj
 Umbraco.Cms.Imaging.ImageSharp2.csproj
+src/Umbraco.Cms.Imaging.ImageSharp2/CLAUDE.md
+Umbraco.Cms.Imaging.ImageSharp2/CLAUDE.md
+CLAUDE.md
 src/Umbraco.Cms.Imaging.ImageSharp2/ImageSharpComposer.cs
 Umbraco.Cms.Imaging.ImageSharp2/ImageSharpComposer.cs
 ImageSharpComposer.cs
@@ -8142,6 +8151,9 @@ ImageSharpImageUrlGenerator.cs
 src/Umbraco.Cms.Imaging.ImageSharp/ConfigureImageSharpMiddlewareOptions.cs
 Umbraco.Cms.Imaging.ImageSharp/ConfigureImageSharpMiddlewareOptions.cs
 ConfigureImageSharpMiddlewareOptions.cs
+src/Umbraco.Cms.Imaging.ImageSharp/CLAUDE.md
+Umbraco.Cms.Imaging.ImageSharp/CLAUDE.md
+CLAUDE.md
 src/Umbraco.Cms.Imaging.ImageSharp/Umbraco.Cms.Imaging.ImageSharp.csproj
 Umbraco.Cms.Imaging.ImageSharp/Umbraco.Cms.Imaging.ImageSharp.csproj
 Umbraco.Cms.Imaging.ImageSharp.csproj
@@ -8376,6 +8388,9 @@ src/Umbraco.Cms.Api.Delivery/Services/RequestRoutingService.cs
 Umbraco.Cms.Api.Delivery/Services/RequestRoutingService.cs
 Services/RequestRoutingService.cs
 RequestRoutingService.cs
+src/Umbraco.Cms.Api.Delivery/CLAUDE.md
+Umbraco.Cms.Api.Delivery/CLAUDE.md
+CLAUDE.md
 src/Umbraco.Cms.Api.Delivery/Controllers/Content/ContentApiControllerBase.cs
 Umbraco.Cms.Api.Delivery/Controllers/Content/ContentApiControllerBase.cs
 Controllers/Content/ContentApiControllerBase.cs
@@ -8890,6 +8905,9 @@ Umbraco.Web.UI.Login/.nvmrc
 src/Umbraco.Web.UI.Login/openapi-ts.config.ts
 Umbraco.Web.UI.Login/openapi-ts.config.ts
 openapi-ts.config.ts
+src/Umbraco.Web.UI.Login/CLAUDE.md
+Umbraco.Web.UI.Login/CLAUDE.md
+CLAUDE.md
 src/Umbraco.Web.UI.Login/public/mockServiceWorker.js
 Umbraco.Web.UI.Login/public/mockServiceWorker.js
 public/mockServiceWorker.js
@@ -20448,6 +20466,9 @@ src/Umbraco.Cms.Persistence.Sqlite/Services/SqliteExceptionExtensions.cs
 Umbraco.Cms.Persistence.Sqlite/Services/SqliteExceptionExtensions.cs
 Services/SqliteExceptionExtensions.cs
 SqliteExceptionExtensions.cs
+src/Umbraco.Cms.Persistence.Sqlite/CLAUDE.md
+Umbraco.Cms.Persistence.Sqlite/CLAUDE.md
+CLAUDE.md
 src/Umbraco.Cms.Persistence.Sqlite/Interceptors/SqliteConnectionInterceptor.cs
 Umbraco.Cms.Persistence.Sqlite/Interceptors/SqliteConnectionInterceptor.cs
 Interceptors/SqliteConnectionInterceptor.cs
@@ -20539,6 +20560,9 @@ src/Umbraco.Cms.DevelopmentMode.Backoffice/InMemoryAuto/UmbracoCompilationExcept
 Umbraco.Cms.DevelopmentMode.Backoffice/InMemoryAuto/UmbracoCompilationException.cs
 InMemoryAuto/UmbracoCompilationException.cs
 UmbracoCompilationException.cs
+src/Umbraco.Cms.DevelopmentMode.Backoffice/CLAUDE.md
+Umbraco.Cms.DevelopmentMode.Backoffice/CLAUDE.md
+CLAUDE.md
 src/Umbraco.Cms.StaticAssets/Umbraco.Cms.StaticAssets.csproj
 Umbraco.Cms.StaticAssets/Umbraco.Cms.StaticAssets.csproj
 Umbraco.Cms.StaticAssets.csproj
@@ -20697,6 +20721,9 @@ wwwroot/umbraco/website/nonodesbg.webp
 umbraco/website/nonodesbg.webp
 website/nonodesbg.webp
 nonodesbg.webp
+src/Umbraco.Cms.StaticAssets/CLAUDE.md
+Umbraco.Cms.StaticAssets/CLAUDE.md
+CLAUDE.md
 src/Umbraco.PublishedCache.HybridCache/DomainCache.cs
 Umbraco.PublishedCache.HybridCache/DomainCache.cs
 DomainCache.cs
@@ -20861,6 +20888,9 @@ src/Umbraco.PublishedCache.HybridCache/Services/MemberCacheService.cs
 Umbraco.PublishedCache.HybridCache/Services/MemberCacheService.cs
 Services/MemberCacheService.cs
 MemberCacheService.cs
+src/Umbraco.PublishedCache.HybridCache/CLAUDE.md
+Umbraco.PublishedCache.HybridCache/CLAUDE.md
+CLAUDE.md
 src/Umbraco.PublishedCache.HybridCache/DocumentCache.cs
 Umbraco.PublishedCache.HybridCache/DocumentCache.cs
 DocumentCache.cs
@@ -20898,6 +20928,9 @@ EFCoreSqliteComposer.cs
 src/Umbraco.Cms.Persistence.EFCore.Sqlite/SqliteMigrationProviderSetup.cs
 Umbraco.Cms.Persistence.EFCore.Sqlite/SqliteMigrationProviderSetup.cs
 SqliteMigrationProviderSetup.cs
+src/Umbraco.Cms.Persistence.EFCore.Sqlite/CLAUDE.md
+Umbraco.Cms.Persistence.EFCore.Sqlite/CLAUDE.md
+CLAUDE.md
 src/Umbraco.Cms.Persistence.EFCore.Sqlite/SqliteMigrationProvider.cs
 Umbraco.Cms.Persistence.EFCore.Sqlite/SqliteMigrationProvider.cs
 SqliteMigrationProvider.cs
@@ -21145,6 +21178,9 @@ SqlServerMigrationProvider.cs
 src/Umbraco.Cms.Persistence.EFCore.SqlServer/SqlServerMigrationProviderSetup.cs
 Umbraco.Cms.Persistence.EFCore.SqlServer/SqlServerMigrationProviderSetup.cs
 SqlServerMigrationProviderSetup.cs
+src/Umbraco.Cms.Persistence.EFCore.SqlServer/CLAUDE.md
+Umbraco.Cms.Persistence.EFCore.SqlServer/CLAUDE.md
+CLAUDE.md
 src/Umbraco.Cms.Persistence.EFCore.SqlServer/Migrations/20230807654321_AddOpenIddict.cs
 Umbraco.Cms.Persistence.EFCore.SqlServer/Migrations/20230807654321_AddOpenIddict.cs
 Migrations/20230807654321_AddOpenIddict.cs
@@ -85614,6 +85650,9 @@ src/Umbraco.Web.UI/Composers/UmbracoAppAuthenticatorComposer.cs
 Umbraco.Web.UI/Composers/UmbracoAppAuthenticatorComposer.cs
 Composers/UmbracoAppAuthenticatorComposer.cs
 UmbracoAppAuthenticatorComposer.cs
+src/Umbraco.Web.UI/CLAUDE.md
+Umbraco.Web.UI/CLAUDE.md
+CLAUDE.md
 src/Umbraco.Web.UI/appsettings.template.json
 Umbraco.Web.UI/appsettings.template.json
 appsettings.template.json
@@ -90808,6 +90847,9 @@ BasicAuthenticationMiddleware.cs
 src/Umbraco.Web.Website/Umbraco.Web.Website.csproj
 Umbraco.Web.Website/Umbraco.Web.Website.csproj
 Umbraco.Web.Website.csproj
+src/Umbraco.Web.Website/CLAUDE.md
+Umbraco.Web.Website/CLAUDE.md
+CLAUDE.md
 src/Umbraco.Web.Website/Controllers/SurfaceController.cs
 Umbraco.Web.Website/Controllers/SurfaceController.cs
 Controllers/SurfaceController.cs
@@ -90900,6 +90942,9 @@ UmbracoTempEnvFileSystemDirectoryFactory.cs
 src/Umbraco.Examine.Lucene/DeliveryApiContentIndex.cs
 Umbraco.Examine.Lucene/DeliveryApiContentIndex.cs
 DeliveryApiContentIndex.cs
+src/Umbraco.Examine.Lucene/CLAUDE.md
+Umbraco.Examine.Lucene/CLAUDE.md
+CLAUDE.md
 src/Umbraco.Examine.Lucene/ConfigurationEnabledDirectoryFactory.cs
 Umbraco.Examine.Lucene/ConfigurationEnabledDirectoryFactory.cs
 ConfigurationEnabledDirectoryFactory.cs
@@ -98207,6 +98252,9 @@ src/Umbraco.Web.Common/Filters/BackOfficeCultureFilter.cs
 Umbraco.Web.Common/Filters/BackOfficeCultureFilter.cs
 Filters/BackOfficeCultureFilter.cs
 BackOfficeCultureFilter.cs
+src/Umbraco.Web.Common/CLAUDE.md
+Umbraco.Web.Common/CLAUDE.md
+CLAUDE.md
 src/Umbraco.Web.Common/Controllers/IVirtualPageController.cs
 Umbraco.Web.Common/Controllers/IVirtualPageController.cs
 Controllers/IVirtualPageController.cs
