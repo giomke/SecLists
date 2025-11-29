@@ -2301,6 +2301,9 @@ ContentBaseExtensions.cs
 tests/Umbraco.Tests.Common/TestLastChanceFinder.cs
 Umbraco.Tests.Common/TestLastChanceFinder.cs
 TestLastChanceFinder.cs
+tests/Umbraco.Tests.Common/CompatibilitySuppressions.xml
+Umbraco.Tests.Common/CompatibilitySuppressions.xml
+CompatibilitySuppressions.xml
 tests/Umbraco.Tests.Common/TestVariationContextAccessor.cs
 Umbraco.Tests.Common/TestVariationContextAccessor.cs
 TestVariationContextAccessor.cs
