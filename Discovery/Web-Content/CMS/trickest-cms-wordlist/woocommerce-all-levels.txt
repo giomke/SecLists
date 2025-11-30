@@ -18495,6 +18495,11 @@ js/data/changelog/.gitkeep
 data/changelog/.gitkeep
 changelog/.gitkeep
 .gitkeep
+packages/js/data/changelog/fix-62029
+js/data/changelog/fix-62029
+data/changelog/fix-62029
+changelog/fix-62029
+fix-62029
 packages/js/data/babel.config.js
 js/data/babel.config.js
 data/babel.config.js
@@ -20904,6 +20909,11 @@ packages/php/email-editor/email-editor.php
 php/email-editor/email-editor.php
 email-editor/email-editor.php
 email-editor.php
+packages/php/email-editor/changelog/62118-fix-email-editor-image-rendering-lag
+php/email-editor/changelog/62118-fix-email-editor-image-rendering-lag
+email-editor/changelog/62118-fix-email-editor-image-rendering-lag
+changelog/62118-fix-email-editor-image-rendering-lag
+62118-fix-email-editor-image-rendering-lag
 packages/php/email-editor/changelog/.gitkeep
 php/email-editor/changelog/.gitkeep
 email-editor/changelog/.gitkeep
@@ -35764,6 +35774,10 @@ plugins/woocommerce/changelog/fix-migrator-cft
 woocommerce/changelog/fix-migrator-cft
 changelog/fix-migrator-cft
 fix-migrator-cft
+plugins/woocommerce/changelog/e2e-enhance-ctrf-report-env-data
+woocommerce/changelog/e2e-enhance-ctrf-report-env-data
+changelog/e2e-enhance-ctrf-report-env-data
+e2e-enhance-ctrf-report-env-data
 plugins/woocommerce/changelog/61415-add-currency-data-to-order-items-rest-v4
 woocommerce/changelog/61415-add-currency-data-to-order-items-rest-v4
 changelog/61415-add-currency-data-to-order-items-rest-v4
@@ -35796,6 +35810,10 @@ plugins/woocommerce/changelog/woo13-101-add-delete-endpoint-shipping-method
 woocommerce/changelog/woo13-101-add-delete-endpoint-shipping-method
 changelog/woo13-101-add-delete-endpoint-shipping-method
 woo13-101-add-delete-endpoint-shipping-method
+plugins/woocommerce/changelog/fix-margin-product-collection
+woocommerce/changelog/fix-margin-product-collection
+changelog/fix-margin-product-collection
+fix-margin-product-collection
 plugins/woocommerce/changelog/62107-wooplug-5855-category-archive-performance-on-block-based-themes-with
 woocommerce/changelog/62107-wooplug-5855-category-archive-performance-on-block-based-themes-with
 changelog/62107-wooplug-5855-category-archive-performance-on-block-based-themes-with
@@ -35872,6 +35890,10 @@ plugins/woocommerce/changelog/62045-dev-pass-input-element-as-context-in-quantit
 woocommerce/changelog/62045-dev-pass-input-element-as-context-in-quantity-selector
 changelog/62045-dev-pass-input-element-as-context-in-quantity-selector
 62045-dev-pass-input-element-as-context-in-quantity-selector
+plugins/woocommerce/changelog/fix-62029
+woocommerce/changelog/fix-62029
+changelog/fix-62029
+fix-62029
 plugins/woocommerce/.distignore
 woocommerce/.distignore
 .distignore
