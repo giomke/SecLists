@@ -20909,11 +20909,6 @@ packages/php/email-editor/email-editor.php
 php/email-editor/email-editor.php
 email-editor/email-editor.php
 email-editor.php
-packages/php/email-editor/changelog/62118-fix-email-editor-image-rendering-lag
-php/email-editor/changelog/62118-fix-email-editor-image-rendering-lag
-email-editor/changelog/62118-fix-email-editor-image-rendering-lag
-changelog/62118-fix-email-editor-image-rendering-lag
-62118-fix-email-editor-image-rendering-lag
 packages/php/email-editor/changelog/.gitkeep
 php/email-editor/changelog/.gitkeep
 email-editor/changelog/.gitkeep
