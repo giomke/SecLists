@@ -75312,6 +75312,11 @@ src/Plugin/QueueWorker/LocaleTranslation.php
 Plugin/QueueWorker/LocaleTranslation.php
 QueueWorker/LocaleTranslation.php
 LocaleTranslation.php
+core/modules/locale/src/LocaleServiceProvider.php
+modules/locale/src/LocaleServiceProvider.php
+locale/src/LocaleServiceProvider.php
+src/LocaleServiceProvider.php
+LocaleServiceProvider.php
 core/modules/locale/src/LocaleConfigSubscriber.php
 modules/locale/src/LocaleConfigSubscriber.php
 locale/src/LocaleConfigSubscriber.php
@@ -75379,6 +75384,12 @@ modules/locale/src/LocaleConfigManager.php
 locale/src/LocaleConfigManager.php
 src/LocaleConfigManager.php
 LocaleConfigManager.php
+core/modules/locale/src/EventSubscriber/ConfigSubscriber.php
+modules/locale/src/EventSubscriber/ConfigSubscriber.php
+locale/src/EventSubscriber/ConfigSubscriber.php
+src/EventSubscriber/ConfigSubscriber.php
+EventSubscriber/ConfigSubscriber.php
+ConfigSubscriber.php
 core/modules/locale/src/EventSubscriber/LocaleTranslationCacheTag.php
 modules/locale/src/EventSubscriber/LocaleTranslationCacheTag.php
 locale/src/EventSubscriber/LocaleTranslationCacheTag.php
