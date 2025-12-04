@@ -35730,6 +35730,10 @@ plugins/woocommerce/changelog/stomail-7641-settings-notifications-preview-shows-
 woocommerce/changelog/stomail-7641-settings-notifications-preview-shows-404-not-found
 changelog/stomail-7641-settings-notifications-preview-shows-404-not-found
 stomail-7641-settings-notifications-preview-shows-404-not-found
+plugins/woocommerce/changelog/fix-61720-select2-styles-leaking-into-other-plugins
+woocommerce/changelog/fix-61720-select2-styles-leaking-into-other-plugins
+changelog/fix-61720-select2-styles-leaking-into-other-plugins
+fix-61720-select2-styles-leaking-into-other-plugins
 plugins/woocommerce/changelog/61821-dev-simple-quantity-refactor
 woocommerce/changelog/61821-dev-simple-quantity-refactor
 changelog/61821-dev-simple-quantity-refactor
@@ -35782,6 +35786,10 @@ plugins/woocommerce/changelog/issues-61495-quantity-input-extended
 woocommerce/changelog/issues-61495-quantity-input-extended
 changelog/issues-61495-quantity-input-extended
 issues-61495-quantity-input-extended
+plugins/woocommerce/changelog/wooprd-1479-ciab-woocommerce-email-content-block-does-not-show-the
+woocommerce/changelog/wooprd-1479-ciab-woocommerce-email-content-block-does-not-show-the
+changelog/wooprd-1479-ciab-woocommerce-email-content-block-does-not-show-the
+wooprd-1479-ciab-woocommerce-email-content-block-does-not-show-the
 plugins/woocommerce/changelog/wooprd-1428-enable-block-email-support-for-other-woo-core-emails
 woocommerce/changelog/wooprd-1428-enable-block-email-support-for-other-woo-core-emails
 changelog/wooprd-1428-enable-block-email-support-for-other-woo-core-emails
@@ -35790,6 +35798,10 @@ plugins/woocommerce/changelog/fix-migrator-cft
 woocommerce/changelog/fix-migrator-cft
 changelog/fix-migrator-cft
 fix-migrator-cft
+plugins/woocommerce/changelog/add-phpstan
+woocommerce/changelog/add-phpstan
+changelog/add-phpstan
+add-phpstan
 plugins/woocommerce/changelog/e2e-enhance-ctrf-report-env-data
 woocommerce/changelog/e2e-enhance-ctrf-report-env-data
 changelog/e2e-enhance-ctrf-report-env-data
@@ -35902,6 +35914,10 @@ plugins/woocommerce/changelog/wooplug-4778-ugly-tax-suffix-line-break-in-order-e
 woocommerce/changelog/wooplug-4778-ugly-tax-suffix-line-break-in-order-emails
 changelog/wooplug-4778-ugly-tax-suffix-line-break-in-order-emails
 wooplug-4778-ugly-tax-suffix-line-break-in-order-emails
+plugins/woocommerce/changelog/fix-wccom-1958
+woocommerce/changelog/fix-wccom-1958
+changelog/fix-wccom-1958
+fix-wccom-1958
 plugins/woocommerce/changelog/61788-wooplug-5756-occasional-blank-shop-archive-page
 woocommerce/changelog/61788-wooplug-5756-occasional-blank-shop-archive-page
 changelog/61788-wooplug-5756-occasional-blank-shop-archive-page
@@ -35922,6 +35938,10 @@ plugins/woocommerce/changelog/62045-dev-pass-input-element-as-context-in-quantit
 woocommerce/changelog/62045-dev-pass-input-element-as-context-in-quantity-selector
 changelog/62045-dev-pass-input-element-as-context-in-quantity-selector
 62045-dev-pass-input-element-as-context-in-quantity-selector
+plugins/woocommerce/changelog/61963-task-update-auth-capture-logic
+woocommerce/changelog/61963-task-update-auth-capture-logic
+changelog/61963-task-update-auth-capture-logic
+61963-task-update-auth-capture-logic
 plugins/woocommerce/changelog/fix-62029
 woocommerce/changelog/fix-62029
 changelog/fix-62029
@@ -35929,6 +35949,9 @@ fix-62029
 plugins/woocommerce/.distignore
 woocommerce/.distignore
 .distignore
+plugins/woocommerce/phpstan.neon
+woocommerce/phpstan.neon
+phpstan.neon
 plugins/woocommerce/client/admin/composer.lock
 woocommerce/client/admin/composer.lock
 client/admin/composer.lock
@@ -80905,6 +80928,9 @@ readme.txt
 plugins/woocommerce/.eslintignore
 woocommerce/.eslintignore
 .eslintignore
+plugins/woocommerce/phpstan-baseline.neon
+woocommerce/phpstan-baseline.neon
+phpstan-baseline.neon
 plugins/woocommerce/.gitattributes
 woocommerce/.gitattributes
 .gitattributes
@@ -95048,6 +95074,10 @@ phone.php
 plugins/woocommerce/license.txt
 woocommerce/license.txt
 license.txt
+plugins/woocommerce/php-stubs/wc-admin-feature-config.php
+woocommerce/php-stubs/wc-admin-feature-config.php
+php-stubs/wc-admin-feature-config.php
+wc-admin-feature-config.php
 plugins/woocommerce/sample-data/experimental_sample_9_products.csv
 woocommerce/sample-data/experimental_sample_9_products.csv
 sample-data/experimental_sample_9_products.csv

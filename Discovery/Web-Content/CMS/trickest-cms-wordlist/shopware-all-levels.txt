@@ -29705,6 +29705,13 @@ Storefront/Checkout/Customer/CustomerGroupSubscriberTest.php
 Checkout/Customer/CustomerGroupSubscriberTest.php
 Customer/CustomerGroupSubscriberTest.php
 CustomerGroupSubscriberTest.php
+tests/integration/Storefront/Checkout/Cart/SalesChannel/StorefrontCartFacadeTest.php
+integration/Storefront/Checkout/Cart/SalesChannel/StorefrontCartFacadeTest.php
+Storefront/Checkout/Cart/SalesChannel/StorefrontCartFacadeTest.php
+Checkout/Cart/SalesChannel/StorefrontCartFacadeTest.php
+Cart/SalesChannel/StorefrontCartFacadeTest.php
+SalesChannel/StorefrontCartFacadeTest.php
+StorefrontCartFacadeTest.php
 tests/devops/Core/Test/DataAbstractionLayerValidateCommandTest.php
 devops/Core/Test/DataAbstractionLayerValidateCommandTest.php
 Core/Test/DataAbstractionLayerValidateCommandTest.php
@@ -135227,6 +135234,12 @@ Checkout/Cart/Event/CartSavedEvent.php
 Cart/Event/CartSavedEvent.php
 Event/CartSavedEvent.php
 CartSavedEvent.php
+src/Core/Checkout/Cart/Event/BeforeSalesChannelContextAssembledEvent.php
+Core/Checkout/Cart/Event/BeforeSalesChannelContextAssembledEvent.php
+Checkout/Cart/Event/BeforeSalesChannelContextAssembledEvent.php
+Cart/Event/BeforeSalesChannelContextAssembledEvent.php
+Event/BeforeSalesChannelContextAssembledEvent.php
+BeforeSalesChannelContextAssembledEvent.php
 src/Core/Checkout/Cart/Address/Error/AddressValidationError.php
 Core/Checkout/Cart/Address/Error/AddressValidationError.php
 Checkout/Cart/Address/Error/AddressValidationError.php
