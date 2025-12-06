@@ -4254,6 +4254,11 @@ Umbraco.Tests.Integration/Umbraco.Core/Services/MediaNavigationServiceTests.Rebu
 Umbraco.Core/Services/MediaNavigationServiceTests.Rebuild.cs
 Services/MediaNavigationServiceTests.Rebuild.cs
 MediaNavigationServiceTests.Rebuild.cs
+tests/Umbraco.Tests.Integration/Umbraco.Core/Services/OEmbedServiceTests.cs
+Umbraco.Tests.Integration/Umbraco.Core/Services/OEmbedServiceTests.cs
+Umbraco.Core/Services/OEmbedServiceTests.cs
+Services/OEmbedServiceTests.cs
+OEmbedServiceTests.cs
 tests/Umbraco.Tests.Integration/Umbraco.Core/Services/MetricsConsentServiceTest.cs
 Umbraco.Tests.Integration/Umbraco.Core/Services/MetricsConsentServiceTest.cs
 Umbraco.Core/Services/MetricsConsentServiceTest.cs
@@ -7895,6 +7900,8 @@ templates/UmbracoDockerCompose/Database/Dockerfile
 UmbracoDockerCompose/Database/Dockerfile
 Database/Dockerfile
 Dockerfile
+templates/readme.md
+readme.md
 .devcontainer/devcontainer.json
 devcontainer.json
 .devcontainer/Dockerfile
@@ -95024,6 +95031,16 @@ Umbraco.Cms.Api.Management/Services/NewsDashboard/NewsDashboardService.cs
 Services/NewsDashboard/NewsDashboardService.cs
 NewsDashboard/NewsDashboardService.cs
 NewsDashboardService.cs
+src/Umbraco.Cms.Api.Management/Services/NewsDashboard/NewsCacheDurationProvider.cs
+Umbraco.Cms.Api.Management/Services/NewsDashboard/NewsCacheDurationProvider.cs
+Services/NewsDashboard/NewsCacheDurationProvider.cs
+NewsDashboard/NewsCacheDurationProvider.cs
+NewsCacheDurationProvider.cs
+src/Umbraco.Cms.Api.Management/Services/NewsDashboard/INewsCacheDurationProvider.cs
+Umbraco.Cms.Api.Management/Services/NewsDashboard/INewsCacheDurationProvider.cs
+Services/NewsDashboard/INewsCacheDurationProvider.cs
+NewsDashboard/INewsCacheDurationProvider.cs
+INewsCacheDurationProvider.cs
 src/Umbraco.Cms.Api.Management/Services/FileSystem/IFileSystemTreeService.cs
 Umbraco.Cms.Api.Management/Services/FileSystem/IFileSystemTreeService.cs
 Services/FileSystem/IFileSystemTreeService.cs
