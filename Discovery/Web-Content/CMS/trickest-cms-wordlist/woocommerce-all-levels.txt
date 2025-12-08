@@ -35754,6 +35754,10 @@ plugins/woocommerce/changelog/wooplug-5820-enhancement-product-gallery-permit-to
 woocommerce/changelog/wooplug-5820-enhancement-product-gallery-permit-to-add-block-beforeafter
 changelog/wooplug-5820-enhancement-product-gallery-permit-to-add-block-beforeafter
 wooplug-5820-enhancement-product-gallery-permit-to-add-block-beforeafter
+plugins/woocommerce/changelog/fix-select-typography
+woocommerce/changelog/fix-select-typography
+changelog/fix-select-typography
+fix-select-typography
 plugins/woocommerce/changelog/pr-61798
 woocommerce/changelog/pr-61798
 changelog/pr-61798
