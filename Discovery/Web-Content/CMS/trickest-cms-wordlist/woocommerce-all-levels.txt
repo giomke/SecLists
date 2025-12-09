@@ -35782,6 +35782,10 @@ plugins/woocommerce/changelog/e2e-enhance-ctrf-report-commit-id
 woocommerce/changelog/e2e-enhance-ctrf-report-commit-id
 changelog/e2e-enhance-ctrf-report-commit-id
 e2e-enhance-ctrf-report-commit-id
+plugins/woocommerce/changelog/WOOA7S-804
+woocommerce/changelog/WOOA7S-804
+changelog/WOOA7S-804
+WOOA7S-804
 plugins/woocommerce/changelog/fix-61855-autoload-options
 woocommerce/changelog/fix-61855-autoload-options
 changelog/fix-61855-autoload-options
