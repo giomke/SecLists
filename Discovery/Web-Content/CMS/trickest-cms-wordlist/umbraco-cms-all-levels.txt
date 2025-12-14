@@ -60579,6 +60579,12 @@ src/packages/tiptap/externals.ts
 packages/tiptap/externals.ts
 tiptap/externals.ts
 externals.ts
+src/Umbraco.Web.UI.Client/src/packages/tiptap/CLAUDE.md
+Umbraco.Web.UI.Client/src/packages/tiptap/CLAUDE.md
+src/packages/tiptap/CLAUDE.md
+packages/tiptap/CLAUDE.md
+tiptap/CLAUDE.md
+CLAUDE.md
 src/Umbraco.Web.UI.Client/src/packages/tiptap/property-editors/types.ts
 Umbraco.Web.UI.Client/src/packages/tiptap/property-editors/types.ts
 src/packages/tiptap/property-editors/types.ts
