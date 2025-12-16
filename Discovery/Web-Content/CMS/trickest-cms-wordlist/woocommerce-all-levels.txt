@@ -86224,6 +86224,10 @@ plugins/woocommerce/changelog/update-k6-tests-stricter-thresholds
 woocommerce/changelog/update-k6-tests-stricter-thresholds
 changelog/update-k6-tests-stricter-thresholds
 update-k6-tests-stricter-thresholds
+plugins/woocommerce/changelog/62387-dev-phpstan-level
+woocommerce/changelog/62387-dev-phpstan-level
+changelog/62387-dev-phpstan-level
+62387-dev-phpstan-level
 plugins/woocommerce/changelog/perf-add-cache-priming-for-grouped-products
 woocommerce/changelog/perf-add-cache-priming-for-grouped-products
 changelog/perf-add-cache-priming-for-grouped-products
