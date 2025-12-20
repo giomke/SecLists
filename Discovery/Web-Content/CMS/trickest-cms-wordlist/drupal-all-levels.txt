@@ -53268,6 +53268,13 @@ tests/src/Unit/HistoryCommentLinkBuilderTest.php
 src/Unit/HistoryCommentLinkBuilderTest.php
 Unit/HistoryCommentLinkBuilderTest.php
 HistoryCommentLinkBuilderTest.php
+core/modules/history/tests/src/Unit/HistoryTokensHooksTest.php
+modules/history/tests/src/Unit/HistoryTokensHooksTest.php
+history/tests/src/Unit/HistoryTokensHooksTest.php
+tests/src/Unit/HistoryTokensHooksTest.php
+src/Unit/HistoryTokensHooksTest.php
+Unit/HistoryTokensHooksTest.php
+HistoryTokensHooksTest.php
 core/modules/history/history.install
 modules/history/history.install
 history/history.install

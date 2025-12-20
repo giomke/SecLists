@@ -1345,6 +1345,12 @@ tests/DefaultConfig/RenderingContent/RenderingContentWithTextstring.spec.ts
 DefaultConfig/RenderingContent/RenderingContentWithTextstring.spec.ts
 RenderingContent/RenderingContentWithTextstring.spec.ts
 RenderingContentWithTextstring.spec.ts
+tests/Umbraco.Tests.AcceptanceTest/tests/DefaultConfig/RenderingContent/RenderingContentWithBlockList.spec.ts
+Umbraco.Tests.AcceptanceTest/tests/DefaultConfig/RenderingContent/RenderingContentWithBlockList.spec.ts
+tests/DefaultConfig/RenderingContent/RenderingContentWithBlockList.spec.ts
+DefaultConfig/RenderingContent/RenderingContentWithBlockList.spec.ts
+RenderingContent/RenderingContentWithBlockList.spec.ts
+RenderingContentWithBlockList.spec.ts
 tests/Umbraco.Tests.AcceptanceTest/tests/DefaultConfig/RenderingContent/RenderingContentWithRichTextEditor.spec.ts
 Umbraco.Tests.AcceptanceTest/tests/DefaultConfig/RenderingContent/RenderingContentWithRichTextEditor.spec.ts
 tests/DefaultConfig/RenderingContent/RenderingContentWithRichTextEditor.spec.ts
@@ -1405,6 +1411,12 @@ tests/DefaultConfig/RenderingContent/RenderingContentWithTags.spec.ts
 DefaultConfig/RenderingContent/RenderingContentWithTags.spec.ts
 RenderingContent/RenderingContentWithTags.spec.ts
 RenderingContentWithTags.spec.ts
+tests/Umbraco.Tests.AcceptanceTest/tests/DefaultConfig/RenderingContent/RenderingContentWithBlockGrid.spec.ts
+Umbraco.Tests.AcceptanceTest/tests/DefaultConfig/RenderingContent/RenderingContentWithBlockGrid.spec.ts
+tests/DefaultConfig/RenderingContent/RenderingContentWithBlockGrid.spec.ts
+DefaultConfig/RenderingContent/RenderingContentWithBlockGrid.spec.ts
+RenderingContent/RenderingContentWithBlockGrid.spec.ts
+RenderingContentWithBlockGrid.spec.ts
 tests/Umbraco.Tests.AcceptanceTest/tests/DefaultConfig/RenderingContent/RenderingContentWithMultiURLPicker.spec.ts
 Umbraco.Tests.AcceptanceTest/tests/DefaultConfig/RenderingContent/RenderingContentWithMultiURLPicker.spec.ts
 tests/DefaultConfig/RenderingContent/RenderingContentWithMultiURLPicker.spec.ts
