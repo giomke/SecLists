@@ -72405,6 +72405,16 @@ user-permissions/document/conditions/document-user-permission.condition.ts
 document/conditions/document-user-permission.condition.ts
 conditions/document-user-permission.condition.ts
 document-user-permission.condition.ts
+src/Umbraco.Web.UI.Client/src/packages/documents/documents/user-permissions/document/conditions/index.ts
+Umbraco.Web.UI.Client/src/packages/documents/documents/user-permissions/document/conditions/index.ts
+src/packages/documents/documents/user-permissions/document/conditions/index.ts
+packages/documents/documents/user-permissions/document/conditions/index.ts
+documents/documents/user-permissions/document/conditions/index.ts
+documents/user-permissions/document/conditions/index.ts
+user-permissions/document/conditions/index.ts
+document/conditions/index.ts
+conditions/index.ts
+index.ts
 src/Umbraco.Web.UI.Client/src/packages/documents/documents/user-permissions/document/conditions/constants.ts
 Umbraco.Web.UI.Client/src/packages/documents/documents/user-permissions/document/conditions/constants.ts
 src/packages/documents/documents/user-permissions/document/conditions/constants.ts
