@@ -14168,6 +14168,14 @@ Internal/ProductDownloads/ApprovedDirectories/RegisterTest.php
 ProductDownloads/ApprovedDirectories/RegisterTest.php
 ApprovedDirectories/RegisterTest.php
 RegisterTest.php
+plugins/woocommerce/tests/php/src/Internal/FraudProtection/SessionClearanceManagerTest.php
+woocommerce/tests/php/src/Internal/FraudProtection/SessionClearanceManagerTest.php
+tests/php/src/Internal/FraudProtection/SessionClearanceManagerTest.php
+php/src/Internal/FraudProtection/SessionClearanceManagerTest.php
+src/Internal/FraudProtection/SessionClearanceManagerTest.php
+Internal/FraudProtection/SessionClearanceManagerTest.php
+FraudProtection/SessionClearanceManagerTest.php
+SessionClearanceManagerTest.php
 plugins/woocommerce/tests/php/src/Internal/FraudProtection/FraudProtectionControllerTest.php
 woocommerce/tests/php/src/Internal/FraudProtection/FraudProtectionControllerTest.php
 tests/php/src/Internal/FraudProtection/FraudProtectionControllerTest.php
@@ -72419,6 +72427,12 @@ src/Internal/FraudProtection/FraudProtectionController.php
 Internal/FraudProtection/FraudProtectionController.php
 FraudProtection/FraudProtectionController.php
 FraudProtectionController.php
+plugins/woocommerce/src/Internal/FraudProtection/SessionClearanceManager.php
+woocommerce/src/Internal/FraudProtection/SessionClearanceManager.php
+src/Internal/FraudProtection/SessionClearanceManager.php
+Internal/FraudProtection/SessionClearanceManager.php
+FraudProtection/SessionClearanceManager.php
+SessionClearanceManager.php
 plugins/woocommerce/src/Internal/WCCom/ConnectionHelper.php
 woocommerce/src/Internal/WCCom/ConnectionHelper.php
 src/Internal/WCCom/ConnectionHelper.php
