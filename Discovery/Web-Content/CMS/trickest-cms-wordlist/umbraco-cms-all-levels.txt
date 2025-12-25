@@ -7611,6 +7611,10 @@ TaskHelper.cs
 tests/Umbraco.Tests.Common/TestDefaultCultureAccessor.cs
 Umbraco.Tests.Common/TestDefaultCultureAccessor.cs
 TestDefaultCultureAccessor.cs
+tests/Umbraco.Tests.Common/Factories/IContentEditingModelFactory.cs
+Umbraco.Tests.Common/Factories/IContentEditingModelFactory.cs
+Factories/IContentEditingModelFactory.cs
+IContentEditingModelFactory.cs
 tests/Umbraco.Tests.Common/Factories/ContentEditingModelFactory.cs
 Umbraco.Tests.Common/Factories/ContentEditingModelFactory.cs
 Factories/ContentEditingModelFactory.cs
