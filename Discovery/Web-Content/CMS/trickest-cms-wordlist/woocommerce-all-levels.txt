@@ -14230,6 +14230,14 @@ src/Internal/FraudProtection/ApiClientTest.php
 Internal/FraudProtection/ApiClientTest.php
 FraudProtection/ApiClientTest.php
 ApiClientTest.php
+plugins/woocommerce/tests/php/src/Internal/FraudProtection/CartEventTrackerTest.php
+woocommerce/tests/php/src/Internal/FraudProtection/CartEventTrackerTest.php
+tests/php/src/Internal/FraudProtection/CartEventTrackerTest.php
+php/src/Internal/FraudProtection/CartEventTrackerTest.php
+src/Internal/FraudProtection/CartEventTrackerTest.php
+Internal/FraudProtection/CartEventTrackerTest.php
+FraudProtection/CartEventTrackerTest.php
+CartEventTrackerTest.php
 plugins/woocommerce/tests/php/src/Internal/FraudProtection/SessionClearanceManagerTest.php
 woocommerce/tests/php/src/Internal/FraudProtection/SessionClearanceManagerTest.php
 tests/php/src/Internal/FraudProtection/SessionClearanceManagerTest.php
@@ -72534,6 +72542,12 @@ src/Internal/FraudProtection/SessionDataCollector.php
 Internal/FraudProtection/SessionDataCollector.php
 FraudProtection/SessionDataCollector.php
 SessionDataCollector.php
+plugins/woocommerce/src/Internal/FraudProtection/CartEventTracker.php
+woocommerce/src/Internal/FraudProtection/CartEventTracker.php
+src/Internal/FraudProtection/CartEventTracker.php
+Internal/FraudProtection/CartEventTracker.php
+FraudProtection/CartEventTracker.php
+CartEventTracker.php
 plugins/woocommerce/src/Internal/FraudProtection/ApiClient.php
 woocommerce/src/Internal/FraudProtection/ApiClient.php
 src/Internal/FraudProtection/ApiClient.php
