@@ -35401,10 +35401,6 @@ tests/migration/Core/IndexerQueuerTest.php
 migration/Core/IndexerQueuerTest.php
 Core/IndexerQueuerTest.php
 IndexerQueuerTest.php
-tests/migration/Core/BasicDataUntouchedTest.php
-migration/Core/BasicDataUntouchedTest.php
-Core/BasicDataUntouchedTest.php
-BasicDataUntouchedTest.php
 tests/migration/Core/V6_6/Migration1714659357CanonicalProductVersionTest.php
 migration/Core/V6_6/Migration1714659357CanonicalProductVersionTest.php
 Core/V6_6/Migration1714659357CanonicalProductVersionTest.php
