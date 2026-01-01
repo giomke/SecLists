@@ -99678,7 +99678,7 @@ index.php/search
 index.php/search
 index.php/search-seeds
 index.php/search/
-index.php/search/
+index.php/search/
 index.php/search/?context
 index.php/search/?context=
 index.php/search/global
@@ -137494,7 +137494,7 @@ search.py
 search.ref
 search.rl
 search/
-search/
+search/
 search/"
 search/$
 search/*
