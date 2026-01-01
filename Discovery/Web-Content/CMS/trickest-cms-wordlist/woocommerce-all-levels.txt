@@ -3976,6 +3976,10 @@ plugins/woocommerce/changelog/fix-migrator-cft
 woocommerce/changelog/fix-migrator-cft
 changelog/fix-migrator-cft
 fix-migrator-cft
+plugins/woocommerce/changelog/fix-62448-disable-add-to-cart-button-variable-products
+woocommerce/changelog/fix-62448-disable-add-to-cart-button-variable-products
+changelog/fix-62448-disable-add-to-cart-button-variable-products
+fix-62448-disable-add-to-cart-button-variable-products
 plugins/woocommerce/changelog/wooa7s-843-rename-option-to-woocommerce_analytics_scheduled_import-new
 woocommerce/changelog/wooa7s-843-rename-option-to-woocommerce_analytics_scheduled_import-new
 changelog/wooa7s-843-rename-option-to-woocommerce_analytics_scheduled_import-new
