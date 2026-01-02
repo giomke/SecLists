@@ -3516,6 +3516,10 @@ plugins/woocommerce/changelog/wooprd-1278-compatibility-with-gutenberg-220
 woocommerce/changelog/wooprd-1278-compatibility-with-gutenberg-220
 changelog/wooprd-1278-compatibility-with-gutenberg-220
 wooprd-1278-compatibility-with-gutenberg-220
+plugins/woocommerce/changelog/fix-62119
+woocommerce/changelog/fix-62119
+changelog/fix-62119
+fix-62119
 plugins/woocommerce/changelog/update-remove-wc-data-clone-override
 woocommerce/changelog/update-remove-wc-data-clone-override
 changelog/update-remove-wc-data-clone-override
@@ -3904,6 +3908,10 @@ plugins/woocommerce/changelog/pr-62452
 woocommerce/changelog/pr-62452
 changelog/pr-62452
 pr-62452
+plugins/woocommerce/changelog/wooplug-5541-bug-safari-autocomplete-overwrites-shipping-address-state
+woocommerce/changelog/wooplug-5541-bug-safari-autocomplete-overwrites-shipping-address-state
+changelog/wooplug-5541-bug-safari-autocomplete-overwrites-shipping-address-state
+wooplug-5541-bug-safari-autocomplete-overwrites-shipping-address-state
 plugins/woocommerce/changelog/woothme-209-rename-large-image-into-viewer-block
 woocommerce/changelog/woothme-209-rename-large-image-into-viewer-block
 changelog/woothme-209-rename-large-image-into-viewer-block
