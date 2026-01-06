@@ -8359,6 +8359,14 @@ src/Umbraco.Cms.Api.Common/OpenApi/EnumSchemaFilter.cs
 Umbraco.Cms.Api.Common/OpenApi/EnumSchemaFilter.cs
 OpenApi/EnumSchemaFilter.cs
 EnumSchemaFilter.cs
+src/Umbraco.Cms.Api.Common/OpenApi/IDocumentInclusionSelector.cs
+Umbraco.Cms.Api.Common/OpenApi/IDocumentInclusionSelector.cs
+OpenApi/IDocumentInclusionSelector.cs
+IDocumentInclusionSelector.cs
+src/Umbraco.Cms.Api.Common/OpenApi/DocumentInclusionSelector.cs
+Umbraco.Cms.Api.Common/OpenApi/DocumentInclusionSelector.cs
+OpenApi/DocumentInclusionSelector.cs
+DocumentInclusionSelector.cs
 src/Umbraco.Cms.Api.Common/OpenApi/ISchemaIdHandler.cs
 Umbraco.Cms.Api.Common/OpenApi/ISchemaIdHandler.cs
 OpenApi/ISchemaIdHandler.cs
