@@ -87245,6 +87245,15 @@ Tests/Core/Render/ElementTest.php
 Core/Render/ElementTest.php
 Render/ElementTest.php
 ElementTest.php
+core/tests/Drupal/Tests/Core/Render/Plugin/DisplayVariant/SimplePageVariantTest.php
+tests/Drupal/Tests/Core/Render/Plugin/DisplayVariant/SimplePageVariantTest.php
+Drupal/Tests/Core/Render/Plugin/DisplayVariant/SimplePageVariantTest.php
+Tests/Core/Render/Plugin/DisplayVariant/SimplePageVariantTest.php
+Core/Render/Plugin/DisplayVariant/SimplePageVariantTest.php
+Render/Plugin/DisplayVariant/SimplePageVariantTest.php
+Plugin/DisplayVariant/SimplePageVariantTest.php
+DisplayVariant/SimplePageVariantTest.php
+SimplePageVariantTest.php
 core/tests/Drupal/Tests/Core/Render/RendererDebugTest.php
 tests/Drupal/Tests/Core/Render/RendererDebugTest.php
 Drupal/Tests/Core/Render/RendererDebugTest.php
