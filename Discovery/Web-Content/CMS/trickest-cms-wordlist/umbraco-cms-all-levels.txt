@@ -1333,6 +1333,12 @@ Users/Permissions/User/ContentStartNodes.spec.ts
 Permissions/User/ContentStartNodes.spec.ts
 User/ContentStartNodes.spec.ts
 ContentStartNodes.spec.ts
+tests/Umbraco.Tests.AcceptanceTest/tests/DefaultConfig/Users/UserGroupsDescription.spec.ts
+Umbraco.Tests.AcceptanceTest/tests/DefaultConfig/Users/UserGroupsDescription.spec.ts
+tests/DefaultConfig/Users/UserGroupsDescription.spec.ts
+DefaultConfig/Users/UserGroupsDescription.spec.ts
+Users/UserGroupsDescription.spec.ts
+UserGroupsDescription.spec.ts
 tests/Umbraco.Tests.AcceptanceTest/tests/DefaultConfig/Users/CurrentUserProfile.spec.ts
 Umbraco.Tests.AcceptanceTest/tests/DefaultConfig/Users/CurrentUserProfile.spec.ts
 tests/DefaultConfig/Users/CurrentUserProfile.spec.ts

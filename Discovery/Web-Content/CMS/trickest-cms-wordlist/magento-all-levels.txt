@@ -266388,6 +266388,12 @@ Magento/Quote/Observer/SendInvoiceEmailObserver.php
 Quote/Observer/SendInvoiceEmailObserver.php
 Observer/SendInvoiceEmailObserver.php
 SendInvoiceEmailObserver.php
+app/code/Magento/Quote/Observer/SetBasePriceObserver.php
+code/Magento/Quote/Observer/SetBasePriceObserver.php
+Magento/Quote/Observer/SetBasePriceObserver.php
+Quote/Observer/SetBasePriceObserver.php
+Observer/SetBasePriceObserver.php
+SetBasePriceObserver.php
 app/code/Magento/Quote/Plugin/SendOrderNotification.php
 code/Magento/Quote/Plugin/SendOrderNotification.php
 Magento/Quote/Plugin/SendOrderNotification.php
@@ -268127,6 +268133,14 @@ Test/Unit/Observer/SendInvoiceEmailObserverTest.php
 Unit/Observer/SendInvoiceEmailObserverTest.php
 Observer/SendInvoiceEmailObserverTest.php
 SendInvoiceEmailObserverTest.php
+app/code/Magento/Quote/Test/Unit/Observer/SetBasePriceObserverTest.php
+code/Magento/Quote/Test/Unit/Observer/SetBasePriceObserverTest.php
+Magento/Quote/Test/Unit/Observer/SetBasePriceObserverTest.php
+Quote/Test/Unit/Observer/SetBasePriceObserverTest.php
+Test/Unit/Observer/SetBasePriceObserverTest.php
+Unit/Observer/SetBasePriceObserverTest.php
+Observer/SetBasePriceObserverTest.php
+SetBasePriceObserverTest.php
 app/code/Magento/Quote/Test/Unit/Plugin/SendOrderNotificationTest.php
 code/Magento/Quote/Test/Unit/Plugin/SendOrderNotificationTest.php
 Magento/Quote/Test/Unit/Plugin/SendOrderNotificationTest.php
