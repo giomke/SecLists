@@ -6341,6 +6341,11 @@ Umbraco.Cms.Api.Management/Services/Flags/IsProtectedFlagProviderTests.cs
 Services/Flags/IsProtectedFlagProviderTests.cs
 Flags/IsProtectedFlagProviderTests.cs
 IsProtectedFlagProviderTests.cs
+tests/Umbraco.Tests.UnitTests/Umbraco.Cms.Api.Management/Services/UserStartNodePathComparisonTests.cs
+Umbraco.Tests.UnitTests/Umbraco.Cms.Api.Management/Services/UserStartNodePathComparisonTests.cs
+Umbraco.Cms.Api.Management/Services/UserStartNodePathComparisonTests.cs
+Services/UserStartNodePathComparisonTests.cs
+UserStartNodePathComparisonTests.cs
 tests/Umbraco.Tests.UnitTests/Umbraco.Cms.Api.Management/Services/BackOfficeExternalLoginServiceTests.cs
 Umbraco.Tests.UnitTests/Umbraco.Cms.Api.Management/Services/BackOfficeExternalLoginServiceTests.cs
 Umbraco.Cms.Api.Management/Services/BackOfficeExternalLoginServiceTests.cs
@@ -22410,6 +22415,11 @@ src/Umbraco.Web.UI.Client/src/tsconfig.build.json
 Umbraco.Web.UI.Client/src/tsconfig.build.json
 src/tsconfig.build.json
 tsconfig.build.json
+src/Umbraco.Web.UI.Client/src/assets/umbraco-logo.svg
+Umbraco.Web.UI.Client/src/assets/umbraco-logo.svg
+src/assets/umbraco-logo.svg
+assets/umbraco-logo.svg
+umbraco-logo.svg
 src/Umbraco.Web.UI.Client/src/assets/favicon.svg
 Umbraco.Web.UI.Client/src/assets/favicon.svg
 src/assets/favicon.svg
