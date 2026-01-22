@@ -2242,6 +2242,11 @@ Umbraco.Tests.Integration/Umbraco.Core/Services/DocumentNavigationServiceTests.U
 Umbraco.Core/Services/DocumentNavigationServiceTests.Update.cs
 Services/DocumentNavigationServiceTests.Update.cs
 DocumentNavigationServiceTests.Update.cs
+tests/Umbraco.Tests.Integration/Umbraco.Core/Services/PublishStatusServiceTests.ThreadSafety.cs
+Umbraco.Tests.Integration/Umbraco.Core/Services/PublishStatusServiceTests.ThreadSafety.cs
+Umbraco.Core/Services/PublishStatusServiceTests.ThreadSafety.cs
+Services/PublishStatusServiceTests.ThreadSafety.cs
+PublishStatusServiceTests.ThreadSafety.cs
 tests/Umbraco.Tests.Integration/Umbraco.Core/Services/DocumentNavigationServiceTests.Sort.cs
 Umbraco.Tests.Integration/Umbraco.Core/Services/DocumentNavigationServiceTests.Sort.cs
 Umbraco.Core/Services/DocumentNavigationServiceTests.Sort.cs
@@ -8536,6 +8541,9 @@ UpgradeResult.cs
 src/Umbraco.Core/RuntimeLevelReason.cs
 Umbraco.Core/RuntimeLevelReason.cs
 RuntimeLevelReason.cs
+src/Umbraco.Core/Constants-MediaTypes.cs
+Umbraco.Core/Constants-MediaTypes.cs
+Constants-MediaTypes.cs
 src/Umbraco.Core/UdiEntityTypeHelper.cs
 Umbraco.Core/UdiEntityTypeHelper.cs
 UdiEntityTypeHelper.cs
@@ -16560,6 +16568,9 @@ GuidUtils.cs
 src/Umbraco.Core/SystemLock.cs
 Umbraco.Core/SystemLock.cs
 SystemLock.cs
+src/Umbraco.Core/Constants-MemberTypes.cs
+Umbraco.Core/Constants-MemberTypes.cs
+Constants-MemberTypes.cs
 src/Umbraco.Core/Constants-ObjectTypes.cs
 Umbraco.Core/Constants-ObjectTypes.cs
 Constants-ObjectTypes.cs
@@ -20153,6 +20164,11 @@ Umbraco.Web.UI.Client/.env.e2e
 src/Umbraco.Web.UI.Client/eslint-local-rules.cjs
 Umbraco.Web.UI.Client/eslint-local-rules.cjs
 eslint-local-rules.cjs
+src/Umbraco.Web.UI.Client/devops/check-duplicate-class-names/index.js
+Umbraco.Web.UI.Client/devops/check-duplicate-class-names/index.js
+devops/check-duplicate-class-names/index.js
+check-duplicate-class-names/index.js
+index.js
 src/Umbraco.Web.UI.Client/devops/package/index.js
 Umbraco.Web.UI.Client/devops/package/index.js
 devops/package/index.js
@@ -31480,6 +31496,13 @@ packages/core/validation/types.ts
 core/validation/types.ts
 validation/types.ts
 types.ts
+src/Umbraco.Web.UI.Client/src/packages/core/auth/auth.context.test.ts
+Umbraco.Web.UI.Client/src/packages/core/auth/auth.context.test.ts
+src/packages/core/auth/auth.context.test.ts
+packages/core/auth/auth.context.test.ts
+core/auth/auth.context.test.ts
+auth/auth.context.test.ts
+auth.context.test.ts
 src/Umbraco.Web.UI.Client/src/packages/core/auth/manifests.ts
 Umbraco.Web.UI.Client/src/packages/core/auth/manifests.ts
 src/packages/core/auth/manifests.ts
