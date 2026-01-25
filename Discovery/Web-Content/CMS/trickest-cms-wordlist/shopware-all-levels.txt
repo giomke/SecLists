@@ -18935,6 +18935,14 @@ Core/Content/Seo/SeoExceptionTest.php
 Content/Seo/SeoExceptionTest.php
 Seo/SeoExceptionTest.php
 SeoExceptionTest.php
+tests/unit/Core/Content/Seo/SeoUrl/SalesChannel/SalesChannelSeoUrlDefinitionTest.php
+unit/Core/Content/Seo/SeoUrl/SalesChannel/SalesChannelSeoUrlDefinitionTest.php
+Core/Content/Seo/SeoUrl/SalesChannel/SalesChannelSeoUrlDefinitionTest.php
+Content/Seo/SeoUrl/SalesChannel/SalesChannelSeoUrlDefinitionTest.php
+Seo/SeoUrl/SalesChannel/SalesChannelSeoUrlDefinitionTest.php
+SeoUrl/SalesChannel/SalesChannelSeoUrlDefinitionTest.php
+SalesChannel/SalesChannelSeoUrlDefinitionTest.php
+SalesChannelSeoUrlDefinitionTest.php
 tests/unit/Core/Content/Seo/SeoUrlTwigFactoryTest.php
 unit/Core/Content/Seo/SeoUrlTwigFactoryTest.php
 Core/Content/Seo/SeoUrlTwigFactoryTest.php
