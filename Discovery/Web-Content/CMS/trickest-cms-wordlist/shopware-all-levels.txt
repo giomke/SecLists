@@ -87370,6 +87370,17 @@ component/grid/sw-grid-column/index.js
 grid/sw-grid-column/index.js
 sw-grid-column/index.js
 index.js
+src/Administration/Resources/app/administration/src/app/component/grid/sw-grid-column/sw-grid-column.spec.js
+Administration/Resources/app/administration/src/app/component/grid/sw-grid-column/sw-grid-column.spec.js
+Resources/app/administration/src/app/component/grid/sw-grid-column/sw-grid-column.spec.js
+app/administration/src/app/component/grid/sw-grid-column/sw-grid-column.spec.js
+administration/src/app/component/grid/sw-grid-column/sw-grid-column.spec.js
+src/app/component/grid/sw-grid-column/sw-grid-column.spec.js
+app/component/grid/sw-grid-column/sw-grid-column.spec.js
+component/grid/sw-grid-column/sw-grid-column.spec.js
+grid/sw-grid-column/sw-grid-column.spec.js
+sw-grid-column/sw-grid-column.spec.js
+sw-grid-column.spec.js
 src/Administration/Resources/app/administration/src/app/component/grid/sw-grid-column/sw-grid-column.html.twig
 Administration/Resources/app/administration/src/app/component/grid/sw-grid-column/sw-grid-column.html.twig
 Resources/app/administration/src/app/component/grid/sw-grid-column/sw-grid-column.html.twig
