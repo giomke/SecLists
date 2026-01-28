@@ -95350,6 +95350,10 @@ src/Umbraco.Infrastructure/Security/BackOfficeUserStore.cs
 Umbraco.Infrastructure/Security/BackOfficeUserStore.cs
 Security/BackOfficeUserStore.cs
 BackOfficeUserStore.cs
+src/Umbraco.Infrastructure/Security/MembersErrorDescriber.cs
+Umbraco.Infrastructure/Security/MembersErrorDescriber.cs
+Security/MembersErrorDescriber.cs
+MembersErrorDescriber.cs
 src/Umbraco.Infrastructure/Security/UmbracoUserManager.cs
 Umbraco.Infrastructure/Security/UmbracoUserManager.cs
 Security/UmbracoUserManager.cs
