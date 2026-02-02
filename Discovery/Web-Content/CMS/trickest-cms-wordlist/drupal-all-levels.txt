@@ -35626,6 +35626,11 @@ contextual/src/Hook/ContextualHooks.php
 src/Hook/ContextualHooks.php
 Hook/ContextualHooks.php
 ContextualHooks.php
+core/modules/contextual/src/ContextualLinksSerializer.php
+modules/contextual/src/ContextualLinksSerializer.php
+contextual/src/ContextualLinksSerializer.php
+src/ContextualLinksSerializer.php
+ContextualLinksSerializer.php
 core/modules/contextual/src/Theme/ContextualLinksNegotiator.php
 modules/contextual/src/Theme/ContextualLinksNegotiator.php
 contextual/src/Theme/ContextualLinksNegotiator.php
