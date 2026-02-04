@@ -4112,6 +4112,12 @@ Umbraco.Infrastructure/Persistence/Repositories/ContentTypeRepositoryTest.cs
 Persistence/Repositories/ContentTypeRepositoryTest.cs
 Repositories/ContentTypeRepositoryTest.cs
 ContentTypeRepositoryTest.cs
+tests/Umbraco.Tests.Integration/Umbraco.Infrastructure/Persistence/Repositories/DataTypeRepositoryTest.cs
+Umbraco.Tests.Integration/Umbraco.Infrastructure/Persistence/Repositories/DataTypeRepositoryTest.cs
+Umbraco.Infrastructure/Persistence/Repositories/DataTypeRepositoryTest.cs
+Persistence/Repositories/DataTypeRepositoryTest.cs
+Repositories/DataTypeRepositoryTest.cs
+DataTypeRepositoryTest.cs
 tests/Umbraco.Tests.Integration/Umbraco.Infrastructure/Persistence/Repositories/ScriptRepositoryTest.cs
 Umbraco.Tests.Integration/Umbraco.Infrastructure/Persistence/Repositories/ScriptRepositoryTest.cs
 Umbraco.Infrastructure/Persistence/Repositories/ScriptRepositoryTest.cs
@@ -8035,9 +8041,11 @@ UmbracoDockerCompose/.env
 .env
 Directory.Packages.props
 Directory.Build.props
+.mcp.json
 nuget.config
 LICENSE.md
 umbraco.sln.DotSettings
+MCP.md
 .editorconfig
 .artifactignore
 tools/Umbraco.JsonSchema/Umbraco.JsonSchema.csproj
@@ -100691,4 +100699,7 @@ build/nightly-E2E-test-pipelines.yml
 nightly-E2E-test-pipelines.yml
 build/azure-pipelines.yml
 azure-pipelines.yml
+.claude/settings.json
+settings.json
 umbraco.sln
+.env.example
