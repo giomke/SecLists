@@ -48837,6 +48837,10 @@ recaptcha-helpers.ts
 tests/acceptance/tsconfig.json
 acceptance/tsconfig.json
 tsconfig.json
+tests/acceptance/scripts/runNpmAudit.ts
+acceptance/scripts/runNpmAudit.ts
+scripts/runNpmAudit.ts
+runNpmAudit.ts
 tests/acceptance/package-lock.json
 acceptance/package-lock.json
 package-lock.json
@@ -120457,6 +120461,12 @@ Framework/Script/Execution/OptionalFunctionHook.php
 Script/Execution/OptionalFunctionHook.php
 Execution/OptionalFunctionHook.php
 OptionalFunctionHook.php
+src/Core/Framework/Script/Execution/ScriptEnvironmentFactory.php
+Core/Framework/Script/Execution/ScriptEnvironmentFactory.php
+Framework/Script/Execution/ScriptEnvironmentFactory.php
+Script/Execution/ScriptEnvironmentFactory.php
+Execution/ScriptEnvironmentFactory.php
+ScriptEnvironmentFactory.php
 src/Core/Framework/Script/Execution/InterfaceHook.php
 Core/Framework/Script/Execution/InterfaceHook.php
 Framework/Script/Execution/InterfaceHook.php
@@ -150465,6 +150475,13 @@ Resources/app/storefront/tsconfig.json
 app/storefront/tsconfig.json
 storefront/tsconfig.json
 tsconfig.json
+src/Storefront/Resources/app/storefront/scripts/runNpmAudit.ts
+Storefront/Resources/app/storefront/scripts/runNpmAudit.ts
+Resources/app/storefront/scripts/runNpmAudit.ts
+app/storefront/scripts/runNpmAudit.ts
+storefront/scripts/runNpmAudit.ts
+scripts/runNpmAudit.ts
+runNpmAudit.ts
 src/Storefront/Resources/app/storefront/package-lock.json
 Storefront/Resources/app/storefront/package-lock.json
 Resources/app/storefront/package-lock.json
