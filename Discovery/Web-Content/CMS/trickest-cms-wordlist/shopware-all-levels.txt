@@ -30580,6 +30580,13 @@ Core/Framework/Log/ExceptionLoggerTest.php
 Framework/Log/ExceptionLoggerTest.php
 Log/ExceptionLoggerTest.php
 ExceptionLoggerTest.php
+tests/unit/Core/Framework/Sso/Controller/SsoControllerTest.php
+unit/Core/Framework/Sso/Controller/SsoControllerTest.php
+Core/Framework/Sso/Controller/SsoControllerTest.php
+Framework/Sso/Controller/SsoControllerTest.php
+Sso/Controller/SsoControllerTest.php
+Controller/SsoControllerTest.php
+SsoControllerTest.php
 tests/unit/Core/Framework/Sso/LoginResponseServiceTest.php
 unit/Core/Framework/Sso/LoginResponseServiceTest.php
 Core/Framework/Sso/LoginResponseServiceTest.php
@@ -34928,6 +34935,11 @@ unit/Storefront/Theme/MockedCacheInvalidator.php
 Storefront/Theme/MockedCacheInvalidator.php
 Theme/MockedCacheInvalidator.php
 MockedCacheInvalidator.php
+tests/unit/Storefront/Theme/ThemeConfigValueAccessorTest.php
+unit/Storefront/Theme/ThemeConfigValueAccessorTest.php
+Storefront/Theme/ThemeConfigValueAccessorTest.php
+Theme/ThemeConfigValueAccessorTest.php
+ThemeConfigValueAccessorTest.php
 tests/unit/Storefront/Theme/StorefrontPluginConfiguration/StorefrontPluginConfigurationTest.php
 unit/Storefront/Theme/StorefrontPluginConfiguration/StorefrontPluginConfigurationTest.php
 Storefront/Theme/StorefrontPluginConfiguration/StorefrontPluginConfigurationTest.php
