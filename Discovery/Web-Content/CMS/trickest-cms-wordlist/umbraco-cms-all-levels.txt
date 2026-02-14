@@ -52323,6 +52323,13 @@ packages/property-editors/utils/property-editor-test-utils.ts
 property-editors/utils/property-editor-test-utils.ts
 utils/property-editor-test-utils.ts
 property-editor-test-utils.ts
+src/Umbraco.Web.UI.Client/src/packages/property-editors/utils/character-count.test.ts
+Umbraco.Web.UI.Client/src/packages/property-editors/utils/character-count.test.ts
+src/packages/property-editors/utils/character-count.test.ts
+packages/property-editors/utils/character-count.test.ts
+property-editors/utils/character-count.test.ts
+utils/character-count.test.ts
+character-count.test.ts
 src/Umbraco.Web.UI.Client/src/packages/property-editors/utils/property-editor-ui-state-manager.ts
 Umbraco.Web.UI.Client/src/packages/property-editors/utils/property-editor-ui-state-manager.ts
 src/packages/property-editors/utils/property-editor-ui-state-manager.ts
@@ -52330,6 +52337,13 @@ packages/property-editors/utils/property-editor-ui-state-manager.ts
 property-editors/utils/property-editor-ui-state-manager.ts
 utils/property-editor-ui-state-manager.ts
 property-editor-ui-state-manager.ts
+src/Umbraco.Web.UI.Client/src/packages/property-editors/utils/character-count.ts
+Umbraco.Web.UI.Client/src/packages/property-editors/utils/character-count.ts
+src/packages/property-editors/utils/character-count.ts
+packages/property-editors/utils/character-count.ts
+property-editors/utils/character-count.ts
+utils/character-count.ts
+character-count.ts
 src/Umbraco.Web.UI.Client/src/packages/property-editors/dropdown/manifests.ts
 Umbraco.Web.UI.Client/src/packages/property-editors/dropdown/manifests.ts
 src/packages/property-editors/dropdown/manifests.ts
