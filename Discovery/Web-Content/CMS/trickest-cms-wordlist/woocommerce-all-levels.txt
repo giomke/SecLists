@@ -3625,10 +3625,6 @@ plugins/woocommerce/changelog/performance-admin-reduce-sqls-number-settings
 woocommerce/changelog/performance-admin-reduce-sqls-number-settings
 changelog/performance-admin-reduce-sqls-number-settings
 performance-admin-reduce-sqls-number-settings
-plugins/woocommerce/changelog/fix-undo-changes-to-disable-add-to-cart-button
-woocommerce/changelog/fix-undo-changes-to-disable-add-to-cart-button
-changelog/fix-undo-changes-to-disable-add-to-cart-button
-fix-undo-changes-to-disable-add-to-cart-button
 plugins/woocommerce/changelog/61662-patch-9
 woocommerce/changelog/61662-patch-9
 changelog/61662-patch-9
@@ -3861,6 +3857,10 @@ plugins/woocommerce/changelog/58312-fix-analytics-category-breadcrumbs-parent-nu
 woocommerce/changelog/58312-fix-analytics-category-breadcrumbs-parent-null
 changelog/58312-fix-analytics-category-breadcrumbs-parent-null
 58312-fix-analytics-category-breadcrumbs-parent-null
+plugins/woocommerce/changelog/63230-iapi-remove-needsrefreshforinteractivityapi-in-favor-of-clientnavigationdisabled
+woocommerce/changelog/63230-iapi-remove-needsrefreshforinteractivityapi-in-favor-of-clientnavigationdisabled
+changelog/63230-iapi-remove-needsrefreshforinteractivityapi-in-favor-of-clientnavigationdisabled
+63230-iapi-remove-needsrefreshforinteractivityapi-in-favor-of-clientnavigationdisabled
 plugins/woocommerce/changelog/59464-use-toolspanel-in-category-title-block
 woocommerce/changelog/59464-use-toolspanel-in-category-title-block
 changelog/59464-use-toolspanel-in-category-title-block
@@ -3945,6 +3945,10 @@ plugins/woocommerce/changelog/wooprd-1450-saved-amount-badges
 woocommerce/changelog/wooprd-1450-saved-amount-badges
 changelog/wooprd-1450-saved-amount-badges
 wooprd-1450-saved-amount-badges
+plugins/woocommerce/changelog/fix-63217-add-to-cart-with-options-default-margin
+woocommerce/changelog/fix-63217-add-to-cart-with-options-default-margin
+changelog/fix-63217-add-to-cart-with-options-default-margin
+fix-63217-add-to-cart-with-options-default-margin
 plugins/woocommerce/changelog/63261-fix-products-task-bulk-trash-performance
 woocommerce/changelog/63261-fix-products-task-bulk-trash-performance
 changelog/63261-fix-products-task-bulk-trash-performance
@@ -3985,6 +3989,10 @@ plugins/woocommerce/changelog/62126-add-iceland-and-faroe-islands-to-vat-countri
 woocommerce/changelog/62126-add-iceland-and-faroe-islands-to-vat-countries
 changelog/62126-add-iceland-and-faroe-islands-to-vat-countries
 62126-add-iceland-and-faroe-islands-to-vat-countries
+plugins/woocommerce/changelog/62944-fix-62927-tax-inclusive-shipping
+woocommerce/changelog/62944-fix-62927-tax-inclusive-shipping
+changelog/62944-fix-62927-tax-inclusive-shipping
+62944-fix-62927-tax-inclusive-shipping
 plugins/woocommerce/changelog/fix-dashboard-timezone
 woocommerce/changelog/fix-dashboard-timezone
 changelog/fix-dashboard-timezone
@@ -93722,6 +93730,11 @@ packages/php/blueprint/package.json
 php/blueprint/package.json
 blueprint/package.json
 package.json
+packages/php/email-editor/changelog/63177-fix-email-editor-product-collection-spacing
+php/email-editor/changelog/63177-fix-email-editor-product-collection-spacing
+email-editor/changelog/63177-fix-email-editor-product-collection-spacing
+changelog/63177-fix-email-editor-product-collection-spacing
+63177-fix-email-editor-product-collection-spacing
 packages/php/email-editor/changelog/.gitkeep
 php/email-editor/changelog/.gitkeep
 email-editor/changelog/.gitkeep
