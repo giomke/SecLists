@@ -4471,6 +4471,11 @@ Umbraco.Tests.Integration/Umbraco.Infrastructure/Services/ContentPublishingServi
 Umbraco.Infrastructure/Services/ContentPublishingServiceTests.Publish.cs
 Services/ContentPublishingServiceTests.Publish.cs
 ContentPublishingServiceTests.Publish.cs
+tests/Umbraco.Tests.Integration/Umbraco.Infrastructure/Services/UserServiceTests.PermissionsPerformance.cs
+Umbraco.Tests.Integration/Umbraco.Infrastructure/Services/UserServiceTests.PermissionsPerformance.cs
+Umbraco.Infrastructure/Services/UserServiceTests.PermissionsPerformance.cs
+Services/UserServiceTests.PermissionsPerformance.cs
+UserServiceTests.PermissionsPerformance.cs
 tests/Umbraco.Tests.Integration/Umbraco.Infrastructure/Services/ContentBlueprintEditingServiceTests.cs
 Umbraco.Tests.Integration/Umbraco.Infrastructure/Services/ContentBlueprintEditingServiceTests.cs
 Umbraco.Infrastructure/Services/ContentBlueprintEditingServiceTests.cs
@@ -4872,6 +4877,11 @@ Umbraco.Tests.Integration/Umbraco.Infrastructure/Services/ContentBlueprintEditin
 Umbraco.Infrastructure/Services/ContentBlueprintEditingServiceTests.Move.cs
 Services/ContentBlueprintEditingServiceTests.Move.cs
 ContentBlueprintEditingServiceTests.Move.cs
+tests/Umbraco.Tests.Integration/Umbraco.Infrastructure/Services/UserServiceTests.Permissions.cs
+Umbraco.Tests.Integration/Umbraco.Infrastructure/Services/UserServiceTests.Permissions.cs
+Umbraco.Infrastructure/Services/UserServiceTests.Permissions.cs
+Services/UserServiceTests.Permissions.cs
+UserServiceTests.Permissions.cs
 tests/Umbraco.Tests.Integration/Umbraco.Infrastructure/Services/DataTypeContainerServiceTests.cs
 Umbraco.Tests.Integration/Umbraco.Infrastructure/Services/DataTypeContainerServiceTests.cs
 Umbraco.Infrastructure/Services/DataTypeContainerServiceTests.cs

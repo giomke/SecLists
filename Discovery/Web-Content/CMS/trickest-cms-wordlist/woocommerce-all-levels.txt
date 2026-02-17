@@ -3901,6 +3901,10 @@ plugins/woocommerce/changelog/performance-57045-product-attributes-lookup-indexe
 woocommerce/changelog/performance-57045-product-attributes-lookup-indexes
 changelog/performance-57045-product-attributes-lookup-indexes
 performance-57045-product-attributes-lookup-indexes
+plugins/woocommerce/changelog/fix-product-reviews-add-back-support-for-replies
+woocommerce/changelog/fix-product-reviews-add-back-support-for-replies
+changelog/fix-product-reviews-add-back-support-for-replies
+fix-product-reviews-add-back-support-for-replies
 plugins/woocommerce/changelog/performance-27746-customer-data-store-stats-SQLs
 woocommerce/changelog/performance-27746-customer-data-store-stats-SQLs
 changelog/performance-27746-customer-data-store-stats-SQLs
@@ -3929,6 +3933,10 @@ plugins/woocommerce/changelog/59464-use-toolspanel-in-product-specifications-blo
 woocommerce/changelog/59464-use-toolspanel-in-product-specifications-block
 changelog/59464-use-toolspanel-in-product-specifications-block
 59464-use-toolspanel-in-product-specifications-block
+plugins/woocommerce/changelog/stomail-7602-implement-design-for-the-email-post-summary-panel-v2
+woocommerce/changelog/stomail-7602-implement-design-for-the-email-post-summary-panel-v2
+changelog/stomail-7602-implement-design-for-the-email-post-summary-panel-v2
+stomail-7602-implement-design-for-the-email-post-summary-panel-v2
 plugins/woocommerce/changelog/60337-fix-kurdistan-state-format
 woocommerce/changelog/60337-fix-kurdistan-state-format
 changelog/60337-fix-kurdistan-state-format
@@ -85395,6 +85403,11 @@ js/email-editor/changelog/fix-swap-template-blank-modal
 email-editor/changelog/fix-swap-template-blank-modal
 changelog/fix-swap-template-blank-modal
 fix-swap-template-blank-modal
+packages/js/email-editor/changelog/stomail-7602-implement-design-for-the-email-post-summary-panel-v2
+js/email-editor/changelog/stomail-7602-implement-design-for-the-email-post-summary-panel-v2
+email-editor/changelog/stomail-7602-implement-design-for-the-email-post-summary-panel-v2
+changelog/stomail-7602-implement-design-for-the-email-post-summary-panel-v2
+stomail-7602-implement-design-for-the-email-post-summary-panel-v2
 packages/js/email-editor/changelog/.gitkeep
 js/email-editor/changelog/.gitkeep
 email-editor/changelog/.gitkeep
