@@ -3425,6 +3425,10 @@ plugins/woocommerce/changelog/fix-phpstan-add-return-type-annotations
 woocommerce/changelog/fix-phpstan-add-return-type-annotations
 changelog/fix-phpstan-add-return-type-annotations
 fix-phpstan-add-return-type-annotations
+plugins/woocommerce/changelog/update-pay-506-always-show-payment-radio
+woocommerce/changelog/update-pay-506-always-show-payment-radio
+changelog/update-pay-506-always-show-payment-radio
+update-pay-506-always-show-payment-radio
 plugins/woocommerce/changelog/performance-62767-slow-comments-queries-in-admin
 woocommerce/changelog/performance-62767-slow-comments-queries-in-admin
 changelog/performance-62767-slow-comments-queries-in-admin
@@ -3673,6 +3677,10 @@ plugins/woocommerce/changelog/docs-claude-pr-template-instructions
 woocommerce/changelog/docs-claude-pr-template-instructions
 changelog/docs-claude-pr-template-instructions
 docs-claude-pr-template-instructions
+plugins/woocommerce/changelog/performance-63118-reduce-sqls-number-iteration-2
+woocommerce/changelog/performance-63118-reduce-sqls-number-iteration-2
+changelog/performance-63118-reduce-sqls-number-iteration-2
+performance-63118-reduce-sqls-number-iteration-2
 plugins/woocommerce/changelog/62925-php-8-5-deprecation-page-controller
 woocommerce/changelog/62925-php-8-5-deprecation-page-controller
 changelog/62925-php-8-5-deprecation-page-controller
@@ -3853,6 +3861,10 @@ plugins/woocommerce/changelog/62167-dev-use-server-state-simple-product
 woocommerce/changelog/62167-dev-use-server-state-simple-product
 changelog/62167-dev-use-server-state-simple-product
 62167-dev-use-server-state-simple-product
+plugins/woocommerce/changelog/performance-63118-reduce-sqls-number-iteration-3
+woocommerce/changelog/performance-63118-reduce-sqls-number-iteration-3
+changelog/performance-63118-reduce-sqls-number-iteration-3
+performance-63118-reduce-sqls-number-iteration-3
 plugins/woocommerce/changelog/pr-62931
 woocommerce/changelog/pr-62931
 changelog/pr-62931

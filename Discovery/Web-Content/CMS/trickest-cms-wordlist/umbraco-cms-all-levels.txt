@@ -71499,16 +71499,6 @@ documents/collection/views/manifests.ts
 collection/views/manifests.ts
 views/manifests.ts
 manifests.ts
-src/Umbraco.Web.UI.Client/src/packages/documents/documents/collection/views/grid/document-grid-collection-view.element.ts
-Umbraco.Web.UI.Client/src/packages/documents/documents/collection/views/grid/document-grid-collection-view.element.ts
-src/packages/documents/documents/collection/views/grid/document-grid-collection-view.element.ts
-packages/documents/documents/collection/views/grid/document-grid-collection-view.element.ts
-documents/documents/collection/views/grid/document-grid-collection-view.element.ts
-documents/collection/views/grid/document-grid-collection-view.element.ts
-collection/views/grid/document-grid-collection-view.element.ts
-views/grid/document-grid-collection-view.element.ts
-grid/document-grid-collection-view.element.ts
-document-grid-collection-view.element.ts
 src/Umbraco.Web.UI.Client/src/packages/documents/documents/collection/views/table/document-table-collection-view.element.ts
 Umbraco.Web.UI.Client/src/packages/documents/documents/collection/views/table/document-table-collection-view.element.ts
 src/packages/documents/documents/collection/views/table/document-table-collection-view.element.ts
