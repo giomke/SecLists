@@ -17029,6 +17029,12 @@ Behat/Resources/config/suites.yml
 Resources/config/suites.yml
 config/suites.yml
 suites.yml
+src/Sylius/Behat/Resources/config/services.php
+Sylius/Behat/Resources/config/services.php
+Behat/Resources/config/services.php
+Resources/config/services.php
+config/services.php
+services.php
 src/Sylius/Behat/Resources/fixtures/sylius.svg
 Sylius/Behat/Resources/fixtures/sylius.svg
 Behat/Resources/fixtures/sylius.svg
