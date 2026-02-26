@@ -2165,11 +2165,6 @@ Umbraco.Tests.Integration/Umbraco.Core/Services/MediaNavigationServiceTests.Dele
 Umbraco.Core/Services/MediaNavigationServiceTests.Delete.cs
 Services/MediaNavigationServiceTests.Delete.cs
 MediaNavigationServiceTests.Delete.cs
-tests/Umbraco.Tests.Integration/Umbraco.Core/Services/PublishedUrlInfoProvider_hidetoplevel_false.cs
-Umbraco.Tests.Integration/Umbraco.Core/Services/PublishedUrlInfoProvider_hidetoplevel_false.cs
-Umbraco.Core/Services/PublishedUrlInfoProvider_hidetoplevel_false.cs
-Services/PublishedUrlInfoProvider_hidetoplevel_false.cs
-PublishedUrlInfoProvider_hidetoplevel_false.cs
 tests/Umbraco.Tests.Integration/Umbraco.Core/Services/MediaNavigationServiceTests.MoveToRecycleBin.cs
 Umbraco.Tests.Integration/Umbraco.Core/Services/MediaNavigationServiceTests.MoveToRecycleBin.cs
 Umbraco.Core/Services/MediaNavigationServiceTests.MoveToRecycleBin.cs
