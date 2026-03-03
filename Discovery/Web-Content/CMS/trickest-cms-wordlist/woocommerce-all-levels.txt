@@ -84925,11 +84925,6 @@ packages/js/email-editor/blueprint.json
 js/email-editor/blueprint.json
 email-editor/blueprint.json
 blueprint.json
-packages/js/email-editor/changelog/remove-custom-richtext-for-email-editor
-js/email-editor/changelog/remove-custom-richtext-for-email-editor
-email-editor/changelog/remove-custom-richtext-for-email-editor
-changelog/remove-custom-richtext-for-email-editor
-remove-custom-richtext-for-email-editor
 packages/js/email-editor/changelog/.gitkeep
 js/email-editor/changelog/.gitkeep
 email-editor/changelog/.gitkeep
@@ -85065,6 +85060,12 @@ email-editor/src/hooks/use-remove-saving-failed-notices.ts
 src/hooks/use-remove-saving-failed-notices.ts
 hooks/use-remove-saving-failed-notices.ts
 use-remove-saving-failed-notices.ts
+packages/js/email-editor/src/hooks/use-notice-overrides.ts
+js/email-editor/src/hooks/use-notice-overrides.ts
+email-editor/src/hooks/use-notice-overrides.ts
+src/hooks/use-notice-overrides.ts
+hooks/use-notice-overrides.ts
+use-notice-overrides.ts
 packages/js/email-editor/src/hooks/use-user-theme.ts
 js/email-editor/src/hooks/use-user-theme.ts
 email-editor/src/hooks/use-user-theme.ts
