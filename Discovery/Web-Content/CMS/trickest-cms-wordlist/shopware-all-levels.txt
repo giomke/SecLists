@@ -49380,6 +49380,11 @@ acceptance/tests/Account/CommercialCustomerRegistration.spec.ts
 tests/Account/CommercialCustomerRegistration.spec.ts
 Account/CommercialCustomerRegistration.spec.ts
 CommercialCustomerRegistration.spec.ts
+tests/acceptance/tests/Account/CustomerAddresses.spec.ts
+acceptance/tests/Account/CustomerAddresses.spec.ts
+tests/Account/CustomerAddresses.spec.ts
+Account/CustomerAddresses.spec.ts
+CustomerAddresses.spec.ts
 tests/acceptance/tests/Account/ChangeCustomerCredentials.spec.ts
 acceptance/tests/Account/ChangeCustomerCredentials.spec.ts
 tests/Account/ChangeCustomerCredentials.spec.ts
