@@ -3517,6 +3517,10 @@ plugins/woocommerce/changelog/performance-63118-reduce-sqls-number-iteration-4
 woocommerce/changelog/performance-63118-reduce-sqls-number-iteration-4
 changelog/performance-63118-reduce-sqls-number-iteration-4
 performance-63118-reduce-sqls-number-iteration-4
+plugins/woocommerce/changelog/follow-up-to-wooprd-1019-add-reset-notification-email-content
+woocommerce/changelog/follow-up-to-wooprd-1019-add-reset-notification-email-content
+changelog/follow-up-to-wooprd-1019-add-reset-notification-email-content
+follow-up-to-wooprd-1019-add-reset-notification-email-content
 plugins/woocommerce/changelog/63313-update-53125-implement-preview-mode-flag-cart-checkout
 woocommerce/changelog/63313-update-53125-implement-preview-mode-flag-cart-checkout
 changelog/63313-update-53125-implement-preview-mode-flag-cart-checkout
@@ -3545,6 +3549,10 @@ plugins/woocommerce/changelog/fix-58985
 woocommerce/changelog/fix-58985
 changelog/fix-58985
 fix-58985
+plugins/woocommerce/changelog/fix-flat-rate-shipping-math-expression-validation
+woocommerce/changelog/fix-flat-rate-shipping-math-expression-validation
+changelog/fix-flat-rate-shipping-math-expression-validation
+fix-flat-rate-shipping-math-expression-validation
 plugins/woocommerce/changelog/63385-add-wooplug-6268-core-profiler-obw-update-shipping-integration-placements
 woocommerce/changelog/63385-add-wooplug-6268-core-profiler-obw-update-shipping-integration-placements
 changelog/63385-add-wooplug-6268-core-profiler-obw-update-shipping-integration-placements
@@ -3617,6 +3625,10 @@ plugins/woocommerce/changelog/62982-add-paypal-standard-e2e-tests-onboarding
 woocommerce/changelog/62982-add-paypal-standard-e2e-tests-onboarding
 changelog/62982-add-paypal-standard-e2e-tests-onboarding
 62982-add-paypal-standard-e2e-tests-onboarding
+plugins/woocommerce/changelog/wooplug-6390-email-editor-email-template-order-fulfilled-block
+woocommerce/changelog/wooplug-6390-email-editor-email-template-order-fulfilled-block
+changelog/wooplug-6390-email-editor-email-template-order-fulfilled-block
+wooplug-6390-email-editor-email-template-order-fulfilled-block
 plugins/woocommerce/changelog/performance-63118-reduce-sqls-number-iteration-5
 woocommerce/changelog/performance-63118-reduce-sqls-number-iteration-5
 changelog/performance-63118-reduce-sqls-number-iteration-5
@@ -3665,6 +3677,10 @@ plugins/woocommerce/changelog/update-WOOPLUG-6337-marketing-overview-channels-li
 woocommerce/changelog/update-WOOPLUG-6337-marketing-overview-channels-list
 changelog/update-WOOPLUG-6337-marketing-overview-channels-list
 update-WOOPLUG-6337-marketing-overview-channels-list
+plugins/woocommerce/changelog/62963-fix-issue-62709
+woocommerce/changelog/62963-fix-issue-62709
+changelog/62963-fix-issue-62709
+62963-fix-issue-62709
 plugins/woocommerce/changelog/63241-wooprd-1445-rework-spacings-between-information-elements
 woocommerce/changelog/63241-wooprd-1445-rework-spacings-between-information-elements
 changelog/63241-wooprd-1445-rework-spacings-between-information-elements
