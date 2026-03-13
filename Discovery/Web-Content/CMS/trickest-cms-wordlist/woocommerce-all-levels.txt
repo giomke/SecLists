@@ -3509,6 +3509,10 @@ plugins/woocommerce/changelog/62293-fix-cart-sold-individually-validation
 woocommerce/changelog/62293-fix-cart-sold-individually-validation
 changelog/62293-fix-cart-sold-individually-validation
 62293-fix-cart-sold-individually-validation
+plugins/woocommerce/changelog/fix-draft-products-store-api
+woocommerce/changelog/fix-draft-products-store-api
+changelog/fix-draft-products-store-api
+fix-draft-products-store-api
 plugins/woocommerce/changelog/62602-add-paypal-standard-e2e-tests
 woocommerce/changelog/62602-add-paypal-standard-e2e-tests
 changelog/62602-add-paypal-standard-e2e-tests
@@ -3589,6 +3593,10 @@ plugins/woocommerce/changelog/fix-wooprd-2567-pos-store-name-skip-initial-save
 woocommerce/changelog/fix-wooprd-2567-pos-store-name-skip-initial-save
 changelog/fix-wooprd-2567-pos-store-name-skip-initial-save
 fix-wooprd-2567-pos-store-name-skip-initial-save
+plugins/woocommerce/changelog/fix-63635
+woocommerce/changelog/fix-63635
+changelog/fix-63635
+fix-63635
 plugins/woocommerce/changelog/fix-31404
 woocommerce/changelog/fix-31404
 changelog/fix-31404
@@ -3697,6 +3705,10 @@ plugins/woocommerce/changelog/e2e-pw-ts-conversion-08
 woocommerce/changelog/e2e-pw-ts-conversion-08
 changelog/e2e-pw-ts-conversion-08
 e2e-pw-ts-conversion-08
+plugins/woocommerce/changelog/fix-wooplug-6189-gateway-ordering
+woocommerce/changelog/fix-wooplug-6189-gateway-ordering
+changelog/fix-wooplug-6189-gateway-ordering
+fix-wooplug-6189-gateway-ordering
 plugins/woocommerce/changelog/fix-63486-dashboard-status-widget-contrast
 woocommerce/changelog/fix-63486-dashboard-status-widget-contrast
 changelog/fix-63486-dashboard-status-widget-contrast
@@ -3741,6 +3753,10 @@ plugins/woocommerce/changelog/63404-fix-delete-cart-coupons-performance
 woocommerce/changelog/63404-fix-delete-cart-coupons-performance
 changelog/63404-fix-delete-cart-coupons-performance
 63404-fix-delete-cart-coupons-performance
+plugins/woocommerce/changelog/wooprd-2809-woo_email-posts-deleted-via-wp-cli-dont-clean-up
+woocommerce/changelog/wooprd-2809-woo_email-posts-deleted-via-wp-cli-dont-clean-up
+changelog/wooprd-2809-woo_email-posts-deleted-via-wp-cli-dont-clean-up
+wooprd-2809-woo_email-posts-deleted-via-wp-cli-dont-clean-up
 plugins/woocommerce/changelog/deprecate-hpos-sync-on-read
 woocommerce/changelog/deprecate-hpos-sync-on-read
 changelog/deprecate-hpos-sync-on-read
@@ -3757,6 +3773,10 @@ plugins/woocommerce/changelog/performance-63118-reduce-sqls-number-iteration-6
 woocommerce/changelog/performance-63118-reduce-sqls-number-iteration-6
 changelog/performance-63118-reduce-sqls-number-iteration-6
 performance-63118-reduce-sqls-number-iteration-6
+plugins/woocommerce/changelog/issues-63336-shipping-package-name
+woocommerce/changelog/issues-63336-shipping-package-name
+changelog/issues-63336-shipping-package-name
+issues-63336-shipping-package-name
 plugins/woocommerce/changelog/issues-63089-cart-item-row-data-key
 woocommerce/changelog/issues-63089-cart-item-row-data-key
 changelog/issues-63089-cart-item-row-data-key
@@ -93710,6 +93730,11 @@ packages/php/blueprint/package.json
 php/blueprint/package.json
 blueprint/package.json
 package.json
+packages/php/email-editor/changelog/add-email-embed-rich-card-excerpt
+php/email-editor/changelog/add-email-embed-rich-card-excerpt
+email-editor/changelog/add-email-embed-rich-card-excerpt
+changelog/add-email-embed-rich-card-excerpt
+add-email-embed-rich-card-excerpt
 packages/php/email-editor/changelog/.gitkeep
 php/email-editor/changelog/.gitkeep
 email-editor/changelog/.gitkeep
