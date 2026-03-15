@@ -5351,10 +5351,6 @@ core/modules/workflows/workflows.permissions.yml
 modules/workflows/workflows.permissions.yml
 workflows/workflows.permissions.yml
 workflows.permissions.yml
-core/modules/views_ui/views_ui.theme.inc
-modules/views_ui/views_ui.theme.inc
-views_ui/views_ui.theme.inc
-views_ui.theme.inc
 core/modules/views_ui/views_ui.api.php
 modules/views_ui/views_ui.api.php
 views_ui/views_ui.api.php
@@ -5918,10 +5914,6 @@ core/modules/views_ui/admin.inc
 modules/views_ui/admin.inc
 views_ui/admin.inc
 admin.inc
-core/modules/views_ui/views_ui.module
-modules/views_ui/views_ui.module
-views_ui/views_ui.module
-views_ui.module
 core/modules/views_ui/views_ui.routing.yml
 modules/views_ui/views_ui.routing.yml
 views_ui/views_ui.routing.yml
@@ -7328,6 +7320,11 @@ Plugin/Field/FieldWidget/TextareaWithSummaryWidget.php
 Field/FieldWidget/TextareaWithSummaryWidget.php
 FieldWidget/TextareaWithSummaryWidget.php
 TextareaWithSummaryWidget.php
+core/modules/text/src/TextSummary.php
+modules/text/src/TextSummary.php
+text/src/TextSummary.php
+src/TextSummary.php
+TextSummary.php
 core/modules/text/src/Hook/TextHooks.php
 modules/text/src/Hook/TextHooks.php
 text/src/Hook/TextHooks.php
@@ -53866,6 +53863,11 @@ modules/editor/src/EditorAccessControlHandler.php
 editor/src/EditorAccessControlHandler.php
 src/EditorAccessControlHandler.php
 EditorAccessControlHandler.php
+core/modules/editor/src/EditorImageUploadSettings.php
+modules/editor/src/EditorImageUploadSettings.php
+editor/src/EditorImageUploadSettings.php
+src/EditorImageUploadSettings.php
+EditorImageUploadSettings.php
 core/modules/editor/src/EditorController.php
 modules/editor/src/EditorController.php
 editor/src/EditorController.php
@@ -63949,10 +63951,6 @@ core/modules/views/views.post_update.php
 modules/views/views.post_update.php
 views/views.post_update.php
 views.post_update.php
-core/modules/views/views.theme.inc
-modules/views/views.theme.inc
-views/views.theme.inc
-views.theme.inc
 core/modules/views/src/Controller/ViewAjaxController.php
 modules/views/src/Controller/ViewAjaxController.php
 views/src/Controller/ViewAjaxController.php
