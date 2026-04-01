@@ -1200,6 +1200,7 @@ tests/Umbraco.Tests.Benchmarks/Config/QuickRunWithMemoryDiagnoserConfigAttribute
 tests/Umbraco.Tests.Benchmarks/Config/QuickRunConfigAttribute.cs
 tests/Umbraco.Tests.Benchmarks/EnumeratorBenchmarks.cs
 tests/Umbraco.Tests.Benchmarks/LinqCastBenchmarks.cs
+tests/Umbraco.Tests.Benchmarks/ContentTypeCachePolicyBenchmarks.cs
 tests/Umbraco.Tests.AcceptanceTest.UmbracoProject/SqlServerDelayedDurabilityComposer.cs
 tests/Umbraco.Tests.AcceptanceTest.UmbracoProject/SuspendScheduledPublishingComposer.cs
 tests/Umbraco.Tests.AcceptanceTest.UmbracoProject/Umbraco.Tests.AcceptanceTest.UmbracoProject.csproj
@@ -1346,6 +1347,7 @@ tests/Umbraco.Tests.UnitTests/Umbraco.Core/PropertyEditors/MediaPicker3ValueEdit
 tests/Umbraco.Tests.UnitTests/Umbraco.Core/PropertyEditors/DateTimeUnspecifiedPropertyEditorTests.cs
 tests/Umbraco.Tests.UnitTests/Umbraco.Core/PropertyEditors/MultipleTextStringPropertyValueEditorTests.cs
 tests/Umbraco.Tests.UnitTests/Umbraco.Core/PropertyEditors/MultiNodeTreePickerTests.cs
+tests/Umbraco.Tests.UnitTests/Umbraco.Core/PropertyEditors/RichTextAllowedMediaTypeValidatorTests.cs
 tests/Umbraco.Tests.UnitTests/Umbraco.Core/DeliveryApi/ImageCropperValueConverterTests.cs
 tests/Umbraco.Tests.UnitTests/Umbraco.Core/DeliveryApi/Selectors/DescendantsSelectorTests.cs
 tests/Umbraco.Tests.UnitTests/Umbraco.Core/DeliveryApi/Selectors/ChildrenSelectorTests.cs
@@ -1371,6 +1373,7 @@ tests/Umbraco.Tests.UnitTests/Umbraco.Core/DeliveryApi/PropertyValueConverterTes
 tests/Umbraco.Tests.UnitTests/Umbraco.Core/DeliveryApi/ContentRouteBuilderTests.cs
 tests/Umbraco.Tests.UnitTests/Umbraco.Core/DeliveryApi/ContentBuilderTests.cs
 tests/Umbraco.Tests.UnitTests/Umbraco.Core/DeliveryApi/MediaPickerWithCropsValueConverterTests.cs
+tests/Umbraco.Tests.UnitTests/Umbraco.Core/Cache/NonLockingCache.cs
 tests/Umbraco.Tests.UnitTests/Umbraco.Core/Cache/DataTypeCacheRefresherTests.cs
 tests/Umbraco.Tests.UnitTests/Umbraco.Core/Cache/ValueEditorCacheTests.cs
 tests/Umbraco.Tests.UnitTests/Umbraco.Core/Cache/DeepCloneAppCacheTests.cs
@@ -1385,6 +1388,7 @@ tests/Umbraco.Tests.UnitTests/Umbraco.Core/Cache/RefresherTests.cs
 tests/Umbraco.Tests.UnitTests/Umbraco.Core/Cache/ObjectAppCacheTests.cs
 tests/Umbraco.Tests.UnitTests/Umbraco.Core/Cache/DistributedCacheExtensionsTests.cs
 tests/Umbraco.Tests.UnitTests/Umbraco.Core/Cache/RuntimeAppCacheTests.cs
+tests/Umbraco.Tests.UnitTests/Umbraco.Core/Cache/FullDataSetCachePolicyFindTests.cs
 tests/Umbraco.Tests.UnitTests/Umbraco.Core/Cache/FullDataSetCachePolicyTests.cs
 tests/Umbraco.Tests.UnitTests/Umbraco.Core/Cache/HttpContextRequestAppCacheTests.cs
 tests/Umbraco.Tests.UnitTests/Umbraco.Core/Collections/TopoGraphTests.cs
@@ -4753,6 +4757,7 @@ src/Umbraco.Web.UI.Client/docs/core-primitives.md
 src/Umbraco.Web.UI.Client/docs/deprecation.md
 src/Umbraco.Web.UI.Client/docs/agentic-workflow.md
 src/Umbraco.Web.UI.Client/docs/error-handling.md
+src/Umbraco.Web.UI.Client/docs/workspaces.md
 src/Umbraco.Web.UI.Client/docs/data-flow.md
 src/Umbraco.Web.UI.Client/docs/testing.md
 src/Umbraco.Web.UI.Client/docs/clean-code.md
@@ -8167,6 +8172,9 @@ src/Umbraco.Web.UI.Client/src/packages/core/components/popover-layout/index.ts
 src/Umbraco.Web.UI.Client/src/packages/core/components/input-slider/index.ts
 src/Umbraco.Web.UI.Client/src/packages/core/components/input-slider/input-slider.element.ts
 src/Umbraco.Web.UI.Client/src/packages/core/components/input-slider/input-slider.stories.ts
+src/Umbraco.Web.UI.Client/src/packages/core/components/input-dimensions/index.ts
+src/Umbraco.Web.UI.Client/src/packages/core/components/input-dimensions/input-dimensions.element.ts
+src/Umbraco.Web.UI.Client/src/packages/core/components/input-dimensions/input-dimensions.test.ts
 src/Umbraco.Web.UI.Client/src/packages/core/components/input-radio-button-list/input-radio-button-list.element.ts
 src/Umbraco.Web.UI.Client/src/packages/core/components/input-radio-button-list/index.ts
 src/Umbraco.Web.UI.Client/src/packages/core/components/input-radio-button-list/input-radio-button-list.stories.ts
@@ -9218,7 +9226,9 @@ src/Umbraco.Web.UI.Client/src/packages/user/current-user/external-login/modals/c
 src/Umbraco.Web.UI.Client/src/packages/user/current-user/current-user.context.ts
 src/Umbraco.Web.UI.Client/src/packages/user/current-user/utils/is-current-user-an-admin.function.ts
 src/Umbraco.Web.UI.Client/src/packages/user/current-user/utils/is-current-user.function.test.ts
+src/Umbraco.Web.UI.Client/src/packages/user/current-user/utils/get-initials.function.test.ts
 src/Umbraco.Web.UI.Client/src/packages/user/current-user/utils/index.ts
+src/Umbraco.Web.UI.Client/src/packages/user/current-user/utils/get-initials.function.ts
 src/Umbraco.Web.UI.Client/src/packages/user/current-user/utils/is-current-user.function.ts
 src/Umbraco.Web.UI.Client/src/packages/user/current-user/history/manifests.ts
 src/Umbraco.Web.UI.Client/src/packages/user/current-user/history/current-user-history-user-profile-app.element.ts
@@ -13044,6 +13054,7 @@ src/Umbraco.Web.UI.Client/.claude/skills/core-add-module/SKILL.md
 src/Umbraco.Web.UI.Client/.claude/skills/general-deprecate-api/SKILL.md
 src/Umbraco.Web.UI.Client/.claude/skills/general-create-condition/SKILL.md
 src/Umbraco.Web.UI.Client/.claude/skills/general-create-extension-type/SKILL.md
+src/Umbraco.Web.UI.Client/.claude/skills/general-create-workspace/SKILL.md
 src/Umbraco.Web.UI.Client/.claude/skills/general-create-package/SKILL.md
 src/Umbraco.Web.UI.Client/.claude/skills/general-add-localization/SKILL.md
 src/Umbraco.Web.UI.Client/index.html
@@ -15112,9 +15123,11 @@ src/Umbraco.Infrastructure/PropertyEditors/RichTextPropertyNotificationHandler.c
 src/Umbraco.Infrastructure/PropertyEditors/ImageCropperPropertyEditor.cs
 src/Umbraco.Infrastructure/PropertyEditors/BlockGridConfigurationEditor.cs
 src/Umbraco.Infrastructure/PropertyEditors/BlockEditorPropertyValueEditor.cs
+src/Umbraco.Infrastructure/PropertyEditors/AllowedMediaTypeHelper.cs
 src/Umbraco.Infrastructure/PropertyEditors/DateOnlyPropertyIndexValueFactory.cs
 src/Umbraco.Infrastructure/PropertyEditors/MultiNodeTreePickerPropertyEditor.cs
 src/Umbraco.Infrastructure/PropertyEditors/RichTextPropertyEditor.cs
+src/Umbraco.Infrastructure/PropertyEditors/RichTextAllowedMediaTypeValidator.cs
 src/Umbraco.Infrastructure/PropertyEditors/TagsPropertyEditor.cs
 src/Umbraco.Infrastructure/PropertyEditors/MultiUrlPickerPropertyEditor.cs
 src/Umbraco.Infrastructure/PropertyEditors/FileUploadPropertyEditor.cs
@@ -16090,5 +16103,12 @@ build/nightly-E2E-build-template.yml
 build/nightly-E2E-run-tests-template.yml
 build/nightly-E2E-test-pipelines.yml
 build/azure-pipelines.yml
+.claude/skills/umb-review/SKILL.md
+.claude/skills/umb-review/evals/evals.json
+.claude/skills/umb-review/references/impact-analysis.md
+.claude/skills/umb-review/references/gh-cli-setup.md
+.claude/skills/umb-review/references/breaking-changes.md
+.claude/skills/umb-review/references/coding-preferences.md
+.claude/skills/umb-review/references/complexity-assessment.md
 umbraco.sln
 .env.example

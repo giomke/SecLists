@@ -2838,6 +2838,12 @@ apache/catalina/valves/TestLoadBalancerDrainingValve.java
 catalina/valves/TestLoadBalancerDrainingValve.java
 valves/TestLoadBalancerDrainingValve.java
 TestLoadBalancerDrainingValve.java
+test/org/apache/catalina/valves/TestJsonErrorReportValve.java
+org/apache/catalina/valves/TestJsonErrorReportValve.java
+apache/catalina/valves/TestJsonErrorReportValve.java
+catalina/valves/TestJsonErrorReportValve.java
+valves/TestJsonErrorReportValve.java
+TestJsonErrorReportValve.java
 test/org/apache/catalina/valves/TestParameterLimitValve.java
 org/apache/catalina/valves/TestParameterLimitValve.java
 apache/catalina/valves/TestParameterLimitValve.java
@@ -5032,6 +5038,14 @@ util/net/ocsp/TestOcspTimeout.java
 net/ocsp/TestOcspTimeout.java
 ocsp/TestOcspTimeout.java
 TestOcspTimeout.java
+test/org/apache/tomcat/util/net/ocsp/TestOcspSoftFailInternalError.java
+org/apache/tomcat/util/net/ocsp/TestOcspSoftFailInternalError.java
+apache/tomcat/util/net/ocsp/TestOcspSoftFailInternalError.java
+tomcat/util/net/ocsp/TestOcspSoftFailInternalError.java
+util/net/ocsp/TestOcspSoftFailInternalError.java
+net/ocsp/TestOcspSoftFailInternalError.java
+ocsp/TestOcspSoftFailInternalError.java
+TestOcspSoftFailInternalError.java
 test/org/apache/tomcat/util/net/ocsp/OcspBaseTest.java
 org/apache/tomcat/util/net/ocsp/OcspBaseTest.java
 apache/tomcat/util/net/ocsp/OcspBaseTest.java
