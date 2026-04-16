@@ -5426,6 +5426,10 @@ src/Umbraco.Core/Notifications/DataTypeMovedNotification.cs
 Umbraco.Core/Notifications/DataTypeMovedNotification.cs
 Notifications/DataTypeMovedNotification.cs
 DataTypeMovedNotification.cs
+src/Umbraco.Core/Notifications/MemberLoginFailedNotification.cs
+Umbraco.Core/Notifications/MemberLoginFailedNotification.cs
+Notifications/MemberLoginFailedNotification.cs
+MemberLoginFailedNotification.cs
 src/Umbraco.Core/Notifications/DataTypeSavingNotification.cs
 Umbraco.Core/Notifications/DataTypeSavingNotification.cs
 Notifications/DataTypeSavingNotification.cs
@@ -5490,6 +5494,10 @@ src/Umbraco.Core/Notifications/RelationDeletedNotification.cs
 Umbraco.Core/Notifications/RelationDeletedNotification.cs
 Notifications/RelationDeletedNotification.cs
 RelationDeletedNotification.cs
+src/Umbraco.Core/Notifications/MemberNotification.cs
+Umbraco.Core/Notifications/MemberNotification.cs
+Notifications/MemberNotification.cs
+MemberNotification.cs
 src/Umbraco.Core/Notifications/StylesheetDeletedNotification.cs
 Umbraco.Core/Notifications/StylesheetDeletedNotification.cs
 Notifications/StylesheetDeletedNotification.cs
@@ -5502,6 +5510,10 @@ src/Umbraco.Core/Notifications/ContentTreeChangeNotification.cs
 Umbraco.Core/Notifications/ContentTreeChangeNotification.cs
 Notifications/ContentTreeChangeNotification.cs
 ContentTreeChangeNotification.cs
+src/Umbraco.Core/Notifications/MemberLogoutSuccessNotification.cs
+Umbraco.Core/Notifications/MemberLogoutSuccessNotification.cs
+Notifications/MemberLogoutSuccessNotification.cs
+MemberLogoutSuccessNotification.cs
 src/Umbraco.Core/Notifications/ContentTypeChangeNotification.cs
 Umbraco.Core/Notifications/ContentTypeChangeNotification.cs
 Notifications/ContentTypeChangeNotification.cs
@@ -5638,6 +5650,10 @@ src/Umbraco.Core/Notifications/SavedNotification.cs
 Umbraco.Core/Notifications/SavedNotification.cs
 Notifications/SavedNotification.cs
 SavedNotification.cs
+src/Umbraco.Core/Notifications/MemberLoginFailedReason.cs
+Umbraco.Core/Notifications/MemberLoginFailedReason.cs
+Notifications/MemberLoginFailedReason.cs
+MemberLoginFailedReason.cs
 src/Umbraco.Core/Notifications/ScopedEntityRemoveNotification.cs
 Umbraco.Core/Notifications/ScopedEntityRemoveNotification.cs
 Notifications/ScopedEntityRemoveNotification.cs
@@ -5934,6 +5950,10 @@ src/Umbraco.Core/Notifications/WebhookDeletingNotification.cs
 Umbraco.Core/Notifications/WebhookDeletingNotification.cs
 Notifications/WebhookDeletingNotification.cs
 WebhookDeletingNotification.cs
+src/Umbraco.Core/Notifications/MemberLoginSuccessNotification.cs
+Umbraco.Core/Notifications/MemberLoginSuccessNotification.cs
+Notifications/MemberLoginSuccessNotification.cs
+MemberLoginSuccessNotification.cs
 src/Umbraco.Core/Notifications/ContentSavedBlueprintNotification.cs
 Umbraco.Core/Notifications/ContentSavedBlueprintNotification.cs
 Notifications/ContentSavedBlueprintNotification.cs
