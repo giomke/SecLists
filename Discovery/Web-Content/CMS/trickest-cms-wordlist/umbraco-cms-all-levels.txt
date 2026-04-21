@@ -1,3 +1,7 @@
+.claude/skills/umb-bump-version/SKILL.md
+skills/umb-bump-version/SKILL.md
+umb-bump-version/SKILL.md
+SKILL.md
 .claude/skills/umb-review/references/impact-analysis.md
 skills/umb-review/references/impact-analysis.md
 umb-review/references/impact-analysis.md
@@ -101462,6 +101466,11 @@ Umbraco.Tests.UnitTests/Umbraco.Core/Extensions/ContentTypeChangeExtensionsTests
 Umbraco.Core/Extensions/ContentTypeChangeExtensionsTests.cs
 Extensions/ContentTypeChangeExtensionsTests.cs
 ContentTypeChangeExtensionsTests.cs
+tests/Umbraco.Tests.UnitTests/Umbraco.Core/Extensions/StringExtensionsTests.Sanitization.cs
+Umbraco.Tests.UnitTests/Umbraco.Core/Extensions/StringExtensionsTests.Sanitization.cs
+Umbraco.Core/Extensions/StringExtensionsTests.Sanitization.cs
+Extensions/StringExtensionsTests.Sanitization.cs
+StringExtensionsTests.Sanitization.cs
 tests/Umbraco.Tests.UnitTests/Umbraco.Core/Extensions/UdiGetterExtensionsTests.cs
 Umbraco.Tests.UnitTests/Umbraco.Core/Extensions/UdiGetterExtensionsTests.cs
 Umbraco.Core/Extensions/UdiGetterExtensionsTests.cs
@@ -101940,6 +101949,12 @@ Umbraco.Tests.UnitTests/Umbraco.Infrastructure/Install/UnattendedUpgradeBackgrou
 Umbraco.Infrastructure/Install/UnattendedUpgradeBackgroundServiceTests.cs
 Install/UnattendedUpgradeBackgroundServiceTests.cs
 UnattendedUpgradeBackgroundServiceTests.cs
+tests/Umbraco.Tests.UnitTests/Umbraco.Infrastructure/Migrations/Upgrade/UmbracoPlanTests.cs
+Umbraco.Tests.UnitTests/Umbraco.Infrastructure/Migrations/Upgrade/UmbracoPlanTests.cs
+Umbraco.Infrastructure/Migrations/Upgrade/UmbracoPlanTests.cs
+Migrations/Upgrade/UmbracoPlanTests.cs
+Upgrade/UmbracoPlanTests.cs
+UmbracoPlanTests.cs
 tests/Umbraco.Tests.UnitTests/Umbraco.Infrastructure/Migrations/MigrationTests.cs
 Umbraco.Tests.UnitTests/Umbraco.Infrastructure/Migrations/MigrationTests.cs
 Umbraco.Infrastructure/Migrations/MigrationTests.cs
@@ -102545,6 +102560,11 @@ Umbraco.Tests.UnitTests/Umbraco.Web.Common/Security/ConfigureMemberSecurityStamp
 Umbraco.Web.Common/Security/ConfigureMemberSecurityStampValidatorOptionsTests.cs
 Security/ConfigureMemberSecurityStampValidatorOptionsTests.cs
 ConfigureMemberSecurityStampValidatorOptionsTests.cs
+tests/Umbraco.Tests.UnitTests/Umbraco.Web.Common/Security/BackOfficeSecurityAccessorTests.cs
+Umbraco.Tests.UnitTests/Umbraco.Web.Common/Security/BackOfficeSecurityAccessorTests.cs
+Umbraco.Web.Common/Security/BackOfficeSecurityAccessorTests.cs
+Security/BackOfficeSecurityAccessorTests.cs
+BackOfficeSecurityAccessorTests.cs
 tests/Umbraco.Tests.UnitTests/Umbraco.Web.Common/Routing/TestRouteBuilder.cs
 Umbraco.Tests.UnitTests/Umbraco.Web.Common/Routing/TestRouteBuilder.cs
 Umbraco.Web.Common/Routing/TestRouteBuilder.cs
