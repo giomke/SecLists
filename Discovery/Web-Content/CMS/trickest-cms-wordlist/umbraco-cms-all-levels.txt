@@ -1490,6 +1490,12 @@ Umbraco.Infrastructure/Installer/Steps/RegisterInstallCompleteStep.cs
 Installer/Steps/RegisterInstallCompleteStep.cs
 Steps/RegisterInstallCompleteStep.cs
 RegisterInstallCompleteStep.cs
+src/Umbraco.Infrastructure/HealthChecks/Checks/Data/UntrustedDatabaseConstraintsCheck.cs
+Umbraco.Infrastructure/HealthChecks/Checks/Data/UntrustedDatabaseConstraintsCheck.cs
+HealthChecks/Checks/Data/UntrustedDatabaseConstraintsCheck.cs
+Checks/Data/UntrustedDatabaseConstraintsCheck.cs
+Data/UntrustedDatabaseConstraintsCheck.cs
+UntrustedDatabaseConstraintsCheck.cs
 src/Umbraco.Infrastructure/HealthChecks/MarkdownToHtmlConverter.cs
 Umbraco.Infrastructure/HealthChecks/MarkdownToHtmlConverter.cs
 HealthChecks/MarkdownToHtmlConverter.cs
@@ -5714,6 +5720,10 @@ Umbraco.Infrastructure/Persistence/DatabaseAnnotations/PrimaryKeyColumnAttribute
 Persistence/DatabaseAnnotations/PrimaryKeyColumnAttribute.cs
 DatabaseAnnotations/PrimaryKeyColumnAttribute.cs
 PrimaryKeyColumnAttribute.cs
+src/Umbraco.Infrastructure/Persistence/UntrustedConstraintsQuery.cs
+Umbraco.Infrastructure/Persistence/UntrustedConstraintsQuery.cs
+Persistence/UntrustedConstraintsQuery.cs
+UntrustedConstraintsQuery.cs
 src/Umbraco.Infrastructure/Persistence/CustomConnectionStringDatabaseProviderMetadata.cs
 Umbraco.Infrastructure/Persistence/CustomConnectionStringDatabaseProviderMetadata.cs
 Persistence/CustomConnectionStringDatabaseProviderMetadata.cs
@@ -96781,6 +96791,11 @@ Umbraco.Tests.Integration/Umbraco.Infrastructure/Security/BackOfficeUserStoreTes
 Umbraco.Infrastructure/Security/BackOfficeUserStoreTests.cs
 Security/BackOfficeUserStoreTests.cs
 BackOfficeUserStoreTests.cs
+tests/Umbraco.Tests.Integration/Umbraco.Infrastructure/HealthChecks/UntrustedDatabaseConstraintsCheckTests.cs
+Umbraco.Tests.Integration/Umbraco.Infrastructure/HealthChecks/UntrustedDatabaseConstraintsCheckTests.cs
+Umbraco.Infrastructure/HealthChecks/UntrustedDatabaseConstraintsCheckTests.cs
+HealthChecks/UntrustedDatabaseConstraintsCheckTests.cs
+UntrustedDatabaseConstraintsCheckTests.cs
 tests/Umbraco.Tests.Integration/Umbraco.Infrastructure/Packaging/CreatedPackageSchemaTests.cs
 Umbraco.Tests.Integration/Umbraco.Infrastructure/Packaging/CreatedPackageSchemaTests.cs
 Umbraco.Infrastructure/Packaging/CreatedPackageSchemaTests.cs
