@@ -60,6 +60,7 @@ extensions/gdpr/composer.json
 extensions/gdpr/migrations/2024_11_03_000001_remove_previous_migration_keys.php
 extensions/gdpr/migrations/2024_10_31_000000_create_gdpr_exports_table.php
 extensions/gdpr/migrations/2024_11_02_000000_add_cancelled_at_to_gdpr_erasure_table.php
+extensions/gdpr/migrations/2026_05_07_000000_add_download_audit_to_gdpr_exports_table.php
 extensions/gdpr/migrations/2024_10_31_000002_add_anonymized_column_to_user_table.php
 extensions/gdpr/migrations/2024_11_03_000000_migrate_settings_keys.php
 extensions/gdpr/migrations/2026_03_06_000000_add_confirmation_ip_to_gdpr_erasure_table.php
@@ -131,6 +132,7 @@ extensions/gdpr/js/admin.ts
 extensions/gdpr/js/yarn.lock
 extensions/gdpr/js/package.json
 extensions/gdpr/tests/integration/setup.php
+extensions/gdpr/tests/integration/console/DestroyExportsTest.php
 extensions/gdpr/tests/integration/console/ClearConfirmationIpsTest.php
 extensions/gdpr/tests/integration/forum/ConfirmErasureTest.php
 extensions/gdpr/tests/integration/api/ForumAttributesTest.php
@@ -328,6 +330,7 @@ extensions/sticky/js/dist-typings/forum/addStickyControl.d.ts
 extensions/sticky/js/dist-typings/forum/addStickyExcerpt.d.ts
 extensions/sticky/js/dist-typings/forum/addStickyBadge.d.ts
 extensions/sticky/js/dist-typings/forum/components/DiscussionStickiedPost.d.ts
+extensions/sticky/js/dist-typings/forum/extendRealtime.d.ts
 extensions/sticky/js/dist-typings/forum/addStickyClass.d.ts
 extensions/sticky/js/dist-typings/forum/index.d.ts
 extensions/sticky/js/dist-typings/admin/extend.d.ts
@@ -339,6 +342,7 @@ extensions/sticky/js/src/common/extend.ts
 extensions/sticky/js/src/forum/addStickyControl.js
 extensions/sticky/js/src/forum/index.js
 extensions/sticky/js/src/forum/addStickyExcerpt.js
+extensions/sticky/js/src/forum/extendRealtime.ts
 extensions/sticky/js/src/forum/addStickyClass.js
 extensions/sticky/js/src/forum/addStickyBadge.js
 extensions/sticky/js/src/forum/components/DiscussionStickiedPost.js
@@ -676,6 +680,8 @@ extensions/flags/js/forum.ts
 extensions/flags/js/dist/admin.js
 extensions/flags/js/dist/admin.js.map
 extensions/flags/js/dist/forum.js
+extensions/flags/js/dist/forum/components/FlagPostModal.js.map
+extensions/flags/js/dist/forum/components/FlagPostModal.js
 extensions/flags/js/dist/forum.js.map
 extensions/flags/js/admin.ts
 extensions/flags/js/package.json
@@ -721,6 +727,7 @@ extensions/tags/migrations/2015_02_24_000000_create_discussions_tags_table.php
 extensions/tags/migrations/2018_06_27_100100_change_tag_user_rename_read_time_to_marked_as_read_at.php
 extensions/tags/migrations/2018_06_27_090400_rename_users_tags_to_tag_user.php
 extensions/tags/migrations/2018_06_27_085300_change_tags_add_foreign_keys.php
+extensions/tags/migrations/2026_04_07_000000_drop_legacy_background_columns_from_tags.php
 extensions/tags/migrations/2015_02_24_000000_create_users_tags_table.php
 extensions/tags/migrations/2015_10_19_061223_make_slug_unique.php
 extensions/tags/migrations/2023_03_01_000000_create_post_mentions_tag_table.php
@@ -752,6 +759,7 @@ extensions/tags/js/dist-typings/forum/components/TagsPage.d.ts
 extensions/tags/js/dist-typings/forum/components/TagLinkButton.d.ts
 extensions/tags/js/dist-typings/forum/components/TagHero.d.ts
 extensions/tags/js/dist-typings/forum/components/TagDiscussionModal.d.ts
+extensions/tags/js/dist-typings/forum/extendRealtime.d.ts
 extensions/tags/js/dist-typings/forum/addTagFilter.d.ts
 extensions/tags/js/dist-typings/forum/index.d.ts
 extensions/tags/js/dist-typings/admin/addTagSelectionSettingComponent.d.ts
@@ -781,6 +789,7 @@ extensions/tags/js/src/forum/addTagList.js
 extensions/tags/js/src/forum/utils/getSelectableTags.ts
 extensions/tags/js/src/forum/addTagLabels.js
 extensions/tags/js/src/forum/addTagControl.js
+extensions/tags/js/src/forum/extendRealtime.ts
 extensions/tags/js/src/forum/forum.ts
 extensions/tags/js/src/forum/addTagComposer.js
 extensions/tags/js/src/forum/components/ToggleButton.js
@@ -822,9 +831,11 @@ extensions/tags/tests/integration/authorization/GlobalPolicyTest.php
 extensions/tags/tests/integration/forum/ForumAttributeTest.php
 extensions/tags/tests/integration/api/discussions/ListTest.php
 extensions/tags/tests/integration/api/discussions/TagFilterTest.php
+extensions/tags/tests/integration/api/discussions/PermissionScopeQueryCountTest.php
 extensions/tags/tests/integration/api/discussions/CreateTest.php
 extensions/tags/tests/integration/api/discussions/UpdateTest.php
 extensions/tags/tests/integration/api/tags/ListTest.php
+extensions/tags/tests/integration/api/tags/SchemaTest.php
 extensions/tags/tests/integration/api/tags/ListWithFulltextSearchTest.php
 extensions/tags/tests/integration/api/tags/CreateTest.php
 extensions/tags/tests/integration/api/tags/ShowTest.php
@@ -1315,6 +1326,7 @@ extensions/realtime/extend.php
 extensions/realtime/js/webpack.config.js
 extensions/realtime/js/dist-typings/@types/shims.d.ts
 extensions/realtime/js/dist-typings/forum/RealtimeState.d.ts
+extensions/realtime/js/dist-typings/forum/utils/isIOS.d.ts
 extensions/realtime/js/dist-typings/forum/extend.d.ts
 extensions/realtime/js/dist-typings/forum/extenders/Realtime.d.ts
 extensions/realtime/js/dist-typings/forum/states/NotificationToastState.d.ts
@@ -1336,6 +1348,7 @@ extensions/realtime/js/dist-typings/admin/extend.d.ts
 extensions/realtime/js/dist-typings/admin/index.d.ts
 extensions/realtime/js/tsconfig.json
 extensions/realtime/js/src/@types/shims.d.ts
+extensions/realtime/js/src/forum/utils/isIOS.ts
 extensions/realtime/js/src/forum/extenders/Realtime.ts
 extensions/realtime/js/src/forum/states/NotificationToastState.ts
 extensions/realtime/js/src/forum/extend/Post.ts
@@ -2456,6 +2469,9 @@ framework/core/js/dist/admin/components/FontAwesomePreviewModal.js
 framework/core/js/dist/admin/components/ResetExtensionSettingsModal.js.map
 framework/core/js/dist/admin/components/ResetExtensionSettingsModal.js
 framework/core/js/dist/forum.js.map
+framework/core/js/dist/xslt-polyfill/dist/xslt-wasm.js
+framework/core/js/dist/xslt-polyfill/xslt-polyfill.min.js
+framework/core/js/dist/xslt-polyfill/package.json
 framework/core/js/dist/admin.js.LICENSE.txt
 framework/core/js/jest.config.cjs
 framework/core/js/webpack.config.cjs
@@ -2498,11 +2514,15 @@ framework/core/tests/integration/extenders/EventTest.php
 framework/core/tests/integration/extenders/FormatterTest.php
 framework/core/tests/integration/extenders/LocalesTest.php
 framework/core/tests/integration/setup.php
+framework/core/tests/integration/frontend/XsltPolyfillTest.php
 framework/core/tests/integration/frontend/FontAwesomeLoadingTest.php
 framework/core/tests/integration/queue/QueueScheduleTest.php
 framework/core/tests/integration/queue/QueueServiceProviderTest.php
 framework/core/tests/integration/queue/QueueCommandTest.php
+framework/core/tests/integration/notification/SyncerRaceTest.php
+framework/core/tests/integration/notification/MatchingBlueprintTest.php
 framework/core/tests/integration/settings/DefaultSettingsTest.php
+framework/core/tests/integration/console/AssetsPublishTest.php
 framework/core/tests/integration/forum/GlobalLogoutTest.php
 framework/core/tests/integration/forum/LogoutTest.php
 framework/core/tests/integration/forum/IndexTest.php
@@ -2516,7 +2536,9 @@ framework/core/tests/integration/policy/PostPolicyTest.php
 framework/core/tests/integration/api/discussions/ListTest.php
 framework/core/tests/integration/api/discussions/ListWithFulltextSearchTest.php
 framework/core/tests/integration/api/discussions/DeletionTest.php
+framework/core/tests/integration/api/discussions/PgsqlSearchConfigurationInjectionTest.php
 framework/core/tests/integration/api/discussions/CreateTest.php
+framework/core/tests/integration/api/discussions/UpdateTest.php
 framework/core/tests/integration/api/discussions/ShowTest.php
 framework/core/tests/integration/api/users/AvatarSrcsetTest.php
 framework/core/tests/integration/api/users/ListTest.php
@@ -2559,6 +2581,7 @@ framework/core/tests/integration/api/csrf_protection/RequireCsrfTokenTest.php
 framework/core/tests/integration/api/posts/ListTest.php
 framework/core/tests/integration/api/posts/DeleteTest.php
 framework/core/tests/integration/api/posts/CreateTest.php
+framework/core/tests/integration/api/posts/UpdateTest.php
 framework/core/tests/integration/api/posts/ShowTest.php
 framework/core/tests/fixtures/locales/en.yml
 framework/core/tests/fixtures/locales/en+intl-icu.yml
@@ -2574,12 +2597,14 @@ framework/core/tests/fixtures/less/override_filesource.less
 framework/core/tests/fixtures/views/override/frontend/app.blade.php
 framework/core/tests/fixtures/views/test.blade.php
 framework/core/tests/unit/Log/Context/RepositoryTest.php
+framework/core/tests/unit/Formatter/XsltPolyfillTest.php
 framework/core/tests/unit/Frontend/Compiler/FileVersionerTest.php
 framework/core/tests/unit/Settings/MemoryCacheSettingsRepositoryTest.php
 framework/core/tests/unit/Settings/DatabaseSettingsRepositoryTest.php
 framework/core/tests/unit/.gitkeep
 framework/core/tests/unit/Queue/DatabaseWorkerArgsTest.php
 framework/core/tests/unit/Queue/ExceptionHandlerTest.php
+framework/core/tests/unit/Queue/AbstractJobTest.php
 framework/core/tests/unit/Mail/PostmarkDriverTest.php
 framework/core/tests/unit/Mail/MailgunDriverTest.php
 framework/core/tests/unit/Mail/MailerTest.php
@@ -2617,6 +2642,7 @@ framework/core/src/Log/Context/Repository.php
 framework/core/src/Filesystem/DriverInterface.php
 framework/core/src/Filesystem/FilesystemServiceProvider.php
 framework/core/src/Filesystem/FilesystemManager.php
+framework/core/src/Formatter/XsltPolyfill.php
 framework/core/src/Formatter/FormatterServiceProvider.php
 framework/core/src/Formatter/Formatter.php
 framework/core/src/Formatter/Formattable.php

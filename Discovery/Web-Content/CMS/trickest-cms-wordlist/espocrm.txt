@@ -1740,6 +1740,7 @@ application/Espo/ORM/MetadataDataProvider.php
 application/Espo/ORM/QueryBuilder.php
 application/Espo/ORM/EntityFactory.php
 application/Espo/ORM/Mapper/BaseMapper.php
+application/Espo/ORM/Mapper/Util.php
 application/Espo/ORM/Mapper/Mapper.php
 application/Espo/ORM/Mapper/RDBMapper.php
 application/Espo/ORM/Mapper/MapperFactory.php
@@ -2165,8 +2166,11 @@ application/Espo/Classes/ConsoleCommands/CreateAdminUser.php
 application/Espo/Classes/ConsoleCommands/PopulateArrayValues.php
 application/Espo/Classes/ConsoleCommands/CheckFilePermissions.php
 application/Espo/Classes/ConsoleCommands/RebuildCategoryPaths.php
+application/Espo/Classes/ConsoleCommands/GetConfigParam.php
 application/Espo/Classes/ConsoleCommands/Import.php
 application/Espo/Classes/ConsoleCommands/PopulateNumbers.php
+application/Espo/Classes/ConsoleCommands/SetConfigParam.php
+application/Espo/Classes/ConsoleCommands/DbCheck.php
 application/Espo/Classes/DuplicateWhereBuilders/Name.php
 application/Espo/Classes/DuplicateWhereBuilders/Company.php
 application/Espo/Classes/DuplicateWhereBuilders/Person.php
@@ -7127,6 +7131,8 @@ application/Espo/Tools/Attachment/Jobs/MoveToStorage.php
 application/Espo/Tools/Attachment/Jobs/RemoveUploadDirFile.php
 application/Espo/Tools/Attachment/UploadService.php
 application/Espo/Tools/Address/CountryDefaultsPopulator.php
+application/Espo/Tools/EmailAccount/ResetService.php
+application/Espo/Tools/EmailAccount/Api/PostResetFetchData.php
 application/Espo/Tools/GlobalSearch/Service.php
 application/Espo/Tools/GlobalSearch/Api/Get.php
 application/Espo/Tools/Installer/DatabaseConfigDataProvider.php
@@ -7640,6 +7646,7 @@ tests/unit/testClasses/Core/Binding/SomeInterface2.php
 tests/unit/testClasses/Core/Binding/SomeClass2.php
 tests/unit/testClasses/Core/Binding/SomeInterface1.php
 tests/unit/Espo/Entities/EmailTest.php
+tests/unit/Espo/Commands/ConfigTest.php
 tests/unit/Espo/ORM/MysqlQueryComposerTest.php
 tests/unit/Espo/ORM/UtilTest.php
 tests/unit/Espo/ORM/MetadataTest.php
@@ -8271,6 +8278,7 @@ client/src/ui/app-init.js
 client/src/ui/select.js
 client/src/controller.js
 client/src/storage.js
+client/src/contracts/relation.ts
 client/src/metadata.js
 client/src/search-manager.ts
 client/src/language.js
@@ -8336,6 +8344,7 @@ client/src/models/settings.js
 client/src/models/user.js
 client/src/models/notification.js
 client/src/acl.js
+client/src/components/controls.ts
 client/src/model.ts
 client/src/broadcast-channel.js
 client/src/number-util.js
@@ -8384,6 +8393,7 @@ client/src/handlers/working-time-range.js
 client/src/handlers/note/record-detail-setup.js
 client/src/handlers/select-related/same-account-many.js
 client/src/handlers/select-related/same-account.js
+client/src/handlers/email-account/reset-fetch-data-action.js
 client/src/handlers/login/oidc.js
 client/src/handlers/currency-record-rate/default-preparator.js
 client/src/handlers/record/lock-mass-action.js
@@ -8394,6 +8404,8 @@ client/src/handlers/record/view-audit-log.js
 client/src/handlers/record/lock-action.js
 client/src/handlers/email/select-user.js
 client/src/handlers/email/list-actions.js
+client/src/handlers/select-related.ts
+client/src/handlers/select-field-relation.ts
 client/src/handlers/map/renderer.js
 client/src/handlers/map/google-maps-renderer.js
 client/src/handlers/email-filter.js
@@ -8404,9 +8416,8 @@ client/src/handlers/navbar-menu.js
 client/src/handlers/lead-capture/record-detail-view-setup.js
 client/src/handlers/lead-capture/pipeline-select-handler.js
 client/src/handlers/import.js
+client/src/handlers/create-related.ts
 client/src/handlers/login.js
-client/src/handlers/create-related.js
-client/src/handlers/select-related.js
 client/src/handlers/row-action.js
 client/src/handlers/create-related/set-parent.js
 client/src/router.js
@@ -8539,6 +8550,7 @@ client/src/views/email-account/list.js
 client/src/views/email-account/record/edit.js
 client/src/views/email-account/record/list.js
 client/src/views/email-account/record/detail.js
+client/src/views/email-account/modals/reset-fetch-data.ts
 client/src/views/email-account/modals/select-folder.js
 client/src/views/email-account/fields/folder.js
 client/src/views/email-account/fields/email-address.js
@@ -8584,17 +8596,18 @@ client/src/views/record/detail-small.js
 client/src/views/record/list-expanded.ts
 client/src/views/record/kanban.js
 client/src/views/record/base.ts
+client/src/views/record/edit-for-modal.ts
 client/src/views/record/detail.ts
+client/src/views/record/search.ts
 client/src/views/record/merge.js
 client/src/views/record/deleted-detail.js
 client/src/views/record/edit-small.js
 client/src/views/record/detail-side.js
 client/src/views/record/panels-container.js
-client/src/views/record/search.js
 client/src/views/record/list-nested-categories.js
 client/src/views/record/list/settings.js
+client/src/views/record/detail/buttons.ts
 client/src/views/record/list-pagination.js
-client/src/views/record/edit-for-modal.js
 client/src/views/record/kanban-item.js
 client/src/views/record/list-tree-item.js
 client/src/views/record/detail-middle.js
@@ -9148,6 +9161,7 @@ client/src/views/working-time-range/fields/date-end.js
 client/src/views/working-time-range/fields/users.js
 client/src/views/login.js
 client/src/views/header.js
+client/src/views/main/header-buttons.ts
 client/src/views/global/fields/is-locked.js
 client/src/util/event.js
 client/src/util/ajax.ts
