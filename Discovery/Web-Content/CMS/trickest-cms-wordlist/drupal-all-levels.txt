@@ -58741,6 +58741,13 @@ tests/src/Kernel/CopyTest.php
 src/Kernel/CopyTest.php
 Kernel/CopyTest.php
 CopyTest.php
+core/modules/file/tests/src/Kernel/FileReferencesDeprecationTest.php
+modules/file/tests/src/Kernel/FileReferencesDeprecationTest.php
+file/tests/src/Kernel/FileReferencesDeprecationTest.php
+tests/src/Kernel/FileReferencesDeprecationTest.php
+src/Kernel/FileReferencesDeprecationTest.php
+Kernel/FileReferencesDeprecationTest.php
+FileReferencesDeprecationTest.php
 core/modules/file/tests/src/Kernel/AccessTest.php
 modules/file/tests/src/Kernel/AccessTest.php
 file/tests/src/Kernel/AccessTest.php
@@ -59111,6 +59118,11 @@ modules/file/src/FileRepository.php
 file/src/FileRepository.php
 src/FileRepository.php
 FileRepository.php
+core/modules/file/src/FileReferenceUsage.php
+modules/file/src/FileReferenceUsage.php
+file/src/FileReferenceUsage.php
+src/FileReferenceUsage.php
+FileReferenceUsage.php
 core/modules/file/src/FileStorageSchema.php
 modules/file/src/FileStorageSchema.php
 file/src/FileStorageSchema.php
@@ -59692,6 +59704,11 @@ file/src/Validation/FileValidator.php
 src/Validation/FileValidator.php
 Validation/FileValidator.php
 FileValidator.php
+core/modules/file/src/FileReferenceResolver.php
+modules/file/src/FileReferenceResolver.php
+file/src/FileReferenceResolver.php
+src/FileReferenceResolver.php
+FileReferenceResolver.php
 core/modules/file/src/FileStorage.php
 modules/file/src/FileStorage.php
 file/src/FileStorage.php
