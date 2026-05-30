@@ -12869,12 +12869,6 @@ Drupal/Core/Routing/RouteMatchInterface.php
 Core/Routing/RouteMatchInterface.php
 Routing/RouteMatchInterface.php
 RouteMatchInterface.php
-core/lib/Drupal/Core/Routing/RoutePreloader.php
-lib/Drupal/Core/Routing/RoutePreloader.php
-Drupal/Core/Routing/RoutePreloader.php
-Core/Routing/RoutePreloader.php
-Routing/RoutePreloader.php
-RoutePreloader.php
 core/lib/Drupal/Core/Routing/RequestContext.php
 lib/Drupal/Core/Routing/RequestContext.php
 Drupal/Core/Routing/RequestContext.php
@@ -99059,13 +99053,6 @@ Tests/Core/Routing/UrlGeneratorTest.php
 Core/Routing/UrlGeneratorTest.php
 Routing/UrlGeneratorTest.php
 UrlGeneratorTest.php
-core/tests/Drupal/Tests/Core/Routing/RoutePreloaderTest.php
-tests/Drupal/Tests/Core/Routing/RoutePreloaderTest.php
-Drupal/Tests/Core/Routing/RoutePreloaderTest.php
-Tests/Core/Routing/RoutePreloaderTest.php
-Core/Routing/RoutePreloaderTest.php
-Routing/RoutePreloaderTest.php
-RoutePreloaderTest.php
 core/tests/Drupal/Tests/Core/Routing/RouteBuilderTest.php
 tests/Drupal/Tests/Core/Routing/RouteBuilderTest.php
 Drupal/Tests/Core/Routing/RouteBuilderTest.php
