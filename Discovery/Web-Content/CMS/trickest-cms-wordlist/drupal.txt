@@ -4872,6 +4872,7 @@ core/modules/locale/src/PoDatabaseWriter.php
 core/modules/locale/src/LocaleConfigSubscriber.php
 core/modules/locale/src/CurrentImport.php
 core/modules/locale/src/LocaleServiceProvider.php
+core/modules/locale/src/LocaleTranslationSource.php
 core/modules/locale/src/LocaleProjectStorage.php
 core/modules/locale/src/StringStorageInterface.php
 core/modules/locale/src/Hook/LocaleThemeHooks.php
@@ -13528,6 +13529,7 @@ core/tests/fixtures/test_runner/work_allocator/complex_in.json
 core/tests/fixtures/test_runner/work_allocator/simple_one_of_two_out.json
 core/tests/fixtures/test_runner/work_allocator/complex_two_of_eight_out.json
 core/tests/fixtures/test_runner/work_allocator/simple_in.json
+core/tests/phpcs/PhpScriptFilter.php
 core/tests/README.md
 core/tests/PHPStan/ErrorFormatter/FileOutput.php
 core/tests/PHPStan/ErrorFormatter/MultiplexErrorFormatter.php

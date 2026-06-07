@@ -1721,6 +1721,7 @@ app/bundles/LeadBundle/Tests/Form/Type/EmailTypeFunctionalTest.php
 app/bundles/LeadBundle/Tests/Form/Type/HtmlTypeTest.php
 app/bundles/LeadBundle/Tests/Form/Type/SegmentConfigTypeTest.php
 app/bundles/LeadBundle/Tests/Form/Type/ContactChannelsTypeTest.php
+app/bundles/LeadBundle/Tests/Form/Type/ChangeOwnerTypeFunctionalTest.php
 app/bundles/LeadBundle/Tests/Form/Type/FieldTypeTest.php
 app/bundles/LeadBundle/Tests/Form/Type/FilterTypeTest.php
 app/bundles/LeadBundle/Tests/Form/Type/LeadFieldsTypeTest.php
@@ -2876,6 +2877,7 @@ app/bundles/FormBundle/EventListener/FormConditionalSubscriber.php
 app/bundles/FormBundle/EventListener/DashboardSubscriber.php
 app/bundles/FormBundle/EventListener/DetermineWinnerSubscriber.php
 app/bundles/FormBundle/EventListener/WebhookSubscriber.php
+app/bundles/FormBundle/EventListener/SubmissionSubscriber.php
 app/bundles/FormBundle/EventListener/FormImportExportSubscriber.php
 app/bundles/FormBundle/EventListener/CampaignSubscriber.php
 app/bundles/FormBundle/EventListener/ConfigSubscriber.php
@@ -2891,6 +2893,7 @@ app/bundles/FormBundle/EventListener/CustomFieldSubscriber.php
 app/bundles/FormBundle/Tests/EventListener/FormSubscriberTest.php
 app/bundles/FormBundle/Tests/EventListener/FormConditionalSubscriberTest.php
 app/bundles/FormBundle/Tests/EventListener/FormFieldSubscriberTest.php
+app/bundles/FormBundle/Tests/EventListener/SubmissionSubscriberTest.php
 app/bundles/FormBundle/Tests/EventListener/FormValidationSubscriberTest.php
 app/bundles/FormBundle/Tests/EventListener/ReportSubscriberTest.php
 app/bundles/FormBundle/Tests/EventListener/DetermineWinnerSubscriberTest.php
@@ -2904,11 +2907,14 @@ app/bundles/FormBundle/Tests/Event/FormFieldEventTest.php
 app/bundles/FormBundle/Tests/Event/Service/FieldValueTransformerTest.php
 app/bundles/FormBundle/Tests/Functional/UpdateLeadFormActionFunctionalTest.php
 app/bundles/FormBundle/Tests/Functional/Model/SubmissionOwnerAndStageFunctionalTest.php
+app/bundles/FormBundle/Tests/FormTestHelperTrait.php
 app/bundles/FormBundle/Tests/Crate/FieldCrateTest.php
 app/bundles/FormBundle/Tests/Crate/ObjectCrateTest.php
 app/bundles/FormBundle/Tests/Entity/FormTest.php
 app/bundles/FormBundle/Tests/Entity/FieldTest.php
 app/bundles/FormBundle/Tests/DTO/TokenDtoTest.php
+app/bundles/FormBundle/Tests/Command/DeleteOrphanSubmissionRecordsFromResultsTableCommandTest.php
+app/bundles/FormBundle/Tests/Command/DeleteFormResultsTableCommandTest.php
 app/bundles/FormBundle/Tests/Model/SubmissionModelFunctionalTest.php
 app/bundles/FormBundle/Tests/Model/DummyFiles/2/fieldId2/upload2.txt
 app/bundles/FormBundle/Tests/Model/FieldModelFunctionalTest.php
@@ -2998,6 +3004,8 @@ app/bundles/FormBundle/Assets/json/blocked_free_email_providers.json
 app/bundles/FormBundle/Assets/WebhookPayload/form_on_submit.json
 app/bundles/FormBundle/Assets/js/form.js
 app/bundles/FormBundle/DependencyInjection/MauticFormExtension.php
+app/bundles/FormBundle/Command/DeleteOrphanSubmissionRecordsFromFormResultsTableCommand.php
+app/bundles/FormBundle/Command/DeleteOrphanFormResultsTableCommand.php
 app/bundles/FormBundle/Model/SubmissionModel.php
 app/bundles/FormBundle/Model/ActionModel.php
 app/bundles/FormBundle/Model/FieldModel.php
@@ -4906,6 +4914,7 @@ app/migrations/Version20230506113812.php
 app/migrations/Version20230506113422.php
 app/migrations/Version20260107152512.php
 app/migrations/Version20240226114528.php
+app/migrations/Version20260604000000.php
 app/migrations/Version20230307083702.php
 app/migrations/Version20250425125026.php
 app/.github/workflows/close_pull_requests.yml
