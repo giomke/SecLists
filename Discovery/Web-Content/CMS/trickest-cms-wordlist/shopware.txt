@@ -18,8 +18,14 @@ custom/static-plugins/.gitkeep
 custom/plugins/.gitkeep
 .agents/skills/shopware-admin-js/SKILL.md
 .agents/skills/shopware-admin-js/agents/openai.yaml
+.agents/skills/sw-triage/SKILL.md
+.agents/skills/sw-triage/assets/examples.md
+.agents/skills/sw-triage/references/DOMAINS.md
+.agents/skills/sw-triage/references/TOOLS.md
+.agents/skills/sw-triage/references/CLASSIFICATION.md
 .agents/skills/shopware-pr-hygiene/SKILL.md
 .agents/skills/shopware-pr-hygiene/agents/openai.yaml
+.agents/skills/sw-bugfixer/SKILL.md
 .agents/skills/shopware-release-docs/SKILL.md
 .agents/skills/shopware-release-docs/agents/openai.yaml
 .agents/skills/shopware-php-code/SKILL.md
@@ -72,15 +78,9 @@ custom/plugins/.gitkeep
 .agents/skills/sw-review/tests/persona/open-source/catch/grader.sh
 .agents/skills/sw-review/tests/persona/open-source/catch/input.json
 .agents/skills/sw-review/tests/persona/open-source/catch/diff.patch
-.agents/skills/triage/SKILL.md
-.agents/skills/triage/assets/examples.md
-.agents/skills/triage/references/DOMAINS.md
-.agents/skills/triage/references/TOOLS.md
-.agents/skills/triage/references/CLASSIFICATION.md
 .agents/skills/shopware-change-scope/SKILL.md
 .agents/skills/shopware-change-scope/agents/openai.yaml
 .agents/skills/README.md
-.agents/skills/bugfixer/SKILL.md
 phpstan-paths.php
 releases.json
 devenv.nix
@@ -602,6 +602,7 @@ src/Core/System/Salutation/SalesChannel/AbstractSalutationRoute.php
 src/Core/System/Salutation/SalutationEntity.php
 src/Core/System/Salutation/AbstractSalutationsSorter.php
 src/Core/System/Salutation/Api/SalutationKeyFkResolver.php
+src/Core/System/Snippet/Request/InstallTranslationRequest.php
 src/Core/System/Snippet/SnippetException.php
 src/Core/System/Snippet/Files/SnippetFileCollection.php
 src/Core/System/Snippet/Files/SnippetFileLoaderInterface.php
@@ -612,9 +613,12 @@ src/Core/System/Snippet/Files/GenericSnippetFile.php
 src/Core/System/Snippet/Files/AbstractSnippetFile.php
 src/Core/System/Snippet/Files/SnippetFileLoader.php
 src/Core/System/Snippet/Event/SnippetsThemeResolveEvent.php
+src/Core/System/Snippet/Event/TranslationRemovedEvent.php
+src/Core/System/Snippet/Event/TranslationLoadedEvent.php
+src/Core/System/Snippet/Service/TranslationMetadataStore.php
 src/Core/System/Snippet/Service/AbstractTranslationLoader.php
 src/Core/System/Snippet/Service/AbstractTranslationConfigLoader.php
-src/Core/System/Snippet/Service/TranslationMetadataLoader.php
+src/Core/System/Snippet/Service/TranslationRemover.php
 src/Core/System/Snippet/Service/TranslationConfigLoader.php
 src/Core/System/Snippet/Service/TranslationLoader.php
 src/Core/System/Snippet/Aggregate/SnippetSet/SnippetSetCollection.php
@@ -656,6 +660,7 @@ src/Core/System/Snippet/SnippetValidator.php
 src/Core/System/Snippet/SnippetEvents.php
 src/Core/System/Snippet/SnippetValidatorInterface.php
 src/Core/System/Snippet/SnippetService.php
+src/Core/System/Snippet/Api/TranslationController.php
 src/Core/System/Snippet/Api/SnippetController.php
 src/Core/System/Snippet/SnippetDefinition.php
 src/Core/System/Snippet/Subscriber/CustomFieldSubscriber.php
@@ -4447,6 +4452,7 @@ src/Core/Framework/Api/ApiDefinition/Generator/Schema/AdminApi/paths/index.json
 src/Core/Framework/Api/ApiDefinition/Generator/Schema/AdminApi/paths/order.json
 src/Core/Framework/Api/ApiDefinition/Generator/Schema/AdminApi/paths/consent.json
 src/Core/Framework/Api/ApiDefinition/Generator/Schema/AdminApi/paths/info.json
+src/Core/Framework/Api/ApiDefinition/Generator/Schema/AdminApi/paths/translation.json
 src/Core/Framework/Api/ApiDefinition/Generator/Schema/AdminApi/paths/openapi3.json.json
 src/Core/Framework/Api/ApiDefinition/Generator/Schema/AdminApi/tags/tags.json
 src/Core/Framework/Api/ApiDefinition/Generator/Schema/AdminApi/components/schemas/infoConfigResponse.json
@@ -7255,6 +7261,7 @@ src/Administration/Resources/app/administration/static/fixtures/sw-login-backgro
 src/Administration/Resources/app/administration/static/fixtures/sw-login-background-2.webp
 src/Administration/Resources/app/administration/static/fixtures/sw-test-image.webp
 src/Administration/Resources/app/administration/static/.gitkeep
+src/Administration/Resources/app/administration/snippet-global-default-allow-list.js
 src/Administration/Resources/app/administration/tsconfig.json
 src/Administration/Resources/app/administration/src/index.ts
 src/Administration/Resources/app/administration/src/index.spec.js
@@ -11975,6 +11982,7 @@ src/Administration/Resources/app/administration/eslint-rules/core-rules/require-
 src/Administration/Resources/app/administration/eslint-rules/core-rules/move-v-if-conditions-to-blocks.spec.js
 src/Administration/Resources/app/administration/eslint-rules/core-rules/require-position-identifier.js
 src/Administration/Resources/app/administration/eslint-rules/core-rules/no-tc-translation.spec.js
+src/Administration/Resources/app/administration/eslint-rules/core-rules/require-global-default-use.js
 src/Administration/Resources/app/administration/eslint-rules/core-rules/enforce-async-component-registers.js
 src/Administration/Resources/app/administration/eslint-rules/core-rules/remove-empty-templates.spec.js
 src/Administration/Resources/app/administration/eslint-rules/core-rules/replace-top-level-blocks-to-extends.spec.js
@@ -12497,6 +12505,7 @@ src/Storefront/Resources/config/packages/twig_component.yaml
 src/Storefront/Resources/config/packages/shopware.php
 src/Storefront/Resources/config/packages/framework.yaml
 src/Storefront/Resources/app/administration/package.json
+src/Storefront/Resources/app/administration/snippet-global-default-allow-list.js
 src/Storefront/Resources/app/administration/src/init/api-service.init.js
 src/Storefront/Resources/app/administration/src/init/api-service.init.spec.js
 src/Storefront/Resources/app/administration/src/main.js
@@ -12712,6 +12721,7 @@ src/Storefront/Resources/app/storefront/build/README.md
 src/Storefront/Resources/app/storefront/text.loader.js
 src/Storefront/Resources/app/storefront/copy-to-vendor.js
 src/Storefront/Resources/app/storefront/vite.components.config.mts
+src/Storefront/Resources/app/storefront/snippet-global-default-allow-list.js
 src/Storefront/Resources/app/storefront/tsconfig.json
 src/Storefront/Resources/app/storefront/src/plugin-system/plugin.registry.js
 src/Storefront/Resources/app/storefront/src/plugin-system/plugin.config.manager.js
@@ -13378,6 +13388,8 @@ src/Storefront/Resources/app/storefront/dist/assets/captcha/font.ttf
 src/Storefront/Resources/app/storefront/.browserslistrc
 src/Storefront/Resources/app/storefront/vendor/.gitkeep
 src/Storefront/Resources/app/storefront/vite.shopware.config.mts
+src/Storefront/Resources/app/storefront/eslint-rules/core-rules/require-global-default-use.js
+src/Storefront/Resources/app/storefront/eslint-rules/core-rules/index.js
 src/Storefront/Resources/app/storefront/stylelint.config.js
 src/Storefront/Resources/views/ide-twig.json
 src/Storefront/Resources/views/ludtwig-config.toml
@@ -14296,7 +14308,9 @@ tests/integration/Core/System/Snippet/Files/AppSnippetFileLoaderTest.php
 tests/integration/Core/System/Snippet/Service/TranslationLoaderTest.php
 tests/integration/Core/System/Snippet/Mock/_fixtures/.gitkeep
 tests/integration/Core/System/Snippet/Mock/MockSnippetFile.php
+tests/integration/Core/System/Snippet/TranslationClientBehaviour.php
 tests/integration/Core/System/Snippet/SnippetServiceTest.php
+tests/integration/Core/System/Snippet/Api/TranslationControllerTest.php
 tests/integration/Core/System/Snippet/Subscriber/CustomFieldSubscriberTest.php
 tests/integration/Core/System/SalesChannel/File/Loader/SalesChannelFileConfigurationLoaderTest.php
 tests/integration/Core/System/SalesChannel/File/SalesChannelFileRepositoryTest.php
@@ -16357,6 +16371,7 @@ tests/unit/Core/System/Snippet/Files/SnippetFileLoaderTest.php
 tests/unit/Core/System/Snippet/Files/RemoteSnippetFileTest.php
 tests/unit/Core/System/Snippet/Service/TranslationConfigLoaderTest.php
 tests/unit/Core/System/Snippet/Service/TranslationLoaderTest.php
+tests/unit/Core/System/Snippet/Service/TranslationRemoverTest.php
 tests/unit/Core/System/Snippet/Service/TestableTranslationConfigLoader.php
 tests/unit/Core/System/Snippet/Service/fixtures/translation_non_string_url.yaml
 tests/unit/Core/System/Snippet/Service/fixtures/translation_broken_url.yaml
@@ -16364,7 +16379,7 @@ tests/unit/Core/System/Snippet/Service/fixtures/translation_invalid_url.yaml
 tests/unit/Core/System/Snippet/Service/fixtures/translation_empty_string_url.yaml
 tests/unit/Core/System/Snippet/Service/fixtures/translation_empty.yaml
 tests/unit/Core/System/Snippet/Service/fixtures/translation.yaml
-tests/unit/Core/System/Snippet/Service/TranslationMetadataLoaderTest.php
+tests/unit/Core/System/Snippet/Service/TranslationMetadataStoreTest.php
 tests/unit/Core/System/Snippet/Mock/TestPlugin.php
 tests/unit/Core/System/Snippet/Mock/_fixtures/storefront.de.json
 tests/unit/Core/System/Snippet/Mock/_fixtures/extension.de-DE.json
@@ -16393,6 +16408,7 @@ tests/unit/Core/System/Snippet/Command/Util/TranslationCommandHelperTest.php
 tests/unit/Core/System/Snippet/Struct/TranslationConfigTest.php
 tests/unit/Core/System/Snippet/SnippetServiceTest.php
 tests/unit/Core/System/Snippet/Api/SnippetControllerTest.php
+tests/unit/Core/System/Snippet/Api/TranslationControllerTest.php
 tests/unit/Core/System/Snippet/DataTransfer/SnippetPath/SnippetPathTest.php
 tests/unit/Core/System/Snippet/DataTransfer/SnippetPath/SnippetPathCollectionTest.php
 tests/unit/Core/System/Snippet/DataTransfer/Metadata/MetadataCollectionTest.php
