@@ -339,6 +339,7 @@ resources/views/layouts/basic.blade.php
 resources/views/layouts/debug.blade.php
 resources/views/layouts/default.blade.php
 resources/views/layouts/setup.blade.php
+resources/views/partials/impersonation-banner.blade.php
 resources/views/partials/models-bulk-actions.blade.php
 resources/views/partials/label2-preview.blade.php
 resources/views/partials/more-info.blade.php
@@ -522,6 +523,7 @@ resources/views/users/confirm-bulk-delete.blade.php
 resources/views/users/print.blade.php
 resources/views/users/view.blade.php
 resources/views/users/index.blade.php
+resources/views/users/impersonate-confirm-modal.blade.php
 resources/views/users/bulk-edit.blade.php
 resources/views/users/ldap.blade.php
 resources/views/users/confirm-merge.blade.php
@@ -6802,6 +6804,7 @@ docker/README.md
 docker/startup_alpine_fpm.sh
 docker/001-default-ssl.conf
 app/View/Composers/SidebarComposer.php
+app/View/Composers/ImpersonationBannerComposer.php
 app/View/Label.php
 app/Mail/CheckoutLicenseMail.php
 app/Mail/UnacceptedAssetReminderMail.php
@@ -7168,6 +7171,7 @@ app/Http/Controllers/Kits/CheckoutKitController.php
 app/Http/Controllers/Kits/PredefinedKitsController.php
 app/Http/Controllers/Users/UsersController.php
 app/Http/Controllers/Users/LDAPImportController.php
+app/Http/Controllers/Users/ImpersonateController.php
 app/Http/Controllers/Users/BulkUsersController.php
 app/Http/Controllers/SuppliersController.php
 app/Http/Controllers/BulkAccessoriesController.php
@@ -7460,6 +7464,7 @@ tests/Feature/AssetModels/Api/CreateAssetModelsTest.php
 tests/Feature/AssetModels/Ui/ShowAssetModelsTest.php
 tests/Feature/AssetModels/Ui/IndexAssetModelsTest.php
 tests/Feature/AssetModels/Ui/UpdateAssetModelsTest.php
+tests/Feature/AssetModels/Ui/CloneAssetModelTest.php
 tests/Feature/AssetModels/Ui/CreateAssetModelsTest.php
 tests/Feature/Permissions/PermissionsFormPreCheckTest.php
 tests/Feature/Modals/Ui/ShowModalsTest.php
@@ -7497,7 +7502,9 @@ tests/Feature/Categories/Ui/UpdateCategoriesTest.php
 tests/Feature/Categories/Ui/BulkDeleteCategoriesTest.php
 tests/Feature/Categories/Ui/ShowCategoryTest.php
 tests/Feature/Categories/Ui/DeleteCategoriesTest.php
+tests/Feature/Users/ImpersonateUserTest.php
 tests/Feature/Users/UserPermissionLoggingTest.php
+tests/Feature/Users/LegacyCompanyIdMirrorTest.php
 tests/Feature/Users/UserCompanyLoggingTest.php
 tests/Feature/Users/Api/CreateUserTest.php
 tests/Feature/Users/Api/RestoreUserTest.php
@@ -7510,6 +7517,7 @@ tests/Feature/Users/Api/IndexUsersTest.php
 tests/Feature/Users/Api/UsersForSelectListTest.php
 tests/Feature/Users/Api/DeleteUsersTest.php
 tests/Feature/Users/Ui/CreateUserTest.php
+tests/Feature/Users/Ui/TwoFactorResetTest.php
 tests/Feature/Users/Ui/ViewUserTest.php
 tests/Feature/Users/Ui/CloneUserTest.php
 tests/Feature/Users/Ui/UserCompanyMembershipTest.php
@@ -7664,6 +7672,7 @@ tests/Feature/Components/Ui/ShowComponentTest.php
 tests/Feature/Components/Ui/DeleteComponentTest.php
 tests/Feature/Components/Ui/StoreComponentWithFullMultipleCompanySupportTest.php
 tests/Feature/Components/Ui/CloneComponentTest.php
+tests/Feature/Settings/ImpersonationSettingsRowTest.php
 tests/Feature/Settings/LdapSettingsTest.php
 tests/Feature/Settings/OauthSettingsTest.php
 tests/Feature/Settings/LabelSettingTest.php
@@ -7954,6 +7963,7 @@ database/migrations/2024_10_31_212512_update_new_and_drop_old_barcode_settings.p
 database/migrations/2016_06_01_000001_create_oauth_auth_codes_table.php
 database/migrations/2023_04_12_135822_add_supplier_to_components.php
 database/migrations/2016_09_04_182149_migrate_asset_log_to_action_log.php
+database/migrations/2026_07_10_000001_rename_users_company_id_to_legacy_company_id.php
 database/migrations/2017_03_03_154632_add_time_date_display_to_settings.php
 database/migrations/2023_02_12_224353_fix_unescaped_customfields_format.php
 database/migrations/2016_06_01_000003_create_oauth_refresh_tokens_table.php
