@@ -54320,6 +54320,13 @@ tests/src/Kernel/EntityStateChangeValidationTest.php
 src/Kernel/EntityStateChangeValidationTest.php
 Kernel/EntityStateChangeValidationTest.php
 EntityStateChangeValidationTest.php
+core/modules/content_moderation/tests/src/Kernel/ModerationStateFieldTest.php
+modules/content_moderation/tests/src/Kernel/ModerationStateFieldTest.php
+content_moderation/tests/src/Kernel/ModerationStateFieldTest.php
+tests/src/Kernel/ModerationStateFieldTest.php
+src/Kernel/ModerationStateFieldTest.php
+Kernel/ModerationStateFieldTest.php
+ModerationStateFieldTest.php
 core/modules/content_moderation/tests/src/Kernel/ContentModerationResaveTest.php
 modules/content_moderation/tests/src/Kernel/ContentModerationResaveTest.php
 content_moderation/tests/src/Kernel/ContentModerationResaveTest.php

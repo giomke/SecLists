@@ -20131,6 +20131,14 @@ CoreBundle/tests/Resolver/CustomerResolverTest.php
 tests/Resolver/CustomerResolverTest.php
 Resolver/CustomerResolverTest.php
 CustomerResolverTest.php
+src/Sylius/Bundle/CoreBundle/tests/Doctrine/Platform/PlatformHelperTest.php
+Sylius/Bundle/CoreBundle/tests/Doctrine/Platform/PlatformHelperTest.php
+Bundle/CoreBundle/tests/Doctrine/Platform/PlatformHelperTest.php
+CoreBundle/tests/Doctrine/Platform/PlatformHelperTest.php
+tests/Doctrine/Platform/PlatformHelperTest.php
+Doctrine/Platform/PlatformHelperTest.php
+Platform/PlatformHelperTest.php
+PlatformHelperTest.php
 src/Sylius/Bundle/CoreBundle/tests/Doctrine/ORM/Promotion/Modifier/AtomicOrderPromotionsUsageModifierTest.php
 Sylius/Bundle/CoreBundle/tests/Doctrine/ORM/Promotion/Modifier/AtomicOrderPromotionsUsageModifierTest.php
 Bundle/CoreBundle/tests/Doctrine/ORM/Promotion/Modifier/AtomicOrderPromotionsUsageModifierTest.php

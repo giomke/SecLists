@@ -38,6 +38,8 @@ green-lizards-yawn.md
 filter-errors.md
 .changeset/afraid-beds-read.md
 afraid-beds-read.md
+.changeset/hungry-colts-sort.md
+hungry-colts-sort.md
 .changeset/drop-field-path.md
 drop-field-path.md
 .changeset/break-sudo-schema.md
@@ -102,8 +104,6 @@ silent-lists-filter.md
 maybe-item.md
 .changeset/contributors.json
 contributors.json
-.changeset/and-or-not-conditional-filters.md
-and-or-not-conditional-filters.md
 .changeset/rotten-vans-vanish.md
 rotten-vans-vanish.md
 .changeset/field-mode-defaults.md

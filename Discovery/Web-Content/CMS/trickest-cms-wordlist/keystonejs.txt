@@ -20,6 +20,7 @@ SECURITY.md
 .changeset/green-lizards-yawn.md
 .changeset/filter-errors.md
 .changeset/afraid-beds-read.md
+.changeset/hungry-colts-sort.md
 .changeset/drop-field-path.md
 .changeset/break-sudo-schema.md
 .changeset/free-papers-show.md
@@ -52,7 +53,6 @@ SECURITY.md
 .changeset/silent-lists-filter.md
 .changeset/maybe-item.md
 .changeset/contributors.json
-.changeset/and-or-not-conditional-filters.md
 .changeset/rotten-vans-vanish.md
 .changeset/field-mode-defaults.md
 .changeset/add-open-telemetry.md

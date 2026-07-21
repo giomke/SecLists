@@ -8208,6 +8208,13 @@ migration/data/v33x/fix_display_unapproved_posts_config.php
 data/v33x/fix_display_unapproved_posts_config.php
 v33x/fix_display_unapproved_posts_config.php
 fix_display_unapproved_posts_config.php
+phpBB/phpbb/db/migration/data/v33x/profilefields_x_update.php
+phpbb/db/migration/data/v33x/profilefields_x_update.php
+db/migration/data/v33x/profilefields_x_update.php
+migration/data/v33x/profilefields_x_update.php
+data/v33x/profilefields_x_update.php
+v33x/profilefields_x_update.php
+profilefields_x_update.php
 phpBB/phpbb/db/migration/data/v33x/v331.php
 phpbb/db/migration/data/v33x/v331.php
 db/migration/data/v33x/v331.php
