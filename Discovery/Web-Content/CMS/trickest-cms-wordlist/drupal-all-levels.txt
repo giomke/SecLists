@@ -85427,6 +85427,12 @@ Drupal/FunctionalTests/Installer/SiteSettingsFormTest.php
 FunctionalTests/Installer/SiteSettingsFormTest.php
 Installer/SiteSettingsFormTest.php
 SiteSettingsFormTest.php
+core/tests/Drupal/FunctionalTests/Installer/ProfileWithRecipesTest.php
+tests/Drupal/FunctionalTests/Installer/ProfileWithRecipesTest.php
+Drupal/FunctionalTests/Installer/ProfileWithRecipesTest.php
+FunctionalTests/Installer/ProfileWithRecipesTest.php
+Installer/ProfileWithRecipesTest.php
+ProfileWithRecipesTest.php
 core/tests/Drupal/FunctionalTests/Installer/TestingProfileInstallTest.php
 tests/Drupal/FunctionalTests/Installer/TestingProfileInstallTest.php
 Drupal/FunctionalTests/Installer/TestingProfileInstallTest.php
@@ -89623,6 +89629,8 @@ core/tests/PHPStan/composer.json
 tests/PHPStan/composer.json
 PHPStan/composer.json
 composer.json
+core/.twig-cs-fixer.php
+.twig-cs-fixer.php
 core/phpunit.xml.dist
 phpunit.xml.dist
 core/profiles/standard/config/install/automated_cron.settings.yml
@@ -93844,6 +93852,11 @@ testing/config/optional/locale.settings.yml
 config/optional/locale.settings.yml
 optional/locale.settings.yml
 locale.settings.yml
+core/profiles/tests/testing_with_recipes/testing_with_recipes.info.yml
+profiles/tests/testing_with_recipes/testing_with_recipes.info.yml
+tests/testing_with_recipes/testing_with_recipes.info.yml
+testing_with_recipes/testing_with_recipes.info.yml
+testing_with_recipes.info.yml
 core/profiles/tests/testing_install_profile_dependencies/testing_install_profile_dependencies.info.yml
 profiles/tests/testing_install_profile_dependencies/testing_install_profile_dependencies.info.yml
 tests/testing_install_profile_dependencies/testing_install_profile_dependencies.info.yml
