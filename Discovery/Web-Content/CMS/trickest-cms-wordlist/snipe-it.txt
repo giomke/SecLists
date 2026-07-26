@@ -264,6 +264,7 @@ tests/Feature/Authentication/LoginTest.php
 tests/Feature/Authentication/PersonalAccessTokenTwoFactorGuardTest.php
 tests/Feature/Authentication/EnforceApiTwoFactorEnrollmentTest.php
 tests/Feature/QueryCountBenchmarkTest.php
+tests/Feature/Livewire/AlertMenuTest.php
 tests/Feature/Livewire/CategoryEditFormTest.php
 tests/Feature/Livewire/CheckoutTargetPanelTest.php
 tests/Feature/Livewire/PersonalAccessTokensTest.php
@@ -343,6 +344,7 @@ tests/Feature/Console/BulkDeleteTest.php
 tests/Feature/Console/OptimizeTest.php
 tests/Feature/Console/FixupAssignedToAssignedTypeTest.php
 tests/Feature/Console/SendAcceptanceReminderTest.php
+tests/Feature/Console/SendInventoryAlertsTest.php
 tests/Feature/Console/Commands/PurgeEulaPDFTest.php
 tests/Feature/Console/Commands/PurgeCompaniesTest.php
 tests/Feature/Console/Commands/CleanupOrphanActionLogsTest.php
@@ -366,6 +368,7 @@ tests/Feature/Users/Api/UserItemsPaginationTest.php
 tests/Feature/Users/Api/IndexUsersTest.php
 tests/Feature/Users/LegacyCompanyIdMirrorTest.php
 tests/Feature/Users/UserCompanyLoggingTest.php
+tests/Feature/Users/TransferUserItemsValidationTest.php
 tests/Feature/Users/Ui/BulkActions/BulkDeleteUsersTest.php
 tests/Feature/Users/Ui/BulkActions/BulkEditUsersTest.php
 tests/Feature/Users/Ui/BulkActions/BulkMergeUsersTest.php
@@ -374,6 +377,7 @@ tests/Feature/Users/Ui/PrintUserInventoryTest.php
 tests/Feature/Users/Ui/FmcsLocationValidationTest.php
 tests/Feature/Users/Ui/ViewUserTest.php
 tests/Feature/Users/Ui/EmailAssignedToUserTest.php
+tests/Feature/Users/Ui/CreateInactiveUserWithoutPasswordTest.php
 tests/Feature/Users/Ui/UpdateUserTest.php
 tests/Feature/Users/Ui/TwoFactorResetTest.php
 tests/Feature/Users/Ui/FloaterModeGateTest.php
@@ -386,6 +390,8 @@ tests/Feature/Users/Ui/MergeUsersTest.php
 tests/Feature/Users/Ui/IndexUsersTest.php
 tests/Feature/Users/UserPermissionLoggingTest.php
 tests/Feature/Users/ImpersonateUserTest.php
+tests/Feature/Users/TransferUserItemsBehaviorTest.php
+tests/Feature/Users/TransferUserItemsPageAccessTest.php
 tests/Feature/ActionLogs/ActionlogCompanyIdTest.php
 tests/Feature/ActionLogs/DisplaySigTest.php
 tests/Feature/ActionLogs/ActionlogCompanyIdBackfillTest.php
@@ -662,7 +668,6 @@ resources/views/partials/label2-field-definitions.blade.php
 resources/views/partials/confetti-js.blade.php
 resources/views/partials/forms/checkout-selector.blade.php
 resources/views/partials/forms/edit/item_number.blade.php
-resources/views/partials/forms/edit/name-first.blade.php
 resources/views/partials/forms/edit/purchase_cost.blade.php
 resources/views/partials/forms/edit/category-select.blade.php
 resources/views/partials/forms/edit/supplier-select.blade.php
@@ -699,7 +704,6 @@ resources/views/partials/forms/edit/username.blade.php
 resources/views/partials/forms/edit/name.blade.php
 resources/views/partials/forms/edit/location-profile-select.blade.php
 resources/views/partials/forms/edit/model-select.blade.php
-resources/views/partials/forms/edit/name-last.blade.php
 resources/views/partials/forms/edit/address.blade.php
 resources/views/partials/forms/edit/manufacturer-select.blade.php
 resources/views/partials/forms/edit/depreciation.blade.php
@@ -733,7 +737,6 @@ resources/views/notifications/Welcome.blade.php
 resources/views/notifications/FirstAdmin.blade.php
 resources/views/maintenance-types/index.blade.php
 resources/views/maintenance-types/edit.blade.php
-resources/views/blade/alert-menu.blade.php
 resources/views/blade/box/index.blade.php
 resources/views/blade/box/footer.blade.php
 resources/views/blade/page-data.blade.php
@@ -804,6 +807,7 @@ resources/views/blade/table/consumables.blade.php
 resources/views/blade/table/maintenances.blade.php
 resources/views/blade/table/bulk-users.blade.php
 resources/views/blade/notifications.blade.php
+resources/views/blade/demo-lock.blade.php
 resources/views/blade/modals/maintenance-complete.blade.php
 resources/views/blade/form/legend-help.blade.php
 resources/views/blade/form/tooltip.blade.php
@@ -886,6 +890,7 @@ resources/views/locations/print.blade.php
 resources/views/locations/index.blade.php
 resources/views/locations/bulk-delete.blade.php
 resources/views/locations/edit.blade.php
+resources/views/livewire/alert-menu.blade.php
 resources/views/livewire/custom-field-editor.blade.php
 resources/views/livewire/admin-personal-access-tokens.blade.php
 resources/views/livewire/location-scope-check.blade.php
@@ -991,6 +996,7 @@ resources/views/users/index.blade.php
 resources/views/users/confirm-bulk-delete.blade.php
 resources/views/users/edit.blade.php
 resources/views/users/confirm-merge.blade.php
+resources/views/users/transfer.blade.php
 resources/views/users/impersonate-confirm-modal.blade.php
 resources/views/users/ldap.blade.php
 resources/views/users/bulk-edit.blade.php
@@ -7463,6 +7469,7 @@ app/Livewire/Importer.php
 app/Livewire/CustomFieldEditor.php
 app/Livewire/CategoryEditForm.php
 app/Livewire/SlackSettingsForm.php
+app/Livewire/AlertMenu.php
 app/Http/Kernel.php
 app/Http/Transformers/CustomFieldsTransformer.php
 app/Http/Transformers/MaintenancesTransformer.php
@@ -7509,6 +7516,7 @@ app/Http/Requests/StoreLocalizationSettings.php
 app/Http/Requests/LicenseCheckoutRequest.php
 app/Http/Requests/ImageUploadRequest.php
 app/Http/Requests/UpdateAssetRequest.php
+app/Http/Requests/TransferUserItemsRequest.php
 app/Http/Requests/StoreLabelSettings.php
 app/Http/Requests/AssetCheckinRequest.php
 app/Http/Requests/SaveUserRequest.php
@@ -7607,6 +7615,7 @@ app/Http/Controllers/Assets/AssetCheckinController.php
 app/Http/Controllers/Assets/AssetCheckoutController.php
 app/Http/Controllers/LocationsController.php
 app/Http/Controllers/Users/ImpersonateController.php
+app/Http/Controllers/Users/UserItemTransferController.php
 app/Http/Controllers/Users/BulkUsersController.php
 app/Http/Controllers/Users/LDAPImportController.php
 app/Http/Controllers/Users/UsersController.php
@@ -8119,6 +8128,7 @@ database/migrations/2014_12_09_082500_add_fields_maintained_term_to_licenses.php
 database/migrations/2013_11_18_134332_add_contacts_to_users.php
 database/migrations/2012_12_06_225921_migration_cartalyst_sentry_install_users.php
 database/migrations/2013_11_16_103407_add_checkedout_to_to_assets.php
+database/migrations/2026_07_22_235215_restore_default_label_sizes_if_zeroed_in_settings_table.php
 database/migrations/2016_05_19_180351_add_alt_barcode_settings.php
 database/migrations/2021_08_11_005206_add_depreciation_minimum_value.php
 database/migrations/2013_11_16_103425_create_history_table.php
