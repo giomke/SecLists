@@ -17,6 +17,7 @@ extensions/akismet/.gitattributes
 extensions/akismet/locale/en.yml
 extensions/akismet/node_modules/.yarn-integrity
 extensions/akismet/CHANGELOG.md
+extensions/akismet/tests/integration/SaveKeyOnFreshInstallTest.php
 extensions/akismet/tests/integration/ValidatePostTest.php
 extensions/akismet/tests/integration/setup.php
 extensions/akismet/tests/integration/VerifyKeySettingTest.php
@@ -2962,6 +2963,7 @@ framework/core/tests/unit/Update/UpdateControllerTest.php
 framework/core/tests/unit/Announcements/AnnouncementsFetcherTest.php
 framework/core/tests/unit/Announcements/ListAnnouncementsControllerTest.php
 framework/core/tests/unit/Locale/TranslatorTest.php
+framework/core/tests/unit/Locale/TranslatorReferenceResolutionTest.php
 framework/core/tests/unit/Database/AbstractModelCastsTest.php
 framework/core/tests/unit/Database/TablePrefixLimitTest.php
 framework/core/tests/unit/Database/DatabaseRequirementsTest.php
