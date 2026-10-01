@@ -474,12 +474,12 @@ test/data/vcr_cassettes/lib/import/exchange/folder/import_exchange_folder_displa
 test/data/vcr_cassettes/lib/import/exchange/folder/import_exchange_folder_display_path_2152_when_server_returns_valid_utf-8_and_walking_up_directory_tree_raises_ewserror_returns_the_partial_path_from_error_to_target_folder.yml
 test/data/vcr_cassettes/lib/import/exchange/folder/import_exchange_folder_display_path_2152_when_server_returns_invalid_utf-8_and_walking_up_directory_tree_raises_ewserror_returns_the_partial_path_from_error_to_target_folder_in_valid_utf-8.yml
 test/data/vcr_cassettes/lib/import/exchange/folder/import_exchange_folder_display_path_2152_when_server_returns_valid_utf-8_and_target_folder_is_in_subfolder_of_root_returns_the_full_path_from_root_to_target.yml
-test/data/vcr_cassettes/lib/service/geo_location/osm/service_geolocation_osm_geocode_with_a_swiss_address_without_a_separator_between_street_zipcode_and_city_example_at_spec_lib_service_geo_location_osm_spec_rb_37.yml
-test/data/vcr_cassettes/lib/service/geo_location/osm/service_geolocation_osm_reverse_geocode_with_german_coordinates_example_at_spec_lib_service_geo_location_osm_spec_rb_50.yml
-test/data/vcr_cassettes/lib/service/geo_location/osm/service_geolocation_osm_geocode_with_a_german_address_example_at_spec_lib_service_geo_location_osm_spec_rb_20.yml
-test/data/vcr_cassettes/lib/service/geo_location/osm/service_geolocation_osm_geocode_with_a_swiss_address_example_at_spec_lib_service_geo_location_osm_spec_rb_32.yml
-test/data/vcr_cassettes/lib/service/geo_location/osm/service_geolocation_osm_reverse_geocode_with_swiss_coordinates_example_at_spec_lib_service_geo_location_osm_spec_rb_58.yml
-test/data/vcr_cassettes/lib/service/geo_location/osm/service_geolocation_osm_geocode_with_a_german_address_without_a_separator_between_street_zipcode_and_city_example_at_spec_lib_service_geo_location_osm_spec_rb_25.yml
+test/data/vcr_cassettes/lib/service/geo_location/osm/service_geolocation_osm_geocode_with_a_swiss_address_without_a_separator_between_street_zipcode_and_city_example_at_spec_lib_service_geo_location_osm_spec_rb_41.yml
+test/data/vcr_cassettes/lib/service/geo_location/osm/service_geolocation_osm_geocode_with_a_german_address_without_a_separator_between_street_zipcode_and_city_example_at_spec_lib_service_geo_location_osm_spec_rb_29.yml
+test/data/vcr_cassettes/lib/service/geo_location/osm/service_geolocation_osm_geocode_with_a_swiss_address_example_at_spec_lib_service_geo_location_osm_spec_rb_36.yml
+test/data/vcr_cassettes/lib/service/geo_location/osm/service_geolocation_osm_geocode_with_a_german_address_example_at_spec_lib_service_geo_location_osm_spec_rb_24.yml
+test/data/vcr_cassettes/lib/service/geo_location/osm/service_geolocation_osm_reverse_geocode_with_swiss_coordinates_example_at_spec_lib_service_geo_location_osm_spec_rb_62.yml
+test/data/vcr_cassettes/lib/service/geo_location/osm/service_geolocation_osm_reverse_geocode_with_german_coordinates_example_at_spec_lib_service_geo_location_osm_spec_rb_54.yml
 test/data/vcr_cassettes/lib/ai/service/text_spelling_and_grammar/ai_service_textspellingandgrammar_when_service_is_executed_with_openai_as_provider_check_that_grammar_is_correct.yml
 test/data/vcr_cassettes/lib/ai/service/text_spelling_and_grammar/ai_service_textspellingandgrammar_when_service_is_executed_with_zammadai_as_provider_check_that_grammar_is_correct.yml
 test/data/vcr_cassettes/lib/ai/provider/zammad_ai/ai_provider_zammadai_ask_when_metadata_is_extracted_stores_metadata_from_response.yml
@@ -701,6 +701,7 @@ db/migrate/20230523082822_two_factor_security_key_setup.rb
 db/migrate/20221110150329_issue_4322_session_timeout_stringify.rb
 db/migrate/20161117000002_ticket_number_generator_issue_427.rb
 db/migrate/20171203000001_setting_es_pipeline.rb
+db/migrate/20260928120000_issue6237_import_mode_setting_description.rb
 db/migrate/20190415000001_setting_es_multi_index.rb
 db/migrate/20190418000000_normalize_setting_ticket_number_ignore_system_id.rb
 db/migrate/20241106073757_taskbar_add_uniqueness_index.rb
@@ -1123,6 +1124,7 @@ db/migrate/20180202000001_sidebar_customer_open_ticket_colored.rb
 db/migrate/20260428121123_issue_6056_no_proxy.rb
 db/migrate/20260909120000_content_translation_integration_settings.rb
 db/migrate/20220504133218_setting_updates3.rb
+db/migrate/20260925111159_issue6389_cti_logs_from_digits_index.rb
 db/migrate/20260817100000_issue6278_vectordb_embedding_rebuild_confirmation.rb
 db/migrate/20220322094105_new_cache_clear_job.rb
 db/migrate/20210607000000_session_timeout_description.rb
@@ -1344,7 +1346,7 @@ contrib/release/update_files.rb
 contrib/auto_wizard_test.json
 .buildpacks
 .oxfmtrc.json
-.gitlab/environment_info.sh
+.gitlab/ci/__includes__/test_reports.yml
 .gitlab/ci/__includes__/services.yml
 .gitlab/ci/__includes__/stages.yml
 .gitlab/ci/__includes__/scripts.yml
@@ -1353,6 +1355,7 @@ contrib/auto_wizard_test.json
 .gitlab/ci/__includes__/job_rules.yml
 .gitlab/ci/__includes__/workflow.yml
 .gitlab/ci/__includes__/variables.yml
+.gitlab/ci/__includes__/job_needs.yml
 .gitlab/ci/__includes__/cache.yml
 .gitlab/ci/__includes__/job_defaults.yml
 .gitlab/ci/timings/rspec.yml
@@ -2427,6 +2430,7 @@ spec/services/service/content_translation/backend/libre_translate_spec.rb
 spec/services/service/content_translation/ticket_article/auto_allowed_spec.rb
 spec/services/service/content_translation/ticket_article/translate_many_spec.rb
 spec/services/service/content_translation/ticket_article_spec.rb
+spec/services/service/content_translation/in_progress_spec.rb
 spec/services/service/content_translation/stored_translation_spec.rb
 spec/services/service/content_translation/target_locales_spec.rb
 spec/services/service/search_spec.rb
@@ -2607,6 +2611,7 @@ spec/requests/report_spec.rb
 spec/requests/import_freshdesk_spec.rb
 spec/requests/monitoring_spec.rb
 spec/requests/checklist_item_spec.rb
+spec/requests/import_mode_spec.rb
 spec/requests/tickets_mass_spec.rb
 spec/requests/error_spec.rb
 spec/requests/upload_cache_spec.rb
@@ -2742,6 +2747,7 @@ spec/db/migrate/smime_meta_information_table_spec.rb
 spec/db/migrate/issue_2333_object_country_already_exists_spec.rb
 spec/db/migrate/active_job_lock_cleanup_job_scheduler_spec.rb
 spec/db/migrate/object_manager_attribute_date_remove_future_past_spec.rb
+spec/db/migrate/issue6237_import_mode_setting_description_spec.rb
 spec/db/migrate/set_user_source_ldap_from_external_sync_spec.rb
 spec/db/migrate/ldap_source_config_spec.rb
 spec/db/migrate/issue_3141_multi_ldap_spec.rb
@@ -2880,6 +2886,7 @@ spec/system/ticket/zoom/link_knowledge_base_answer_spec.rb
 spec/system/ticket/zoom/macro_spec.rb
 spec/system/ticket/zoom/remote_content_removed_spec.rb
 spec/system/ticket/zoom/change_customer_spec.rb
+spec/system/ticket/zoom/telegram_reply_spec.rb
 spec/system/ticket/update_spec.rb
 spec/system/ticket/idoit_spec.rb
 spec/system/ticket/create_spec.rb
@@ -3079,6 +3086,7 @@ spec/system/system/integration/icinga_spec.rb
 spec/system/system/integration/smime_spec.rb
 spec/system/system/integration/content_translation_spec.rb
 spec/system/system/integration/clearbit_spec.rb
+spec/system/system/integration/cti_spec.rb
 spec/system/system/integration/ldap_spec.rb
 spec/system/system/integration/sipgate_spec.rb
 spec/system/system/integration/pgp_spec.rb
@@ -3180,6 +3188,7 @@ spec/support/capybara/selenium_driver.rb
 spec/support/capybara/test_flags.rb
 spec/support/capybara/field_actions.rb
 spec/support/capybara/virtual_authenticator.rb
+spec/support/junit_report.rb
 spec/support/factory_bot.rb
 spec/support/rubocop.rb
 spec/support/system_init_done.rb
@@ -3187,6 +3196,7 @@ spec/support/knowledge_base_contexts.rb
 spec/support/custom_matchers.rb
 spec/support/imap.rb
 spec/support/current_attributes.rb
+spec/support/generated_file_examples.rb
 spec/support/pundit_matchers.rb
 spec/support/otrs_import_json_fixture_helper.rb
 spec/support/vcr_mask_kayako_endpoint_auth.rb
@@ -3359,6 +3369,8 @@ spec/factories/online_notification.rb
 spec/factories/checklist/item.rb
 spec/controllers/can_paginate/pagination_spec.rb
 spec/controllers/integration/exchange_spec.rb
+spec/controllers/application_controller/has_download/store_file_body_spec.rb
+spec/controllers/application_controller/has_download/tempfile_body_spec.rb
 spec/controllers/application_controller/has_download/download_file_spec.rb
 spec/controllers/application_controller/has_user_spec.rb
 spec/fixtures/files/calendar/basic.ics
@@ -3946,8 +3958,10 @@ spec/lib/whatsapp/incoming/media_spec.rb
 spec/lib/whatsapp/retry/media_spec.rb
 spec/lib/whatsapp/client_spec.rb
 spec/lib/core_ext/relation/as_batches_spec.rb
+spec/lib/core_ext/koala/http_service/response_spec.rb
 spec/lib/core_ext/active_record/calculations/pluck_as_hash_spec.rb
 spec/lib/core_ext/string_spec.rb
+spec/lib/core_ext/object_spec.rb
 spec/lib/core_ext/rszr_spec.rb
 spec/lib/mixin/has_backends_examples.rb
 spec/lib/deepl/client_spec.rb
@@ -4156,6 +4170,7 @@ spec/lib/rack/middleware/secure_context_spec.rb
 spec/lib/email_address_validation_spec.rb
 spec/lib/app_version_spec.rb
 spec/lib/search_index_backend_spec.rb
+spec/lib/text_encoding_spec.rb
 spec/lib/image_helper_spec.rb
 spec/lib/timeplan_calculation_spec.rb
 spec/lib/external_credential/microsoft_graph_spec.rb
@@ -4431,6 +4446,7 @@ lib/core_ext/em-websocket/masking04.rb
 lib/core_ext/em-websocket/framing07.rb
 lib/core_ext/activesupport/lib/active_support/tagged_logging/formatter.rb
 lib/core_ext/activesupport/lib/active_support/callbacks.rb
+lib/core_ext/koala/http_service/response.rb
 lib/core_ext/logger/formatter.rb
 lib/core_ext/rszr.rb
 lib/core_ext/email_address/lib/email_address/local.rb
@@ -4877,6 +4893,7 @@ lib/generators/zammad/translation_catalog_generator.rb
 lib/push_messages.rb
 lib/user_agent/http_client.rb
 lib/video_embed.rb
+lib/text_encoding.rb
 lib/scrub_html.rb
 lib/timeplan_calculation.rb
 lib/templates/active_record/migration/migration.rb.tt
@@ -5736,7 +5753,9 @@ public/assets/fonts/FiraMono-Bold.ttf
 public/assets/fonts/FiraMono-Regular.eot
 public/assets/fonts/FiraSans-Bold.ttf
 public/401-mobile.html
+public/400-mobile.html
 public/404.html
+public/400.html
 public/500-mobile.html
 public/422.html
 public/401.html
@@ -8105,7 +8124,6 @@ app/frontend/apps/desktop/pages/ticket/components/TicketDetailView/ArticleBubble
 app/frontend/apps/desktop/pages/ticket/components/TicketDetailView/ArticleBubble/ArticleBubbleBlockedContentWarning.vue
 app/frontend/apps/desktop/pages/ticket/components/TicketDetailView/ArticleBubble/ArticleBubbleMetaFields.vue
 app/frontend/apps/desktop/pages/ticket/components/TicketDetailView/ArticleBubble/ArticleBubbleSecurityWarning.vue
-app/frontend/apps/desktop/pages/ticket/components/TicketDetailView/ArticleBubble/ArticleBubbleTranslationError.vue
 app/frontend/apps/desktop/pages/ticket/components/TicketDetailView/ArticleBubble/__tests__/ArticleBubbleActionList.spec.ts
 app/frontend/apps/desktop/pages/ticket/components/TicketDetailView/ArticleBubble/__tests__/ArticleBubbleSecurityStatusBar.spec.ts
 app/frontend/apps/desktop/pages/ticket/components/TicketDetailView/ArticleBubble/__tests__/ArticleBubbleHeader.spec.ts
@@ -8114,7 +8132,6 @@ app/frontend/apps/desktop/pages/ticket/components/TicketDetailView/ArticleBubble
 app/frontend/apps/desktop/pages/ticket/components/TicketDetailView/ArticleBubble/__tests__/ArticleBubbleBlockedContentWarning.spec.ts
 app/frontend/apps/desktop/pages/ticket/components/TicketDetailView/ArticleBubble/__tests__/ArticleBubbleSecurityWarning.spec.ts
 app/frontend/apps/desktop/pages/ticket/components/TicketDetailView/ArticleBubble/__tests__/ArticleBubbleMediaError.spec.ts
-app/frontend/apps/desktop/pages/ticket/components/TicketDetailView/ArticleBubble/__tests__/ArticleBubbleTranslationError.spec.ts
 app/frontend/apps/desktop/pages/ticket/components/TicketDetailView/ArticleBubble/__tests__/ArticleBubbleFooter.spec.ts
 app/frontend/apps/desktop/pages/ticket/components/TicketDetailView/ArticleBubble/__tests__/ArticleBubbleMetaFields.spec.ts
 app/frontend/apps/desktop/pages/ticket/components/TicketDetailView/ArticleBubble/__tests__/useBubbleHeader.spec.ts
@@ -8779,7 +8796,9 @@ app/frontend/apps/desktop/composables/__tests__/useDelayTimings.spec.ts
 app/frontend/apps/desktop/composables/__tests__/usePrintMode.spec.ts
 app/frontend/apps/desktop/composables/__tests__/useResizeGridColumns.spec.ts
 app/frontend/apps/desktop/composables/__tests__/useTransitionConfig.spec.ts
+app/frontend/apps/desktop/composables/__tests__/useBrowserNotification.spec.ts
 app/frontend/apps/desktop/composables/__tests__/useOverlayContainer.spec.ts
+app/frontend/apps/desktop/composables/useBrowserNotification.ts
 app/frontend/apps/desktop/composables/useTransitionConfig.ts
 app/frontend/apps/desktop/composables/dragAndDrop/useKeyboardKeysForDragAndDrop.ts
 app/frontend/apps/desktop/composables/dragAndDrop/__tests__/useAccessibleDragAndDrop.spec.ts
@@ -9110,11 +9129,13 @@ app/frontend/apps/desktop/entities/cti/utils/__tests__/routeLocation.spec.ts
 app/frontend/apps/desktop/entities/cti/composables/useCtiCallPickup.ts
 app/frontend/apps/desktop/entities/cti/composables/useCtiAccess.ts
 app/frontend/apps/desktop/entities/cti/composables/__tests__/useCtiAccess.spec.ts
+app/frontend/apps/desktop/entities/cti/composables/__tests__/useCtiCallNotification.spec.ts
 app/frontend/apps/desktop/entities/cti/composables/__tests__/useCtiSidebar.spec.ts
 app/frontend/apps/desktop/entities/cti/composables/__tests__/useCtiCallPickup.spec.ts
 app/frontend/apps/desktop/entities/cti/composables/__tests__/useCallerNotificationToggle.spec.ts
 app/frontend/apps/desktop/entities/cti/composables/useCallerNotificationToggle.ts
 app/frontend/apps/desktop/entities/cti/composables/useCtiSidebar.ts
+app/frontend/apps/desktop/entities/cti/composables/useCtiCallNotification.ts
 app/frontend/apps/desktop/entities/cti/composables/useCallerLogDoneToggle.ts
 app/frontend/apps/desktop/entities/two-factor-configuration/plugins/security-keys.ts
 app/frontend/apps/desktop/entities/two-factor-configuration/plugins/index.ts
@@ -9259,6 +9280,7 @@ app/frontend/tests/support/assertions/toHaveClasses.ts
 app/frontend/tests/support/assertions/toHaveImagePreview.ts
 app/frontend/tests/support/assertions/toBeAvatarElement.ts
 app/frontend/tests/support/mock-permissions.ts
+app/frontend/tests/support/mock-webLocks.ts
 app/frontend/tests/support/mock-userCurrent.ts
 app/frontend/tests/support/mock-apollo-client.ts
 app/frontend/tests/support/components/visitView.ts
@@ -9274,6 +9296,7 @@ app/frontend/tests/support/components/checkSimpleTableContent.ts
 app/frontend/tests/support/components/types.ts
 app/frontend/tests/support/components/app.ts
 app/frontend/tests/support/components/linkQueries.ts
+app/frontend/tests/support/mock-globalState.ts
 app/frontend/tests/support/mock-webauthn.ts
 app/frontend/tests/support/mock-vue-router.ts
 app/frontend/tests/support/mocks/formUpdater.ts
@@ -13501,6 +13524,7 @@ app/services/service/content_translation/ticket_article/translate_many.rb
 app/services/service/content_translation/base.rb
 app/services/service/content_translation/stored_translation.rb
 app/services/service/content_translation/backend.rb
+app/services/service/content_translation/in_progress.rb
 app/services/service/ticket/external_references/issue_tracker/fetch_metadata.rb
 app/services/service/ticket/external_references/issue_tracker/ticket_list.rb
 app/services/service/ticket/external_references/issue_tracker/item.rb
@@ -13806,6 +13830,8 @@ app/controllers/application_controller/renders_models.rb
 app/controllers/application_controller/handles_devices.rb
 app/controllers/application_controller/sets_headers.rb
 app/controllers/application_controller/has_download.rb
+app/controllers/application_controller/has_download/store_file_body.rb
+app/controllers/application_controller/has_download/tempfile_body.rb
 app/controllers/application_controller/has_download/download_file.rb
 app/controllers/application_controller/logs_http_access.rb
 app/controllers/application_controller/has_user.rb

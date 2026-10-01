@@ -258,6 +258,7 @@ test/webapp/bug48nnn/bug48616b.jsp
 test/webapp/bug48nnn/bug48616.jsp
 test/webapp/bug48nnn/bug48827.jspx
 test/webapp/bug48nnn/bug48627.jsp
+test/webapp/bug7nnnn/bug70249.jsp
 test/webapp/index.html.br
 test/webapp/el-optional.jsp
 test/webapp/bug42390.jsp
@@ -685,6 +686,7 @@ test/org/apache/el/TestELEvaluation.java
 test/org/apache/el/TesterBeanBB.java
 test/org/apache/el/TesterBeanB.java
 test/org/apache/catalina/ant/jmx/TestJMXAccessorTask.java
+test/org/apache/catalina/ant/jmx/TestJMXAccessorCondition.java
 test/org/apache/catalina/ant/TestDeployTask.java
 test/org/apache/catalina/realm/TestGenericPrincipal.java
 test/org/apache/catalina/realm/TestRealmBase.java
@@ -862,6 +864,7 @@ test/org/apache/catalina/core/TestStandardContext.java
 test/org/apache/catalina/core/TestContextNamingInfoListener.java
 test/org/apache/catalina/core/TestSwallowAbortedUploads.java
 test/org/apache/catalina/core/TestStandardContextResources.java
+test/org/apache/catalina/core/TestExecutorAwaitTermination.java
 test/org/apache/catalina/core/TestAprLifecycleListener.java
 test/org/apache/catalina/core/TestStandardContextValve.java
 test/org/apache/catalina/core/TesterDefaultInstanceManagerPerformance.java
@@ -869,9 +872,11 @@ test/org/apache/catalina/core/TestApplicationHttpRequest.java
 test/org/apache/catalina/core/TestDefaultInstanceManager.java
 test/org/apache/catalina/core/TestApplicationContextGetRequestDispatcherB.java
 test/org/apache/catalina/core/TestApplicationContext.java
+test/org/apache/catalina/core/TestApplicationPart.java
 test/org/apache/catalina/core/TestAsyncContextImpl.java
 test/org/apache/catalina/core/TestApplicationContextStripPathParams.java
 test/org/apache/catalina/core/TestStandardContextAliases.java
+test/org/apache/catalina/core/TestFrameworkListener.java
 test/org/apache/catalina/core/TestApplicationContextGetRequestDispatcher.java
 test/org/apache/catalina/core/TestApplicationMapping.java
 test/org/apache/catalina/core/TesterTldListener.java
@@ -1304,6 +1309,7 @@ test/org/apache/tomcat/integration/httpd/TestRemoteIpValveWithProxy.java
 test/org/apache/tomcat/integration/httpd/TestSessionWithProxy.java
 test/org/apache/tomcat/integration/httpd/TestFullReverseProxy.java
 test/org/apache/tomcat/security/TestSecurity2023.java
+test/org/apache/tomcat/security/TestSecurity2026WebSocket.java
 test/org/apache/tomcat/security/TestSecurity2018.java
 test/org/apache/tomcat/security/TestSecurity2025Http2.java
 test/org/apache/tomcat/security/TestSecurity2017Ocsp.java
@@ -1332,6 +1338,7 @@ test/org/apache/coyote/http2/TestHttpServlet.java
 test/org/apache/coyote/http2/TestHttp2Section_6_1.java
 test/org/apache/coyote/http2/TestStreamQueryString.java
 test/org/apache/coyote/http2/TestHttp2UpgradeHandler.java
+test/org/apache/coyote/http2/TestHttp2Security.java
 test/org/apache/coyote/http2/TestAsyncFlush.java
 test/org/apache/coyote/http2/TestHttp2Section_5_2.java
 test/org/apache/coyote/http2/TestHttp2Section_6_2.java
