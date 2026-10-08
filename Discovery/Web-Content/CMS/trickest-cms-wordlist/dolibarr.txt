@@ -242,15 +242,6 @@ htdocs/intracommreport/list.php
 htdocs/intracommreport/admin/intracommreport.php
 htdocs/intracommreport/class/intracommreport.class.php
 htdocs/intracommreport/lib/intracommreport.lib.php
-htdocs/includes/markrogoyski/math-php/composer.json
-htdocs/includes/markrogoyski/math-php/README.md
-htdocs/includes/markrogoyski/math-php/CHANGELOG.md
-htdocs/includes/markrogoyski/math-php/src/NumericalAnalysis/RootFinding/NewtonsMethod.php
-htdocs/includes/markrogoyski/math-php/src/NumericalAnalysis/RootFinding/Validation.php
-htdocs/includes/markrogoyski/math-php/src/Finance.php
-htdocs/includes/markrogoyski/math-php/src/Exception/BadDataException.php
-htdocs/includes/markrogoyski/math-php/src/Exception/OutOfBoundsException.php
-htdocs/includes/markrogoyski/math-php/LICENSE.txt
 htdocs/includes/mike42/escpos-php/composer.json
 htdocs/includes/mike42/escpos-php/composer.lock
 htdocs/includes/mike42/escpos-php/phpunit.xml
@@ -4279,9 +4270,12 @@ htdocs/core/lib/prelevement.lib.php
 htdocs/core/lib/supplier_order.lib.php
 htdocs/core/lib/security.lib.php
 htdocs/core/lib/vat.lib.php
+htdocs/core/lib/functions_creditorref.lib.php
+htdocs/core/lib/paymentref.lib.php
 htdocs/core/lib/functionscli.lib.php
 htdocs/core/lib/sendings.lib.php
 htdocs/core/lib/ecm.lib.php
+htdocs/core/lib/functions_gr.lib.php
 htdocs/core/lib/phpsessionindb.lib.php
 htdocs/core/lib/barcode.lib.php
 htdocs/core/lib/emailsignature.lib.php
@@ -4753,6 +4747,7 @@ htdocs/install/mysql/migration/3.6.0-3.7.0.sql
 htdocs/install/mysql/migration/8.0.0-9.0.0.sql
 htdocs/install/mysql/migration/18.0.0-19.0.0.sql
 htdocs/install/mysql/migration/3.3.0-3.4.0.sql
+htdocs/install/mysql/migration/github_authors_and_commits_bydate.sh
 htdocs/install/mysql/migration/22.0.0-23.0.0.sql
 htdocs/install/mysql/migration/3.9.0-4.0.0.sql
 htdocs/install/mysql/migration/20.0.0-21.0.0.sql
@@ -5027,6 +5022,7 @@ htdocs/install/mysql/tables/llx_socpeople.sql
 htdocs/install/mysql/tables/llx_fichinter_extrafields.sql
 htdocs/install/mysql/tables/llx_c_propalst.sql
 htdocs/install/mysql/tables/llx_establishment.sql
+htdocs/install/mysql/tables/llx_loan_change-loan.sql
 htdocs/install/mysql/tables/llx_facture_fourn_rec_extrafields.sql
 htdocs/install/mysql/tables/llx_c_socialnetworks.sql
 htdocs/install/mysql/tables/llx_product_batch.key.sql
@@ -5050,6 +5046,7 @@ htdocs/install/mysql/tables/llx_bookmark.key.sql
 htdocs/install/mysql/tables/llx_categorie_product.sql
 htdocs/install/mysql/tables/llx_element_contact.sql
 htdocs/install/mysql/tables/llx_stocktransfer_stocktransfer-stocktransfer.key.sql
+htdocs/install/mysql/tables/llx_loan_change-loan.key.sql
 htdocs/install/mysql/tables/llx_c_shipment_mode.sql
 htdocs/install/mysql/tables/llx_product_attribute_value-variants.key.sql
 htdocs/install/mysql/tables/llx_mailing-mailing.sql
@@ -13285,6 +13282,7 @@ test/phpunit/WebservicesInvoicesTest.php
 test/phpunit/CMailFileTest.php
 test/phpunit/BOMTest.php
 test/phpunit/AiWriteConfirmationTest.php
+test/phpunit/CreditorRefLibTest.php
 test/phpunit/SalaryTest.php
 test/phpunit/NumberingModulesTest.php
 test/phpunit/ContactTest.php
@@ -13528,15 +13526,14 @@ dev/initdemo/documents_demo/commande/(PROV6)/(PROV6).pdf
 dev/initdemo/documents_demo/commande/CO1107-0004/CO1107-0004.pdf
 dev/initdemo/documents_demo/medias/README.txt
 dev/initdemo/savedemo.sh
+dev/initdemo/mysqldump_dolibarr_4.0.0.sql
 dev/initdemo/initdemopassword.sh
 dev/initdemo/sftpget_and_loaddump.php
 dev/initdemo/removeconfdemo.sh
 dev/initdemo/initdemo.sh
-dev/initdemo/mysqldump_dolibarr_3.5.0.sql
 dev/lockedfiles.txt
 dev/tools/fixaltlanguages.sh
 dev/tools/apstats.php
-dev/tools/github_authors_and_commits_bydate.sh
 dev/tools/dolibarr-postgres2mysql.php
 dev/tools/test/testperf.php
 dev/tools/test/testtcpdf.php
@@ -13635,6 +13632,7 @@ dev/tools/api/macos/README
 dev/build/ci/build_required.sh
 dev/build/docker-vibe/vibes.sh
 dev/build/docker-vibe/README.md
+dev/build/docker-vibe/open-on-host
 dev/build/docker-vibe/docker-entrypoint.sh
 dev/build/docker-vibe/Dockerfile
 dev/build/docker-vibe/smtpblock.sh
